@@ -1,0 +1,502 @@
+/* ==========================================================================
+   Commentarii Academiae Scientiarum Imperialis Petropolitanae: Editio Digitalis
+   style.css
+   ========================================================================== */
+
+/* --------------------------------------------------------------------------
+   1. Общие настройки
+   -------------------------------------------------------------------------- */
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 16px;
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Georgia, "Times New Roman", "PT Serif", serif;
+  line-height: 1.6;
+  color: #1a1a1a;
+  background-color: #fafaf7;
+}
+
+/* --------------------------------------------------------------------------
+   2. Шапка и подвал
+   -------------------------------------------------------------------------- */
+
+header {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 2rem 1.5rem 1rem;
+  border-bottom: 1px solid #d8d4c8;
+}
+
+header h1 {
+  margin: 0 0 0.25rem;
+  font-size: 1.9rem;
+  font-weight: normal;
+  letter-spacing: 0.02em;
+  line-height: 1.2;
+}
+
+header .subtitle {
+  margin: 0 0 0.25rem;
+  font-size: 1.05rem;
+  font-style: italic;
+  color: #555;
+}
+
+header .subtitle-ru {
+  margin: 0;
+  font-size: 0.95rem;
+  color: #666;
+}
+
+header .breadcrumb {
+  margin: 0 0 1rem;
+  font-size: 0.9rem;
+}
+
+header .breadcrumb a {
+  color: #5a4a2a;
+  text-decoration: none;
+}
+
+header .breadcrumb a:hover {
+  text-decoration: underline;
+}
+
+footer {
+  max-width: 900px;
+  margin: 3rem auto 1rem;
+  padding: 1rem 1.5rem 2rem;
+  border-top: 1px solid #d8d4c8;
+  font-size: 0.9rem;
+  color: #666;
+  text-align: center;
+}
+
+footer a {
+  color: #5a4a2a;
+  text-decoration: none;
+}
+
+footer a:hover {
+  text-decoration: underline;
+}
+
+/* --------------------------------------------------------------------------
+   3. Основной контент
+   -------------------------------------------------------------------------- */
+
+main {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 1rem 1.5rem 2rem;
+}
+
+section {
+  margin-bottom: 2.5rem;
+}
+
+h2 {
+  font-size: 1.3rem;
+  font-weight: normal;
+  letter-spacing: 0.02em;
+  margin: 1.5rem 0 0.75rem;
+  padding-bottom: 0.25rem;
+  border-bottom: 1px solid #e0dcd0;
+}
+
+h3 {
+  font-size: 1.1rem;
+  font-weight: bold;
+  margin: 1.25rem 0 0.5rem;
+}
+
+p {
+  margin: 0.5rem 0 1rem;
+}
+
+a {
+  color: #5a4a2a;
+}
+
+a:hover {
+  color: #2a2010;
+}
+
+code {
+  font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
+  font-size: 0.9em;
+  background-color: #f0ede6;
+  padding: 0.1em 0.3em;
+  border-radius: 3px;
+}
+
+blockquote {
+  margin: 1rem 0;
+  padding: 0.5rem 1rem;
+  border-left: 3px solid #d8d4c8;
+  color: #444;
+  font-style: italic;
+}
+
+.note {
+  font-size: 0.9rem;
+  color: #666;
+}
+
+/* --------------------------------------------------------------------------
+   4. Списки
+   -------------------------------------------------------------------------- */
+
+ul {
+  padding-left: 1.5rem;
+}
+
+ul.toc-list {
+  list-style: none;
+  padding-left: 0;
+}
+
+ul.toc-list li {
+  margin-bottom: 1rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px dotted #e0dcd0;
+}
+
+ul.toc-list li:last-child {
+  border-bottom: none;
+}
+
+ul.toc-list a {
+  display: block;
+  font-size: 1rem;
+  color: #2a2010;
+  text-decoration: none;
+  margin-bottom: 0.15rem;
+}
+
+ul.toc-list a:hover {
+  text-decoration: underline;
+}
+
+ul.toc-list .latin {
+  display: block;
+  font-size: 0.9rem;
+  font-style: italic;
+  color: #666;
+  margin-bottom: 0.1rem;
+}
+
+ul.toc-list .author {
+  display: block;
+  font-size: 0.9rem;
+  color: #444;
+}
+
+ul.toc-list .pages {
+  display: block;
+  font-size: 0.85rem;
+  color: #888;
+}
+
+ul.tomus-list {
+  padding-left: 1.2rem;
+}
+
+ul.tomus-list li {
+  margin-bottom: 0.75rem;
+}
+
+/* --------------------------------------------------------------------------
+   5. TEI (CETEIcean)
+   -------------------------------------------------------------------------- */
+
+tei-tei {
+  display: block;
+}
+
+tei-teiHeader {
+  display: none;
+}
+
+tei-text {
+  display: block;
+}
+
+tei-body {
+  display: block;
+}
+
+tei-div {
+  display: block;
+  margin: 1rem 0;
+}
+
+tei-div[type="article"] {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+tei-div[type="section"] {
+  margin: 1.5rem 0;
+}
+
+tei-div[type="titlePage"] {
+  text-align: center;
+  margin: 3rem 0;
+}
+
+tei-div[type="titlePage"] tei-p {
+  font-size: 1.2rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  margin: 0.5rem 0;
+}
+
+tei-div[type="dedication"] tei-p {
+  text-align: center;
+  font-size: 1.05rem;
+  margin: 0.75rem 0;
+}
+
+tei-head {
+  display: block;
+  font-size: 1.4rem;
+  font-weight: bold;
+  margin: 2rem 0 1rem;
+  line-height: 1.3;
+  text-align: center;
+}
+
+tei-div[type="section"] tei-head,
+tei-div[type="article"] > tei-head {
+  font-size: 1.2rem;
+  text-align: left;
+  margin-top: 1.5rem;
+}
+
+tei-p {
+  display: block;
+  margin: 0.75rem 0;
+  text-align: justify;
+  hyphens: auto;
+}
+
+tei-p + tei-p {
+  text-indent: 1.5em;
+}
+
+tei-list {
+  display: block;
+  margin: 1rem 0;
+}
+
+tei-item {
+  display: list-item;
+  margin-left: 1.5em;
+}
+
+tei-note {
+  display: block;
+  font-size: 0.9rem;
+  color: #555;
+  margin: 0.5rem 0 0.5rem 2rem;
+  padding-left: 0.75rem;
+  border-left: 2px solid #d8d4c8;
+}
+
+tei-choice {
+  display: inline;
+}
+
+tei-orig,
+tei-reg {
+  display: inline;
+}
+
+tei-hi[rend="italic"] {
+  font-style: italic;
+}
+
+tei-hi[rend="bold"] {
+  font-weight: bold;
+}
+
+tei-hi[rend="sup"] {
+  vertical-align: super;
+  font-size: 0.75em;
+}
+
+tei-hi[rend="sub"] {
+  vertical-align: sub;
+  font-size: 0.75em;
+}
+
+tei-foreign {
+  font-style: italic;
+}
+
+tei-persName {
+  font-variant: small-caps;
+}
+
+tei-orgName {
+  font-variant: small-caps;
+}
+
+tei-placeName {
+  font-style: italic;
+}
+
+tei-title {
+  font-style: italic;
+}
+
+tei-date {
+  white-space: nowrap;
+}
+
+tei-ref {
+  color: #5a4a2a;
+  text-decoration: none;
+  border-bottom: 1px dotted #5a4a2a;
+}
+
+tei-ref:hover {
+  border-bottom-style: solid;
+}
+
+tei-formula {
+  display: block;
+  text-align: center;
+  margin: 1rem 0;
+  font-family: "Latin Modern Math", "Cambria Math", "STIX Two Math", serif;
+}
+
+/* --------------------------------------------------------------------------
+   6. Рисунки
+   -------------------------------------------------------------------------- */
+
+tei-figure {
+  display: block;
+  margin: 1.5rem auto;
+  text-align: center;
+}
+
+tei-figure tei-head {
+  font-size: 0.9rem;
+  font-weight: normal;
+  font-style: italic;
+  text-align: center;
+  margin: 0.5rem 0 0.25rem;
+}
+
+tei-graphic {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+}
+
+tei-figure img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+  border: 1px solid #e0dcd0;
+}
+
+/* --------------------------------------------------------------------------
+   7. Ссылки на рисунки
+   -------------------------------------------------------------------------- */
+
+a.figure-ref,
+tei-ref[type="figure"] {
+  font-size: 0.9em;
+  color: #5a4a2a;
+  text-decoration: none;
+  border-bottom: 1px dotted #5a4a2a;
+  cursor: pointer;
+}
+
+a.figure-ref:hover,
+tei-ref[type="figure"]:hover {
+  border-bottom-style: solid;
+}
+
+/* --------------------------------------------------------------------------
+   8. Адаптивность
+   -------------------------------------------------------------------------- */
+
+@media (max-width: 700px) {
+  html {
+    font-size: 15px;
+  }
+
+  header h1 {
+    font-size: 1.5rem;
+  }
+
+  main {
+    padding: 1rem 1rem 2rem;
+  }
+
+  tei-head {
+    font-size: 1.2rem;
+  }
+
+  tei-div[type="section"] tei-head,
+  tei-div[type="article"] > tei-head {
+    font-size: 1.05rem;
+  }
+}
+
+/* --------------------------------------------------------------------------
+   9. Печать
+   -------------------------------------------------------------------------- */
+
+@media print {
+  body {
+    background-color: #fff;
+    color: #000;
+  }
+
+  header,
+  footer,
+  nav {
+    display: none;
+  }
+
+  main {
+    max-width: 100%;
+    padding: 0;
+  }
+
+  a {
+    color: #000;
+    text-decoration: none;
+  }
+
+  a::after {
+    content: " (" attr(href) ")";
+    font-size: 0.8em;
+    color: #555;
+  }
+
+  tei-ref::after {
+    content: none;
+  }
+
+  tei-figure img {
+    border: none;
+    page-break-inside: avoid;
+  }
+}

@@ -41,9 +41,47 @@
 
 ### Том I (1728)
 
+**Начальные материалы:**
+
 - Титульный лист
 - Посвящение Петру II (Христиан Гольдбах)
 - Предисловие (Христиан Гольдбах)
+- Оглавление тома (*Index Commentariorum*)
+
+**Classis Prima continens Mathematica:**
+
+1. Якоб Герман. О мере сил тел (*De Mensura virium Corporum*) — с. 1–42
+2. Георг Бернхард Бюльфингер. О силах, присущих движущемуся телу, и их мере (*De Viribus corpori moto insitis et illarum Mensura*) — с. 43–120
+3. Николай Бернулли. О движении тел от удара (*De Motu corporum ex percussione*) — с. 121–126
+4. Даниил Бернулли. Исследование начал механики (*Examen Principiorum Mechanicae*) — с. 126–140
+5. Якоб Герман. О задаче Кеплера (*De Problemate Kepleriano*) — с. 142–149
+6. Якоб Герман. Об интегральном исчислении (*De Calculo Integrali*) — с. 149–166
+7. Иоганн Бернулли. Об интегрировании дифференциальных уравнений (*De Integrationibus Aequationum Differentialium*) — с. 167–184
+8. Христиан Гольдбах. О некоторых случаях интегрируемости (*De Casibus quibusdam integrabilibus*) — с. 185–197
+9. Николай Бернулли. Анализ некоторых дифференциальных уравнений (*Analysis Aequationum quarundam Differentialium*) — с. 198–207
+10. Христиан Гольдбах. Метод интегрирования дифференциального уравнения (*Methodus integrandi Aequationem differentialem*) — с. 207–209
+11. Якоб Герман. О сферических эпициклоидах (*De Epicycloidibus Sphaericis*) — с. 210–217
+12. Христиан Вольф. Начала динамики (*Principia Dynamica*) — с. 217–232
+
+**Classis Secunda continens Physica:**
+
+13. Иоганн Христиан Буксбаум. Новые роды растений (*Nova Plantarum genera*) — с. 241–245
+14. Георг Бернхард Бюльфингер. О направлении тяжёлых тел в сферическом вихре (*De directione Corporum gravium in vortice Sphaerico*) — с. 245–261
+15. Иоганн Георг Дю Вернуа. Описание млечных сосудов (*Descriptio Vasorum Chyliferorum*) — с. 262–296
+16. Даниил Бернулли. Опыт новой теории движения мышц (*Tentamen novae de motu Musculorum Theoriae*) — с. 297–312
+17. Даниил Бернулли. Эксперимент относительно зрительного нерва (*Experimentum circa nervum opticum*) — с. 314–317
+18. Георг Бернхард Бюльфингер. О различных более чувствительных барометрах (*De variis Barometris sensibilibus*) — с. 317–341
+19. Иоганн Георг Дю Вернуа. О грудном протоке кашалота, тюленя и слона (*De Cisterna et ductu Thoracico Catopardi, Phocae et Elephanti*) — с. 342–350
+20. Фридрих Христофор Мейер. О северном сиянии (*De Luce Boreali*) — с. 351–367
+21. Пётр Антоний Микелотти. История редкой и почти неслыханной болезни матки (*Rari ac prope inauditi ex utero morbi historia*) — с. 368–378
+22. Анатомические наблюдения (*Observationes Anatomicae*) — с. 379–386
+
+**In Classe Historica:**
+
+23. Теофил Сигфрид Байер. О происхождении и древних местах обитания скифов (*De origine et priscis sedibus Scytharum*) — с. 387–399
+24. Теофил Сигфрид Байер. О положении Скифии во времена Геродота (*De situ Scythiae sub aetatem Herodoti*) — с. 400–424
+25. Теофил Сигфрид Байер. О Кавказской стене (*De Muro Caucaseo*) — с. 425–464
+26. Иосиф Николай Делиль и Людовик Делиль де ла Круайер. Астрономические наблюдения (*Observationes Astronomicae*) — с. 465 и далее
 
 Последующие тома добавляются по мере обработки.
 
