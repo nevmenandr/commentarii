@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="la">Dedicatio Petro II</title>
+        <title xml:lang="ru">Посвящение Петру II</title>
+        <author>
+          <persName>
+            <forename>Christianus</forename>
+            <surname>Goldbach</surname>
+          </persName>
+          <roleName>Academicorum nomine scripsit</roleName>
+        </author>
+        <editor>
+          <persName>
+            <forename>Борис</forename>
+            <surname>Орехов</surname>
+            <addName type="latin" xml:lang="la">Boris Nuceus</addName>
+            <addName type="english" xml:lang="en">Boris Orekhov</addName>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Борис Орехов (Boris Nuceus / Boris Orekhov)</publisher>
+        <affiliation xml:lang="ru">Институт русской литературы (Пушкинский Дом) Российской академии наук</affiliation>
+        <affiliation xml:lang="la">Institutum Litterarum Russicarum (Domus Puskiniana) Academiae Scientiarum Russicae</affiliation>
+        <address>
+          <email>nevmenandr@gmail.com</email>
+        </address>
+        <ptr target="https://github.com/nevmenandr/commentarii"/>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Commentarii Academiae Scientiarum Imperialis Petropolitanae</title>
+          <biblScope unit="volume">Tomus I</biblScope>
+          <pubPlace>Petropoli</pubPlace>
+          <publisher>Typis Academiae</publisher>
+          <date when="1728">CIƆ IƆ C C X X V I I I</date>
+          <ptr target="https://archive.org/download/commentariiacade01impe/commentariiacade01impe_bw.pdf"/>
+          <note>Экземпляр из библиотеки Британского музея (Natural History), Лондон.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Электронное научное издание «Commentarii Academiae Scientiarum Imperialis Petropolitanae: Editio Digitalis».</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Текст приведён в исправленном после OCR виде; оригинальные лигатуры раскрыты.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="la">Latin</language>
+        <language ident="ru">Russian</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="dedication">
+        <p>PETRO II</p>
+        <p>RUSSORUM IMPERATORI</p>
+        <p>AUGUSTO</p>
+        <p>CETERA CETERA CETERA</p>
+        <p>IMPERIUM PACIFICUM</p>
+        <p>DIUTURNUM FELIX</p>
+        <p>PRECATUR</p>
+        <p>ACADEMIA PETROPOLITANA.</p>
+
+        <p>Vanquam dictu difficile est, utrum belli an pacis artibus maiorem gloriam consecutus sit PETRUS MAGNUS, Imperator, Avus Tuus, tamen hoc utique certum est, eum in utroque genere excellentem non modo praeclara multa et paene incredibilia praestitisse, verum etiam plura volvisse animo, et futuro tempori exequenda definiavisse, nisi inopinata morte oppressus fuisset. Quae cum orbi terrarum nota sunt, supervacaneum foret, hic repetere, si ullo pacto temperare nobis possemus a tantarum virtutum commemoratione, quas in Te iam renascentes, imo, ut rectius loquar, in iuventute Tua maturas cernimus aptasque ad perficienda omnia, quae Petro in caelum recepto Divina Providentia Tibi reservavit.</p>
+
+        <p>Inter ultimas Magni illius Imperatoris curas non minimam fuisse constat, quam de Academia Petropolitana susceperat; neque arbitror, ullum huic Academiae honorificentius, aut de eiusdem utilitate certius testimonium produci posse, quam quod divi Petri auctoritate partim in Germania, partim in Gallia Italiaque tam solicite, tam constanter, tantisque praemiis propositis, viri, qui huic negotio pares credebantur, conquiriti sunt, quorum sedula labores ac vigiliae, cum ad cives Tuos, AUGUSTE, in primis pertineant, eo minus hoc primum suorum Commentariorum volumen Tibi Patri Patriae offerre dubitant Academici, quod Avi Tui auspiciis iam pridem incoatum, Tuo nunc demum iussu ac munificentia in publicam lucem prodit.</p>
+
+        <p>His suis speciminibus non infeliciter se imitatos putant Societatis Parisinae aliarumque industriam, quarum iudicio et exemplo se tuentur adversus illorum reprehensionem, qui acutissima in Physica et Mathesi problemata contemnunt, nisi illico usus eorum aliquis in Mechanica similive arte ostendatur: tanquam si cognitio veritatis, quae ipsa per se in omni doctrina sapientem delectat, solius lucri, quod inde quaeri potest, magnitudine metienda sit, cum tamen utilitas Geometriae difficilioris illius atque intimae, etiam in quotidianis rebus ingens deprehendatur, uti ex iis, quae de arte navigandi, de temporis in aequales articulos divisione, de iactu telorum, propagatione soni atque luminis aliisque quam plurimis problematis demonstrata fuerunt, constat. Praeterea siderum scientiam Astronomi tum Petropoli colunt, tum ad extimas, quae imperio Tuo parent, septentrionis oras transtulerunt, ut iuncta in tam diversis locis opera observationes suas ad incrementum Astronomiae atque Geographiae conferrent. Erunt denique in iis, quae ad Anatomen et Humanitatis studia pertinent, nova non pauca, nec aequis iudicibus spernenda.</p>
+
+        <p>Academici vero existimarunt, se non melius de civibus Tuis, quibus erudiendis praefecti sunt, mereri posse, quam si amorem earum artium, quarum scientiam ipsi profitentur, Tibi a teneris commendarent, quando ad Imperatoris exemplum reliqua hominum turba componi solet: idcirco Mathemathum et Historiarum epitomas quasdam aetati atque indoli Tuae aptas partim ediderunt, partim adhuc parant, quibus utriusque scientiae initia traduntur, facilia illa quidem, sed ita necessaria, ut sine iisdem ad veram eruditionem nemo perveniat. Praeterea usum machinarum in attenuando comprimendove aere, in allevandis parva vi maximis oneribus, in excitando per radios solis igne, aliaque et utilia et visu iucunda Tibi semel atque iterum demonstraverunt, quum, mirantibus iis, qui adstabant, contemplari omnia accurate, antliam denique ipse manu versare atque aerem extrahere gauderes. Haec illi, ut potuere, in hunc diem tentarunt, plura olim, atque maiora in Tuum Tuaeque gentis usum praestituri. Sicut non illico poma profert arbor peregre transplantata, sed tempore opus habet et cultura soli, ut radices agat atque in terram insinuet, antequam efflorescat et fructus ipsa suos carpentibus commendare possit: ita mirum non est, uno alterove anno non omnia commoda ex Societate nostra in Russiam emanasse, quae procedente tempore certo sequentur, postquam leges Academicis datas et reditus a Petro Magno iisdem constitutos Tua singularis benevolentia in sempiternum tempus confirmavit.</p>
+
+        <p>Tibi vero DEUS hunc erga bonas artes animum servet, avertatque a Te, quaecunque indoli Tuae divinae repugnant. Servet Tibi hanc clementiam atque mansuetudinem, qua paucis post adeptum imperium diebus edicebas, "praecipuam Tibi curam fore, ut populum Tuum pietate et iustitia regas, ut afflictis succurras, ut pauperes et iniuste oppressos ad Te confugientes non repellas, sed vultu sereno querimonias eorum exaudias et laudatissimo Titi Vespasiani exemplo neminem unquam a Te tristiorem dimittas."</p>
+
+        <p>Quid non boni expectemus ab Imperatore, qui haec pollicetur? Quae profecto tanta sunt, ut nec Russia Dominum optare possit, cui pareat libentius, neque alium eligere potuisse videatur Divina Providentia, cui potius, quam Tibi generique Tuo imperium sine sine concederet.</p>
+
+        <p>Moscuae Calendis Novembribus CIƆ IƆ C C X X V I I I.</p>
+
+        <p>Academicorum nomine scripsit</p>
+        <p>Christianus Goldbach.</p>
+      </div>
+    </body>
+  </text>
+</TEI>
