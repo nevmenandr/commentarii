@@ -29,11 +29,46 @@
       </publicationStmt>
     </fileDesc>
   </teiHeader>
+
+  <!-- Начальные материалы тома -->
   <xi:include href="tomus1_titulus.xml"/>
   <xi:include href="tomus1_dedicatio.xml"/>
   <xi:include href="tomus1_praefatio.xml"/>
-  <!-- Далее статьи -->
+
+  <!-- Оглавление тома -->
+  <xi:include href="tomus1_index.xml"/>
+
+  <!-- Титульный лист раздела: Classis Prima continens Mathematica -->
+  <xi:include href="tomus1_classis1_titulus.xml"/>
+
+  <!-- Статьи Тома I -->
   <xi:include href="hermann_de_mensura_virium.xml"/>
   <xi:include href="bulfinger_de_viribus_corpori_moto.xml"/>
-  <!-- и т.д. -->
+  <xi:include href="bulfinger_de_viribus_corpori_moto_sectio_secunda.xml"/>
+  <xi:include href="bernoulli_de_motu_corporum_ex_percussione.xml"/>
+  <xi:include href="bernoulli_examen_principiorum.xml"/>
+  <xi:include href="hermann_de_problemate_kepleriano.xml"/>
+  <xi:include href="hermann_de_calculo_integrali.xml"/>
+  <xi:include href="bernoulli_de_integrationibus.xml"/>
+  <xi:include href="goldbach_de_casibus_integrabilibus.xml"/>
+  <xi:include href="bernoulli_analysis_aequationum.xml"/>
+  <xi:include href="goldbach_methodus_integrandi.xml"/>
+  <xi:include href="hermann_de_epicycloidibus.xml"/>
+  <xi:include href="wolff_principia_dynamica.xml"/>
+  <xi:include href="buxbaum_nova_plantarum_genera.xml"/>
+  <xi:include href="bulfinger_de_directione_corporum.xml"/>
+  <xi:include href="duvernoi_descriptio_vasorum.xml"/>
+  <xi:include href="bernoulli_tentamen_novae.xml"/>
+  <xi:include href="bernoulli_experimentum_circa_neruum.xml"/>
+  <xi:include href="bulfinger_de_variis_barometris.xml"/>
+  <xi:include href="duvernoi_de_cisterna.xml"/>
+  <xi:include href="meyer_de_luce_boreali.xml"/>
+  <xi:include href="michelotti_rari_morbi_historia.xml"/>
+  <xi:include href="observationes_anatomicae.xml"/>
+
+  <!-- IN CLASSE HISTORICA -->
+  <xi:include href="bayer_de_origine_scytharum.xml"/>
+  <xi:include href="bayer_de_situ_scythiae.xml"/>
+  <xi:include href="bayer_de_muro_caucaseo.xml"/>
+  <xi:include href="lisle_observationes_astronomicae.xml"/>
 </teiCorpus>

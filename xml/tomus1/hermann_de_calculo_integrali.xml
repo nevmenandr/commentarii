@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="la">De Calculo Integrali</title>
+        <title xml:lang="ru">Об интегральном исчислении</title>
+        <author>
+          <persName>
+            <forename>Iacobus</forename>
+            <surname>Hermannus</surname>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <forename>Борис</forename>
+            <surname>Орехов</surname>
+            <addName type="latin" xml:lang="la">Boris Nuceus</addName>
+            <addName type="english" xml:lang="en">Boris Orekhov</addName>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Борис Орехов (Boris Nuceus / Boris Orekhov)</publisher>
+        <affiliation xml:lang="ru">Институт русской литературы (Пушкинский Дом) Российской академии наук</affiliation>
+        <affiliation xml:lang="la">Institutum Litterarum Russicarum (Domus Puskiniana) Academiae Scientiarum Russicae</affiliation>
+        <address>
+          <email>nevmenandr@gmail.com</email>
+        </address>
+        <ptr target="https://github.com/nevmenandr/commentarii"/>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Commentarii Academiae Scientiarum Imperialis Petropolitanae</title>
+          <biblScope unit="volume">Tomus I</biblScope>
+          <biblScope unit="page">149-166</biblScope>
+          <pubPlace>Petropoli</pubPlace>
+          <publisher>Typis Academiae</publisher>
+          <date when="1728">CIƆ IƆ C C X X V I I I</date>
+          <ptr target="https://archive.org/download/commentariiacade01impe/commentariiacade01impe_bw.pdf"/>
+          <note>Экземпляр из библиотеки Британского музея (Natural History), Лондон.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Электронное научное издание «Commentarii Academiae Scientiarum Imperialis Petropolitanae: Editio Digitalis».</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Текст приведён в исправленном после OCR виде; оригинальные лигатуры раскрыты. В оригинале XVIII века буква <hi rend="italic">f</hi> часто обозначает долгую <hi rend="italic">s</hi> (ſ); в настоящем издании все такие случаи раскрыты как <hi rend="italic">s</hi>.</p>
+        <p>Математические формулы переданы в нотации TeX внутри элемента <gi>formula</gi>.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="la">Latin</language>
+        <language ident="ru">Russian</language>
+      </langUsage>
+      <textClass>
+        <classCode scheme="internal">mathesis</classCode>
+        <keywords>
+          <term type="added">integral calculus</term>
+          <term type="added">differential equations</term>
+          <term type="added">quadratures</term>
+          <term type="added">Leibniz</term>
+          <term type="added">Newton</term>
+          <term type="added">18th century mathematics</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="article">
+        <head>DE CALCULO INTEGRALI.</head>
+        <p>Auctore Iacobo Hermanno.</p>
+        <p>M. Mai. 1726.</p>
+
+        <p>Calculus Integralis inversus est Differentialis: nam modum docet, quo ex proposita quantitate infinitesimali, altera quantitas finita, cujus differentiatione orta est illa, elici debet, quoties hoc fieri potest. Nam non omnis quantitas differentialis integralem algebraicam habet, sed saepissime transcendentem, quae per quadraturas tantum curvarum exhiberi potest, per artificia hactenus cognita. Itaque genuina methodus calculi integralis media suppeditare debet, quibus certo cognosci possit: an differentialis aliqua proposita integrabilis sit, an vero secus; &amp;, si primum obtinet, quaenam sit ejus summa algebraica; sin vero talem non habeat, qualis sit figura simplicissima earum, quarum areae exhibent integralem quaesitam, idque non solum tum, cum data quantitas differentialis unicam indeterminatam cum constantibus involvit, sed tunc quoque, cum duas aut plures indeterminatas cum suis differentialibus complectitur. An vero methodus, quam hoc loco communicabo, ea, quae requiri dixi, praestet, atque hanc ob caussam generalis vocari mereatur, intelligentium judicio &amp; aequitati id omne dijudicandum relinquo.</p>
+
+        <head>PRAENOTANDA.</head>
+
+        <p>1. Aequationes integrandas sic generaliter deinceps exprimam. 1°. per <formula notation="TeX">dt=R^{\lambda}dK</formula>, 2°. <formula notation="TeX">du=R^{\lambda}S^{\mu}dK</formula>. 3° <formula notation="TeX">du=R^{\lambda}S^{\mu}T^{\nu}dK</formula>, &amp;c. &amp; sic infinitum. In quibus R, S, T, &amp;c. denotant quantitates una, duabus, aut pluribus indeterminatis ut libet compositas; elementum vero dK non modo easdem indeterminatas, quas quantitates R, S, T, &amp;c. continent, involvere potest, sed etiam plures, aut subinde etiam secunda differentialia. Litterae graecae λ, μ, ν exponentes indefinitas quantitatum R, S, T, defignant, casibus particularibus deinceps definiendas.</p>
+
+        <p>2. Logarithmos quantitatum quarumlibet per litteram <hi rend="italic">l</hi> quantitatibus illis praefixam, usitato more, posthac significabo, nisi aliquando expresse monendum sit alio sensu hanc litteram <hi rend="italic">l</hi> adhiberi. Itaque <formula notation="TeX">lx</formula>, <formula notation="TeX">ly</formula>, <formula notation="TeX">lx^m</formula> significant logarithmos quantitatum x, y, &amp; <formula notation="TeX">x^m</formula>. &amp;c.</p>
+
+        <p>3. Per litteram vero <hi rend="italic">∫</hi> quantitatibus differentialibus praepositam intelligi volo summam seu integrale quantitatis, cui eadem littera est praefixa. Adeoque <formula notation="TeX">\int R^{\lambda} dK</formula> denotat integralem vel summam elementi <formula notation="TeX">R^{\lambda} dK</formula>.</p>
+
+        <head>Lemma 1.</head>
+        <p>Integrale fractionis cujusque <formula notation="TeX">a\frac{dx}{x}</formula>, cujus numerator est multiplum <hi rend="italic">a</hi> elementi denominatoris, est logarithmus denominatoris x ad potestatem a evecti. Hoc est <formula notation="TeX">\int a\frac{dx}{x}=l x^a</formula>.</p>
+
+        <head>Lemma 2.</head>
+        <p>Quantitas absoluta, quae competit seriei cuilibet logaritbmorum signis + vel - quomodocunque connexorum, est factum singularum quantitatum singulis logarithmis respondentium exponente affirmativa vel negativa affectarum, prout logarithmi earum signo affirmativo vel negativo praediti fuerint.</p>
+
+        <p>Quantitas absoluta seriei <formula notation="TeX">lx + ly - lz</formula> est <formula notation="TeX">x^1 y^1 z^{-1}</formula>, hoc est <formula notation="TeX">x y z^{-1}</formula>. Et quantitas absoluta huius <formula notation="TeX">a l R + l M</formula> est <formula notation="TeX">R^a M</formula>.</p>
+
+        <p>Ambo haec lemmata notiora sunt, quam ut demonstratione, cuilibet in hisce vel leviter tantum versato facillime invenienda, egeant, sed tanquam fundamenta sequentibus erant praemittenda.</p>
+
+        <head>Theorema 1.</head>
+        <p>Integralis aequationis <formula notation="TeX">du = R^{\lambda}dK</formula>, est <formula notation="TeX">u = M R^{\lambda+1}</formula>, in qua M datur per aequationem hanc <formula notation="TeX">dK=(\lambda+1) M dR + R dM</formula>.</p>
+
+        <p>Hanc aequationem differentialem in sequentibus Canonicam vocabo, quia revera regulam suppeditat secundum quam aestimatio litterae M tuto inveniri potest.</p>
+
+        <p>Dem. Differentiando aequationem <formula notation="TeX">u = MR^{\lambda+1}</formula>, fit <formula notation="TeX">du = (\lambda+1)MR^{\lambda}dR + R^{\lambda+1}dM = [(\lambda+1)MdR + RdM]R^{\lambda}</formula> vel propter (hyp) <formula notation="TeX">dK=(\lambda+1) MdR + R dM</formula>, habetur <formula notation="TeX">du=R^{\lambda}dK</formula>. Q. E. D.</p>
+
+        <head>Theorema 2.</head>
+        <p>Integralis aequationis <formula notation="TeX">du = R^{\lambda}S^{\mu}dK</formula>, est <formula notation="TeX">u = MR^{\lambda+1} S^{\mu+1}</formula>, &amp; aequatio Canonica <formula notation="TeX">dK=(\lambda+1) MSdR+(\mu+1) MRdS+RSdM</formula>.</p>
+
+        <p>Dem. Aequatio <formula notation="TeX">u=MR^{\lambda+1} S^{\mu+1}</formula> differentiata praebet <formula notation="TeX">du= [(\lambda+1)MSdR+(\mu+1) MRdS+RSdM)] R^{\lambda} S^{\mu}</formula>, hoc est propter <formula notation="TeX">dK=(\lambda+1)MSdR+(\mu+1)MRdS+RSdM</formula>, fit <formula notation="TeX">du=R^{\lambda} S^{\mu}dK</formula>. Q. E. D.</p>
+
+        <head>Theorema 3.</head>
+        <p>Aequatio <formula notation="TeX">du=R^{\lambda}S^{\mu}T^{\nu}dK</formula>, integralem habet <formula notation="TeX">u=R^{\lambda+1} S^{\mu+1}T^{\nu+1}M</formula>, cujus aequatio Canonica est <formula notation="TeX">dK=(\lambda+1) MSTdR+(\mu+1)MRTdS+(\nu+1)MRSdT+RSTdM</formula>.</p>
+
+        <p>Demonstratio huius eadem est ac praecedentium: &amp; similis est processus in infinitum.</p>
+
+        <head>Scholium generale.</head>
+
+        <p>In applicatione horum theorematum ad exempla particularia tota difficultas in eo sita est, ut ex aequatione Canonica eliciatur aestimatio indeterminatae M. Id autem hoc modo fit: Seligo in elemento dR aliquod membrum, in quo plures dimensiones respectu indeterminatarum insunt, quam in reliquis membris, &amp; cum hoc membro omnia membra elementi dK divido, cum quibus haec divisio succedit, nullaque habita ratione coefficientium &amp; signorum, quantitatibus per divisionem ortis praepono coefficientes indefinitas A, B, C, D, &amp;c. &amp; resultabit inde per additionem omnium, quantitas aliqua, quam voco Z, ponique postea debet M=Z+N, surrogando enim hanc aestimationem indeterminatae M in aequatione canonica &amp; conferendo terminos aequationis resultantis cum homologis terminis elementi dK, definientur aestimationes litterarum assumtiarum A, B, C, D.</p>
+
+        <p>Quod de elemento dR dictum est, similiter intelligendum est de factis SdR, STdR, &amp;c. Haec vero omnia exemplis multo magis illustrabuntur, quam prolixioribus praeceptis.</p>
+
+        <p>Si fuerit simpliciter dK=0, assumi potest quaelibet quantitas <formula notation="TeX">R^{\lambda}</formula>, vel <formula notation="TeX">R^{\lambda} S^{\mu}</formula> &amp;c. prout hoc vel illud commodum videbitur, est enim etiam <formula notation="TeX">R^{\lambda}dK</formula>, vel <formula notation="TeX">R^{\lambda}S^{\mu} dK</formula>, &amp;c. = 0. &amp; <formula notation="TeX">\int R^{\lambda}dK</formula> vel <formula notation="TeX">\int R^{\lambda}S^{\mu}dK</formula>, &amp;c. aequabitur quantitati constanti. Sed veniendum ad exempla particularia.</p>
+
+        <head>Exemplum I.</head>
+        <p>Sit ergo <formula notation="TeX">du=ax^m dx</formula>, quaeritur, quid sit u seu <formula notation="TeX">\int ax^m dx</formula>.</p>
+
+        <p>Si theorema I ad hoc exemplum applicemus, fient <formula notation="TeX">dK=adx</formula>, <formula notation="TeX">R=x</formula> &amp; <formula notation="TeX">\lambda=m</formula>, &amp; aequatio canonica <formula notation="TeX">adx=(m+1) Mdx+rdM</formula>. Quia iam in dR=dx, est unicum membrum dx, cum hoc divido dK=adx, oritur in quotiente a, quantitas constans, huius nulla habita ratione pono A, eritque adeo Z=A, &amp; M(=Z+N)=A+N quo valore in aequatione canonica <formula notation="TeX">adx=(m+1)Mdx+rdM</formula> surrogato, oritur <formula notation="TeX">adx=(m+1)Adx+(m+1)Ndx+rdN</formula>. Comparatio terminorum homologorum praebet <formula notation="TeX">A=a : (m+1)</formula>. Et <formula notation="TeX">m+1 Ndx+rdN=0</formula>, quare poni possunt N &amp; dN=0. Etenim si huius <formula notation="TeX">m+1 Ndx+rdN=0</formula>, rationem habere velimus, reducetur ea per divisionem ad <formula notation="TeX">(m+1)dx = dN/N = 0</formula>, &amp; integrando per lemma 1, <formula notation="TeX">lx^{m+1} + N = lb</formula>, ubi b est constans, &amp; abiectis log-mis, fiet per lemma 2, <formula notation="TeX">Nx^{m+1}=b</formula>, &amp; <formula notation="TeX">N=bx^{-m-1}</formula>. Quare fiet <formula notation="TeX">M= a/(m+1)+bx^{-m-1}</formula>, &amp; integrale quaesitum <formula notation="TeX">u=Mx^{m+1}= ax^{m+1}/(m+1) + b</formula>. Q. E. I.</p>
+
+        <p>Scio probe hoc exemplum nimis obvium &amp; tritum esse, quam ut hoc circuitu opus fuisset, sed ut methodum illustrarem, haec minutim exponenda esse duxi.</p>
+
+        <p>Notandum quoque, quod, quoties post peractam substitutionem quantitatis Z+N in locum indeterminatae M, ejusque elementi in locum elementi huius in aequatione canonica, &amp; post comparationem terminorum homologorum, sic omnia evanescant, ut aliud nihil, quam aequatio <formula notation="TeX">- NdR + RdN=0</formula> remaneat, toties poni possint N &amp; dN=0.</p>
+
+        <head>Exemplum 2.</head>
+        <p>Sint <formula notation="TeX">dK=mx^{m-1}ydx-nx^m dy</formula>, <formula notation="TeX">R=y</formula>, item <formula notation="TeX">\lambda=-n-1</formula>. adeoque <formula notation="TeX">du=R^{\lambda}dK</formula>. invenire <formula notation="TeX">u=\int R^{\lambda}dK</formula>.</p>
+
+        <p>In hoc exemplo aequatio canonica fit <formula notation="TeX">mx^{m-1}ydx-nx^m dy = -nMdy+ydM</formula>. Hoc loco iterum dR unico membro dy constat, quare divido aestimationem ipsius dK per hoc elementum dy: in quantitate vero dK <formula notation="TeX">mx^{m-1}ydx-nx^m dy</formula> unicum membrum inest <formula notation="TeX">-nx^m dy</formula>, cum quo haec divisio succedat, prodeunte quoto <formula notation="TeX">-nx^m</formula>, quare per monitum I Scholii generalis, nulla habita ratione signi - &amp; coefficients n, scribo <formula notation="TeX">Ax^m</formula> pro Z, fietque M (=Z+N)=<formula notation="TeX">Ax^m+N</formula>, &amp; <formula notation="TeX">dM=mAx^{m-1} dx+dN</formula>. Quibus in aequatione canonica surrogatis, oritur <formula notation="TeX">mx^{m-1}ydx-nx^m dy = mAx^{m-1}ydx-nAx^m dy - nNdy+ydN</formula>, iam vero facta A=1, &amp; destructis destruendis, manebit tantum <formula notation="TeX">-nNdy+ydN=0</formula>, quare citra omnem scrupulum, pono juxta monitum ad exempl. I. datum, N=0, &amp; dN=0; eritque adeo <formula notation="TeX">M=x^m</formula>, &amp; <formula notation="TeX">u=R^{\lambda+1}M=x x^{m-1} x^m : y^n</formula>.</p>
+
+        <head>Exemplo. 3.</head>
+        <p>Sit <formula notation="TeX">du=x^3 dx : \sqrt{aa-xx}</formula>, invenire <formula notation="TeX">u=\int x^3 dx: \sqrt{aa-xx}</formula>.</p>
+
+        <p>In hoc exemplo fit <formula notation="TeX">dK=x^3 dx</formula>, <formula notation="TeX">R=aa-xx</formula>, &amp; <formula notation="TeX">\lambda=1/2</formula>, quare aequatio canonica pro hoc exemplo, invenietur esse <formula notation="TeX">x^3 dx=-Mxdx+(aa-xx)dM</formula>. Est iam iterum in dR unicum membrum -2xdx, cum quo divido <formula notation="TeX">dK=x^3 dx</formula>, provenit <formula notation="TeX">-1/2 xx</formula>. Quare neglecta coefficiente -1/2, scribo <formula notation="TeX">Z=Axx</formula>, &amp; M(=Z+N)=<formula notation="TeX">Axx+N</formula>, &amp; <formula notation="TeX">dM=2Axxdx+dN</formula>; quibus in aequatione canonica suffectis, prodit <formula notation="TeX">x^3 dx=3Ax^3 dx+2aaAxxdNxdx+(aa-xx)dN</formula>. Quare posita 1=3A, id est A=1/3, remanebit destructis destruendis, haec altera <formula notation="TeX">2/3 aaxdx-Nxdx+(aa-xx) dN=0</formula>, vel <formula notation="TeX">2 aaxdx -Nxdx+(aa-xx)dN</formula>. Tractetur haec remanens aequatio, instar praecedentis aequationis canonicae; hoc est, dividatur <formula notation="TeX">3 aaxdx</formula> per xdx, quia inest aequationi membrum -Nxdx, in quo aestimatio litterae N quaeritur, proveniet in quotiente quantitas constans <formula notation="TeX">3 aa</formula>, quare pono N=B+O. &amp; dN=aO, quibus in aequatione suffectis nascetur <formula notation="TeX">3 aaxdx=Bxdx-Oxdx+(aa-xx)dO</formula>, quare facta B=3aa, remanebit aequatio <formula notation="TeX">-Oxdx+(aa-xx)dO=0</formula>, quare O &amp; dO nihilo aequalia ponenda, adeo ut sit N=B=3aa; hinc derivatur M(=Z+N) =A.xx+B=<formula notation="TeX">3xx-3aa</formula>. Adeoque <formula notation="TeX">u(=MR^{\lambda+1}) =[(xx+2aa)\sqrt{aa-xx}]:3</formula>.</p>
+
+        <head>Exemplum 4.</head>
+        <p>Sit generalius <formula notation="TeX">dx=x^{nm-1}dx(a+bx^m)^p</formula></p>
+
+        <p>Habemus ergo <formula notation="TeX">dK=x^{nm-1}dx</formula>, <formula notation="TeX">R=a+bx^m</formula> &amp; <formula notation="TeX">\lambda=p</formula>, &amp; aequatio generalis Canonica nunc mutabitur in <formula notation="TeX">x^{nm-1}dx=(p+1)bm Mx^{m-1}dx+(a+bx^m)dM</formula>, &amp; quia in quantitate <formula notation="TeX">(p+1)bmMx^{m-1}dx</formula> inest <formula notation="TeX">x^{m-1}dx</formula>, dividatur quantitas <formula notation="TeX">x^{nm-1}dx</formula> per <formula notation="TeX">x^{m-1}dx</formula>; quotiens reperietur <formula notation="TeX">x^{nm-m}</formula>, quare facio <formula notation="TeX">M=Ax^{nm-m}+N</formula>, &amp; <formula notation="TeX">dM=nm-m Ax^{nm-m-1}dx+dN</formula> quibus in aequat. canonica suffectis habetur <formula notation="TeX">x^{nm-1}dx=(p+n)bmAx^{nm-1}dx+(nm-m)aAx^{nm-1}dx+(p+1)bmNx^{m-1}dx+(a+bx^m)dN</formula>. Quare facta <formula notation="TeX">A= (p+n)bm</formula>, fiet <formula notation="TeX">(m-nm)ax^{nm-1}dx= (p+1)bmNx^{m-1}dx+(a+bx^m)dN</formula>.</p>
+
+        <p>Fiat <formula notation="TeX">N=Bx^{nm-2m}+O</formula>, &amp; <formula notation="TeX">dN=(nm-2m)Bx^{nm-2m-1}dx+dO</formula>, quibus in aequatione canonica secunda, quae successit in locum primae, surrogatis, resultat <formula notation="TeX">(m-nm)aAx^{nm-1}dx=(p+n-1)bmBx^{nm-1}dx+(nm-2m)aBx^{nm-2m-1}dx+(p+1)bmOx^{m-1}dx+(a+bx^m) dO</formula>. Quare existente <formula notation="TeX">B=(m-nm) aA : (p+n-1)bm</formula> invenietur tertia aequatio canonica <formula notation="TeX">(2m-nm)aBx^{nm-2m-1}dx=(p+1)bmOx^{m-1}dx+(a+bx^m) dO</formula>.</p>
+
+        <p>Ponatur tertio <formula notation="TeX">O=Cx^{nm-3m}+P</formula>, &amp; <formula notation="TeX">dO=(nm-3m) Cx^{nm-3m-1}dx+dP</formula>. Quare tertia aequatio canonica mutabitur in</p>
+
+        <p><formula notation="TeX">(2m-nm) aBx^{nm-2m-1} dx= (p+n-2) bmCx^{nm-2m-1}dx+ (nm-3m)aCx^{nm-3m-1}dx+ (p+1) bmCPx^{m-1}dx+ (a+bx^m) dP</formula>. Idcirco facta <formula notation="TeX">C=(2m-nm)aB:(p+n-2)bm</formula> invenietur quarta <formula notation="TeX">(3m-nm)aCx^{nm-3m-1}dx=(p+1)bmpx^{m-1}dx+ (a+bx^m)dP</formula>.</p>
+
+        <p>Simili progressu pervenietur tandem ad aequationem aliquam canonicam <formula notation="TeX">(em-nm) a\Delta x^{nm-em-1} dx=(p+1)bm Zx^{m-1}dx+(a+bx^m)dZ</formula>. In hac vero est e, terminus quicunque seriei numerorum naturalium I, 2, 3, &amp;c. Δ est terminus seriei coefficientum A, B, C, D cujus ordinem indicat numerus integer e+1. Ac denique Z est terminus seriei indeterminatarum M, N, O, P &amp;c. cujus idem ordo est e+1. Sit <formula notation="TeX">R=a+bx^m</formula>, &amp; ultima haec aequatio canonica mutabitur in aequationem <formula notation="TeX">(em-nm) a\Delta x^{nm-em-1}dx=(p+1)ZdR+RdZ</formula>, ducatur haec in <formula notation="TeX">R^p</formula>, fietque <formula notation="TeX">(em-nm)a\Delta x^{nm-em-1}dx(a+bx^m)^p=(p+1)R^pZdR +R^{p+1}dZ</formula>, &amp; integrando <formula notation="TeX">R^{p+1}Z=(em-mn)a\Delta x^{nm-em-1} dx(a+bx^m)^p</formula> dicatur hoc=Y, eritque adeo <formula notation="TeX">Z=Y:R^{p+1}</formula>.</p>
+
+        <p>Expansis iam omnibus fiet</p>
+        <p><formula notation="TeX">M=Ax^{nm-m}+Bx^{nm-2m}+Cx^{nm-3m}+&amp;c... \Delta x^{nm-em-1} YR^{-p-1}</formula> quare <formula notation="TeX">u(=MR^{p+1})=(Ax^{nm-m}+Bx^{nm-2m} +Cx^{nm-3m}+&amp;c+\Delta x^{nm-em})(a+bx^m)^{p+1}+Y</formula> ubi sunt</p>
+
+        <p>1. <formula notation="TeX">A = I : (p + n)bm</formula> <formula notation="TeX">B = (m - nm)aA : (p + n - 1)bm = (1 - n)aA : (p + n - 1)b</formula> <formula notation="TeX">C = (2m - mn)aB : (p + n - 2)bm = (2 - n)aB : (p + n - 2)b</formula> &amp;c. &amp;c. <formula notation="TeX">\Delta = (em - m - mn)aT : (p + n - e + 1)bm = (e - n - 1)x aT : (p + n - e + 1)b</formula></p>
+
+        <p>ubi r est coefficients, quae ultimam a praecedit.</p>
+
+        <p>Formula igitur gemino casu integrabilis fiet</p>
+
+        <p>1°. Si n sit quilibet numerus integer affirmativus, seu n=e, tunc enim fiet Y=o, adeoque <formula notation="TeX">u= (A x^{n m - m} + B x^{n m - 2 m} + &amp;c. + A) (a + b x^m )^{p + 1}</formula></p>
+
+        <p>2°. Si -n-p=e seu cuilibet integro affirmativo aequalis, fiet enim hoc casu <formula notation="TeX">u=(Ax^{m n+m+p+m} + Bx^{m n+m+p+2m} +&amp;c. +A).(b+a-x^m)^{p+1}</formula> in qua sunt <formula notation="TeX">A=-:mna</formula>. <formula notation="TeX">B=(i+p+n)bA:-(n+1)a</formula> <formula notation="TeX">C=(2+p+n)bB:-(n+2)a</formula>, &amp;c.</p>
+
+        <p>Huius rei ratio est, quia <formula notation="TeX">d u x^{m n - 1} d x ( a + b x^m )^p</formula> mutari potest in hanc quoque <formula notation="TeX">d u x^{n m + p m - 1} d x ( b + a x^{-m} )^p</formula>. Sed hic posterior integrabilitatis casus tantum obtinet, cum p est integer negativus, &amp; n integer.</p>
+
+        <p>Nam, quia <formula notation="TeX">du= x^{q r - 1} d x ( b + a x^q )^p</formula> ejusdem formae est cum hac <formula notation="TeX">du= x^{m n - 1} d x ( a + b x^m )^p</formula>, ea integrabilis erit per casum priorem, si r fuerit numerus integer affirmativus; iam si in aequatione <formula notation="TeX">d u = x^{m n + m p - 1} d x ( b + a x^{-m} )^p</formula> ponantur <formula notation="TeX">m = - q</formula>, &amp; <formula notation="TeX">n + p = - r</formula>, mutabitur haec aequatio in <formula notation="TeX">d u = x^{q r - 1} d x ( b + a x^q )^p</formula>, quae proinde integrabilis fiet, cum <formula notation="TeX">r = - n - p</formula> aequat numerum quemcunque integrum affirmativum, hoc autem fieri nequit, nisi n fuerit numerus integer, &amp; p quoque, sed negativus.</p>
+
+        <p>3°. Item aequatio <formula notation="TeX">du= x^{b m} d x ( a + b x^m )^p</formula> integrabilis fiet, si p fuerit <formula notation="TeX">= - e - k - m</formula> existente e numero integro. Nam <formula notation="TeX">x^{b m} d x ( a + b x^m )^p = x^{b m + p m} d x ( b + a x^{-m} )^p</formula>, quare ponendo <formula notation="TeX">m=q</formula>, &amp; <formula notation="TeX">p=e-b+1</formula>, mutabitur <formula notation="TeX">x^{bm+p}dx(b+ax^{-m})^p</formula> in <formula notation="TeX">x^{q-dx}: (b+ax^q)^{+b-1}</formula>, quae per casum primum algebraice integrabilis est. In hoc casu numerus b non est necessario integer, potest enim esse fractus quicunque</p>
+
+        <p>4° Si in formula <formula notation="TeX">du=x^{nm-1}dx(a+bx^{-m})^p</formula>, sit <formula notation="TeX">m=b+1+1</formula>, mutabitur in sequentem <formula notation="TeX">du=x^{bm+1}dx (a+bx^{-m})^p</formula>, cujus integralis erit <formula notation="TeX">u=(Ax^{nm-m}+Bx^{nm-2m}+&amp;c.+Ax^{nm-em})(a+bx^{-m})^{p+1} +</formula>. 2 Iam si b fuerit cuilibet numero integro affirmativo e aequalis, fiet em-nm-1, &amp; nm-em-1, adeoque <formula notation="TeX">Y=(l+1)/aax^{1}dx(a+bx^{-m})^p</formula>. adeoque integrale est <formula notation="TeX">u=(Ax^{bm-m+1+1}+Bx^{bm-2m+1+1}+&amp;c.+ax^{1+1}) (a+bx^{-m})^{p+1}-(l+1)/aax^{1}dx (a+bx^{-m})^p</formula>. Verum si <formula notation="TeX">x^{1}dx (a+bx^{-m})^p = \int (ax^{1}+bx^{-m+1})dx (a+bx^{-m})^{p-1} = \int (aax^{1}dx+2abx^{-m+1}dx+bx^{2m+1})dx(a+bx^{-m})^{p-2} = \int (a^{3}x^{1}dx+3aabx^{-m+1}+3abx^{2m+1}dx+b^{3}x^{3m+1})x dx(a+bx^{-m})^{p-3}</formula> atque ita porro: unde si p fuerit integer affirmativus, mutabitur <formula notation="TeX">\int x^{1}dx(a+bx^{-m})^p</formula> in <formula notation="TeX">\int a^{p-1}x^{1}dx+(p-1)a^{p-2}bx^{-m+1}dx+(p-1)(p-2)a^{p-3}bbx^{2m+1}dx+&amp;c.)x (a+bx^{-m})</formula> quod integrale vero per praecedentia dependet a serie quantitatum absolute integrabilium <formula notation="TeX">+Q\int x^{1}dx (a+bx^{-m})</formula> ubi Q est quantitas constans ex actuali evolutione formulae oriunda.</p>
+
+        <p>Sed quid eveniet, si p sit numerus integer, sed negativus? Haec formula <formula notation="TeX">du=x^{1}dx(a+bx^{-m})^{-p}</formula> etiam transformari potest in <formula notation="TeX">dx=(Ex^{1}+Fx^{-m+1}+Gx^{2m+1}+&amp;c.)dx:(a+bx^{-m})</formula> cujus integralis dependet iterum a serie quantitatum absolute integrabilium <formula notation="TeX">+Q\int x^{1}dx:a+bx^m</formula>.</p>
+
+        <p>Hac ergo ratione huic unico exemplo inclusa sunt singula septem theoremata, quae in Actis Erudit. 1719. sine demonstratione publicata sunt pag. 269. &amp; theorema octavum inde etiam derivari potest. Scio quidem demonstrationes horum theorematum iam exhibitas fuisse tum a Bulfingero nostro, tum etiam a Nicolao Bernoulli V V. C C. pag. 467. 19. Act. Erud. 1720; non inconsultum tamen duxi theorema nostrum generale ad haec ipsa applicare.</p>
+
+        <head>Exemplum 5.</head>
+        <p>Sit <formula notation="TeX">du=3kdz-lz^{-1}dz:z\sqrt{kz-lz^3+mz^4}=-lz^{-1/2}dz +3kz^{-2}dz:\sqrt{mz^3-lz+k}</formula> adeoque <formula notation="TeX">dK=-lz^{-1/2}dz+ 3kz^{-2}dz</formula>, <formula notation="TeX">R=mz^3-lz+k</formula>, &amp; <formula notation="TeX">\lambda=-1/2</formula>; quare aequatio canonica nunc est <formula notation="TeX">dK=-1MdR+RdM</formula>. Est vero <formula notation="TeX">dR=3mz^2dz-2lzdz</formula>, dividatur ergo secundum monitum primum Scholii generalis membrum <formula notation="TeX">-lz^{-1/2}dz</formula> quantitatis dK per membrum <formula notation="TeX">-2lzdz</formula> quantitatis dR, orietur in quotiente neglectis signo &amp; coefficiente <formula notation="TeX">z^{-3/2}</formula>, quare pono <formula notation="TeX">M=A z^{-3/2}+N</formula>, &amp; <formula notation="TeX">dM=-3/2Az^{-5/2}dz+dN</formula>, quibus in canonica surrogatis, prodit <formula notation="TeX">-lz^{-1/2}dz+3kz^{-1/2}dz=-1/2Az^{-1/2}dz-3/2kAz^{-5/2}dz+-1/2NdR+RdN</formula>. Quare posita A=-2, aequatio haec destructis destruendis praebebit <formula notation="TeX">1/2NdR+RdN=0</formula>. Propterea per monitum ad exempl. primum, fient N &amp; dN=o, atque adeo <formula notation="TeX">M=-2z^{-3/2}</formula> adeoque <formula notation="TeX">u(=MR^{\lambda+1})=-2R^{1/2}z^{-3/2}=-2\sqrt{mz^3-lz^3+4}:\sqrt{z^3}</formula>.</p>
+
+        <head>Exemplum 6.</head>
+        <p>Sit <formula notation="TeX">du=(z^5 dz+z^4 dz-8z^3 dz)(z^5 +z^4- 5z^3 +8z- 4)</formula>, id est <formula notation="TeX">=(z^5 dz+z^4 dz-8z^3 dz)(z-1)^3(z+2)^2</formula>. Iam cum in denominatore sint duo factores <formula notation="TeX">(z-1)^3</formula> &amp; <formula notation="TeX">(z+2)^2</formula>, adhibendum est Theorema secundum, in quo iam <formula notation="TeX">dK =z^5 dz+z^4 dz-8z^3 dz</formula>, <formula notation="TeX">R=z-1</formula>, &amp; <formula notation="TeX">S=z+2</formula>, item <formula notation="TeX">\lambda=-3</formula> &amp; <formula notation="TeX">\mu=-2</formula>, itaque nunc fiet aequatio canonica <formula notation="TeX">dK =-2MSdR-MRdS+RSdM</formula>, id est, <formula notation="TeX">z^5 dz+z^4 dz-8z^3 dz =-(3zdz+3dz)M+(z+z-2)dM</formula>. Quare faciendo <formula notation="TeX">M=A z^4+Bz^3+Cz^2</formula>, &amp; <formula notation="TeX">dM=4Az^3dz+3Bz^2dz+ 2Czdz</formula>, &amp; substitutis hisce in aequatione canonica, fiet <formula notation="TeX">z^5 dz+z^4 dz-8z^3 dz=A z^5 dz+Az^4 dz-(8A+C)z^3 dz -(6B+C)z^2dz-4Czdz</formula>.</p>
+
+        <p>Comparationes terminorum homologorum praebent A=1, B=0, &amp; C=0, quare habebimus <formula notation="TeX">M=z^4</formula>. Adeoque <formula notation="TeX">u(=MR^{\lambda+1}S^{\mu+1})=(z-1)^2(z+2)^1 z^4=z^4:z^3-3z +2</formula>.</p>
+
+        <head>Exemplum 7.</head>
+        <p>Sit <formula notation="TeX">du=(3q^5dx-q^4xdx+9q^3xxdx-qqx^3dx-6qx^4dx): (qq-xx)\sqrt{(q^3+-qqx-qxx-x^3)}</formula>. Iam, quia <formula notation="TeX">3 \sqrt{(q^3+-qqx-qxx-x^3)}=(q+-x)^3 (q-x)^3</formula>; fiet <formula notation="TeX">du=(3q^5dx-q^4xdx+9q^3xxdx-qqx^3dx-6qx^4dx): (q+-x)^3(q-x)^3</formula>. Quare nunc habemus <formula notation="TeX">dK=3q^5dx -q^4xdx+9q^3xxdx- &amp;c.</formula> <formula notation="TeX">R=q+-x</formula>, <formula notation="TeX">S=q-x</formula>, <formula notation="TeX">\lambda=-5</formula> <formula notation="TeX">\mu=-4</formula>, &amp; aequationem canonicam <formula notation="TeX">dK=-3MSdR -1MRdS+RSdM</formula>. Hoc est <formula notation="TeX">3qdx-q^4xdx+9q^3xdx -qqx^3dx-6qx^4dx=(-qdx+-xdx)M+(-qq-xr)dM</formula>. Quare si fiat <formula notation="TeX">M=A+Bx+Cxx+Dx^3</formula> aequatio canonica mutabitur in <formula notation="TeX">3qdx-q^4xdx+9q^3xdx-yqx^3dx-6qx^4dx -qAdx+Axdx-qCxxdx-Cx^3dx-2Dx^4dx</formula>. <formula notation="TeX">-qqB -qB+3qqD -qD +2qqC</formula> Ex collatione terminorum homologorum eliciuntur aestimationes coefficientum, quales sequuntur. D=3q, C=0, B=3q^3 &amp; A=0. Quare invenitur <formula notation="TeX">u=(3q^3x+-3qx^3):\sqrt{(q^3+-qqx-qxx-x^3)}</formula>. Exempla proxime antecedentia 5, 6, &amp; 7um mutuo sumsi ex Newtoni tractatu de Quadraturis, quibus Celeberr. Auctor seriem suam Theoremate III. pro quadraturis exhibitam, illustravit. Sed quid vetat, quominus hanc seriem ipsam ex primo nostro theoremate derivemus?</p>
+
+        <p>Eft ergo Exemplum 8.</p>
+        <p>Sint <formula notation="TeX">R=e+-fx^q+-gx^{2q}+-bx^{3q}+-&amp;c.</formula> dein <formula notation="TeX">Z=a -bx^q+-cx^{2q}+-dx^{3q}+-&amp;c.</formula> &amp; <formula notation="TeX">du=R^{l-1}Zx^{-1}dx</formula>. Invenire integralem huius formulae. Est itaque <formula notation="TeX">dK=Zx^{-1}dx</formula>, <formula notation="TeX">\lambda=l-1</formula>, &amp; per theor.1. aequatio canonica <formula notation="TeX">Zx^{-1}dx=IMdR+RdM</formula>. Ponamus juxta praecedentia <formula notation="TeX">M=Ax^m+Bx^{m+q}+Cx^{m+2q}+- Dx^{-3q}+-&amp;c.+N</formula>, eritque <formula notation="TeX">RIM=meAx^{m-1}dx+(m+q)eBx^{m+q-1}dx+(m+2q)eCx^{m+2q-1}dx+-&amp;c.RdN +mfA +(m+q)fB + mgA IdR= +fqAx^{m+q-1}dx+-2g1qAx^{m+2q-1}dx+-&amp;c.+INdR +fqB X</formula></p>
+        <p>Ergo aequatio canonica mutatur in sequentem:</p>
+        <p><formula notation="TeX">a z^{m-1}dz+-bz^{m+q-1}dz+-cz^{m+2q-1}dz+-&amp;c.= meAz^{m-1}dz+((q+m)fA)z^{m+q-1}dz+((2lq+m)gAz^{m+2q-1}dz+-&amp;c.+INdR+RdN. +(m+q)eB +(lq+m+q)fB +(m+2q)eC</formula></p>
+
+        <p>Iam comparatio terminorum homologorum praebet:</p>
+        <p><formula notation="TeX">A=\{a - - - - - - - - - - - - - - - - - \} : (m+oq)e</formula></p>
+        <p><formula notation="TeX">B=\{+-b-(lq+m)fA - - - - - - - - - \} : (m+q)e</formula></p>
+        <p><formula notation="TeX">C=\{+-c-(2lq+m)gA-(lq+m+q)fB - - - - - \} : (m+2q)e</formula></p>
+        <p><formula notation="TeX">D=\{+-d-(3lq+m)bA-(2lq+m+q)gB-(lq+l+2q)fC - \} : (m+3q)e</formula></p>
+
+        <p>Hae determinationes cum Newtonianis ad amussim consentiunt.</p>
+
+        <p>Verum, quia in ultima aequatione canonica semper aliqua membra remanent, quorum ratio est habenda, adeoque vocabimus haec membra <formula notation="TeX">Gz^{m+4q-1}dz+-Hz^{m+5q-1}dz+-Iz^{m+6q-1}dz</formula>, eritque ultima aequatio canonica <formula notation="TeX">-Gz^{m+4q-1}dz-Hz^{m+5q-1}dz-Iz^{m+6q-1}dz=INdR+RdN</formula>. Ex hac vero elicitur <formula notation="TeX">-(Gz^{m+4q-1}dz+-Hz^{m+5q-1}dz+-Iz^{m+6q-1}dz)R^{l-1}=NR^l</formula>, quare vocando <formula notation="TeX">dY=Gz^{m+4q-1}dz+Hz^{m+5q-1}dz+Iz^{m+6q-1}dz</formula>, habebimus <formula notation="TeX">N=-YR^{-1}</formula>, adeoque <formula notation="TeX">M=(A+Bz^q+Cz^{2q}+Dz^{3q})Z^m-YR^{-1}</formula>, quare integrale quaesitum erit <formula notation="TeX">u=(A+Bz^q+Cz^{2q}+Dz^{3q}+&amp;c.) Z^mR^l-Y</formula></p>
+        <p>Ubi quidem sunt</p>
+        <p><formula notation="TeX">G=(3lq+m+q)qB+(2lq+m+2q)gC+(lq+m+3q)fD</formula>.</p>
+        <p><formula notation="TeX">H=(3lq+m+2q)C+(2lq+m+3q)gD</formula>.</p>
+        <p><formula notation="TeX">I=3lq+m+3q)bD</formula>.</p>
+
+        <p>In casu, quo series R finitur termino, cujus coefficients est 1. In aliis casibus omnibus aestimationes litterarum G, H, I, &amp;c. facili negotio obtinebuntur.</p>
+
+        <p>Si series <formula notation="TeX">A-+-Bz^q+-Cz^q+-Dz^q+- &amp;c.</formula> alicubi abrumpens est, Y fiet =o, adeoque formula absolute integrabilis erit.</p>
+
+        <p>Non absimili modo ex theoremate nostro secundo derivare licet Theorema IV. Newtoni Propositione VI* Tract. de Quadraturis exhibitum, sed quia haec deductio prolixiorem deposcit calculum, ab ea nunc abstinebo.</p>
+
+        <p>Pergam ergo ad illustrationem theorematum nostrorum per exempla quantitatum differentialium, duas aut plures indeterminatas varie inter se mixtas, vel subinde secunda differentialia involventium, qualia non mihi ipsi ad arbitrium finxi, sed ab amico mihi sine integralibus suppeditata vel aliunde desumta sunt. Addalia enim perinde sefe extendit ac ad ea, quae in superioribus tractavi. Cuius rei leve specimen exemplo secundo superiori iam exhibui.</p>
+
+        <head>Exemplum 9.</head>
+        <p>Sit <formula notation="TeX">du=3a^3y^2dy-6aaxxydy+3ax^4dy-6aaxy^2dx +12ax^3ydx-6x^5dx</formula>.</p>
+
+        <p>Haec aequatio aequivalet alteri <formula notation="TeX">d\pi=(3a^3x^{-5}y^2dy -6aax^{-3}ydy+3ax^{-1}dy-6ax^{-4}y^2dx+12ax^{-2}ydx-6dx) x^5</formula>. Quo casu fit <formula notation="TeX">dK=3a^3x^{-5}y^2dy-6aax^{-3}ydy+3ax^{-1} dy-6ax^{-4}y^2dx+12ax^{-2}ydx-6dx</formula>, <formula notation="TeX">R=x</formula>, <formula notation="TeX">\lambda=5</formula>, &amp; aequatio canonica <formula notation="TeX">dK=6Mdx+xdM</formula>. Iam ut inveniri possit, quid sit M, in quantitate dK divido per dx omnia illa membra in quibus dx inest, prodibunt neglectis coefficientibus &amp; signis <formula notation="TeX">x^{-4}yy</formula>, <formula notation="TeX">x^{-2}y</formula> &amp; I, quare pono <formula notation="TeX">M=Ax^{-4}yy+Bx^{-2}y+C +N</formula>. Hoc autem valore litterae M, ejusque elementi dM, in canonica substitutis proveniet aequatio:</p>
+
+        <p><formula notation="TeX">+3a^3x^{-1}y^2dy-6aax^{-3}ydy+3ax^{-1}dy-6aax^{-4}ydx +12ax^{-2}ydx-6dx = 2Ax^{-3}ydy+Bx^{-1}dy+2Ax^{-4}ydx+4Bx^{-2}ydx +6Cdx+6Ndx+xdN</formula></p>
+
+        <p>Comparatio terminorum homologorum praebet, A=-3aa, B=3a, C=-1, &amp; remanebit aequatio sequens <formula notation="TeX">3a^3x^{-1}y^2dy=6Ndx+xdN</formula>.</p>
+
+        <p>Ducatur haec aequatio in <formula notation="TeX">x^5</formula>, provenietque <formula notation="TeX">3a^3y^2dy =6Nx^6dx+x^6dN</formula>. Utraque pars huius aequationis est integrabilis, invenietur enim integralis ejus <formula notation="TeX">a^3y^3=Nx^6</formula>.</p>
+
+        <p>Habemus ergo <formula notation="TeX">N=a^3x^{-6}y^3</formula>, adeoque <formula notation="TeX">M(=Ax^{-4}yy+Bx^{-2}y+C+N)=-3aax^{-4}yy+3ax^{-2} y-1+a^3x^{-6}y^3</formula>, adeoque</p>
+
+        <p><formula notation="TeX">u(=MR^6=Mx^6)=-3aaxxyy+3ax^4y-x^6+a^3y^3 = a^3y^3-3aaxxyy+3ax^4y-x^6=(ay-xx)^3</formula>.</p>
+
+        <p>Hoc idem integrale invenissemus ponendo <formula notation="TeX">dK=3ay^2dy -6aaxxy^2dy+3ax^4dy-6aaxydx+12ax^3ydx-6x^5dx</formula>. Dein <formula notation="TeX">R=x</formula> vel=y, sed λ=0, adeoque λ+1=1.</p>
+
+        <head>Exemplum 10.</head>
+        <p>Sit <formula notation="TeX">du=(-3/2cy^2dy+3abbty^{-1}dy)\sqrt{(a^3b-2cy^3+3abbt)^3}</formula> existente <formula notation="TeX">t=\sqrt{accyy}</formula>. Hoc loco est <formula notation="TeX">dK=-3/2cy^2dy +-3abbty^{-1}dy</formula>, <formula notation="TeX">R=a^3 b-2cy^3+3abbty</formula>, <formula notation="TeX">\lambda=-3/4</formula>, adeoque λ+1=1/4. &amp; aequatio canonica <formula notation="TeX">dK=1/4MdR+RdM</formula>. Nunc vero, quia 4dR=dK, erit M=1, adeoque <formula notation="TeX">u(=MR^4) =\sqrt{(a^3b-2cy^3+3abbty)}</formula>.</p>
+
+        <head>Exemplum 11.</head>
+        <p>Si <formula notation="TeX">du=(2axy^2dx+cxy^2dy-cy^3dx-2ccy^2dy-4ax^2ydx +4ax^3dy+8ccy^2dx-2ax^2ydy):(y^4-8xy^3+16xxy)</formula>.</p>
+
+        <p>Quoniam <formula notation="TeX">y^4-8xy^3+16xxyy</formula> est quadratum, cujus radix est <formula notation="TeX">yy-4xy</formula>; fiat <formula notation="TeX">R=yy-4xy</formula>, λ=-2, &amp; <formula notation="TeX">dK=2axy^2dx +cxy^2dy-cy^3 dx-2ccy^2dy-4axxy dx+- &amp;c.</formula> &amp; aequatio canonica fiet, <formula notation="TeX">dK=-MdR+RdM</formula>. Est vero <formula notation="TeX">dR=2ydy -4ydx-4xdy</formula>. Respicio nunc ad omnia membra quantitatis dK, quae per ydx dividi possunt, &amp; praescindendo a coefficientibus &amp; signis, inveniuntur quoti xy, yy, xx, y. Pono ideo</p>
+
+        <p><formula notation="TeX">M=Ay+Bxy+Cxx+Dyy</formula>, &amp; inveniemus aequationem canonicam mutari in aequationem</p>
+
+        <p><formula notation="TeX">+2axydx+-cxy^2dy-cy^3 dx-2ccy^2dy-4ax^2ydy +4ax^3dy+-8ccy^2dx-2ax^2ydy+-2Cxxydx-Bxy^2dy +4D +By^3dx-Ay^2ydy-4Cxxydy+-4Cxxydy+-4Ay^2dx +-6D -2Cxxydy-2Dy^3dy</formula></p>
+
+        <p>Ex comparatione terminorum elicientur A=2cc, B=-c, C=a, &amp; D=o, quare fit <formula notation="TeX">M=2ccy-cxy+-axx</formula>, adeoque <formula notation="TeX">u(=MR^{-1})=(2cy-cxy+-axx): (yy-4xy)</formula>.</p>
+
+        <head>Exemplum 12.</head>
+        <p>Si <formula notation="TeX">du=(4xy^2dy-x^2zdx-x^3 dz+2xy^2zdx+2xyzdz -2y^2zdy-2y^2zdy-2y^3dz-x^2zdy+xxydz): (xx-2xy+yy)</formula>.</p>
+
+        <p>Erunt <formula notation="TeX">dK=4xyzdv-x^2zdx-x^3dz+2xy^2dz+2xyzdz -2y^2zdv-2y^2zdx-2y^3dz-x^2dvy+x^2ydz</formula>; <formula notation="TeX">R=y</formula>, λ=-2 adeoque aequatio canonica fit <formula notation="TeX">dK=-MdR+RdM</formula>. Juxta superiora invenietur sumendum esse <formula notation="TeX">M=Ax^2z+Bxyz +Cy^2z</formula>, ope huius mutabitur canonica in aequationem cuius termini homologi inter se comparati praebebunt A=-1, B=o, &amp; C=2, adeoque <formula notation="TeX">M=-xxz+2yyz</formula>, &amp; <formula notation="TeX">u(=MR^{-1})=2yyz-xxz: x-y</formula>.</p>
+
+        <head>Exemplum 13.</head>
+        <p>Si <formula notation="TeX">-addx=(ydx-xdy)^2x : (xx-xy)^{3/2}</formula>, in hypothesi quod <formula notation="TeX">ydx-xdy</formula> sit constans. Integrabitur ponendo <formula notation="TeX">du=addx : ydx-xxdy</formula>, <formula notation="TeX">R=xx-xy</formula>, <formula notation="TeX">\lambda=3/2</formula>, &amp; λ+1=1/2 adeoque aequatio canonica pro hoc exemplo invenietur esse <formula notation="TeX">dK=1/2 MdR+RdM</formula>, atque adeo <formula notation="TeX">xydx-xxdx=(-xdx-ydy) M-(xx-xy)dM</formula>; Fiat M=Ay, &amp; mutabitur aequatio in <formula notation="TeX">xydy-xxdy=-A xydx+A xxdy</formula>. Quare A=1. &amp; <formula notation="TeX">u(=MR^{1/2})=y : \sqrt{(xx-xy)}</formula>.</p>
+
+        <p>Atqui propter differentiale constans <formula notation="TeX">ydx-xdy</formula>, erit etiam <formula notation="TeX">u=adx : ydx-xdy</formula> quare <formula notation="TeX">ydx-xdy</formula>; hinc <formula notation="TeX">adx= ydx-xdy</formula>, vel <formula notation="TeX">abdx= ydx-xdy</formula> ducatur in <formula notation="TeX">x^{-2}</formula> fiet <formula notation="TeX">-abx^{-2} dx=(bx^{-1} ydy-bx^{-2} y^2dx) : \sqrt{(xx-xy)}</formula>; si nunc iterum sit <formula notation="TeX">R=xx+xy</formula> fiet pro hac aequatione competens aequatio canonica</p>
+
+        <p><formula notation="TeX">bx^{-1} ydy-bx^{-2} y^2dx=(ydy+dxd)M+(xx+yy)dM</formula>; quare si ponatur <formula notation="TeX">M=bx^{-1}</formula>, aequatio haec fiet identica; est ergo <formula notation="TeX">c+ab=3</formula>, integrale ipsius <formula notation="TeX">-abx^{-2}dx=MR^2</formula>, id est <formula notation="TeX">b\sqrt{(xx+yy)}</formula> Quae aequatio est adfectiones conicas.</p>
+
+        <head>Exemplum 14.</head>
+        <p>Si <formula notation="TeX">\int dx=(dxdy^3+dx^3 dy-xdxdy^2ddx+xdx^2 dy^3 ddy)2x^3 dy^3</formula>. Integrare aequationem. Pone <formula notation="TeX">dK=1/2dx+1/2dx^3 dy^2 -1/2xdxdy^2 ddx+1/2xdx^2 dy^3 ddy</formula>, <formula notation="TeX">R=x</formula>, &amp; λ=-3, adeoque λ+1=-2. Quare aequatio canonica nunc fit <formula notation="TeX">dK=-2Mdx+xdM</formula>. Elicietur ergo <formula notation="TeX">M=A+Bdx^2dy^2</formula>. Ope huius vero aequatio canonica abit in</p>
+
+        <p><formula notation="TeX">1/2dx+-1/2dx^3dy^{-2}-1/2dxdy^{-2}ddx+-1/2dx^2dy^{-3}ddy=-2Adx-2Bdxdy^{-2}ddx-2Bdx^2dy^{-3}ddy</formula>, quare A=-1/4, B=-1/4 &amp; <formula notation="TeX">\int dx=-1/4xx-1/4xxdy^2</formula>, vel addita constanti n. <formula notation="TeX">\int dx=(4nxdy^2-dx^2-dy^2):4xdy^2</formula>. Videantur ad haec duo postrema exempla, I. s Memoires de l'Acad. Royale des Sciences 1710. circa finem.</p>
+
+      </div>
+    </body>
+  </text>
+</TEI>

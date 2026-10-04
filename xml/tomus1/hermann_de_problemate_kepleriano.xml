@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="la">Geminus Modus directus dividendi Semicirculum in data ratione: Quibus Keplerianum Problema de inveniendis Planetarum locis ad datum quodvis tempus, solutum exhibetur</title>
+        <title xml:lang="ru">Двоякий прямой способ деления полукруга в данном отношении, которым представляется решение задачи Кеплера о нахождении положений планет на любое данное время</title>
+        <author>
+          <persName>
+            <forename>Iacobus</forename>
+            <surname>Hermannus</surname>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <forename>Борис</forename>
+            <surname>Орехов</surname>
+            <addName type="latin" xml:lang="la">Boris Nuceus</addName>
+            <addName type="english" xml:lang="en">Boris Orekhov</addName>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Борис Орехов (Boris Nuceus / Boris Orekhov)</publisher>
+        <affiliation xml:lang="ru">Институт русской литературы (Пушкинский Дом) Российской академии наук</affiliation>
+        <affiliation xml:lang="la">Institutum Litterarum Russicarum (Domus Puskiniana) Academiae Scientiarum Russicae</affiliation>
+        <address>
+          <email>nevmenandr@gmail.com</email>
+        </address>
+        <ptr target="https://github.com/nevmenandr/commentarii"/>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Commentarii Academiae Scientiarum Imperialis Petropolitanae</title>
+          <biblScope unit="volume">Tomus I</biblScope>
+          <biblScope unit="page">142-149</biblScope>
+          <pubPlace>Petropoli</pubPlace>
+          <publisher>Typis Academiae</publisher>
+          <date when="1728">CIƆ IƆ C C X X V I I I</date>
+          <ptr target="https://archive.org/download/commentariiacade01impe/commentariiacade01impe_bw.pdf"/>
+          <note>Экземпляр из библиотеки Британского музея (Natural History), Лондон.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Электронное научное издание «Commentarii Academiae Scientiarum Imperialis Petropolitanae: Editio Digitalis».</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Текст приведён в исправленном после OCR виде; оригинальные лигатуры раскрыты. В оригинале XVIII века буква <hi rend="italic">f</hi> часто обозначает долгую <hi rend="italic">s</hi> (ſ); в настоящем издании все такие случаи раскрыты как <hi rend="italic">s</hi>.</p>
+        <p>Математические формулы переданы в нотации TeX внутри элемента <gi>formula</gi>.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="la">Latin</language>
+        <language ident="ru">Russian</language>
+      </langUsage>
+      <textClass>
+        <classCode scheme="internal">mathesis</classCode>
+        <keywords>
+          <term type="added">Kepler problem</term>
+          <term type="added">celestial mechanics</term>
+          <term type="added">planetary orbits</term>
+          <term type="added">quadratrix</term>
+          <term type="added">Wren</term>
+          <term type="added">Wallis</term>
+          <term type="added">Newton</term>
+          <term type="added">18th century astronomy</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="article">
+        <head>Geminus Modus directus DIVIDENDI SEMICIRCULUM in data ratione: Quibus Keplerianum Problema DE INVENIENDIS PLANETARUM LOCIS ad datum quodvis tempus, Solutum exhibetur.</head>
+        <p>Auctore Iac. Hermanno.</p>
+        <p>25. Febr. 1726.</p>
+
+        <p>Johannes Keplerus primus quod sciam docuit planetarum semitam ellipticam esse, &amp; hos planetas ipsos in sua quemque orbita ita circumferri, ut areas verrant tempori motionis proportionales. Pulchra haec reperta ex Tychonicis observationibus eruta calculum</p>
+
+        <p>Primus, quantum mihi constat, qui magni Apollonii laudem mereri conatus est, fuit Christophorus Wrenus, qui reapse viam directam inivit &amp; problema ope Cycloidis protractae construxit; Wallisus enim constructionem ejus ad calcem tractatus de Cycloide prodidit, an vero eam potissimum viam, qualem Keplerus sibi monstrari optavit, presserit, de eo valde dubito. Ipse enim Cel. Newtonus qui eandem fere constructionem Prob. 31. Lib. 1. Princip. Ph. Nat. repetiit, fassus est, propter difficilem curvae huius descriptionem, praestare solutionem adhibere vero proximam, qualem per seriem quandam angulorum convergentem exhibuit, nescio tamen, an satis expeditam. Illustrem Geometram, ut in aliis, ita &amp; hic imitati sunt David Gregorius &amp; Joh. Keill uterque enim problema Keplerianum per seriem infinitam solutum dedit, hic in Lectionibus Astronomicis, ille vero</p>
+
+        <p>Supervacaneum forte videbitur, quod posteaquam hoc problema tot insignibus autoribus solutum est, id denuo in scenam producere audeam. Audebo tamen, nec hoc faciens actum agere existimo, cum diversi unum idemque problema solvendi modi utilitate sua non destituantur. Geminum habeo, alterum mere geometricum, alterum vero arithmeticum calculoque astronomico magis accommodum. Problema quod prae manibus habemus est ejusmodi.</p>
+
+        <p>DN ad DH=AD.</p>
+
+        <p>Constructio. Semicirculo DGH alteri AQD aequali inscribatur quadratrix DLGH talis indolis, ut ex quolibet ejus puncto L ductis LK parallela diametro DH, &amp; LM eidem perpendiculari, sit ubique arcus respondens huius divisionis, nempe DK, ad abscissam DM, ut DKG ad radium DI. Sumatur dein in radio CQ sursum producto &amp; diametro perpendiculari, CP=quadranti AQ, &amp; jungatur PE, ex puncto vero N agatur NL alteri EP parallela, quadratrici alicubi occurrens in L, ex quo puncto deinceps ducta LB diametro AD parallela, occurret semicirculo AQD in optato puncto B, jungendo enim BE, triangulum ABE erit ad semicirculum AQD in data ratione DN ad DH.</p>
+
+        <p>Demonstratio. Nam ex natura lineae DLG fit AB (DK) : AQ (DG) :: DM : AC (DI), adeoque AQ×DM = AB×AC = 2 Sect. ABC. Propter parallelas PE &amp; LN, triangula PCE &amp; LMN similia sunt, &amp; praeterea (constr. AQ) : CE :: LM (BF) : MN, quare AQ×MN = CE×BF = 2ΔCEB, &amp; addendo AQ×DM + AQ×MN = 2 Sect. ABC + 2ΔCBE = 2 trilineum ABE, quare AQ×DN = 2 trilin. ABE; &amp; 2 Semic. AQDA = AQ×AD vel = AQ×DH; quare Trilineum ABE : Semicirc. AQDA (:: AQ×DN : AQ×DH) :: DN : DH. Quod erat &amp;c.</p>
+
+        <p>Curva DLG est quidem transcendens, cum sit species lineae Sinuum, eo tamen rectius ad constructionem adhibebitur, quanto facilius Cycloide protracta per puncta describi potest. Per continuam enim bifectionem quadrantis DKG ejusque partium, tot curvae puncta &amp; tam propinqua inveniri possunt, quot quis voluerit, ducendo tantum per singulas divisiones quadrantis lineas diametro parallelas &amp; per similes divisiones radii DI lineas eidem diametro perpendiculares, occursus harum perpendicularium diametro, &amp; illarum parallellarum, suppeditant totidem curvae puncta.</p>
+
+        <p>Dixi curvam DLG speciem esse lineae Sinuum: nam LM est sinus arcus DK &amp; DM huic arcui proportionalis, quare abscissae DM arcus, &amp; ordinatae LM sinus eorum repraesentant, &amp; hanc ob rationem curva DLG est linea sinuum.</p>
+
+        <p>Haec curva, quae aliis Quadratrix Tschirnhausiana vocatur, quod mentio ejus occurrat in Tschirnhausii Medicina Mentis, ubi aliquot ejusdem proprietates recensentur; haec linea, inquam, egregium usum habet in constru</p>
+
+        <p>ctionibus illorum problematum, quae ab arcubus circularibus pendent, quod haec ipsa constructio problematis Kepleriani probat.</p>
+
+        <p>Data constructio quoque arithmeticam problematis solutionem subministrat. Nam vocando arcum AB=a, radium AC=r, sinum arcus BF=s, quadrantem ABQ=q, &amp; tandem DN=b, ac CE=e, propter curvam DLG fiet DM=a/r, triangula vero similia CPE, &amp; MLN, praebent MN=e·s/r²; quare cum fit DM+MN=b, fiet a/r+e·s/r²=b; vel ar+es=br.</p>
+
+        <p>Iam vero per ea, quae III. Leibnitius in Actis Erudit. 1693 pag. 179 ex calculo differentiali, &amp; ego occasione problematis angularis per communem geometriam, in Actis 1703 pag. 351 elicuimus, est s=a-a³/(6rr)+a⁵/(120r⁴)-a⁷/(5040r⁶)+&amp;c. quare surrogando hanc sinus aestimationem in supra inventa aequatione ar+es=br, habebimus (r+e)a-a³e/(6rr)+a⁵e/(120r⁴)-a⁷e/(5040r⁶)+&amp;c.=br.</p>
+
+        <p>Si iam in hac serie omnes termini, excepto primo, evanescere intelligantur, resultabit (e+r)a=br, hoc est analogia AE:DN::AQ:AB, quae analogia iam commodam praebet approximationem arcus AB.</p>
+
+        <p>Sin vero duo, tres, vel plures ex primis seriei terminis affirmantur, orientur equationes trium, quinque, septem, &amp;c. dimensionum, quae quidem usui Astronomico non videntur idoneae. Quare progredior ad modum arithmeticum solvendi hoc idem problema.</p>
+
+        <p>5. In secunda figura, exprimat arcus AM anomaliam mediam, sitque CE eccentricitas, &amp; jungatur ME ductaque ex centro C semicirculi linea CN parallela ipsi EM, ducatur EN: dico angulum AEN esse anomaliam coaequatam quam proxime: accuratius vero invenietur haec anomalia, si iam arcus NM vocetur a &amp; radius AC=r, fiatque x=a³/(6rr)-a⁵/(120r⁴)+a⁷/(5040r⁶)-&amp;c. &amp; angulus NEB=NC²×ax : EB²; Angulus AEB erit anomalia coaequata</p>
+
+        <p>Nam trilineum NEB fiet=segmento circuli inter arcum NM &amp; ejus subtensam contento, quare cum triangula NEC &amp; NMC super eadem basi NC &amp; inter easdem parallelas NC, ME constituta aequalia sint, erit Sektor AMC = trilineo ABE; atqui Sektor AMC: Semicirc. AMDA :: AM : AMD; ergo etiam ANBE: Semic. AMDA :: AM: AMD. Hoc est in data ratione. Quod erat &amp;c.</p>
+
+        <p>Quod ad angulum BEN attinet, invenietur is ex eo, quod segmentum circuli inter arcum MN ejusque chordam MN aequari debeat sectori BEN. Iam segmentum illud aequat semissem facti ex differentia arcus MN ejusque sinus in radium CN. Verum cum arcus MN (hyp) fit a, ejusque sinus=a-a³/(6rr)+a⁵/(120r⁴)-a⁷/(5040r⁶)+&amp;c. erit arcus MN-sinu ejus=a³/(6rr)-a⁵/(120r⁴)+a⁷/(5040r⁶)-&amp;c. (hoc est propter x=a³/(6rr)-a⁵/(120r⁴)+a⁷/(5040r⁶)-&amp;c.) =ax. Sektor vero BEN aequat semissem rectanguli ex NE in Bb, demissa ex B in EN perpendiculari; Sektor enim ob parvitatem anguli BEN instar trianguli rectilinei spectari potest, &amp; perpendicularum Bb instar arculi centro E radio EB descripti. Quum autem segmentum NM aequare debeat sectorem BEN, erit FN×Bb=ax in CN; adeoque arculus Bb=CN×ax: EN. Est vero ut EB ad arculum Bb, ita radius CN ad angulum BEN=CN²×ax: EB×EN, vel quia EN &amp; EB iam instar aequalium tractari possunt, erit ideo angulus BEN=CN²×ax: EB²; ut ponebatur.</p>
+
+        <p>Exempl. Sit cum Keillio CE=0.01691, existente AC=1, quaeritur anomalia coaequata AEB, si anomalia media AM=30°. Quare angulus ACM=30°, &amp; in Δ MCE invenietur angulus MEA=NCA=29°31'.38"=arcui AN; quare NM=28'.22". In triangulo vero NCE, invenitur angulus NEA=29°.3'.7", &amp; haec est anomalia coaequata; nam angulus NEB non aequabit 4 minuta quinta, adeoque attendi non meretur.</p>
+
+        <p>Tandem dicatur, ut sinus totus ad sinum anguli PCE (erecta nempe in E normali ad AD) ita tangens anguli inventi AEN vel AEB ad anomaliam coaequatam in Ellipsi. Cl. Keil per suam seriem invenit angulum AEN, qualem hoc loco absque ullo usu seriei per solam resolutionem binorum triangulorum MCE &amp; NCE, assecuti sumus, usus enim praecedentis seriei mihi tantum monstravit, quantus debeat esse angulus NEB addendus iam invento NEA? cum vero is subducto calculo ne quidem ad 4 minuta quinta accedere inveniatur, merito contemnitur.</p>
+      </div>
+    </body>
+  </text>
+</TEI>
