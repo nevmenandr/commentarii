@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="la">Tentamen Novae de Motu Musculorum Theoriae</title>
+        <title xml:lang="ru">Опыт новой теории движения мышц</title>
+        <author>
+          <persName>
+            <forename>Daniel</forename>
+            <surname>Bernoullius</surname>
+            <addName type="latin" xml:lang="la">Daniel Bernoulli Ioh. F.</addName>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <forename>Борис</forename>
+            <surname>Орехов</surname>
+            <addName type="latin" xml:lang="la">Boris Nuceus</addName>
+            <addName type="english" xml:lang="en">Boris Orekhov</addName>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Борис Орехов (Boris Nuceus / Boris Orekhov)</publisher>
+        <affiliation xml:lang="ru">Институт русской литературы (Пушкинский Дом) Российской академии наук</affiliation>
+        <affiliation xml:lang="la">Institutum Litterarum Russicarum (Domus Puskiniana) Academiae Scientiarum Russicae</affiliation>
+        <address>
+          <email>nevmenandr@gmail.com</email>
+        </address>
+        <ptr target="https://github.com/nevmenandr/commentarii"/>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Commentarii Academiae Scientiarum Imperialis Petropolitanae</title>
+          <biblScope unit="volume">Tomus I</biblScope>
+          <biblScope unit="page">297-312</biblScope>
+          <pubPlace>Petropoli</pubPlace>
+          <publisher>Typis Academiae</publisher>
+          <date when="1728">CIƆ IƆ C C X X V I I I</date>
+          <ptr target="https://archive.org/download/commentariiacade01impe/commentariiacade01impe_bw.pdf"/>
+          <note>Экземпляр из библиотеки Британского музея (Natural History), Лондон.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Электронное научное издание «Commentarii Academiae Scientiarum Imperialis Petropolitanae: Editio Digitalis».</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Текст приведён в исправленном после OCR виде. В оригинале используется долгая s (ſ, U+017F); в настоящем издании она передана как обычная s.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="la">Latin</language>
+        <language ident="ru">Russian</language>
+      </langUsage>
+      <textClass>
+        <classCode scheme="internal">physica</classCode>
+        <keywords>
+          <term type="added">physiology</term>
+          <term type="added">muscle motion</term>
+          <term type="added">animal spirits</term>
+          <term type="added">elasticity</term>
+          <term type="added">18th century medicine</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="article">
+        <head>TENTAMEN NOVAE DE MOTU MUSCULORUM THEORIAE</head>
+        <p>Daniele Bernoulli Ioh. F.</p>
+        <p>M. Aug. 1726.</p>
+
+        <head>Sectio I.</head>
+
+        <p>Inflatio musculorum sine praevio spirituum animalium per nervos in fibras musculares influxu fieri non posse Physiologorum statuunt plerique, idque praesertim colligunt ex eo, quod impedito per ligaturam nervi spirituum influxu, nullus plane succedit musculi illius, ad quem nervus tendit, motus. Argumenta alia attuli quam plurima in dissertatione de Respiratione. Prouti autem in hoc satis conveniunt, ita e contrario maxime ambigunt de modo, quo spiritus musculos inflare brevioresque reddere possint: Alii autumant, spiritus facere in fibras musculares, quod aqua in funes: (funes enim madefacti intumescunt, contrahuntur &amp; pondera ingentia elevant) Sunt qui vasa sanguifera a spiritibus comprimi, sicque ob motum sanguinis impeditum musculos turgere dicunt; multi denique, quorum sententia invaluit maxime, putant effervescentiam in sanguine subitaneam oriri a spirituum mixtura talem, quae machinulas, quas dicunt, seu loculamenta in cavitatibus fibrarum muscularium recondita inflare possit; alii rursus aliter senserunt, quae sententiarum diversitas satis probat, vix aliud quam coniecturas in hoc argumento incerto dari posse, hasque inter illam optimam esse dicendam, quae minimas patitur difficultates.</p>
+
+        <p>II. Problemata, quae circa motum musculorum proponi possunt, talia sunt: 1. quomodo musculi notabiliter breviores fieri possint? 2. quomodo minima spirituum quantitas &amp; sine ullo fere sui dispendio subsequente musculos ita decurtare valeat? 3. quo pacto musculi brevissimo tempore &amp; contrahi &amp; restitui queant? Theoriam admitti posse nullam, quin hisce quaestionibus plane satisfiat, quilibet videt: Sunt dein alia phaenomena non ita stricte ad propositum pertinentia, quorum tamen genuina explicatio non parum roboris theoriae conciliare potest: Nullam denique motus musculorum rationem excogitabimus, quin in multa problemata Geometrica pertrahamur, si veras mensuras, sine quibus nihil unquam certi statui potest, desideremus: Eiusmodi sunt illa, quae in Sectione secunda tradam.</p>
+
+        <p>III. Incipiam a structura musculi quantum id instituti nostri ratio postulat; constat ex anatomicis, nullum esse musculum, ad quem non tendat ramus arteriae, a cuius ligatura (quod hic in transitu dixerim) non minus quam ab ligatura nervi musculus motum suum perdit, quamvis non ita prompte. Ipse vero musculus maxima parte constat ex fibris longitudinalibus, tum etiam ex minimis fibrillis transversalibus: de utroque genere monenda &amp; notanda quaedam habeo speciatim.</p>
+
+        <p>IV. Fibrae longitudinales dividi facile possunt in alia filamenta multo magis subtilia atque ita disposita, ut cylindrum cavum efforment; concipio haec filamenta ut laxe quidem inter se connexa, sed quae tamen non facile extenduntur: ita fiet ut cum cavitas fibrae longitudinalis inflatur, filamenta circa medium aliquantulum a se invicem recedant, sed in longitudinem parum vel nihil crescant. Concipe filamenta quamplurima, quorum extrema sint ac &amp; bd ita laxe inter se connexa ut facile bd possit deduci ab ac, quae autem in longitudinem difficulter extenduntur. Cogita dein ista filamenta in cylindrum convolvi ita, ut ac &amp; bd ad se invicem accedant, &amp; sic habebis fibram longitudinalem, qualem vides repraesentatam per AB. Cavitas autem quae interne relinquitur semper repleta est sanguine, id quod satis apparet ex fibrarum rubedine &amp; superveniente colore albicante, si per musculi arteriam iniectiones fiant cum aqua tepida. In tendinibus fibrae solidiores sunt &amp; compactiores nec proin sanguis illarum cavitates subire potest; unde color albus.</p>
+
+        <p>V. Pergo ad fibrillas transversales: has videmus perpendiculariter incedere super fibris longitudinalibus ad certas quasdam distantias: connectuntur earundem ope fortiter filamenta fibras longitudinales componentia: pono enim fibrillas transversales ab uno filamento ad aliud procedere sique totam fibram longitudinalem amplecti instar annuli; tales fibrillae transversales in figura prima exprimuntur per lineas ef, gb &amp;c. &amp; in figura secunda per circellos EF, GH &amp;c. atque sic dividitur cavitas totius fibrae longitudinalis in plura loculamenta (alii machinulas dicunt) quale est v. gr. EFGH comprehensum inter duas fibrillas transversales vel annulares EF, GH: Caeterum non dubito, quin hae fibrillae transversales merae sint nervorum propagines, sunt enim, ut ex anatomicis constat, tenaces &amp; durae, distractioni &amp; rupturae resistunt, dum apice acus eas discindere tentamus. conf. Borell. de mot. anim. part. I. prop. I.</p>
+
+        <p>VI. Quae de structura musculi praemisi fere omnia ab anatomicis iam fuere demonstrata; pauca mente supplenda supposuimus, sed certe nihil quod cum observationibus celeberrimorum quorumvis Anatomicorum vel minimum repugnet: Tuto proin amplectemur, quicquid ex iis eliciemus. Dixi in praecedente §. cavitatem fibrae longitudinalis dispefici in plures machinulas terminatas ab utraque parte a fibrilla transversali vel potius annulari; talis exhibetur in figura secunda per EFGH; sed ut distinctius appareret, illam seorsim repraesentavi in figura tertia sub forma cylindri, cuius basis est circulus EFM vel HGN &amp; cuius altitudo est EH vel MN vel FG. Ostendendum est, quo modo minimo spirituum influxu talis machinula cylindrica possit acquirere formam dolii valde ventricosi, atque sensibiliter decurtati, qualis figura quarta exhibetur.</p>
+
+        <p>VII. Cogitemus hunc in finem fibrillas annulares EMF &amp; HNG paululum contrahi (hanc autem contractionem explicabo inferius) in longitudinem alterius figurae emf &amp; bng; mutabitur figura cylindrica in aliam convexam &amp; talem, ut 1° singula filamenta epb, mn &amp;c. longitudinem conservent quam ante habuerant; Difficulter enim extenduntur: &amp; 2° ut capacitas machinulae in utroque casu sit eadem: Est enim machinula sanguine repleta, qui neque erumpere neque aeris instar in minus spatium redigi potest? Ad haec requiritur, quod in Sectione secunda demonstrabo, ut machinula in longitudine contrahatur nempe ut acquirat longitudinem mn, cum ante haberet longitudinem MN, tum etiam necesse est, ut intumescat circa medium ita ut amplitudo media PQ excrefcat in maiorem pq; nihil vero est quod impediat istam intumescentiam ob laxam, quam inter se habent filamenta, cohaerentiam. Confer ubique §. 4.</p>
+
+        <p>VIII. Videtur iam tota quaestio eo reducta, ut indicetur modus, quo fibrillae transversae contrahuntur: hunc vero ex ipso spirituum animalium influxu immediate deduco: Spiritus enim utcunque subtiles, spatium tamen occupant necesse est, possunt itaque minimas cavernulas fibrillarum transversalium replere, sicque aliqualem in hisce fibrillis contractionem producere; minima certe spirituum quantitas ad hoc negotium sufficiet 1° quia exigua contractio requiritur, ostendam enim deinceps parvulas in fibrillis transversalibus contractiones sat magnas producere posse in fibris longitudinalibus, si certae proportiones assumantur; 2° quia cavernulae fibrillarum transversalium minimae sunt &amp; plane non comparandae cum cavitatibus fibrarum longitudinalium. Huc quoque facit, quod dixi in fine §. 5. fibrillas transversales meras nervorum videri propagines. Caeterum non opus puto ut moneam, de singulis machinulis intelligendum esse, quod de unica dixi, &amp; sic quamlibet fibram longitudinalem totumve musculum contrahi posse.</p>
+
+        <p>IX. Dispiciamus nunc in quantum haecce nostra sententia satisfaciat desideratis §. 2. expositis; praecipuum est, an musculus notabiliter decurtari possit? De hoc ipse dubitaveram ante institutum calculum, facile videns capacitatem machinulae alicubi maximam esse; sed docuit me postea calculus, fieri posse, ut musculus plane quinta totius longitudinis suae naturalis parte brevior fiat, ita ut si quis musculus quinque pollices longus sit, is maxima sui contractione ad quatuor pollicum longitudinem reducatur. Sufficit autem haec contractio abunde phaenomenorum explicationi: dubito enim num experimentis demonstrari possit esse vel unicum musculum qui maiori quam quinta longitudinis suae parte contrahi queat. Experimentum feci, quod videre est in fine huius sectionis, quo maximam musculorum rectorum oculi contractionem exploravi, &amp; inveni, quod ipse vix sperassem, &amp; de quo haesito, an non casui potius attribuendum sit, quam alicui necessitati, inveni, inquam, contractionem maximam in dictis musculis tantillo minorem, quam quae modo definita fuit; dabitur forfan occasio alia plura de hac re experimenta instituendi.</p>
+
+        <p>X. Pergo ad alteram quaestionem, an contractio musculi minimo spirituum influxu &amp; sine ullo fere eorundem disperdio succedere possit? partem quaestionis primam ex §. 8. satis confirmari puto; circa alteram vero partem observo, quod motus musculorum sine minima spirituum iactura omnino fieri possit, siquidem nihil impedit, quo minus spiritus post musculi actionem a fibrillis transversalibus versus principia nervorum refluant: id ipsum autem ideam nostram non parum commendat. Apparet denique &amp; contractionem &amp; restitutionem musculi momento citius absolvi posse, neque enim aliud ad id tempus requiritur quam quod a fluxu &amp; refluxu spirituum impenditur, id est, brevissimum. Interim quid sit, quod spiritus a nervorum principiis ad ultimas extremitates fluere faciat id aliis indagandum relinquo, refluxum autem deduco a virtute elastica fibrillarum transversalium; sic dicendum est musculum in contractionis statu permanere, quamdiu aequilibrium adest inter illud prius motus principium, quodcunque sit, &amp; conatum qui inest minimis fibrillarum transversalium particulis sefe restituendi.</p>
+
+        <p>XI. Supersunt alia quaedam indicanda, quae pro sententia nostra facere videntur: Dein huic primae sectioni finem imponam. Dixi supra, fieri posse, ut spiritus omnes, vel saltem maxima eorundem pars, postquam in musculum egerunt, refluant; Si enim avolare dicas, unde tanta spirituum quantitas, qua continuo reparari possint? Solum cor plus centies millies contrahitur quotidie, cogites de homine pedibus iter ingrediente, de actione continua plurium aliorum musculorum vitalium; fingas haud exiguam alimentorum partem in spiritus converti, vix tamen millesimam grani partem obtineas pro una cordis systole, de qua ego non video, quomodo tantae contractioni sufficere possit. Facile porro intelligitur cur ligata arteria motus pereat in musculo, ad quem arteria tendit, nisi enim machinulae fibrarum sanguine repletae sint, motus succedere nequit, unde novus ab arteriis suppeditetur continuo sanguis necesse est, sequitur exinde quoque ligatura arteriae motum in musculo paulatim non protinus tolli, quod experientia confirmatur. Quod in tendinibus nulla contractio vel intumescentia observatur, id peti debet ex ultimis verbis §. 4. Denique cur nullus musculus in continuo contractionis statu vel perhorulae quadrantem permanere possit non a defectu virium, sed ab impedita circulatione sanguinis per machinulas deducendum esse existimo. Superest experimentum, de quo in fine §. 9. mentionem feci.</p>
+
+        <head>Experimentum pro inveniendis maximis contractionibus musculorum rectorum oculi.</head>
+
+        <p>In plano verticali duxi lineam horizontalem bm, in cuius extremitatibus b &amp; m affixi utrobique chartulam characteribus notatam, dein in eadem ab horizonte altitudine inquisivi, locum, in quem oculum dextrum (clauso sinistro) ponere possem, ita ut in utraque chartula characteres distinguere valerem immoto capite, sed moto bulbo oculi, modo versus internum modo versus externum canthum. Locum autem sollicite exploravi proximum, quantum fieri posset, lineae bm; omni porro, qua poteram, vi oculum detorsi in utramque partem, curans ut in neutram partem inclinarem caput, tandem exactissime locum detexi: Dicam quid invenerim. Repraesentet circellus cdje sectionem horizontalem bulbi in eodem plano cum linea bm constitutam, sitque linea op perpendicularis in lineam bm, inveni op=7, hp=8, &amp; pm=6, ibi cum oculus constitutus erat poteram detorquendo oculum pro lubitu in utraque chartula characteres distinguere, at appropinquando caput tantillum versus p, in neutra distinctio apparebat, &amp; declinando caput in alterutram partem motu parallelo cum Im in altera schedula distincte in altera confusae apparebant characteres.</p>
+
+        <p>Ut intelligatur, quid ex isto experimento sequatur, ad duo attendendum est; 1° quod oculus dum in orbita sua movetur, ipsius centrum o immotum manet; 2° quod in retina sive, ut alii volunt, in choroidea unicus sit loculus puta q, in quo distincte imaginem percipimus, qui fere pupillae n oppositus est. Ut itaque obiectum in b distincte videamus, requiritur ut locus q perveniat in f seu n in c, hicque motus sit ope musculi adducentis bxg, extenditur autem simul ipsius antagonista seu abducens asg, &amp; si abducens agit, quantum potest, pervenit punctum q in d seu n in e, extenditurque musculus adducens: ergo dum oculus movetur v. gr. a c in e dimidium motus fit a restitutione musculi abducentis, reliquum ab eiusdem contractione, invenitur autem angulus bom ex trigonometricis esse 89 grad. 26 min. eiusque dimidius 44°. 43'. dicendum ergo musculum abducentem maxima sua contractione rotationem producere in oculo 44°. 43'. totidemque alterum adducentem. Porro praedicti musculi asg, bxg inseruntur bulbo oculi haud procul ab iride puta in a &amp; b, cum eodemque uniti sunt usque in s &amp; x ita ut gs, gx fere tangant circulum, observavi etiam esse g vel xg ad diametrum bulbi fere ut 20 ad 9; ex his datis haud difficulter infertur, quanta sit maxima abducentis contractio, sumatur nimirum arcus st 44°. 43'. &amp; ducatur gt, erit gt ad gs proxime ut 9 ad 11. hincque sequitur maximam musculi abducentis contractionem esse aequalem 1/2 r feu paulo minorem quinta longitudinis naturalis parte. Experimentum simili modo circa musculum attollentem &amp; deprimentem institui potest, si loco bm horizontalis alia verticalis ducatur.</p>
+
+        <head>Sectio II. QUA VARIAE DILUCIDATIONES GEOMETRICAE IN PRAECEDENTEM THEORIAM EXHIBENTUR.</head>
+
+        <head>Theorema I.</head>
+        <p>Curva quam singula filamenta faciunt durante machinulae inflatione semper est elastica, cuius axis coincidit cum axe machinulae.</p>
+
+        <head>Demonstratio.</head>
+        <p>Concipiamus duo plana infinite propinqua, quorum interfectio communis sit axis machinulae, erunt singuli arculi circulares in superficie machinulae, a duobus planis resecti ut distantiae ab axe, si iam porro consideremus fluidum machinulae inclusum ut elasticum, necesse est per leges hydrostaticas, ut fluidum ubique eundem habeat elasticitatis gradum, quapropter potentiae filamentum illud comprehensum inter duo plana extendentes, erunt ubique ut latitudines filamenti seu ut arculi intercepti inter duo plana sive ut distantiae ab axe, id est, ut applicatae ad curvam quaesitam, constat autem ex mechanicis, potentias semper esse reciproce ut radii osculi, erit itaque curva, quam filamentum induit, huius indolis ut habeat ubique applicatas suas reciproce proportionales radiis osculi, quam proprietatem elasticae convenire constat.</p>
+
+        <p>II. Schol. 1. Differt itaque curva, ad quam filamenta se componunt in nostra hypothesi ab illa, quam induunt in hypothesi effervescentiae; in hac enim filamenta durante musculi inflatione eandem latitudinem conservare assumitur, &amp; sic hiatum inter duo quaevis filamenta proxime intervenire, per quem aer postquam impetum fecit in filamenta, avolare possit, atque in hac hypothesi circularem figuram filamenti attribuendam esse, certissimum est; quod nuper demonstravit Cel. Petrus Antonius Michelotti in apologia, quam pro Patre meo conscripsit contra Cl. Mead, quem tamen pro sua hypothesi recte conclusisse minime negamus.</p>
+
+        <p>III. Scholion 2. Cavendum, ne hic ordinaria aequatio elasticae accipiantur, quae minus generalis est; nam sequeretur exinde, nullam in machinulis succedere posse mutationem si filamentum EPH &amp; solidum ex ipsius revolutione circa axem MN generatum considerantur ut invariabilis &amp; constantis magnitudinis. Tradam itaque aequationem generalem pro omnibus elasticis instituto nostro satisfacientibus. Sit MN axis curva bifessus in R, ducantur perpendicularis RP, eique parallelae duae applicatae proximae ca, db, sit Rc=v, ca=y, Pa=s, cd=dx, oa=dy, ab=ds: habemus itaque posito elemento ds constante radium osculi <formula notation="TeX">\frac{dy}{ds} adx</formula>. ergo per proprietatem elasticae erit productum ex applicata in radium osculi=constanti, ponamus quantitatem illam constantem = 1/2 aa, &amp; habebitur <formula notation="TeX">-y dy ds = \frac{1}{2} aaddx</formula> &amp; integrando cum additione constantis cuiusdam homogeneae qualis est = 1/2 bbds habebitur +bbds-yyds=aadx, &amp; sumendo quadrata ponendoque dx²+dy² pro ds², posteaque reducendo aequationem obtinebitur aequatio finalis <formula notation="TeX">-dx= \frac{(bb+yy)dy}{\sqrt{a^4-b^4+2bby-y^4}}</formula>; sumo -dx, quia vi aequationis utrumque signum accipi potest, crescente autem x ponitur decrescere y.</p>
+
+        <p>IV. Coroll. In puncto P debet elementum abscissae infinite esse maius quam elementum applicatae, hoc autem fit, si in praedicta aequatione <formula notation="TeX">-dx= \frac{(bb+yy)dy}{\sqrt{a^4-b^4+2bby-y^4}}</formula> ponatur denominator =0; unde obtinetur a⁴-b⁴+2bby-y⁴=0; vel aa+bb+yy, vel denique y=√(aa+bb), est itaque RP=√(aa+bb).</p>
+
+        <p>V. Quoniam pro maxima possibili contractione musculi eruenda requiritur ut algebraice exprimatur tam solidum quod generatur ex revolutione curva EPH sive dimidiae PH circa axem MN, quam longitudo curva, quoniam etiam hae algebraicae expressiones valde sunt prolixae &amp; non nisi magno labore obtinentur per appropinquationes, ideo aliam curvam loco elasticae accipiemus tractabiliorem, sed qua tamen a figura elasticae parum recedat. Pro idonea substitutione duo requiruntur, 1° ut curva in P sit perpendicularis, &amp; 2° ut radii osculi crescant decrescentibus applicatis, ita ut ubique radii osculi fere sint in reciproca ratione applicatarum. Posteriori conditioni satisfacit huiusmodi aequatio <formula notation="TeX">c-x= \frac{(3bby+y^3)}{3aa}</formula>, qua dat radium osculi ubique = <formula notation="TeX">\frac{(a^4+(bb+yy)^2)}{2a^4y}</formula>, qua expressio indicat esse proxime radium osculi applicatae reciproce proportionalem, modo y valorem non habeat plus quam mediocrem respectu quantitatum a &amp; b. Sed haec curva nullibi est ad applicatam perpendicularis, aut itaque ad altiores aequationes deveniendum erit aut in alia curva acquiescendum non ita stricte desiderato secundo satisfaciente. Credo autem melius fieri non posse ob multas rationes quam considerando curvam PH tanquam parabolam cuius axis est PR &amp; cuius vertex P. Est enim haec curva perpendicularis in P ad PR; crescunt quoque radii osculi decrescentibus lineis ac; suntque fere in reciproca constanti ratione si parameter parabola magna sit &amp; ramus PH exiguus accipiatur, quod utrumque fit in hypothesi nostra. Denique hoc commodi accedit, quod tam solidum rotatione curva circa RN generatum quam ipsa curva longitudo possint quantitatibus finitis exprimi.</p>
+
+        <p>VI. Sit iam RN=c, RP=b, parameter=a, &amp; erit NH=<formula notation="TeX">\frac{ab-cc}{a}</formula>; sit porro quadratum radii ad aream circuli ut 1 ad m &amp; erit solidum circumvolutione curva PH circa RN descriptum =<formula notation="TeX">\frac{(15maabc-10mabc^3-3mc^5)}{15aa}</formula> &amp; longitudo curva PH=<formula notation="TeX">4 log. (\frac{a}{4}(\sqrt{aa+4cc})-2c) + \frac{a^3}{16(\sqrt{aa+4cc})-2c)^2} - \frac{(\sqrt{aa+4cc})-2c)^2}{a}</formula>; &amp; cum utraque quantitas (solidum &amp; curva longitudo) sit constans priorem faciemus =n³, posteriorem =100, prior aequatio quam deinceps vocabo (A) dat b=<formula notation="TeX">\frac{c^3}{a} + \sqrt{\frac{4}{5} aa n^3 - 4c^4}</formula>: altera aequatio (quam vocabo B) talis est <formula notation="TeX">4a \log. (\sqrt{aa+4cc})-2c) + \frac{a^3}{(\sqrt{aa+4cc})-2c)^2} - \frac{(\sqrt{aa+4cc})-2c)^2}{a} = 1600</formula>.</p>
+
+        <head>Theorema II.</head>
+        <p>Non potest musculus contrahi ultra quintam longitudinis suae naturalis partem.</p>
+
+        <head>Demonstr.</head>
+        <p>Si in aequatione (B) consideretur a ut quantitas variabilis, facile tentanti apparebit esse alicubi radicem totius quantitatis complexae maximam. Si dein c ponas esse maiorem quam 80, erit illa radix maxima maior quam 1600, secus erit minor, unde liquet aequationem B nullam habere radicem realem, quoties c minor est quam 80. Sed c est =RN= dimidiae longitudini musculi contracti, &amp; PH= dimidiae longitudini musculi non contracti=100; summa itaque contractio non potest excedere quintam longitudinis naturalis partem.</p>
+
+        <p>VIII. Scholion. Quoties c maior est quam 80 habet aequatio B duas radices, id est, duo valores litterae a assignari possunt qui aequationi (B) satisfaciunt, inter quos maior est accipiendus. Assignavi autem valorem litterae c vero paulo minorem, propius ad verum accedes, si definito numero addas 4 centesimas. Possunt vero huiusmodi minutiae negligi. Feci quoque calculum in hypothesi, esse curvam PH arcum circularem &amp; tum inveni maximam contractionem partium 18, cumque parabola magis accedat ad naturam elasticae quam circulus radios suos osculi constantes habens, statuendum est admissa elastica, maximam contractionem paulo maiorem esse quam illa quae oritur, cum PH consideratur ut arcus parabolicus; unde ut numerum rotundum habeamus, illam faciemus partium 20 seu unius quintae totius musculi longitudinis.</p>
+
+        <head>Theorema III.</head>
+        <p>Ut musculus quantum fieri potest contrahatur, requiritur ut longitudo machinulae fit ad eiusdem diametrum in maiori ratione quam 100 ad 77.</p>
+
+        <head>Dem.</head>
+        <p>Theorema manifestum fiet considerando quid fiat si successive minor accipiatur diameter machinulae posita eiusdem longitudine constanti; determinatur autem diameter machinulae ab ipsius soliditate; unde statim ponemus loco n³ numerum sat magnum, dein minorem continuo. Sit primo loco n³=4000000 &amp; cum in statu naturali musculi sit PH linea recta seu arcus parabola cuius parameter infinita, ponendum statim est a=oo; &amp; sic mutatur aequatio A in hanc b=n√n e, sed est quoque in statu naturali RN=PH seu c=100, ergo b=200, &amp; NH= ab-cc (in praesenti casu) 200, unde posito n³=4000000 fit semidiameter machinulae ad eiusdem semilongitudinem ut 200 ad 100, seu ut 2 ad 1; haec ita se habent antequam musculus contrahatur, ponatur iam contrahi musculum, ita ut RN, quae antea fuerat centum partium, nunc habeat v. gr. 99. id est, ponatur c=99, &amp; ope aequationis (B) inquiratur in valorem ipsius a; dein per aequationem (A) innotescet quoque valor ipsius b seu RP, &amp; tandem quoque ipsius NH seu ab-cc. Sic invenietur RP, iam maior &amp; NH minor quam 200 part. hocque pacto semper aliquid accedet lineae PR diminueturque linea NH (ponendo successive c=98, c=97, c=96 &amp;c.) donec tandem ponas c=89; hunc enim si transgressiaris terminum, non amplius decresceres sed cresceres rursus lineam NH deprehendes; unde haud difficulter infertur non posse c minorem esse quam 89 neque proin musculi contractionem maiorem quam 11 partium. Ponamus iam valorem minorem pro n³ quam 4000000 &amp; sic maior obtinebitur contractio; est autem eo usque diminuendum n³, donec maxima contractio fiat 20 partium; id erit, cum facies n³=600000; sitque tunc semidiameter machinulae non contractae 77 part. patet proin requiri pro maxima contractione ut longitudo machinulae sit ad diametrum in maiori ratione quam 100 ad 77.</p>
+
+        <p>X. Coroll. Ut fibra longitudinalis contrahatur quinta parte oportet ut fibra transversalis brevior fiat totius suae longitudinis. Positis enim n³=600000 &amp; c=100, fit NH=77 &amp; facto c=90 fit NH=50; est ergo contractio fibrae transversalis 27/77 longitudinis suae totius. Si ad maiorem distantiam fibrillae transversales essent collocatae, magis contrahi deberent, quaeritur ergo an tanta contractio, quae viginti septem partes septuagesimarum septimarum exaequat, fieri possit in fibra transversali? De hoc autem nequaquam dubitandum: Nam cum cavernulae fibrarum transversalium spiritibus replentur, disponuntur ad figuram solidi, quod generatur ex rotatione elasticae circa axem; &amp; quando praedictae cavernulae spiritibus maxime sunt repletae, fit elastica rectangula; est autem longitudo elasticae rectangulae ad axem proxime ut 11818 ad 4741: ergo maximae cavernularum contractiones esse possent 3333/7777, feu valde propinque 3333/7777, quae quantitas multo maior est quam 27/77.</p>
+
+        <head>Theorema IV.</head>
+        <p>Si longitudo machinulae muscularis habeat ad eiusdem diametrum rationem minorem quam 100 ad 77, nunquam ad quintam partem decurtari musculus potest; &amp; quo minor fuerit ratio longitudinis ad diametrum, eo minores contractiones requiruntur fibrarum transversalium pro similibus contractionibus fibrarum longitudinalium.</p>
+
+        <head>Demonstratio.</head>
+        <p>prioris propositionis partis constat ex §. 9. altera vero pars elucescet, si diversos assumendo valores pro n³ videatur, quanta contractio fibra transversalis requiratur in singulis casibus pro contrahenda machinula v. gr. una centesima. Reperietur autem quod in propositione dictum est. Ita vidimus in §. 9. quod posito n³=4000000, maxima contractio fibrae longitudinalis fit undecim illarum partium, quarum machinula in tota longitudine naturali habet centum, &amp; quod pro illa obtinenda fibra transversalis debeat decurtari novendecim ducentesimis, quae quantitas minor est illa, quae pro simili effectu requireretur si n³ esset =600000.</p>
+
+        <p>XII. Coroll. Verosimile est, diversam structuram inesse fibris musculorum longitudinalibus: Scilicet illas minus frequenter decussari a fibrillis transversalibus in musculis, qui maioribus contractionibus destinati sunt, frequentius in aliis. Distantiam autem fibrillarum transversalium a se invicem nunquam excedere 100 partes diametri fibrae longitudinalis; &amp; cum per experimentum Sectioni primae subiunctum constet, maximam musculorum rectorum oculi contractionem fere tantam esse quanta vi theoriae nostrae esse potest, statuendum est in his musculis distantiam fibrillarum transversalium parum deficere a 100 partibus diametri fibrae longitudinalis.</p>
+
+        <figure xml:id="fig1" corresp="#p299">
+          <head>Fig. 1</head>
+          <graphic url="images/tomus1/bernoulli_tentamen_novae_fig1.png"/>
+        </figure>
+
+        <figure xml:id="fig2" corresp="#p299">
+          <head>Fig. 2</head>
+          <graphic url="images/tomus1/bernoulli_tentamen_novae_fig2.png"/>
+        </figure>
+
+        <figure xml:id="fig3" corresp="#p300">
+          <head>Fig. 3</head>
+          <graphic url="images/tomus1/bernoulli_tentamen_novae_fig3.png"/>
+        </figure>
+
+        <figure xml:id="fig4" corresp="#p300">
+          <head>Fig. 4</head>
+          <graphic url="images/tomus1/bernoulli_tentamen_novae_fig4.png"/>
+        </figure>
+
+        <figure xml:id="fig5" corresp="#p304">
+          <head>Fig. 5</head>
+          <graphic url="images/tomus1/bernoulli_tentamen_novae_fig5.png"/>
+        </figure>
+      </div>
+    </body>
+  </text>
+</TEI>

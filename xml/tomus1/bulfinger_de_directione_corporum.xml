@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="la">De Directione Corporum Gravium in Vortice Sphaerico, et Figura Nuclei. Dissertatio Experimentalis</title>
+        <title xml:lang="ru">О направлении тяжёлых тел в сферическом вихре и о фигуре ядра. Экспериментальная диссертация</title>
+        <author>
+          <persName>
+            <forename>Georgius Bernhardus</forename>
+            <surname>Bülffingerus</surname>
+            <addName type="latin" xml:lang="la">G. B. Bülffingerus</addName>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <forename>Борис</forename>
+            <surname>Орехов</surname>
+            <addName type="latin" xml:lang="la">Boris Nuceus</addName>
+            <addName type="english" xml:lang="en">Boris Orekhov</addName>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Борис Орехов (Boris Nuceus / Boris Orekhov)</publisher>
+        <affiliation xml:lang="ru">Институт русской литературы (Пушкинский Дом) Российской академии наук</affiliation>
+        <affiliation xml:lang="la">Institutum Litterarum Russicarum (Domus Puskiniana) Academiae Scientiarum Russicae</affiliation>
+        <address>
+          <email>nevmenandr@gmail.com</email>
+        </address>
+        <ptr target="https://github.com/nevmenandr/commentarii"/>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Commentarii Academiae Scientiarum Imperialis Petropolitanae</title>
+          <biblScope unit="volume">Tomus I</biblScope>
+          <biblScope unit="page">245-261</biblScope>
+          <pubPlace>Petropoli</pubPlace>
+          <publisher>Typis Academiae</publisher>
+          <date when="1728">CIƆ IƆ C C X X V I I I</date>
+          <ptr target="https://archive.org/download/commentariiacade01impe/commentariiacade01impe_bw.pdf"/>
+          <note>Экземпляр из библиотеки Британского музея (Natural History), Лондон.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Электронное научное издание «Commentarii Academiae Scientiarum Imperialis Petropolitanae: Editio Digitalis».</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Текст приведён в исправленном после OCR виде; оригинальные лигатуры раскрыты. В оригинале используется долгая s (ſ, U+017F); в настоящем издании она передана как обычная s.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="la">Latin</language>
+        <language ident="ru">Russian</language>
+      </langUsage>
+      <textClass>
+        <classCode scheme="internal">physica</classCode>
+        <keywords>
+          <term type="added">vortex theory</term>
+          <term type="added">Cartesian physics</term>
+          <term type="added">gravity</term>
+          <term type="added">Huygens</term>
+          <term type="added">experimental physics</term>
+          <term type="added">18th century physics</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="article">
+        <head>DE DIRECTIONE CORPORUM GRAVIUM IN VORTICE SPHAERICO, ET FIGURA NUCLEI, Dissertatio Experimentalis, Auct. G. B. Bülffingero.</head>
+        <p>M. Nov. 1725.</p>
+
+        <head>Occasio et Destinatio Experimenti.</head>
+
+        <p>Sunt anni complures, ex quo occasione epistolae a Iac. Bernoulli ad I. Chr. Sturmium scriptae, &amp; in Actis Erud. Lips. 1686. M. Febr. p. 92. seqq. exhibitae, visum mihi est, recte illos subducere rationes suas, qui ex motu vorticis, qualem Cartesius statuit, Sphaerici, circa sphaerae axem gyrante, concludant, gravia illius ope potius ad axem, quam ad centrum telluris tendere debere. Posito enim, uti Cartesius voluit, aetherem aëremque constare corpusculis ad concipiendum motum vehementiorem aptioribus, quam sunt terrestria, additoque, quod vulgaribus constat experimentis, corpora vehementiori motui apta fortius niti ad peripheriam, si in circulo illa moveri contingat, adeoque caetera ab illis propelli ad centrum motus illius circularis: certum erat, terrestria per impulsum illum colligi a peripheria ad centrum. Sed quale centrum? centrum ipsius sphaerae, &amp; vorticis totius? an centrum circuli cum aequatore vorticis paralleli?</p>
+
+        <p>II. Cartesiani, ut explicatio propius accederet ad Phaenomenon gravitatis, cui scil. explicando hae vorticum hypotheses a Cartesio destinabantur, ex illa vorticis actione derivarunt nisum ad ipsum Sphaerae centrum, eoque facto &amp; directionem gravium, &amp; figuram telluris sphaericam conati sunt exponere.</p>
+
+        <p>III. Contradixit Cartesianis inter complures alios praecipue Christ. Hugenius, ratus, ex isto vorticis motu sequi impulsum gravium non ad centrum totius sphaerae, sed ad centrum circulorum aequatori parallelogram, sive ad axem; plane uti Keplerus dixerat, &amp; ante Cartesium schematismo expresserat, in Epit. Astron. Copern. p. 97.</p>
+
+        <p>IV. Plausibilius hoc est primo statim intuitu, videtur enim rationi congruum, si duo corpora in circulari aliquo plano simul mota inaequales nisus habeant, adeoque imbecillius a fortiori repellatur, ut illud repellatur in eodem plano, in quo utrumque nititur ulterius progredi. Placuit itaque id argumentum non paucis.</p>
+
+        <p>V. Hugenius, ne in solarefutatione falli substinere videretur, &amp; explicando phaenomeno aliquid accommodum inveniret, pro obtinendis directionibus gravium ad horizontem perpendicularibus, &amp; figura telluris prope sphaerica per vorticem generanda, substituit gyrationi Cartesianae aliam, qua materia subtilis superficiei sphaericae inclusa, infinite variis sub illa superficie directionibus movetur, secundum arculos circulorum sphaerae maximorum. Cuiusmodi fere illud est, quo Joh. Christ. Sturmius in Colleg. Curios. P. II. Epist. ad Henr. Morum §. 23. p. 23. innuit: circulos vel arcus potius, a singulis materiae subtilis partibus descriptos, ita concipiendos esse, ut omnes gyrationis suae impetum ab uno sphaerae puncto nactae intelligantur. Secuti sunt Hugenianam nisuum rationem plures alii, &amp; novissime Cel. Wolfius in Physico Systemate; difficultatem vero, vel, si mavis, impossibilitatem vorticis eiusmodi opposuerunt Sturmio Iac. Bernoullius, l. c. Actor. Lips. &amp; Hugenio Saurinus.</p>
+
+        <p>VI. Novas scil. Cartesianae causae suppetias tulit Cel. Saurin, eandemque vacillantem conatus est omnino stabilire, editis duabus in hanc rem commentationibus, quarum prima in Ephemerid. Erud. Gall. ad A. 1703. p. 38. seq. obvia, non modo solvere Hugenianam adversus Cartesianos vortices ratiocinium, sed etiam demonstrare sategit, ex reactione superficiei sphaericae, vorticem fluidum ambientis, generari nisum ad ipsius sphaerae centrum. Secunda in iisdem Ephemerid. Gall. ad A. 1707. m. Maio p. 327. &amp; seqq. excusa, primo quidem pro Cartesio urget, si vel maxime vortex conciperetur ab initio Cylindricus, illum tamen ipsa sui in vicinum fluidum pressione redactum iri in figuram sphaericam, vel sphaeroidicam; Deinde vero phaenomenis naturae multo magis respondere motum vorticis circa telluris axem ex occidente in orientem gyrantis, quam interruptas illas gyrationum, in circulis maximis factarum, portiones Hugenianas. Intelligo ex Commentariis Acad. Scient. Paris. ad A. 1709. p. 167. edit. Batav. opposuisse Saurinianae meditationi prima nonnulla viros Clar. Parentium &amp; Montreum, sed quae ingeniosissimum Auctorem a sententia sua adeo non dimoverint, ut potius pro perfecte demonstratis habeat, quae A. 1703. in Hugenianas Demonstrationes dixit.</p>
+
+        <p>VII. Liceat sine cuiusquam iniuria fateri, me in re adeo lubrica, &amp; variis composita circumstantiis, semper nonnihil haesisse circa demonstrationum hactenus extantium evidentiam, adeoque subinde optasse, ut res experimento decidi luculento posset; maxime cum viderem, summos viros v. g. Iac. Bernoullium l. c. ambiguos esse, an ex fundamento superficiei sphaericae deduci possit, quod ad centrum potius sphaerae, quam circuli paralleli tendat nisus corpusculorum a peripheria propulsorum. Etsi enim mihi videbar intelligere rationem, cur futurum non sit, ut ad centrum sphaerae tendant corpuscula; nolui tamen in re difficili meum interponere iudicium; aut praecipitare conclusionem, nondum consulta per experimentum natura.</p>
+
+        <p>VIII. Succurrit facile animo notissimum Hugenii experimentum, in causa gravium frequenter adhiberi solitum: quo is, assumto vase Cylindrico Diametri 8-10". &amp; altitudinis 4-5", idem aqua &amp; cerae hispanicae abrasis particulis replevit, vitro superne obtectum, &amp; tabulae ligneae impositum, cuius ope in gyrum agi celerrime poterat. Facto enim motu vasis pernicissimo, &amp; inhibito iterum repente eodem motu, accidit, ut aqua diutius adhuc gyros continuaverit suos, &amp; hispanicae cerae particulas circa centrum baseos cylindri in cumulum quasi hemisphaericum coegerit. Non id tamen instituto satisfecit meo, quod subinde mihi videbatur, circumstantias in hoc experimento tales misceri, quales non admittant vortices sive Cartesiani sive Hugeniani, si qui in rerum natura occurrant sphaerici. Praecipue nuclei tantum hemisphaeroidici productio, &amp; cylindricus vortex, &amp; sustinens corpora fundus vasculi, ad huius quaestionis definitionem minus convenire videbantur.</p>
+
+        <p>IX. Coepi igitur primo cogitare, annon ita institui res possent, ut vice dimidiati nucleus prodiret integer; finis enim assumtorum a Cartesio &amp; Hugenio vorticum caelestium est sphaerae genesis. Atque hic facile animum subit cogitatio, si vas cylindricum in medio esset divisum diaphragmate basibus parallelo, &amp; in parte eius inferiori miscerentur aquae corpuscula non multo leviora specifice, quam est aqua: futurum fortassis, ut inferne non minus dimidia nuclei pars in medio diaphragmatis colligeretur, quam superne; maior aut minor pro materiae, quae adhiberetur, maiori aut minori quantitate, aut diversitate gravitatis specificae. Tentavi aliquid in eam rem, non sine omni successu: sed difficilior tamen huius experimenti dextre capiendi ratio est, &amp; vortex non defuit esse cylindricus; ut de influxu gravitatis &amp; levitatis corpusculorum aquae mixtorum in figuram nuclei nihil dicam. Quos enim ego obtinui nucleos, sphaerici profecto non fuerunt.</p>
+
+        <p>X. Visum igitur est, vortices eiusmodi cylindricos, tanquam ab hoc natura facto remotiores, adhuc missos facere, eandemque propius imitari; excitato vortice potius sphaerico, in quo ad imitationem Hugeniani experimenti, corpuscula specifice graviora primo quidem ab aqua in vase gyrante mota abriperentur; adeoque, ut coniectura erat, durante quidem vasis gyratione extremum occuparent; sed cessante illa ab aqua diutius motum continuante, ad interiora pellerentur; exhibitura figuram, uti facile coniicere licebat, sive sphaericam sive cylindricam.</p>
+
+        <p>XI. Id consilium, iam ante tres vel quatuor annos captum, non licuit executioni dare, nisi paucis abhinc hebdomadis; adhibitis in eam rem vitris &amp; machinis, quibus ad lumen manus affrictu excitandum Hauksbeius primo &amp; deinde caeteri hucusque usi sunt: feliciori, quam prius divinaveram, successu. Cum enim animus esset attendere ad figuram, quam cessante vitri motu, gyrante autem sola in illo aqua, partes cerae hispanicae, ab aqua propulsae, acquisiturae essent; aer, qui sefe invito mihi obtru serat, &amp; passim ab aqua se separaverat, durante &amp; vitri &amp; aquae motu gyrante talem induit figuram, ut non gravate ferrem, turbari ab illo motum cerae &amp; aquae ad quietem redeuntis; consequenter genesin figurae, quam a cerae memoratae particulis expectaveram, eludi.</p>
+
+        <p>XII. Experimenti illius aliquoties, &amp; coram Societate, facti circumstantiae potiores hae sunt:</p>
+
+        <head>Experimentum.</head>
+
+        <p>Assumpsi vitrum utcunque sphaericum; diameter enim maior est caeteris, &amp; Poli desinunt in conum quasi quendam truncatum. Instructum illud est circa polos suos cylindris metallicis, prominente axiculo dotatis, in quorum altero conspicitur rotula minor fixa, cui filum circumduci potest, praesente in eum finem crena. Id vitrum per foramen cylindri alterius implevi aqua, pauco pulvere cerae hispanicae nigrae &amp; scobe ferrea apta vique ad machinam, cuius ope alioquin pro excitando per affrictum lumine rotationes similium sphaerarum vitrearum fieri solent.</p>
+
+        <figure xml:id="fig4" corresp="#p251">
+          <head>Fig. 4</head>
+          <graphic url="images/tomus1/bulfinger_de_directione_corporum_fig4.png"/>
+        </figure>
+
+        <p>XIII. His factis coepi versare manubrium machinae praedictae, ut gyros agere vitrum inciperet, vidique:</p>
+
+        <p>1. Superius in vitro sefe ostendere bullam (uti dicitur, vel potius segmentum) aëris, quae instituta rotatione deflecteret in eam partem, in quam dirigebatur rotatio.</p>
+
+        <p>2. Scindi vero illam in medio sui, antequam deflectat, per aquam extima sphaerae loca affectantem.</p>
+
+        <p>3. Continuato paululum motu, cerae &amp; ferri pulverem adhaerere lateribus vasis circa aequatorem motus, per modum zonae; postquam antea iam</p>
+
+        <p>4. Aliquot impulsibus superne proiectus iterum sua gravitate decidisset.</p>
+
+        <p>5. Cessante vitri motu aërem interturbare ascensu suo motum aquae, &amp; sic impedire, quo minus succedere sperata cerae &amp; scobis ad centrum vel axem impulsio regularis fieri posset. Hoc primum tentamen erat.</p>
+
+        <p>XIV. Repleto igitur iterum vitro, sic, ut, cum inverteretur, nulla superius bullula aërea conspici amplius posset, incoavi denuo gyrationem, &amp; observavi:</p>
+
+        <p>6. Passim erumpere in aqua bullulas aëris minores, &amp; colligi in maiusculas, &amp; cessante deinceps motu, vidi earum plurimas adhaerere particulis cerae hispanicae</p>
+
+        <p>7. Facto concitatiore motu aëreas illas particulas ex latere, in quod nro. 1. deflectebant, propius subinde ad axem sphaerae &amp; rotationis accedere.</p>
+
+        <p>8. Tandemque elegantem visui exhibere cylindrum, eundemque</p>
+
+        <p>9. Prout motus gyrationis fieret velocior, graciliorem; in quo tamen</p>
+
+        <p>10. Bullulae illae aëreae inter sefe contiguae non erant, sed inter aqueas gyrabant.</p>
+
+        <p>11. Remittente nonnihil motus celeritate cylindrus ille aqueo-aëreus reddebatur Diametri amplioris, adeoque laxioris, ut sic dicam, mixtionis.</p>
+
+        <p>12. An aucta motus pernicitate colligi bullae illae in cylindrum continuum possint, nolui tentare metu damni, quod fortaffis vitro inferri possit, hactenus unico ad hoc experimentum.</p>
+
+        <p>13. Si motu remissiori bullulae antea separatae coibant in maiores, figura earum sphaerica non fuit, sed latior</p>
+
+        <p>14. Elegantissimum fuit spectaculum, quod admisso in maiori copia aere, &amp; cylindro adhuc valde amplo, conspiciendum sefe praebuit, dum bullulae quaedam aëreae non transibant centrum vorticis sphaerici, sed ex latere dextro, quorfum descendens aqua tendebat, faciebant gyros quasi ellipticos, aliae centrum vorticis transgressae spiras, quales pro motu planetarum Cassinus descripsit in Memoir. de l'Acad. 1709. p. 328. Sit LMNO sectio aequatoris, vel circuli ad illum paralleli in vitro sphaerico: Sit ABCD sectio Cylindri: repraesentabit abcd gyrum unum, &amp; EFGHI gyros alteros utcunque expressos imitatione liberiori.</p>
+
+        <figure xml:id="fig5" corresp="#p253">
+          <head>Fig. 5</head>
+          <graphic url="images/tomus1/bulfinger_de_directione_corporum_fig5.png"/>
+        </figure>
+
+        <p>15. Cum sisteretur motus vitri, &amp; cylindrus aëreo-aqueus esset nonnihil amplior, vidi post parvulam morulam coarctari cylindrum illum adhuc gyrantem, &amp; tum demum fieri iterum ampliorem, &amp; dissolvi.</p>
+
+        <p>16. Ascendere tandem bullulas aëreas ad summitatem, sed maiores plerasque motu retrogrado potius, quam directo. Exprimat ABC directionem aquae in vase iam quiescente. Sit B summitas eius, rotetur bullula secundum pgrs: rarissime fiebat, ut veniret ex p per q in B, sed venientes ex q per r in s, inde regrediebantur in B ibidem postmodum haesurae.</p>
+
+        <p>XV. Caetera, quae in hisce tentaminibus ex occasione observavimus, fere huc redeunt:</p>
+
+        <p>17. Cera Hispanica &amp; limatura Martis faciebant zonam, sive zodiacum quasi quendam circa aequatorem.</p>
+
+        <figure xml:id="fig7" corresp="#p253">
+          <head>Fig. 7</head>
+          <graphic url="images/tomus1/bulfinger_de_directione_corporum_fig7.png"/>
+        </figure>
+
+        <p>18. Inaequalis tamen densitatis, &amp; si ad minutias respicere placeat, latitudinis.</p>
+
+        <p>19. Erat pars eius, quae sefe, remittente paululum velocitate rotationis, a reliqua separabat, &amp; ab aequatore plus vel minus recedebat, Tropicum repraesentans, aut Polarem circulum.</p>
+
+        <p>20. Mobilis illa, prout intendebatur motus, vel remittebatur nonnihil, adeoque spiras agens in superficie sphaerae concava, &amp;</p>
+
+        <p>21. Si multum minuebatur motus celeritas, abscondebat sefe pars illa in cylindros polares.</p>
+
+        <p>22. Si motus vitri inhibebatur, pars pulveris circa aequatorem vorticis haerens decidebat gravitate sua, sed irregulariter, ob turbas ab ascendentibus hinc inde bullulis aereis factas.</p>
+
+        <p>XVI. In prioribus tentaminibus nequidem T 1/1000 capacitatis vasis repleta erat aere, fed cum aeris copia maior admittebatur, ut 1/4, 1/3, 1/6 partem vasis occuparet, &amp; velocitas gyrationis nonnihil intendebatur:</p>
+
+        <p>23. Collectus est aer in cylindrum, circa medium sphaerae, ab omni aqua liberum, cuius intima superficies apparebat politissima;</p>
+
+        <p>24. Neque magna rotationis celeritas requisita est, ad conservandum huncce nucleum cylindricum, postquam semel genitus erat;</p>
+
+        <p>25. Manebatque, inhibito licet sphaerae motu, tamdiu, donec aqua gyrans ob affrictum ad vitri latera motum &amp; nisum suum amitteret.</p>
+
+        <head>Conclusiones.</head>
+
+        <p>XVII. Enarratis hucusque Phaenomenis facile foret, in causas uniuscuiusque singulatim inquirere; facile etiam, ostendere leges vorticum, quibus obtineri possunt phaenomena pro desperatis habita; v. gr. spirales alternatim maiores, minoresque corporum caelestium, &amp; similia. Non id vero praesentis instituti est, quo hoc unum agimus, ut figuram nuclei a vortice sphaerico generandi definiamus; eoque ipso viam sternamus ad solvendum Problema Mechanicum, quo leges vorticum tales requiruntur, ut nucleus oriatur sphaericus.</p>
+
+        <p>XVIII. Duas igitur conclusiones hic potissimum inferimus: altera rem spectat, altera pertinet ad modum ratiocinandi de vorticibus: Utraque in exponenda gravitatis causa utilis &amp; necessaria videtur.</p>
+
+        <p>XIX. Constat igitur experimenti fide, &amp; oculorum testimonio; in vortice sphaerico circa axem sphaerae rotato, corpuscula cedentia, hoc est, ea, quae ab impulsu fluidi vorticofi a peripheria versus medium pelluntur, non coire in nucleum sphaericum, fed cylindricum: Itaque ex solo eiusmodi vortice non satis exacte deduci directionem corporum cedentium versus centrum vorticis, sed illam tendere ad axem gyrationis.</p>
+
+        <p>XX. Cessat itaque dubium, quo hactenus in diversa distracti fuerunt eruditi, postquam natura exemplo oculis obvio prodidit, quid in obscuro faciat, cum vortices rotat ex Cartesii praecepto. Puto autem, satis commode in hoc experimento exprimi conditiones desiderati vorticis. Habemus fluidum, superficie sphaerica comprehensum, &amp; actum in gyros circa axem sphaerae.</p>
+
+        <p>XXI. Verum est, motum rotatorium imprimi aquae per actionem superficiei ambientis, eandemque simul cum aqua ferri in eandem plagam; Fortassis pro Cartesio dicas, motum vorticofum in natura aliter impressum esse, &amp; superficiem concludentem quiescere. Non id vero illationi nostrae officiet. Quicquid fit de modo, quo vortici motus ab initio imprimitur, consideramus illum in statu manenti. Quo casu neque officit superficiei extimae quies, uti vidimus nro. 15. &amp; 25. in experimentis. Manet igitur, quod §. 19. diximus.</p>
+
+        <p>XXII. Alterum hoc esto: Pro iudicanda directione vis centrifuga particularum fluidi circa axem rotantium considerari debet illud plenum, quod aequatori parallelogram est, non vero planum meridiani, vel alterius circuli in sphaera maximi. Patet id ex figura nuclei cylindrica, vi cuius directio corporum cedentium est perpendicularis ad axem in planis aequatori parallelis.</p>
+
+        <p>XXIII. Iuvat autem hoc attendere, quoniam, si ratiocinio agere solo vellemus, posset res videri dubia. Ex una quidem parte sic infero: quoniam ipse motus, a quo vis centrifuga oritur, non fertur secundum meridianum vorticis, vel circuli alterius maximi aequatorem secantis, sed secundum circulos aequatori parallelos: igitur &amp; directio vis centrifugae particulae cuiuscunque erit in planis aequatori parallelis.</p>
+
+        <p>XXIV. Ex altera autem parte superficiem attendendo sphaericam alia ab aliis aestimatio eruta est. Iac. Bernoullius, loco superius citato ingeniose monet, plana circuli paralleli, v. g. tropici, &amp; circuli maximi v. g. eclipticae sefe intersecare in linea, quae utriusque circuli tangens sit. Si ergo punctum contactus, rotari incipiens juxta ductum tropici, conatum habeat recedendi per tangentem, hactenus aeque aestimari posse, quod recedat a centro Eclipticae, atque a centro tropici, cum eadem sit utriusque tangens. Nullam igitur rationem esse, cur pulsio globulorum fiat in plano verticali potius, quam in plano circuli paralleli, vel quovis alio, cum tangens illa, secundum quam recedere conatur globulus, infinitis planis sit communis. Ambigit itaque hoc loco Vir eximius ob sphaerae rationem.</p>
+
+        <p>XXV. Alibi ex hac ipsa consideratione pronunciat pro Cartesio. Postquam enim in iisdem Actis A. 1695. P. 547. de pressione fluidorum adversus latera vasorum annotaverat, fieri illam perpendiculariter ad superficiem continentem, ex eo intulit, directionem corpusculorum retro impulsorum ferri erga centrum sphaerae, quae scilicet sola sit ad superficiem perpendicularis.</p>
+
+        <p>XXVI. Alio nonnihil modo ad eandem pervenit conclusionem Cel. Saurinus, Journ. des Savans, A. 1703. M. Ian. p. 40. 41. Ille, concesso, quod particulae cedentes ferrentur directe ad axem, si circulus aequatori parallelus conciperetur seorsim, aut in vortice cylindrico constitutus: negat, idem obtinere, si fluidum superficie comprehendatur sphaerica. Meretur ingeniosa Viri Cel. annotatio, ut &amp; hoc loco legatur:</p>
+
+        <p>Il est clair, que la matiere fluide, qui dans le plan du cercle parallele, dont le Diametre est DN, fait effort pour s'eloigner du point O suivant OD, &amp; qui par son effort pousse au point C la surface spherique, dont le cercle PAQE est une section par l'axe; il est clair dis-je, que cette matiere n'est pas autrement repoussée par la surface, qu'elle pousse, qu'elle le seroit par un plan, qui toucheroit cette surface au point D. Ainsi selon les loix de la Mechanique, son effort en ce point est reflechi contre le fluide, qui est a cote, suivant la corde DM egale a DN; or cet effort étant soutenu par la reaction du fluide suivant la meme corde MD, il s'ensuit, que la surface spherique est pressée au point D par deux forces egales, dont l'une agit suivant OD, &amp; l'autre suivant MD, d'ou resulte dans ce point de la surface une impression suivant la direction CD, qui est celle de la Diagonale du parallelogramme fait par les deux cordes MD, ND. Si l'on met donc maintenant au point D un corps grossier, qui ne fasse aucun effort par lui meme, la matiere fluide, qui agit suivant OD, &amp; celle, qui exerce sa reaction suivant MD prendront le dessus avec un égal effort, &amp; le pousseront suivant DC vers le point C, qui est le centre du tourbillon, &amp; non pas vers le point O, qui est le centre du cercle parallele. Et comme le meme raisonnement a lieu, quelque plan du cercle que l'on considere, &amp; dans quelque point du plan que l'on suppose le corps grossier, il me paroit demontré, que dans l'hypothese de Mr. de Cartes les corps pesants doivent suivre par tout en tombant la meme direction, qui tend au centre de la terre, conformement a l'experience, &amp; contre l'objection proposée. &amp;c.</p>
+
+        <p>XXVII. Quorsum ista? scilicet ut intelligatur, quod dubium esse poterat Viris utique magnis, sed ratiocinantibus tantum, id vel tyroni experimentum capienti obvium &amp; in aprico fuisse. Nimirum ex peripheria potius circuli rotando descripti sumendas esse perpendiculares lineas, quam ex superficie ambiente; quia non tam ad superficiem concludentem perpendicularis est directio corpusculorum cedentium, quam ad axem gyrationis. §. 19. Quid futurum putas, si superficies fuerit Elliptica, si Parabolica, aut utcunque genita ex rotatione curva ABCDE circa axem? Fallor? an concipi illa debet, ut composita ex infinitis cylindrulis contiguis rotatione elementorum PMmp genitis? vel, si mavis, ex infinitis annulis cylindricis sefe ambientibus; &amp; eundem axem habentibus?</p>
+
+        <figure xml:id="fig9" corresp="#p259">
+          <head>Fig. 9</head>
+          <graphic url="images/tomus1/bulfinger_de_directione_corporum_fig9.png"/>
+        </figure>
+
+        <p>XXVIII. Solum hoc certum est, per vortices Cartesianos generari nucleos cylindricos.</p>
+
+        <head>Coniectura.</head>
+
+        <p>XXIX. Quaeritur, quid fieri debeat, ut nuclei exsurgant sphaerici? Hoc artis esse communiter existimant; credo, quoniam simplicibus neglectis maiora sectantur artificia. Praemissis, quae dixi, non est problema hoc difficile. Accipe methodum, quae me ad solutionem perduxit.</p>
+
+        <p>XXX. Vidimus, excitato vortice Sphaerico, cuius axis AB sit horizonti parallelus, obtineri cylindrum quoque abcd, cuius axis AB horizonti parallelus est. Supponamus nunc axem rotationis EF verticalem horizonti, &amp; abstrahamus ab eo, quod sive gravitas sive levitas corporum inducere potest, discrimine: obtinebitur cylindrus quoque efgb, cuius axis EF est ad horizontem verticalis. Si utrumque motum supponas coniungi, ob actionem alteram, quae a rotatione secundum axem AB pendet, cogetur cylindrus efgb ab b versus i, &amp; ab e versus k, a g versus l, &amp; ab f versus m; vice versa ob actionem a rotatione secundum axem EF pendentem, urgebitur pars cylindri abcd, ab a &amp; d versus i &amp; l, atque a b &amp; c versus k &amp; m: qualis inde figura enascitur?</p>
+
+        <p>XXXI. Primo quidem intuitu videtur, emergere communem duorum cylindrorum abcd &amp; efgb (sed qui diametrum nonnihil ampliorem acquirant) sectionem, hic per iklm utcunque repraesentatam: futurum adeoque corpus angulosum, cuius anguli in i. k. l. m. cadant in medio quadrantum AE, EB, BF, FA. Quique adeo evitari non possint, nisi per novam rotationem secundum axes no &amp; pq, qua supposita anguli iterum incidant in medio spatiorum EO, OB &amp; sic porro: ut adeo ad evitandos tandem angulos omnes deveniendum sit ad hypothefin Hugenianam, de rotatione secundum axes omnes possibiles, sive quod idem est, de recessu fluidi gyrantis secundum omnes circulos maximos.</p>
+
+        <p>XXXII. Sed vero facile est, evitare isthaec devia, si attendatur ad genesin cylindrorum abcd &amp; efgb. oritur nimirum cylindrus abcd ex eo, quod facta gyratione circa axem AB unaquaeque bullula nititur versus punctum aliquod axis AB: &amp; cylindrus efgb ex eo, quod facta gyratione circa axem EF unaquaeque nititur versus punctum aliquod axis EF. Coniuncta igitur utraque rotatione unaquaeque bullula nititur in utrumque axem.</p>
+
+        <p>XXXIII. Ut in punctum utrique axi commune, adeoque in centrum sphaerae nitatur, sic obtineas. Sit uterque vortex aequaliter fortis; sit fluidi gyrantis &amp; particularum illi immersarum ea ratio, ut vires corpusculorum cedentium centripetae fiant directe uti distantiae ab axe: manifestum est, in corpusculo cedente nisum oriri compositum, cuius directio TO est diagonalis laterum TQ &amp; TP ad centrum sphaerae tendens. Duplici igitur hac rotatione combinata, nucleus orietur sphaericus; namque illud receptum est, ut sphaerica nuclei figura derivetur ex directione corpusculorum verfus centrum.</p>
+
+        <p>XXXIV. Si tamen haereas: finge corpus angulosum, cuius sectio sit, v. g. abcd. Per hypotheses §. 33. vis cuiusque particulae nitentis versus centrum, erit proportionalis distantiae eius a centro bo, eo, fo, itaque remotior b dimovebit lateraliter proximas sibi particulas e &amp; f: donec omnes sint in aequilibrio &amp; aequidistantes a centro; hoc est, donec nucleus sit sphaericus.</p>
+
+        <figure xml:id="fig11" corresp="#p261">
+          <head>Fig. 11</head>
+          <graphic url="images/tomus1/bulfinger_de_directione_corporum_fig11.png"/>
+        </figure>
+
+        <p>XXXV. Haec abstracte dicta eo sufficiant, ut intelligas, quid ad genesin nuclei in vortice sphaerici requiratur, &amp; quid sufficiat? Quomodo id obtineri experimento possit, sequenti differentione exponam. Tum vero simul indicabo, quousque haec ad doctrinam gravitatis Mechanicam aut Physicam applicari possint, &amp; non possint? Putamus enim, nos in eo argumento aliquid profecisse, sed plura etiamnum restare.</p>
+
+        <head>Annotatio ad §. 35.</head>
+        <p>Ista suo tempore. Quae autem hic de gravitate polliceor, singulari differentiatione postea perfectus sum. Ea nunc Lutetiae Parisiorum excuditur, quoniam nuperrime praemio affecta est ab In. Academia Scientiarum Parisina. In sequentibus igitur non tam ad huius doctrinae applicationem respicio, quam ad eius confirmationem et amplificationem.</p>
+
+        <p>Ad §. 16. lin. 1. nota, pro 1/1000 legendum esse T 1/100, et in marg. §. 3. ad lin. ult. fig. 1.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

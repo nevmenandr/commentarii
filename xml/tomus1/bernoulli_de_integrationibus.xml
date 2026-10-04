@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="la">De Integrationibus Aequationum Differentialium, ubi traditur Methodi alicujus Specimen integrandi sine praevia separatione indeterminatarum</title>
+        <title xml:lang="ru">Об интегрировании дифференциальных уравнений, где предлагается образец некоторого метода интегрирования без предварительного разделения переменных</title>
+        <author>
+          <persName>
+            <forename>Johannes</forename>
+            <surname>Bernoullius</surname>
+            <addName type="latin" xml:lang="la">Joh. Bernoulli</addName>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <forename>Борис</forename>
+            <surname>Орехов</surname>
+            <addName type="latin" xml:lang="la">Boris Nuceus</addName>
+            <addName type="english" xml:lang="en">Boris Orekhov</addName>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Борис Орехов (Boris Nuceus / Boris Orekhov)</publisher>
+        <affiliation xml:lang="ru">Институт русской литературы (Пушкинский Дом) Российской академии наук</affiliation>
+        <affiliation xml:lang="la">Institutum Litterarum Russicarum (Domus Puskiniana) Academiae Scientiarum Russicae</affiliation>
+        <address>
+          <email>nevmenandr@gmail.com</email>
+        </address>
+        <ptr target="https://github.com/nevmenandr/commentarii"/>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Commentarii Academiae Scientiarum Imperialis Petropolitanae</title>
+          <biblScope unit="volume">Tomus I</biblScope>
+          <biblScope unit="page">167-184</biblScope>
+          <pubPlace>Petropoli</pubPlace>
+          <publisher>Typis Academiae</publisher>
+          <date when="1728">CIƆ IƆ C C X X V I I I</date>
+          <ptr target="https://archive.org/download/commentariiacade01impe/commentariiacade01impe_bw.pdf"/>
+          <note>Экземпляр из библиотеки Британского музея (Natural History), Лондон.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Электронное научное издание «Commentarii Academiae Scientiarum Imperialis Petropolitanae: Editio Digitalis».</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Текст приведён в исправленном после OCR виде; оригинальные лигатуры раскрыты. В оригинале используется долгая s (ſ, U+017F); в настоящем издании она передана как обычная s.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="la">Latin</language>
+        <language ident="ru">Russian</language>
+      </langUsage>
+      <textClass>
+        <classCode scheme="internal">mathesis</classCode>
+        <keywords>
+          <term type="added">integral calculus</term>
+          <term type="added">differential equations</term>
+          <term type="added">homogeneous equations</term>
+          <term type="added">separation of variables</term>
+          <term type="added">Leibniz</term>
+          <term type="added">l'Hôpital</term>
+          <term type="added">18th century mathematics</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="article">
+        <head>DE INTEGRATIONIBUS AEQUATIONUM DIFFERENTIALIUM, ubi traditur METHODI ALICUIUS SPECIMEN INTEGRANDI sine praevia separatione indeterminatarum: Auctore Joh. Bernoulli.</head>
+        <p>M. Jun. 1726.</p>
+
+        <p>I. Quando aequatio aliqua differentialis primi gradus reducta habetur ad pdx=qdy, ubi p datur per x, &amp; q per y, hoc est, meo loquendi more, ubi p &amp; q sunt functiones qualescunque datae indeterminatarum x &amp; y; eo casu constructio aequationis nulla premitur difficultate, concessis nimirum quadraturis; quae &amp; ipsae generaliter ad extensiones curvarum algebraicarum non ita pridem reductae sunt, vid. Cel. Hermanni schediasma in actis Lips. 1723. meumque de hac materia analytice tractanda editum in iisdem actis 1724. Adeo ut hac in parte nihil ulterius ad maiorem perfectionem desiderari videatur, nisi hoc tantum, quod, cum infinitis modis, ceu monstravimus, idem praestari possit, ille eligatur qui exhibeat curvam constructu facillimam, cujus extensione uti libeat ad quadraturam determinandam. Hanc vero rem, utpote alius negotii, nunc non attingimus.</p>
+
+        <p>II. Quod si autem aequatio differentialis pdx=qdy laborat indeterminatarum permixtione, id est, si utraque quantitas p &amp; q vel alterutra saltem componitur diversimode ex indeterminatis x &amp; y simul, earumque variis potentiis, atque contineant vel non contineant varia signa radicalia; id quidem est, quod hodienum crucem figit geometris, nec quemquam novi hucusque, qui generalem invenerit Regulam (ad praxim applicabilem) integrandi ejusmodi aequationes differentiales, si integrabiles fiunt, aut, si non fiunt, construendi eas sive per quadraturas sive per rectificationes curvarum datarum; dico notanter applicabilem ad praxin, nam cum constructio requirat executionem, nihil pensi haberem alicujus regulae, quae in speculatione tantum subsisteret, re ipsa autem nullius esset usus, quae &amp; totam requireret hominis aetatem, si in levissimis quoque exemplis vellet eam effectui dare. Tales utique regulae generales, vel potius regularum ideae, etiam mihi in promtu forent, sed quas ob dictam rationem negligo.</p>
+
+        <p>III. Dantur regulae particulares, etsi omnibus casibus in suo quaeque genere applicabiles, quae cum successu adhibentur: Earum multas ac varias iam eo tempore excogitavi, quo de nascente calculo vix quisquam alius cogitabat, nedum ad eius perfectionem animum applicabat. Inventas regulas communicavi paulo post cum amicis, partim coram, partim per litteras, praesertim cum Illustr. Marchione Hopitalio, in cujus privatam utilitatem initio a me conscriptae lectiones, in multorum iam manibus versantes, aeque ac litterae meae cum ipso postea frequenter commutatae, luculento sunt veritatis testimonio.</p>
+
+        <p>IV. Inter praedictas regulas maximam universalitatem sive extensionem habet illa, quae valet pro omnibus aequationibus differentialibus, quantaecunque dimensionis sint termini, modo ubique sint homogenei, id est, in quibus exponentes indeterminatarum x &amp; y simul sumti eundem in quolibet termino componunt numerum, adeoque litterae constantes, quae in ejusmodi aequationibus occurrunt, nihil aliud designant quam numeros coefficientes, nihilque proin contribuunt ad dimensionum suppletionem. Monstravi namque talem aequationem mutari in aliam indeterminatas separabiles habentem, si assumendo novam indeterminatam z, substituatur xy pro x, &amp; xdy+ydx pro dx; vel contra xx pro y, &amp; xdx+xdx pro dy. Aut etiam quod interdum simpliciorem reddit aequationem, si pro x scribatur z^n y, atque pro dx, z^n dy+nyz^{n-1}dz, vel vice versa z^n x pro y, &amp; z^n dx+nxz^{n-1}dz pro dy; ita enim fit, ut, cum n sit exponens arbitrarius, pro eo aliquis eligi possit, qui exhibeat aequationem tractabiliorem. Quimino certissimum est, nihil obstare, quo minus adhiberi queat functio quaelibet ipsius x ad arbitrium formata, ponendo ex. gr. y√(aa+xx) pro x, adeoque dy√(aa+xx)+yzdz:√(aa+xx) pro dx; aut si mavis x√(aa+xx) pro y, &amp; dx√(aa+xx)+xzdz:√(aa+xx) pro dy.</p>
+
+        <p>V. Dantur sane casus, ubi talis functionum formatio utilitate sua non caret, praecipue in illis aliquando, in quibus signa radicalia reperiuntur: sciendum enim regulam nostram porrigi quoque ad eas omnes aequationes, quae unum pluresve terminos habent signis radicalibus affectos. Verbi gratia, sit proposita aequatio inter coordinatas x &amp; y alicujus curvae haec axdy+dx√(xx+yy)=0, in qua indeterminatae x &amp; y sunt unius dimensionis, quia quantitas √(xx+yy) non nisi primae dimensionis esse censetur; si itaque secundum nostram simpliciter ponatur zy &amp; zdy+ydz pro x, &amp; dx, mutatur aequatio proposita in hanc dy/y+zdz/(z√(zz+1))=0, quae quidem non amplius laborat indeterminatarum permixtione; at vero irrationalitas adhuc inest, quae nondum permittit videre, annon forsan ex differentialibus logarithmicis componatur aequatio, unde illa per integrationem ad terminos finitos deinceps reduci possit.</p>
+
+        <p>VI. Quam ob rem praestat ut scribam pro x productum ipsius y per convenientem aliquam functionem ipsius z ad asymmetriam tollendam; &amp; in hunc finem pono ex. gr. x=y(z-1) ac proinde dx=dy(z-1)+ydz:(z-1) quibus substitutis in aequatione proposita axdy+dx√(xx+yy)=0, convertetur illa in hanc (z³+azz-z-a)dy+yzdz=0, quae per divisionem reducta dat hanc alteram dy/y+zdz/(z³+azz-z-a)=0, ab omni irrationalitate immunem: Refolvitur vero posterius membrum zdz/(z³+azz-z-a) in differentialia logarithmica per methodum quam communicavi in Commentariis Acad. Reg. Scient. Paris. an. 1702, &amp; in Actis Lips. an. 1703: Cum enim denominator huius fractionis z³+azz-z-a constet ex istis tribus factoribus z+a, z+1 &amp; z-1, faciendum est ex praescripto illius methodi zdz/(z³+azz-z-a)=adz/(z+a)+βdz/(z+1)+γdz/(z-1), tum quaerendi valores litterarum α, β, γ,</p>
+
+        <p>VII. Singularis casus considerandus hic venit, existente nimirum a=1, quo fit ut duo priores factores in prima aequatione, qui iam erunt (√(xx+y)-y)² &amp; (√(xx+y)-y)⁻² se mutuo destruant, &amp; tertius (√(xx+y)-y)² evadat=1, unde tota aequatio foret=1C; sic pariter secunda &amp; tertia, ex prima aequatione deductae, in casu a=1, abirent in 1=C, quod esset absurdum, unitas enim non potest esse aequalis quantitati arbitrariae C. Quaeritur itaque, quid iam sit statuendum, utrum in hoc casu nulla satisfaciat curva aequationi propositae, quae iam est xdy+dx√(xx+yy)=0, aut si aliqua satisfaciat, quo modo illa determinetur? Hunc scrupulum ut tollam, dico, incommodum istud ex eo venire, quod in praeced. §. aequatio y+adz/z+az/z=0 multiplicata fuerit per 2aa-2, h.e. per o in hoc casu, unde totam aequationem evanescere necesse est. Ut igitur hoc evitemus, notandum est quantitatem zzdx:(z³+azz-z-a), quam aequalem supposuimus hisce fractionibus z+az/z+az+1+z-1, continere in se aliquid absolute integrabilis quando a=1; illa igitur non potest supponi constare ex meris differentialibus logarithmicis. Quod autem contineat partem aliquam integrabilem, ex eo patet, quod denominator fractionis, qui iam est z³+zz-z-1, constet ex duobus factoribus zz+2z+1, &amp; z-1, quorum ille est quadratum perfectum; unde dz:(zz+2z+1) fiet integrabile, est enim eius integrale =1:(z+1). Oportet itaque, ceu monui in praememoratis Commentariis Paris 1702. pag. 290. Edit. Paris. separare ex quantitate zzdx:(z³+zz-z-1) illud quod est integrabile, &amp; tum procedere secundum regulam, quod utrumque simul sic perago: Pono statim</p>
+
+        <p><formula notation="TeX">\frac{zzdz}{z^3+zz-z-1} = \frac{adz}{z+1} + \frac{\gamma dz}{z-1} + \frac{\pi dz}{zz+2z+1}</formula>, quibus reductis ad communem denominatorem z³+zz-z-1 habebo aequalitatem inter numeratorem zz &amp; summam trium reliquorum, quae erit (α+γ)zz+(2γ+π)z+(γ-π-α); instituta comparatione terminorum nascendo α+γ=1, 2γ+π=0, γ-π-α=0, invenietur π=-1/2, α=3/4, γ=1/4. His ita inventis integrentur, ut olim monstravimus, termini aequationis dy/y+zdz/(z³+zz-z-1)=0, &amp; prodibit ly+3/4 l(z+1)-1/4 l(z-1)+1/2(z+1)=lC, seu 4ly+3l(z+1)+l(z-1)=2/(z+1)+lC; hinc ergo considerando unitatem tanquam logarithmum numeri alicuius qui vocetur n, habebitur y⁴×(z+1)³×(z-1)=C×n²/(z+1)², quae, substituto pro z eius valore √(xx+yy):y &amp; reductis reducendis ut supra factum definiti in istam ((√(xx+yy)+y)³(√(xx+yy)-y)):C×n²=y:((xx+yy+y)²)×((xx+yy+y):y)×C=n²:y⁴(√(xx+yy)+y)⁴, vel etiam non minus simplici modo in ((xx+yy+y)-y)⁻¹×x³=C n⁻²:y⁴(√(xx+yy)+y); quare autem aequatio haec si evolvatur, &amp; homogeneitatis gratia scribatur bbRR pro quadrato quantitatis exponentialis, hanc induit faciem x⁴+2bRyx-bbRR=0. Aio igitur hanc aequationem x⁴+2bRyx-bbRR=0 oriri ex vera integratione huius differentialis xdy+dx√(xx+yy)=0, quod confirmabitur a posteriori, si nimirum illa differentietur &amp; quod provenit cum hac comparetur. Unde videmus curvam propositae aequationi satisfacientem non esse algebraicam sed exponentialem, &amp; ita quidem, ut ipse indeterminatae ingrediantur exponentem, qua in re differt ab omnibus aliis casibus particularibus aequationis generaliter propositae axdy+dx√(xx+yy)=0, utpote quae in quovis alio casu semper admittit curvam aliquam algebraicam, modo a sit rationalis; aut si a non est rationalis, erit quidem curva exponentialis, sed exponentem nulla quantitas variabilis (sicut in casu a=1) ingreditur, cujusmodi curva dici possunt algebraicis proximae.</p>
+
+        <p>VIII. Paulo fusior fui quam forsan necesse videbatur in discussione huius exempli, quod, cum olim Lutetiae agerem, multum agitabatur inter Geometras eius loci, ex occasione problematis Beauniani, mihi tunc quoque cum aliis ab Hospitalio propositum atque feliciter solutum, postquam a Geometris insolutum ad me pervenisset: Fusior igitur in hoc fui, ut fieret manifestum, qua dexteritate evitari possit ingens aliquando calculus, in quem intricaremur, si regulas generales, prout primo intuitu se offerunt, sine ulla circumspectione sequi vellemus: Praeterquam quod multoties accidat, ut credamus curvas quae prodeunt per incautam regularum applicationem esse transcendentes, nonnisi per quadraturas aut rectificationes construibiles, quae tamen si rite tractentur evadunt algebraicae aut saltem exponentiales, hoc est, tales quae fiunt finitae &amp; non aliter transcendentes quam ex sola exponentium irrationalitate. Quis enim prima fronte non crederet, aequationem supra §. 5. expressam y+dz√(z²+1)/(2z+2√(z²+1))=0, quae oritur ex suppositione x=zy, deducere ad curvam transcendentem? nisi ante omnia id curet, ut sublata irrationalitate √(z²+1) per methodum Diophanteam acquirat fractionem rationalem, quam deinde per nostram methodum in §. 6. traditam in differentialia logarithmica resolvat: sed &amp; hic processus operosi</p>
+
+        <p>XI. Ex hac tabella patet, aequationem canonicam cujusque ordinis tot habere terminos praefixos ipsi dx, totidemque praefixos ipsi dy, quot habet unitates numerus ordinis unitate auctus. Sic aequatio ordinis primi, habet terminos utrobique duos; ordinis secundi, terminos tres; Tertii, quatuor; Quarti, quinque; &amp; ita porro: Itaque in ordine primo sunt coefficientes universales quatuor, in secundo sunt sex, in tertio octo, in quarto decem &amp;c. Iam dico has omnes aequationes posse integrari seu reduci ad aequationes finitas, exprimentes naturam linearum, quae singulae conveniunt suis respective aequationibus canonicis differentialibus. Ita vero aequationes finitae erunt semper algebraicae vel saltem exponentiales, prout exponentes indeterminatarum fuerint vel rationales vel irrationales. Quandoquidem igitur aequationes canonicae in hac tabella continuandae comprehensae, includunt omnes quae dari possunt aequationes differentiales homogeneas &amp; rationales, liquet, si ostendero modum canonicas integrandi, rem generaliter confectam fore pro quacunque ejusmodi aequatione differentiali integranda sine praevia indeterminatarum separatione: Hoc vero est, quod iam docere volo.</p>
+
+        <p>XII. In antecessum notare convenit, cuicunque aequationi differentiali homogeneae, sive sit rationalis, sive irrationalis, satisfacere lineam aliquam rectam, id quod ex eo patet, quia, si ponatur y=nx, adeoque dy=ndx (assumto coefficiente invariabili n) iique valores pro y &amp; dy in aequatione differentiali surrogentur, prodibit utique aequatio quae divisa per dx, &amp; per potentiam ipsius x, cujus exponens est ipse ordinis index, dabit aequationem algebraicam, ab indeterminatis liberam, inter cognitas a, b, c, &amp;c. &amp; incognitam n, eiusque varias dimensiones; unde supposita radicum extractione ex aequationibus algebraicis, erit illius aequationis radix n coefficients quaesitus in nx, quod ipsi y aequale ponebatur.</p>
+
+        <p>XIII. Ut res exemplo illustretur, capiamus aequationem differentialem canonicam ordinis secundi (a xx + b xy + c yy)dx + (e xx + f xy + g yy)dy = 0, atque in ea substituamus nx pro y; nxx pro yy &amp; ndx pro dy: Quo facto habebitur (a xx + n b xx + n² c xx) dx + (e xx + n f xx + n² g xx)ndx = 0; Dividendo igitur per xxdx, ac more solito secundum ordinem dimensionum incognitae n disponendo, resultat aequatio cubica gn³ + f n² + e n + a = 0, cuius radix n ducta in x dabit valorem ipsius y. Adeoque si construatur triangulum rectangulum (supposito coordinatas angulum rectum facere) cuius basis ad cathetum habeat rationem ut 1 ad n, dico hypotenusam huius trianguli in utramque partem prolongatam esse lineam satisfacientem aequationi differentiali canonicae ordinis secundi, cuius coordinatae sunt parallelae basi &amp; catheto.</p>
+
+        <p>XIV. Loco alterius exempli ex homogeneis irrationalibus sit aequatio in §. 5. proposita axdy+dx√(xx+yy)=0. Ubi si ponatur nxx pro yy &amp; ndx pro dy, ac postea dividatur per xdx; emerget na+√(1+nn)=0, quae resoluta dat n=1:√(aa-1). Facto itaque triangulo cuius basis ad cathetum sit ut 1 ad 1:√(aa-1), hoc est, ut √(aa-1) ad 1, erit hypotenusa utrimque prolongata conveniens linea aequationi differentiali propositae axdy+dx√(xx+yy)=0, eiusque coordinatae lateribus parallelae. Si a=1, abit hypotenusa in rectam applicatis parallelogram, abscissae vero evanescunt: Hicque casus omnino fluit ex aequatione ad curvam quam supra §. 7. invenimus x⁴+2bRyx-bbR²=0, faciendo enim b (quia est arbitraria)=0, habetur x⁴=0, adeoque x=0.</p>
+
+        <p>XV. Propero nunc ad methodum eruendi quoque lineas curvas, aequationibus canonicis differentialibus cujusque ordinis respondentes, h.e. integrandi illas aequationes universaliter, idque sine interventu separationis indeterminatarum. Hoc ut praestetur, formanda est aequatio finita, in quam ingrediantur tot litterae assumtitiae constantes, quot sunt termini in aequatione canonica integranda, &amp; quae differentiata easdem cum hac obtineat dimensiones indeterminatarum x &amp; y. Illa autem aequatio finita talem (ceu cuilibet attendenti haud aegre patescit) habere debet formam (x+ay)^π × (x+βy)^τ × (x+γy)^ξ × (x+εy)^Φ × &amp;c. = C, ut nimirum constituatur productum ex factoribus binomialibus x+ay, x+εy, x+γy, x+εy &amp;c. ad potentias π, τ, ξ, Φ &amp;c. elevatis, quod aequale fiat quantitati constanti C, ubi coefficientes a, β, γ, ε, ut &amp; exponentes π, τ, ξ, Φ, &amp;c. sunt assumtiti per calculum investigandi. Quod attinet ad numerum factorum horum binomialium, assumendi sunt duo pro canonica primi ordinis, tres pro canonica secundi ordinis, quatuor pro canonica tertii ordinis, atque ita consequenter. Hoc nempe pacto fit, ut tot simul habeantur assumti coefficientes &amp; exponentes, quot sunt termini in proposita aequatione canonica. Unde differentiando, eum in modum quem statim exponam, assumtam aequationem formatam ex factoribus binomialibus, prodibit aequatio differentialis eiusdem ordinis &amp; tot praecise terminorum, quot canonica habet, adeo ut totidem institui possint comparationes inter utriusque terminorum coefficientes, quae determinabunt assumtos coefficientes &amp; exponentes, ipsamque adeo aequationem finitam, quae desideratur, pro data canonica differentiali.</p>
+
+        <p>XVI. Dabo exemplum unicum &amp; quidem omnium facillimum, quod abunde illustrabit methodum: Sit aequatio canonica primi ordinis (ax+by)dx+(cx+ey)dy=0 integranda, cui suppono convenire hanc aequationem finitam (x+ay)^π × (x+βy)^τ = C; indagandi ergo sunt valores litterarum a, β, π, τ. Hoc ut commode fiat, sumo, priusquam differentietur, logarithmos assumtae aequationis finitae, &amp; habebo π/(x+ay)+τ/(x+βy)=lC, quae postea more solito differentiata mihi dat (π+τ)dx+(aπ+βτ)dy/(x+ay)(x+βy)=dlC=0; seu peracta reductione, multiplicando scilicet per crucem, ut denominatores tollantur, (π+τ)dx(x+βy)+(aπ+βτ)ydx+(aπ+βτ)xdy+(aβπ+aβτ)ydy=0. Itaque hanc inter &amp; canonicam (ax+by)dx+(cx+ey)dy=0 instituenda est comparatio terminorum similium ad determinandos coefficientes &amp; exponentes assumtos a, β, π, τ, unde hae quatuor emergent aequalitates π+τ=a, aπ+βτ=b, aπ+βτ=c, aβπ+aβτ=e. Computo iam recte instituto, reperientur valores optati tam coefficientium quam exponentium, quemadmodum sequitur, scilicet</p>
+
+        <p><formula notation="TeX">\alpha = \frac{b+c-\sqrt{bb+2bc+cc-4ae}}{2a}</formula></p>
+        <p><formula notation="TeX">\beta = \frac{b+c+\sqrt{bb+2bc+cc-4ae}}{2a}</formula></p>
+        <p><formula notation="TeX">\pi = \frac{cb-ac+a\sqrt{bb+2bc+cc-4ae}}{2\sqrt{bb+2bc+cc-4ae}}</formula></p>
+        <p><formula notation="TeX">\tau = \frac{-ab+ac+a\sqrt{bb+2bc+cc-4ae}}{2\sqrt{bb+2bc+cc-4ae}}</formula></p>
+
+        <p>Ubi notandum, posse hos valores simplicius exprimi, reducendo nempe x in utroque factore binomiali ad communem denominatorem 2a, &amp; hunc postea omitiendo; sicuti etiam dividendo exponentes inventos per communem quantitatem a: 2√(bb+2bc+cc-4ae). Liquet enim, si (x+ay)^π × (x+βy)^τ fuerit = constanti, fore etiam (2ax+2aay)^π × (2ax+2aβy)^τ = constanti. His ita monitis, &amp; scripto brevitatis gratia m pro √(bb+2bc+cc-4ae) atque C maiusculo pro quantitate constanti arbitraria, dico hanc aequationem finitam (2ax+(b+c-m)y)^(b-c+m) × (2ax+(b+c+m)y)^(b-c-m) = C, esse integralem aequationis differentialis canonicae primi ordinis (ax+by)dx+(cx+ey)dy=0, omnes possibiles casus particulares huius ordinis in se complectentis. Potest vero inventa illa aequatio finita mutari in hanc formam, adhibita aliqua dexteritate, (axx+byx+cyx+eyy)^(b+c+m) × (2ax+(b+c+m)y)^(2b-2c) = C, vel in hanc aliam nonnihil diversam (axx+byx+cyx+eyy)^(b-c+m) × (2ax+(b+c+m)y)^(2b+2c) = C.</p>
+
+        <head>Coroll. 1.</head>
+        <p>XVII. Hinc si b=c, erit tunc in prima aequatione (2ax+(2b-m)y) × (2ax+(2b+m)y) = C; hoc est, multiplicatione actualiter peracta, erit 4aaxx+8abxy+(4bb-mm)yy=C, sive, restituto valore ipsius mm &amp; dein per 4a diviso, proveniet axx+2bxy+eyy=C, quod idem etiam ex duabus mutatis provenit; sicuti omnino provenire debet per vulgarem integrandi modum, qui hoc in casu locum habet, cum enim nunc sit axdx+b(ydx+xdy)+eydy=0, cuius singulae partes sunt integrabiles; integrentur ergo, &amp; erit duplum sumendo, axx+2byx+eyy=C; ut modo habuimus.</p>
+
+        <head>Coroll. 2.</head>
+        <p>XVIII. Esto iam alterutra a vel e=0; erit m=b-c, quo substituto in prima nostra aequatione mutabitur illa (posito e=0) in hanc x^b(xa+by+cy)=C vel (posito a=0) in hanc y^c(xb+cx+ey)=C. Idem dant duae reliquae, in quas prima illa mutata fuit.</p>
+
+        <head>Coroll. 3.</head>
+        <p>XIX. Si m=0, hoc est, si bb+2bc+cc=4ae; prima nostra generalis aequatio finita respondens differentiali canonicae primi ordinis, migraret in hanc quae absurdum quid contineret (2ax+(b+c)y)^(b-c) × (2ax+(b+c)y)^(b+c)=C: Quia enim factores nunc sunt aequales, exponentes vero, utpote alter alterius negativus, se mutuo destruunt, haberetur (2ax+(b+c)y)^0=C, sive=C i.e. unitas=quantitati arbitrariae, quod utique esset absonum &amp; nihil indicaret, idemque etiam ex reliquis duabus emergeret. Quocirca cautela aliqua hic opus est, ne quis credat nullam prorsus in hoc casu dari aequationem inter coordinatas x &amp; y; sic itaque statuo: Fingamus loco exponentis 0 haberi exponentem generalem p, ita ut sit (2ax+(b+c)y)^p=C; atque cum C denotet quantitatem arbitrariam, vocatur illa C^p; eritque (2ax+(b+c)y)^p=C^p, unde extracta radice exponentis p, fiet 2ax+(b+c)y=C; hoc autem valet qualiscunque sit p, ergo etiam quando p=0. Proinde dico, aequationem 2ax+by+cy=C satisfacere in casu quo m=0, seu quo bb+2bc+cc=4ae. Atqui hoc ita se habere apparebit, si in aequatione (ax+by)dy+(cx+(b+b+2bc+cc)y)dy=0, pro x &amp; dx ponantur eorum valores ex aequatione inventa eliciti, -(b+c)y:2a &amp; -(b+c)dy:2a, etenim evanescet ut fieri debet aequatio proposita (ax+by)dx+(cx+bb+2bc+cc)y)dy=0. Hinc videmus, nullam lineam curvam huic casui inservire, sed rectam tantum ex hac aequatione 2ax+by+cy=0 describendam. Quae eadem quoque reperitur, si adhibetur regula in §. 12. tradita pro determinandis lineis rectis, quas in universum omnes aequationes canonicae admittunt, ut ibidem ostendi.</p>
+
+        <head>Coroll. 4.</head>
+        <p>XX. Quod si quatuor coefficientes a, b, c, e sint proportionales, adeoque si ae=bc in hoc casu erit m=b-c; id quod quamlibet ex tribus nostris aequationibus finitis mutat in (2ax+2cy)^(2b-2c)=C, vel, neglecto exponente, in ax+cy=C, quae iterum est ad lineam rectam. Quod quidem immediate colligi potest ex proposita aequatione differentiali, quae in praesenti casu est (ax+by)dx+(cx+bc/a y)dy=0 divisibilis per ax+by; prodit enim dx+c/a dy=0, seu adx+cdy=0; adeoque integrando, erit ax+cy=C, ut ante. Et hic quidem casus cum altero §. praecedentis sunt fortasse soli, qui per itaque per partes prodibit 1/2 axx+cxy+1/2 eyy=(c-b)/(2c)xy+eyy-2c/(axx+2cxy+eyy-2c)∫dx+C, unde ∫dx seu area curvae erit (c-b)/(2c) &amp; proinde quadrabilis, praeterquam in casu c=b, in quo haberetur =oo, h.e. = infinito, quod ipsum indicio est in illo casu aream curvae esse inquadrabilem; etiamsi hoc iam concludi possit ex ipsa aequatione ad curvam, quam in §. 17. hanc esse invenimus axx+2bxy+eyy=0, &amp; quae si examinetur, ad hyperbolam vel ellipsin spectare observabitur.</p>
+
+        <head>Scholium.</head>
+        <p>XXIII. Ex hoc, quod ad longum deduximus, specimine pro integranda aequatione canonica primi ordinis, sine praecedanea indeterminatarum sequestratione, nemo non videt, methodum esse generalem pro quocunque ordine, assumendo pro secundo ordine hanc aequationem (x+ay)^π × (x+βy)^τ × (x+γy)^ξ = C; pro tertio hanc (x+ay)^π × (x+βy)^τ × (x+γy)^ξ × (x+εy)^Φ = C, &amp; ita pro caeteris, sic enim fiet, ut pro quolibet ordine tot reperiantur litterae assumtitiae α, β, γ, ε, &amp;c. π, τ, ξ, Φ, &amp;c. quot sunt coefficientes in aequatione differentiali canonica illius ordinis, atque hoc modo obtineantur totidem aequalitates ad determinandos tam coefficientes α, β, γ, ε, &amp;c. quam exponentes π, τ, ξ, Φ, &amp;c. In altioribus evadit calculus operosior quidem, ac propterea molestior, sed ideo methodus haudquaquam difficilior, quippe quae uniformis est in omnibus.</p>
+
+        <p>C. G.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="la">De Casibus quibus integrari potest Aequatio Differentialis ax^m dx + byx^p dx + cy^2 dx = dy. Observationes quaedam</title>
+        <title xml:lang="ru">О случаях, в которых может быть интегрировано дифференциальное уравнение ax^m dx + byx^p dx + cy^2 dx = dy. Некоторые замечания</title>
+        <author>
+          <persName>
+            <forename>Christianus</forename>
+            <surname>Goldbachius</surname>
+            <addName type="latin" xml:lang="la">Christianus Goldbach</addName>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <forename>Борис</forename>
+            <surname>Орехов</surname>
+            <addName type="latin" xml:lang="la">Boris Nuceus</addName>
+            <addName type="english" xml:lang="en">Boris Orekhov</addName>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Борис Орехов (Boris Nuceus / Boris Orekhov)</publisher>
+        <affiliation xml:lang="ru">Институт русской литературы (Пушкинский Дом) Российской академии наук</affiliation>
+        <affiliation xml:lang="la">Institutum Litterarum Russicarum (Domus Puskiniana) Academiae Scientiarum Russicae</affiliation>
+        <address>
+          <email>nevmenandr@gmail.com</email>
+        </address>
+        <ptr target="https://github.com/nevmenandr/commentarii"/>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Commentarii Academiae Scientiarum Imperialis Petropolitanae</title>
+          <biblScope unit="volume">Tomus I</biblScope>
+          <biblScope unit="page">185-197</biblScope>
+          <pubPlace>Petropoli</pubPlace>
+          <publisher>Typis Academiae</publisher>
+          <date when="1728">CIƆ IƆ C C X X V I I I</date>
+          <ptr target="https://archive.org/download/commentariiacade01impe/commentariiacade01impe_bw.pdf"/>
+          <note>Экземпляр из библиотеки Британского музея (Natural History), Лондон.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Электронное научное издание «Commentarii Academiae Scientiarum Imperialis Petropolitanae: Editio Digitalis».</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Текст приведён в исправленном после OCR виде; оригинальные лигатуры раскрыты. В оригинале используется долгая s (ſ, U+017F); в настоящем издании она передана как обычная s.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="la">Latin</language>
+        <language ident="ru">Russian</language>
+      </langUsage>
+      <textClass>
+        <classCode scheme="internal">mathesis</classCode>
+        <keywords>
+          <term type="added">integral calculus</term>
+          <term type="added">differential equations</term>
+          <term type="added">integrability</term>
+          <term type="added">Riccati equation</term>
+          <term type="added">Nicolaus Bernoulli</term>
+          <term type="added">Daniel Bernoulli</term>
+          <term type="added">18th century mathematics</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="article">
+        <head>DE CASIBUS quibus integrari potest AEQUATIO DIFFERENTIALIS ax^m dx + byx^p dx + cy^2 dx = dy. OBSERVATIONES QUAEDAM.</head>
+
+        <p>Cum Anno 1721. Venetiis inviserem Cl. Zendrinum Medicum &amp; Mathematicum celebrem eo die quo ab urbe discedere constitueram, accidit ut Nicolai Bernoulli Joh. Fil. mentionem faceret, eumque iam ab aliquo tempore Venetiis esse mihi affirmaret; igitur mox, ut optaveram, in amicitiam humanissimi viri perveni, eaque causa abitum meum in textum diem distuli.</p>
+
+        <p>Inter colloquia quae illo tempore habuimus, &amp; ex quibus me multum profecisse semper fatebor, aequationem quandam differentialem ab Ill. Riccato olim propositam mihi ostendit huiusmodi: <formula notation="TeX">ax^m dx+by^2x^p dx=dy</formula>. ut tentarem, an quo casu illam vel separare vel integrare possem. Inveni igitur paullo post, si aequatio generalior ponatur <formula notation="TeX">ay^fx^m dx+byx^p dx=dy</formula>. y determinari posse per x quoties <formula notation="TeX">m=fp+f-p-n</formula>, nempe si c fuerit radix huius aequationis <formula notation="TeX">bm-1+acf-1+p-mn-f=0</formula>. esse <formula notation="TeX">y=cx^{n-1}</formula> qui casus omnium facillimus est. Deinde datis 30. Jul. A. 1721. litteris ad Cl. Nicol. Bernoullium, tres alios casus integrabiles aequationis <formula notation="TeX">ax^m dx + by^n x^p dx = dy</formula>. detexi, nimirum (1) si ponatur <formula notation="TeX">n=1, p=-1</formula> esse <formula notation="TeX">y=\frac{a}{b+m+1}+fx^b</formula> ubi f sit quantitas constans quaecunque. (2) Si <formula notation="TeX">n=2</formula>, <formula notation="TeX">m=-3p-4</formula> esse <formula notation="TeX">y=\sqrt{\frac{a}{b}}x^{-2p-2}\cdot\frac{(p+1)}{3}x^{-p-1}</formula>. (3) Si <formula notation="TeX">n=2, m=\frac{-p-4}{3}</formula> esse <formula notation="TeX">y=1:\sqrt{\frac{a}{b}}x^{-\frac{2p+2}{3}}\cdot\frac{(p+1)}{3}x^{-\frac{p+1}{3}}</formula> quas integrationes ut novas placere sibi testatus est Vir Cl. in responso quod ad meas dedit; paullo post aliis litteris significavit se praeter casus mihi observatos modum invenisse peculiarem ex aequatione <formula notation="TeX">ax^m dx + by^n x^p dx = dy</formula> alios quotlibet casus integrabiles eruendi &amp; pro iis aequationes algebraicas assignandi, rem simul exemplo confirmavit, posito nempe <formula notation="TeX">m=\frac{-5p-8}{3}</formula> esse <formula notation="TeX">x^{-2p-2}+\left(\frac{p+1}{-b}\right)x^{-\frac{5}{3}}\sqrt{\frac{b}{-a}}+\left(\frac{p+1}{-3ab}\right)x^{-\frac{4p-4}{3}}</formula> <formula notation="TeX">y=x^{-\frac{2p-2}{3}}\sqrt{\frac{b}{-a}}+\left(\frac{p+1}{3a}\right)x^{-\frac{p-1}{3}}</formula></p>
+
+        <p>Tandem litteris 6. Dec. A. 1721. ad me datis statuit aequationem illam differentialem esse integrabilem si <formula notation="TeX">m=\frac{-2np-4n+p}{2n+1}</formula> ubi per p intelligit numerum rationalem, per n vero numerum integrum quemcunque. Atque hac ipsa est formula quam ad separationem indeterminatarum huius aequationis dedit Cl. Daniel Bernoullius in Exercitation. Mathemat. p. 77. f. ubi per duo lemmata alternatim casus omnes methodo perquam ingeniosa &amp; facili deduxit.</p>
+
+        <p>Consideravit autem aequationem huiusmodi <formula notation="TeX">ax^n dx+\mu dx=b du</formula> alteri illi aequivalentem ex qua scilicet non solum exponens p, sed etiam uterque coefficients a vel b pro lubitu in alium quemcunque transmutari potest.</p>
+
+        <p>Ponatur <formula notation="TeX">cu^2 du+fu^2y^2 du=dy</formula> ut iam reductam ad alterutram formularum A vel B &amp; infinitorum illorum casuum integrationes uno theoremate complector: Aequationis different. <formula notation="TeX">x^{\frac{-2n+2n}{2n-1}}dx-x^{\frac{-2n+2n}{2n-1}}y^2dx=dy</formula> (ubi n sit numerus integer affirmativus) integralis est <formula notation="TeX">y=a^\beta</formula>. Signum denotat divisionem ambiguam, si enim in formula aequationis diff. ex signis + vel -, datum fuerit superius (qui est casus formulae A) sumendus est in integrali divisor quem indicat angulus a linea superiore ad horizontalem factus nempe β; si inferius signum in aequatione diff. datum fuerit, sumatur in integrali divisor quem inferior linea ad horizontalem ascendens designat ut fiat <formula notation="TeX">y=\frac{\beta}{a}</formula>.</p>
+
+        <p>Ne quis vero in usu huius canonis haesitet, exemplis nonnullis eundem illustrabimus quibus intellectis ulteriores casus non erunt difficiles.</p>
+
+        <p>I. Sit integranda aequatio <formula notation="TeX">x^{-4}dx-y^2dx=dy</formula> quae pertinet ad formulam A, fiet n=1, p=1, a=x^{-2}, β=1. Ergo integralis quaesita <formula notation="TeX">y=\frac{\alpha}{x+x^{-1}}</formula> unde sequitur aequationis <formula notation="TeX">dx-y^2x^{-4}dx=dy</formula> integralem esse <formula notation="TeX">y=\frac{\alpha}{x+x^{-1}}=-1+x^{-2}</formula>.</p>
+
+        <p>II. Sit integranda aequatio <formula notation="TeX">x^3 dx-y^2 dx=dy</formula>, fiet n=2, p=3, <formula notation="TeX">y=\frac{\alpha}{x^3+3x^3+3x^3-1}</formula> unde sequitur aequationis <formula notation="TeX">dx-y^2 x^3 dx=dy</formula> integralem esse <formula notation="TeX">y=\frac{\beta}{\alpha}</formula> = <formula notation="TeX">\frac{1+3x^3}{x^3-3x^3+3x^3}</formula>.</p>
+
+        <p>III. Eodem modo aequationis <formula notation="TeX">x^{\frac{-6+5}{5}}dx-y^2x^{\frac{-6+5}{5}}dx=dy</formula> integralis invenietur <formula notation="TeX">y=\alpha</formula> ⇒ <formula notation="TeX">\beta=(x^{\frac{-5}{5}}+5x^{\frac{-6}{5}}+10x^{\frac{-7}{5}}+10x^{\frac{-8}{5}}+\frac{5}{5}x^{\frac{-9}{5}})</formula> ⇒ <formula notation="TeX">(1+5x^{\frac{-1}{5}}+\frac{5}{5}x^{\frac{-2}{5}})</formula>.</p>
+
+        <p>IV. Aequationis <formula notation="TeX">x^{\frac{-8+8}{7}}dx-y^2x^{\frac{8+8}{7}}dx=dy</formula> integralis est <formula notation="TeX">y=(x^{\frac{-7}{7}}+7x^{\frac{-8}{7}}+21x^{\frac{-9}{7}}+\frac{98}{7}x^{\frac{-10}{7}}+\frac{343}{7}x^{\frac{-11}{7}})</formula> ⇒ <formula notation="TeX">(1+7x^{\frac{-1}{7}}+\frac{98}{7}x^{\frac{-2}{7}}+\frac{343}{7}x^{\frac{-3}{7}})</formula>.</p>
+
+        <p>Quodsi iam progrediamur ad aequationem differentialem uno termino ampliorem <formula notation="TeX">ax^m dx+byx^p dx+cy^2 dx=dy</formula> (ex qua tamen duae coefficientium a, b, c, pro lubitu in alias transmutari possunt, ut supra indicatum fuit) similiter varii se offerunt casus integrabiles quorum nonnullos explicabimus.</p>
+
+        <p>I. Si <formula notation="TeX">ax^{\frac{4n+2b+4}{-2n+1}}dx+byx^{-1}dx+cy^2dx=dy</formula>, aequatio erit integrabilis dato n numero quocunque integro.</p>
+
+        <head>Demonstr.</head>
+        <p>Ponatur <formula notation="TeX">y=\frac{-(b+r)}{c}x^{-1}+x^{-b-2}u</formula> transformabitur aequatio data in hanc <formula notation="TeX">ax^{\frac{4n+2b+4}{-2n+1}}dx-\frac{b}{c}x^{-2}dx+bx^{-3}udx+(b^2+2b+1)x^{-2}dx-(2b+2)x^{-3}udx+cx^{-2b-4}u^2dx=(b^2+b+1)x^{-3}udx+(b+2)x^{-b-3}udx+x^{-b-2}du</formula></p>
+
+        <p>sive destructis terminis aequalibus, <formula notation="TeX">ax^{\frac{4n+2b+4}{-2n+1}}dx+cx^{-2b-4}u^2dx=du</formula>, multiplicentur omnia per x fit <formula notation="TeX">ax^{\frac{4n+2b+4}{-2n+1}}dx+cx^{-2b-4}u^2dx=x^{-b+2}du</formula>, tandem ponatur <formula notation="TeX">x=v^{b+1}</formula>. fiet <formula notation="TeX">\frac{a}{b+1}v^{\frac{4n}{-2n+1}}dv+\frac{c}{b+1}u^2 dv=du</formula>, quam constat esse integrabilem si n fit numerus quicunque integer.</p>
+
+        <p>Potest etiam sic demonstrari: fit <formula notation="TeX">ax^{\frac{-4f+2b}{2f+1}}dx+byx^{-1}dx+cy^2dx=dy</formula>, (quae aequatio non differt a priori, si ponatur n=f+1) fiat <formula notation="TeX">y=x^b u</formula> mutabitur aequatio in hanc <formula notation="TeX">ax^{\frac{-4f+2b}{2f+1}}dx+cx^{2b}u^2dx=x^b du</formula>, divisis omnibus per <formula notation="TeX">x^b</formula> fit <formula notation="TeX">ax^{\frac{-4f+b-2fb}{2f+1}}dx+cx^b u^2dx=du</formula>. Ponatur <formula notation="TeX">x=z^{\frac{1}{b+1}}</formula>. fiet <formula notation="TeX">\frac{a}{b+1}z^{\frac{-4f}{2f+1}}dz+\frac{c}{b+1}u^2dz=du</formula>, quam constat esse integrabilem si f fit numerus quicunque integer.</p>
+
+        <head>Exempl. 1.</head>
+        <p>Si m=2b (cui respondet n=1) hoc est, si aequatio data sit <formula notation="TeX">ax^{2b}dx+byx^{-1}dx+cy^2dx=dy</formula> erit <formula notation="TeX">y=(-ax)^{\frac{1}{2}}x^b</formula>.</p>
+
+        <head>Exempl. 2.</head>
+        <p>Si <formula notation="TeX">m=\frac{2b-4}{3}</formula>, (cui respondet n=-2) hoc est si aequatio data sit <formula notation="TeX">ax^{\frac{2b-4}{3}}dx+byx^{-1}dx+cy^2dx=dy</formula>. erit <formula notation="TeX">y=\frac{-(c:a)^{\frac{1}{2}}x^{\frac{-b+2}{3}}-(b+1)}{3a}x^{\frac{-2b+1}{3}}</formula>.</p>
+
+        <head>Exempl. 3.</head>
+        <p>Si f=1 hoc est, si aequatio data sit <formula notation="TeX">ax^{-2b-4}dx+byx^{-1}dx+cy^2dx=dy</formula>, erit <formula notation="TeX">y=(-a:c)^{\frac{1}{2}}x^{-b-2}-\frac{(b+1)}{c}x^{-1}</formula>. atque sic in similibus exemplis determinari poterit valor y per x &amp; constantes; singulari autem casu est ubi m non determinatur per coefficientes datas, scilicet si fuerit <formula notation="TeX">ax^{-2}dx+byx^{-1}dx+cy^2dx=dy</formula>, ubi fit <formula notation="TeX">y=\frac{-(b+1)+\sqrt{(b+1)^2-4ac}}{2c}x^{-1}</formula>. Gabriel Manfredius in tract. de constructione aequationum differ. primi gradus p. 167. art. 105. cum incidisset in aequationem <formula notation="TeX">nx^2dx-ny^2dx+x^2y^2dx=xy dx</formula>. haec, inquit, aequatio non apparet quomodo construibilis sit, neque enim videmus quomodo illam integremus, nec quomodo indeterminatas ab invicem separemus. Sed integrari potest per formulam nostram hoc modo: dividatur aequatio per <formula notation="TeX">x^2</formula>, fiet <formula notation="TeX">ndx-x^{-1}ydx-nx^{-2}y^2dx=dy</formula>, positoque <formula notation="TeX">x=z^{-1}</formula> erit <formula notation="TeX">-nz^{-2}dz+z^{-1}ydz+ny^2dz=dy</formula>. Ergo <formula notation="TeX">y=\frac{-(1+\sqrt{n^2+1})}{n}z^{-1}</formula>.</p>
+
+        <p>II. Si aequatio A... <formula notation="TeX">ax^{p-1}dx+byx^p dx+cy^2dx=dy</formula> integrari potest, erit etiam aequatio B... <formula notation="TeX">\frac{(a^2p+a^2c)}{p^2}x^{2p}+(\frac{2ac+abp}{p})x^p udx+cu^2dx=du</formula> integrabilis.</p>
+
+        <head>Demonstr.</head>
+        <p>Ponatur <formula notation="TeX">y=\frac{a}{p}x^p+u</formula>, fiet</p>
+        <p><formula notation="TeX">ax^{p-1}dx=ax^{p-1}dx</formula></p>
+        <p><formula notation="TeX">byx^p dx=\frac{ab}{p}x^{2p}dx+bux^p dx</formula></p>
+        <p><formula notation="TeX">cy^2dx=\frac{a^2c}{p^2}x^{2p}dx+\frac{2ac}{p}ux^p dx+cu^2dx</formula></p>
+        <p><formula notation="TeX">dy=du+ax^{p-1}dx</formula></p>
+        <p>quae est ipsa aequatio B. si pro u ponatur y, atque similiter, si aliqua aequatio integrabilis revocari possit ad B demonstratum est aequationem A esse integrabilem.</p>
+
+        <head>Exempl. 1.</head>
+        <p>Cum aequatio <formula notation="TeX">ax^{p-1}dx+byx^p dx+\frac{a}{c}y^2dx=dy</formula>, sit integrabilis (sit enim <formula notation="TeX">y=\frac{a}{p}x^{p-1}</formula>) erit etiam <formula notation="TeX">(\frac{ap}{b}+\frac{ab}{p})x^{2p}dx+(\frac{2b-bp}{p})yx^p dx+\frac{b}{a}y^2dx=dy</formula> integrab. quae aequatio revocari potest ad hanc formam <formula notation="TeX">ax^{\frac{b^2-4ac}{b}+\frac{b\sqrt{b^2-4ac}}{b}}dx+byx^{\frac{(b^2-4ac)+b\sqrt{b^2-4ac}}{b}}dx+cy^2dx=dy</formula>. unde eruitur <formula notation="TeX">y=\frac{(-b+\sqrt{b^2-4ac})x^{\frac{(b^2-4ac)+b\sqrt{b^2-4ac}}{b}}-c}{2c}</formula>.</p>
+
+        <head>Exempl. 2.</head>
+        <p>Quoniam aequatio <formula notation="TeX">ax^{\frac{-2b-ac}{b}}dx+byx^{\frac{-b-ac}{b}}+cy^2dx=dy</formula> est integrabilis, (fit enim <formula notation="TeX">y=\frac{b}{-b-ac}x^{\frac{-b-1}{c}}x</formula>) erit etiam <formula notation="TeX">\frac{ab^3}{(b+ac)^2}x^{\frac{-2b-2ac}{b}}dx+\frac{abc-b^2}{(b+ac)^2}x^{\frac{-b-ac}{b}}udx+cu^2dx=du</formula>. integrabilis &amp; <formula notation="TeX">u=\frac{-bb}{bc+ac^2}x^{\frac{b-ac}{b}}-\frac{1}{c}x^{-1}</formula>.</p>
+
+        <head>Exempl. 3.</head>
+        <p>Quoniam ex aequatione <formula notation="TeX">ax^{\frac{ac-2b}{b}}dx+byx^{\frac{ac-b}{b}}dx+cy^2dx=dy</formula>, fit <formula notation="TeX">y=\frac{ac-b}{ab}x^{\frac{-ac+b}{b}}-\frac{b}{a}x</formula>. Erit etiam <formula notation="TeX">(\frac{2a^2e-ab}{b^2})^2x^{\frac{2ae-2b}{b}}dx+(\frac{3abe-b^2}{ae-b})^2x^{\frac{ae-b}{b}}udx+cu^2dx=du</formula>, integrabilis &amp; <formula notation="TeX">u=\frac{b^2}{ae-b}x^{\frac{ae}{b}}</formula>.</p>
+
+        <p>III. In quibuscunque casibus integrari potest A <formula notation="TeX">-ax^m dx+byx^p dx+cy^2dx=dy</formula>. poterit etiam integrari B <formula notation="TeX">-\frac{c}{m+1}v^{\frac{m}{m+1}}dv-\frac{b}{m+1}uv^{\frac{p-m}{m+1}}dv-\frac{a}{m+1}u^2 dv=du</formula>.</p>
+
+        <head>Demonstr.</head>
+        <p>Ponatur <formula notation="TeX">y=u^{-1}</formula> mutabitur aequatio A in <formula notation="TeX">ax^m dx+bu^{-1}x^p dx+cu^{-2}dx=-u^{-2}du</formula>. Haec multiplicetur per <formula notation="TeX">-u^2</formula> fit <formula notation="TeX">-cdx-bux^p dx-ax^m u^2dx=du</formula>. positoque <formula notation="TeX">x=v^{\frac{1}{m+1}}</formula> prodibit B <formula notation="TeX">-\frac{c}{m+1}v^{\frac{m}{m+1}}dv-\frac{b}{m+1}uv^{\frac{p-m}{m+1}}dv-\frac{a}{m+1}u^2 dv=du</formula>.</p>
+
+        <head>Exempl. 1.</head>
+        <p>Quoniam aequatio <formula notation="TeX">ax^{\frac{-2b-ac}{b}}dx+byx^{\frac{-b-ac}{b}}dx+cy^2dx=dy</formula> est integrabilis, ut antea dictum, poterit etiam integrari <formula notation="TeX">\frac{ac+2b}{ac+b}v^{\frac{ac+2b}{ac+b}}dv+\frac{b}{ac+b}v^{\frac{ac+b}{ac+b}}udv+\frac{a}{ac+b}u^2dv=du</formula>. quae reduci potest ad <formula notation="TeX">ax^{\frac{-ac-2}{ac+1}}dx+byx^{\frac{-1}{ac+1}}dx+cy^2dx=dy</formula>.</p>
+
+        <head>Exempl. 2.</head>
+        <p>Quoniam aequatio <formula notation="TeX">ax^{\frac{ac-2b}{b}}dx+byx^{\frac{ac-b}{b}}dx+cy^2dx=dy</formula> est integrabilis (vid. sup. Ex. 3.) erit etiam <formula notation="TeX">\frac{-c}{ac-b}x^{\frac{ac}{ac-b}}dx-\frac{b}{ac-b}ux^{\frac{ac}{ac-b}}dx-\frac{cb}{ac-b}u^2dx=du</formula>. quae revocari potest ad hanc formam <formula notation="TeX">ax^{ac-1}dx+byx^{-1}dx+cy^2dx=dy</formula> integrabilis.</p>
+
+        <head>Exempl. 3.</head>
+        <p>Quoniam <formula notation="TeX">ax^{-2}dx+byx^{-1}dx+cy^2dx=dy</formula> est integrabilis, fit enim <formula notation="TeX">y=(\frac{-1+\sqrt{1-4ac}}{2c})x-\frac{b}{c}x^{\frac{-1+\sqrt{1-4ac}}{2}}</formula> erit etiam integrabilis ex <formula notation="TeX">dx+bux^{\frac{-3+\sqrt{1-4ac}}{2}}dx+ay^2dx=dy</formula> &amp; fit <formula notation="TeX">y=1:(\frac{-1+\sqrt{1-4ac}}{2a}x-\frac{b}{a}x)^{\frac{1+\sqrt{1-4ac}}{2}}</formula>.</p>
+
+        <p>IV. Si in aequatione generali ponatur c=0 aequatio erit integrabilis dato m-p numero integro affirmativo, potest autem haec aequatio ad simpliciores terminos reduci, si ponatur</p>
+
+        <head>Exempl. 2.</head>
+        <p>Sit aequatio data <formula notation="TeX">ax^2dx+\frac{2}{3}uxdx-\frac{5}{3}ux^2dx+u^3dx-bu^3xdx-bu^5dx=-\frac{1}{3}x^2du-3xu^2du-5u^4du</formula>. erit <formula notation="TeX">\alpha=-\frac{1}{3}</formula> <formula notation="TeX">\beta=0</formula> <formula notation="TeX">\gamma=-1</formula> <formula notation="TeX">\delta=0</formula> <formula notation="TeX">\epsilon=-1</formula> &amp; reliqui coefficientes = 0, e=2, g=1, k=0, m=2. quam ob rem ipsa aequatio dextre tractata perducetur ad <formula notation="TeX">u=\left(\frac{(-ab^2x^2-2abx-2a)+\sqrt{(ab^2x^2+2abx+2a)}}{2b^3}+\frac{1}{4b}\right)^{\frac{1}{3}}</formula> <formula notation="TeX">+\left(\frac{1+abx}{2b^3}+\frac{2+2abx+2a}{2b^3}\right)+\sqrt{\frac{(ab^2x^2+2abx+2a)}{6}}+\frac{1}{4b}\right)^{\frac{1}{3}}</formula></p>
+
+        <p>V. Aequatio <formula notation="TeX">ax^{\frac{-2ac-b}{b}}dx+bx^{\frac{-2ac}{b}}dx+cu^2dx=du</formula> est integrabilis, si <formula notation="TeX">\frac{-2ac}{2ac-b}</formula> fit numerus integer.</p>
+
+        <head>Demonstr.</head>
+        <p>Si ponatur <formula notation="TeX">u=y-\frac{b}{2c}x^{\frac{-2ac}{b}}</formula> sic</p>
+        <p><formula notation="TeX">ax^{\frac{-2ac-b}{b}}dx+bx^{\frac{-2ac}{b}}dx-byx^{\frac{-2ac}{b}}x^{\frac{b}{b}}dx+cu^2dx=-byx^{\frac{b}{b}}dx+\frac{b^2}{4c}x^{\frac{b^2}{b}}dx+cydx-du=ax^{\frac{-2ac-b}{b}}dx</formula></p>
+        <p>hoc est, omissis terminis qui sese destruunt, <formula notation="TeX">\frac{-b^2}{4c}x^{\frac{-4ac}{b}}dx+cydx=dy</formula>. quam constat esse integrabilem si <formula notation="TeX">\frac{7ac}{2ac-b}</formula> fit numerus integer.</p>
+
+        <p>VI. Aequatio <formula notation="TeX">ax^{2e}dx+bux^e dx+\frac{b^2}{4a}u^2dx=du</formula> est integrabilis si <formula notation="TeX">\frac{1+e+1}{2e+2}</formula> fit numerus integer.</p>
+
+        <head>Demonstr.</head>
+        <p>Si ponatur <formula notation="TeX">u=y-\frac{2a}{b}x^e</formula> fiet</p>
+        <p><formula notation="TeX">ax^{2e}dx+bux^e dx=-2ax^{2e}dx+byx^e dx+\frac{b^2}{4a}u^2dx=ax^{2e}dx-byx^e dx+\frac{b^2}{4a}y^2dx</formula></p>
+        <p><formula notation="TeX">=du=-\frac{2ae}{b}x^{e-1}dx-dy</formula>.</p>
+        <p>seu omissis terminis qui sese destruunt <formula notation="TeX">\frac{2ae}{b}x^{e-1}dx+\frac{b^2}{4a}y^2dx=dy</formula> quam constat esse integrabilem si <formula notation="TeX">\frac{1+e+1}{2e+2}</formula> fit numerus integer.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

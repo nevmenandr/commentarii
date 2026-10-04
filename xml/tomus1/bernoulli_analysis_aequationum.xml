@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="la">Analysis Aequationum quarundam Differentialium</title>
+        <title xml:lang="ru">Анализ некоторых дифференциальных уравнений</title>
+        <author>
+          <persName>
+            <forename>Nicolaus</forename>
+            <surname>Bernoullius</surname>
+            <addName type="latin" xml:lang="la">Nicolaus Bernoulli Ioh. F.</addName>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <forename>Борис</forename>
+            <surname>Орехов</surname>
+            <addName type="latin" xml:lang="la">Boris Nuceus</addName>
+            <addName type="english" xml:lang="en">Boris Orekhov</addName>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Борис Орехов (Boris Nuceus / Boris Orekhov)</publisher>
+        <affiliation xml:lang="ru">Институт русской литературы (Пушкинский Дом) Российской академии наук</affiliation>
+        <affiliation xml:lang="la">Institutum Litterarum Russicarum (Domus Puskiniana) Academiae Scientiarum Russicae</affiliation>
+        <address>
+          <email>nevmenandr@gmail.com</email>
+        </address>
+        <ptr target="https://github.com/nevmenandr/commentarii"/>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Commentarii Academiae Scientiarum Imperialis Petropolitanae</title>
+          <biblScope unit="volume">Tomus I</biblScope>
+          <biblScope unit="page">198-207</biblScope>
+          <pubPlace>Petropoli</pubPlace>
+          <publisher>Typis Academiae</publisher>
+          <date when="1728">CIƆ IƆ C C X X V I I I</date>
+          <ptr target="https://archive.org/download/commentariiacade01impe/commentariiacade01impe_bw.pdf"/>
+          <note>Экземпляр из библиотеки Британского музея (Natural History), Лондон.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Электронное научное издание «Commentarii Academiae Scientiarum Imperialis Petropolitanae: Editio Digitalis».</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Текст приведён в исправленном после OCR виде; оригинальные лигатуры раскрыты. В оригинале используется долгая s (ſ, U+017F); в настоящем издании она передана как обычная s.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="la">Latin</language>
+        <language ident="ru">Russian</language>
+      </langUsage>
+      <textClass>
+        <classCode scheme="internal">mathesis</classCode>
+        <keywords>
+          <term type="added">integral calculus</term>
+          <term type="added">differential equations</term>
+          <term type="added">Riccati equation</term>
+          <term type="added">integrability</term>
+          <term type="added">separation of variables</term>
+          <term type="added">Nicolaus Bernoulli</term>
+          <term type="added">Daniel Bernoulli</term>
+          <term type="added">Christian Goldbach</term>
+          <term type="added">18th century mathematics</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="article">
+        <head>ANALYSIS AEQUATIONUM QUARUNDAM DIFFERENTIALIUM,</head>
+        <p>Auctore Nicolao Bernoulli Ioh. F.</p>
+        <p>1. Jul. 1726</p>
+
+        <p>I. Aequationes differentiales quae indeterminatas habent ad simplices potentias elevatas, si ex tribus constant terminis, omnes ad hanc formulam reduci possunt per divisionem</p>
+        <p>(A) <formula notation="TeX">ax^m y^n dx + bx^p y^q dx = dy</formula> &amp; simplicius ad hanc</p>
+        <p>(B) <formula notation="TeX">ax^m y^n dx + by dx = dy</formula></p>
+        <p>acquirit enim aequatio (A) formam aequationis (B) si loco <formula notation="TeX">x^{p+1}</formula> ponatur simplex quaedam littera: Denique si aequatio (B) dividatur per <formula notation="TeX">y^n</formula>, considereturque <formula notation="TeX">y^{n+1}</formula> ut quantitas simplex, apparet posse aequationi (B) aliam conciliari formam simpliciorem, scilicet talem</p>
+        <p>(C) <formula notation="TeX">ax^m dx + by dx = dy</formula>.</p>
+
+        <p>II. Si quis generaliter aequationem (C) ad algebraicam reducere vel saltem in aliam transmutare posset ab indeterminatarum commixtione liberam rem faceret meo judicio utilissimam omnique laude dignam. Nemo autem, quantum scio, hactenus fuit, qui id praestiterit: Illud tamen a Cel. Hermanno, Patreque meo iam monstratum fuit, admittere aequationem (C) indeterminatarum separationem, quoties q=1, hancque restrictionem quodammodo compensarunt eo, quod loco <formula notation="TeX">x^m</formula> in primo termino possit accipi quaecunque functio ipsius x. Idem postea ego quoque inveni diversa via, quam in sequenti §. exponam. Tametsi enim viri allegati methodos suas publico non denegarint, puto tamen posse rei analyticae aliquid emolumenti accedere, quotiescunque nova analysi antea nemini usitata theoremata eruuntur.</p>
+
+        <p>III. Sit ergo aequatio (D) <formula notation="TeX">X dx + by dx = dy</formula>, sitque c ille numerus, cuius logarithmus est unitas: ponatur <formula notation="TeX">y = c^{bx} z</formula> &amp; <formula notation="TeX">dy = bc^{bx} z dx + c^{bx} dz</formula>; erit ergo <formula notation="TeX">X dx + bc^{bx} z dx = bc^{bx} z dx + c^{bx} dz</formula>, vel <formula notation="TeX">X dx = c^{bx} dz</formula>; vel (F) <formula notation="TeX">dz = c^{-bx} X dx</formula>, in qua posteriori aequatione indeterminatae iam sunt a se invicem separatae.</p>
+
+        <p>IV. Sunt praeterea casus infiniti, in quibus aequatio (F) ad algebraicas per integrationes reduci potest, quando scilicet X denotat potentiam quandam rationalem ipsius x; id est quando posito b numero integro &amp; positivo habetur <formula notation="TeX">X = x^b</formula>, ita ut deinde sit (G) <formula notation="TeX">dz = c^{-bx} x^b dx</formula>. Est autem <formula notation="TeX">c^{-bx} x^b dx = c^{-bx} x^b dx - b c^{-bx} x^{b-1} dx - b^2 c^{-bx} x^{b-2} dx - b^3 c^{-bx} x^{b-3} dx</formula> &amp;c., quod si b sit numerus integer positivus abrumpitur haec series, quae talis est indolis ut semper bini termini integrari possint; mutabitur ergo aequatio (G) post integrationem non omissa constante a in hanc aliam (H) <formula notation="TeX">z = a</formula>.</p>
+
+        <p>V. (Pergit auctor de reductionibus — textus in PDF male habitus, vide facsimile.)</p>
+
+        <p>VI. Considerabimus imposterum aequationem (C) ad quam omnes §. I. expositae reduci possunt. Si in illa consideretur q tanquam numerus datus, inveniri poterunt valores ipsius m, ut formula reductionem desideratam admittat. Ita v. gr. nemo non videt posse semper esse m=0; facile quoque apparet, posse idem praestari, si sit <formula notation="TeX">m = \frac{q}{1-q}</formula>; quia ponendo <formula notation="TeX">y = z^{1:(1-q)}</formula> mutatur haec aequatio <formula notation="TeX">ax^{q:(1-q)}dx + by^q dx = dy</formula> in hanc <formula notation="TeX">ax^{q:(1-q)} dx + bz^{q:(1-q)}dx = (1-q)z^{q:(1-q)}dz</formula> cujusmodi aequationum homogeneearum reductionem Pater meus iam diu docuit: Poterunt forsan alii valores praeter dictos unicuique obvios erui, an vero infiniti dubito, nisi cum q=2, quem solum casum hanc praerogativam habere suspicor, dignum proin particulari Geometrarum attentione. Commendatus publice examini eorum fuit a Cl. Com. Riccato in Actis Lips. Suppl. Tom. 8. p. 73. Nemo autem observata sua cum publico communicavit praeter fratrem meum, qui ostendit modum reducendi aequationem Riccatianam ad indeterminatarum separationem usque, quoties <formula notation="TeX">m = \frac{4c}{2e+1}</formula>, ubi c potest denotare quemcunque numerum integrum; &amp; nuperrime etiam coram Societate monstravit Cl. Christianus Goldbach methodum inveniendi aequationes algebraicas aequationi Riccatianae in certa hypothesi satisfacientes: Ultimum hoc nos ambo primi praestitimus ante hos quinque annos &amp; certe fecimus hac in re, quod prima fronte impossibile videri poterat eo, quod generaliter casus aequationis modo definiti pendeant omnes a quadratura circuli vel hyperbolae, ita ut non desit suspicionis locus, aequationes algebraicas exhiberi non posse nisi simul vel circuli vel hyperbolae quadratura innotefcat. Dabo in sequentibus paradoxi solutionem, nunc ipsam analysin aggrediar.</p>
+
+        <p>VII. Cum fuerit q=2 sit aequatio (C) talis</p>
+        <p>(M) <formula notation="TeX">ax^m dx + by^2 dx = dy</formula></p>
+        <p>ponatur m=0, &amp; erit (N) <formula notation="TeX">a dx + by^2 dx = dy</formula>, vel <formula notation="TeX">\frac{dy}{a+by^2} = dx</formula>, cuius aequationis constructio pendet a quadratura circuli, si ambae quantitates a &amp; b sint affirmativae vel ambae negativae, secus poscit quadraturam hyperbolae. Nunc ostendam quomodo ex casu m=0 infiniti alii deduci possint. In aequatione (M) ponatur <formula notation="TeX">x = (m+3)^{2:(m+2)} p^{1:(m+3)}</formula> &amp; <formula notation="TeX">y = -b^{-1} \times (m+3)^{-2:(m+2)} p^{-1:(m+3)} - a^{-6} \times (m+3)^{m:(m+2)} p^{-2:(m+3)} q^{-1}</formula>, atque sic obtinebitur nova aequatio priori plane similis, nempe talis</p>
+        <p>(N) <formula notation="TeX">a p^{-m-4:(m+3)} dp + b q^2 dp = dq</formula>.</p>
+        <p>Ex hac autem similitudine aequationum (M) &amp; (N) concluditur quod quoties m est casus separabilitatis, sit quoque m-4 talis: hincque statim infiniti oriuntur; si enim m=0, fit m-4=-4; dein si m=-4, fit m-4=-8, &amp; sic porro: omnes hi casus m=0, m=-4, m=-8 &amp;c. continentur in hac formula generali m=-4n intelligendo per n numerum integrum.</p>
+
+        <p>VIII. Ex praecedenti §. patet posse hanc aequationem <formula notation="TeX">ax^{-4n:(2n+1)} dx + by^2 dx = dy</formula> semper geometrice ope quadraturæ circuli vel hyperbolae construi, quoties n est numerus integer, quia semper potest reduci ad hanc aequationem <formula notation="TeX">a ds + bt^2 ds = du</formula>; sed pro hac reductione exemplum iam superius dedi §. 4. ubi demonstravi aequationem <formula notation="TeX">x^b dx + by dx = dy</formula>, posito b= numero integro positivo continere aequationes partim algebraicas partim a quadratura hyperbolae pendentes; iam alterum exemplum apponam atque aequationes algebraicas dabo pro hac aequatione differentiali <formula notation="TeX">-ax^{-4n:(2n+1)} dx + by dx = dy</formula>.</p>
+
+        <p>IX. (Textus in PDF male habitus — vide facsimile.)</p>
+
+        <p>X. In §. 7. monstravit omnes separabilitatis casus expressos per <formula notation="TeX">-4n:(2n+1)</formula> ita inter se cohaerere ut semper unus ad alterum reduci possit, quapropter si in unico casu aequatio algebraica desiderata erui potest, poterit per reductiones idem praestari in omnibus reliquis. Inquiram itaque aequationem algebraicam satisfacientem casui particulari huius aequationis <formula notation="TeX">ax^n dx + by dx = dy</formula>. Sit aequatio algebraica talis</p>
+        <p><formula notation="TeX">y = ax^n + bx^{n+1} + \gamma x^{n+2} + \dots + \delta x^{n+p}</formula></p>
+        <p>per a, β, γ &amp;c. intelligo coefficientes incognitas; &amp; per n &amp; p itidem numeros determinandos pro exponentibus indico; determinabo primo n &amp; p: substituantur in aequatione proposita differentiali valores pro yy &amp; dy, &amp; habebit aequatio resultans neglectis coefficientibus talem formam</p>
+        <p><formula notation="TeX">x^n dx + x^{2n} dx + x^{2n+1} dx + x^{2n+2} dx + \dots + x^{2n+2p} dx + x^{n-1} dx + x^n dx + x^{n+1} dx + \dots + x^{n+p-1} dx</formula></p>
+        <p>ut haec aequatio fiat identica, efficiam ut primus &amp; secundus terminus sint homogenei, dein quoque ut tertius sit talis respectu primi ab altera parte, nec non ultimus ab una parte respectu ultimi ab altera parte; ita fient omnes intermedii homogenei; exinde obtinentur huiusmodi aequationes m=2n, 2n+1=n-1. &amp; 2n+2p=n+p-1; vel m=-4, n=-2 &amp; p=1; hi valores indicant, posse aequationem talem <formula notation="TeX">y = ax^{-1} + \beta x^{-2}</formula> satisfacere huic aequationi differentiali <formula notation="TeX">-ax^{-4} dx + by dx = dy</formula>, modo a &amp; β recte definiantur; definientur autem ex comparatione aequationum post substitutionem valorum pro yy &amp; dy; fiet nimirum a=1 &amp; β=1+√2; habemus itaque pro hac aequatione differentiali (P) <formula notation="TeX">-ax^{-4} dx + by dx = dy</formula>, hanc algebraicam (Q) <formula notation="TeX">y = 1 + x^{1+\sqrt{2}}</formula>. Si porro fiant substitutiones §. 7. indicatae tam in aequatione differentiali (P) quam in integrali (Q) poterunt successive aequationes algebraicae erui pro singulis casibus huius aequationis generalioris <formula notation="TeX">-ax^{-4n:(2n-1)} dx + by dx = dy</formula>: Imo si recte observetur lex substitutionum, in seriem redigentur omnes illae aequationes algebraicae magis minusve compositae pro ratione magnitudinis numeri n; verum fatendum est, magnam attentionis perspicaciaeque vim pro illa obtinenda requiri; felicem tamen successum expertus est Cl. Christ. Goldbach. (vid. p. 187): hanc seriem considerans, ut &amp; naturam substitutionum pro separationis negotio requisitarum, inducor ut credam plane impossibile esse, semper in aequatione generali Riccatiana <formula notation="TeX">ax^m dx + by dx = dy</formula> aequationes algebraicas eruere vel separare indeterminatas; caeterum cur in casu particulariori <formula notation="TeX">m = -4n:(2n-1)</formula>, necesse sit, ut a &amp; b affirmative sumtae habeant signa diversa liquet ex eo, quod in aequatione algebraica (Q) habeatur √2 quae secus fieret imaginaria; confirmatur hinc quod dixi §. 9. solas aequationes quae pendent a quadratura hyperbolae posse partim esse pro curvis algebraicis, partim pro transcendentibus.</p>
+
+        <p>XI. Haec iam inveneram cum Venetiis agerem eademque cum fratre Daniele per litteras communicaveram, qui alia methodo aequationes illas algebraicas directe, id est, integrando eruit, postquam prius iam casus separabilitatis reperisset: transcribam hic ipsius verba in latinum sermonem versa excerpta ex litteris, quas Basilea ad me dedit.</p>
+
+        <p>„ Libenter, inquit, intellexi ex ultimis tuis Te dare posse aequationes algebraicas pro aequatione Riccatiana <formula notation="TeX">-ax^{-4n:(2n+1)} dx + by^2 dx = dy</formula>; hoc ego minus fieri posse putassem; sed eius rei certior a Te factus mox idem inveni; mitto Tibi methodum meam, quo illam cum Tua comparare possis. Sit (A) <formula notation="TeX">-a ds + bt^2 ds = dt</formula>; ergo <formula notation="TeX">-\frac{ds}{dt} = a + bt^2</formula>, &amp; integrando cum additione constantis C, erit <formula notation="TeX">C = \log\frac{\sqrt{a}+\sqrt{b}t}{\sqrt{a}-\sqrt{b}t}</formula>, vel si n dicatur numerus, cuius logarithmus est unitas, habebitur (B) <formula notation="TeX">n^C = \frac{s \times 2\sqrt{ab}-\sqrt{a}+\sqrt{b}}{s \times 2\sqrt{ab}+\sqrt{a}-\sqrt{b}}</formula>, est ergo aequatio (B) identica cum proposita (A). ponatur in utraque <formula notation="TeX">s = x - t</formula> &amp; <formula notation="TeX">t = \frac{b}{\sqrt{t} - \sqrt{x y}}</formula>, &amp; erunt aequationes resultantes adhuc identicae: differentialis quae prodit talis est <formula notation="TeX">-ax^{-4} dx + by^2 dx = dy</formula>, altera exponentialis ita se habet, si recte reducatur (D) <formula notation="TeX">n^{(Cx+1)} \times 2x\sqrt{aab} - x - bxxy + \sqrt{aab}</formula>; sed cum C sit quantitas arbitraria &amp; constans, faciamus illam infinitam &amp; erit primum aequationis exponentialis membrum infinitum; oportet ergo ut &amp; alterum sit tale, idque est, cum denominator ipsius =0, seu <formula notation="TeX">-x - bxxy + \sqrt{ab} = 0</formula>; seu <formula notation="TeX">y = -x - \sqrt{ab}</formula> seu <formula notation="TeX">y = -b - x - x^{-1}\sqrt{ab}</formula> quae proin comprehenditur in hac aequatione <formula notation="TeX">-ax^{-4} dx + by^2 dx = dy</formula>. Si vero C ponatur quantitas infinita negativa, erit primum aequationis (D) membrum =0, quapropter iam numerator alterius membri debet esse =0, unde <formula notation="TeX">y = -b - x - x^{-1}\sqrt{ab}</formula>, &amp; combinando utrumque valorem ipsius y, habebitur denique <formula notation="TeX">y = -\frac{1}{2} + \frac{1}{2}x\sqrt{\frac{a}{b}}</formula>, quae ultima aequatio plane eadem est cum illa, quam mihi perscripsisti; de reliquis casibus nihil dico; nofti enim, illos per methodum nostram reductionum facile haberi ope unius iam inventi. „</p>
+
+        <p>C. G.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

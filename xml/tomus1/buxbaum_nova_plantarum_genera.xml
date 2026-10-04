@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="la">Nova Plantarum Genera</title>
+        <title xml:lang="ru">Новые роды растений</title>
+        <author>
+          <persName>
+            <forename>Ioannes Christianus</forename>
+            <surname>Buxbaumius</surname>
+            <addName type="latin" xml:lang="la">I. C. Buxbaum</addName>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <forename>Борис</forename>
+            <surname>Орехов</surname>
+            <addName type="latin" xml:lang="la">Boris Nuceus</addName>
+            <addName type="english" xml:lang="en">Boris Orekhov</addName>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Борис Орехов (Boris Nuceus / Boris Orekhov)</publisher>
+        <affiliation xml:lang="ru">Институт русской литературы (Пушкинский Дом) Российской академии наук</affiliation>
+        <affiliation xml:lang="la">Institutum Litterarum Russicarum (Domus Puskiniana) Academiae Scientiarum Russicae</affiliation>
+        <address>
+          <email>nevmenandr@gmail.com</email>
+        </address>
+        <ptr target="https://github.com/nevmenandr/commentarii"/>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Commentarii Academiae Scientiarum Imperialis Petropolitanae</title>
+          <biblScope unit="volume">Tomus I</biblScope>
+          <biblScope unit="page">241-245</biblScope>
+          <pubPlace>Petropoli</pubPlace>
+          <publisher>Typis Academiae</publisher>
+          <date when="1728">CIƆ IƆ C C X X V I I I</date>
+          <ptr target="https://archive.org/download/commentariiacade01impe/commentariiacade01impe_bw.pdf"/>
+          <note>Экземпляр из библиотеки Британского музея (Natural History), Лондон.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Электронное научное издание «Commentarii Academiae Scientiarum Imperialis Petropolitanae: Editio Digitalis».</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Текст приведён в исправленном после OCR виде; оригинальные лигатуры раскрыты. В оригинале используется долгая s (ſ, U+017F); в настоящем издании она передана как обычная s.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="la">Latin</language>
+        <language ident="ru">Russian</language>
+      </langUsage>
+      <textClass>
+        <classCode scheme="internal">physica</classCode>
+        <keywords>
+          <term type="added">botany</term>
+          <term type="added">new plant genera</term>
+          <term type="added">flora</term>
+          <term type="added">Caspian region</term>
+          <term type="added">Ingria</term>
+          <term type="added">Karelia</term>
+          <term type="added">18th century natural history</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="article">
+        <head>NOVA PLANTARUM GENERA, Auctore I. C. Buxbaum.</head>
+
+        <head>I. Chamaeadaphne.</head>
+
+        <p>Frequens est Ingriae &amp; Careliae uliginosis &amp; terra turfacea scatentibus ericetis frutex, Botanicis hucusque minus notus, qui merito novum constituit genus, cuius notae sunt: Flores monopetali, campaniformes globosi, fructus in quinque loculamenta divisi, seminibus foeti exiguis subrotundis. Adde modum nascendi, qui Polygonato vulgari respondet. Descriptio sit sequens: Radix lignosa, tortuosa, repens, ramosa, quae hinc inde fibras in fasciculos congestas dimittit, novos quoque juxta stipitem emittit stolones. Caudex digiti fere crassitie, spadiceus, dodrantali spatio terram superans, in duos vel tres maiores, hique rursus in minores brachiantur ramos arcuatos &amp; versus terram inclinatos. Folia ex summis egrediuntur ramis, alternatim posita, oblonga, ex rotundo paulum acuminata, rigida, granulis albidis adsperfa, quasi pustulata, superiore parte obscure, inferiore vero dilutius viridia, glabra, hyemisque patientia, petiolis brevibus adhaerentia &amp; erecta. Inferiora sunt maiora, aeque horum alis gemmae novorum surculorum prodeunt quatuor vel quinque, superiora vero successive, quo altius ascendes, minora &amp; magis rotunda, tandemque Serpilli foliorum aemula evadunt. Ex singulis horum alis singuli enascuntur flores, brevi petiolo reflexo insidentes, penduli, nivei, quinque laciniis acutis conniventibus dislecti, calyce quinquifido, brevi, fusco, &amp; ab alio bifido sustentato cincti, decem staminibus, pistillum breve quinqueterum ambientibus praediti. Sequuntur capsulae quinquangulares, quinque-loculares, &amp; quinque valvis ab apice dehiscences, perianthio instar stellae expanso insidentes. Mirum in hac planta est, quod folia, quae tota retinet hyeme, media demum aestate abiiciat. Floribus enim ultimis Maii &amp; primis Junii diebus emarcidis, iam novi ex alis foliorum inferiorum rami frugiferi surgunt surculi, qui maius incrementum sumentes Julio producunt folia &amp; florum gemmas, prioris interim anni foliis delapsis, ramulisque nudis cum solo relictis fructu. Gemmae vero novi surculi eo perveniunt, ut, si calycem, quo obvolvuntur, immaturum aperias, stamina florum futuri anni clare se conspicienda exhibeant. Videtur autem tota planta tempestate accedente frigida, Augusto nempe &amp; Septembri, exarescere. Vere tamen sequenti, si aliquot saltem dies sol letters fuiserit, folia ante nigra viridem acquirunt colorem, &amp; planta floribus onusta elegantissimis non sine supor conspicitur. Ramulus, qui ante annum floruerat, est aridus, foliis orbus, capsularum seminalium saltem vestigia brevi etiam interitura ostendens, terraeque proximus, licet ante annum in summitate fruticis locatus. Quamvis enim singulis annis hic frutex procrefcat, nunquam tamen evadit altior, fed caudex semper versus terram inclinatur &amp; novas agit radices. Ob foliorum aliquam cum Lauro similitudinem nomen hactenus vacuum, olim tamen variis tributum plantis, revocamus &amp; Chamaeadaphnen nominamus. Vid. <ref type="figure" target="#fig1">Fig. I</ref>.</p>
+
+        <figure xml:id="fig1" corresp="#p241">
+          <head>Fig. 1</head>
+          <graphic url="images/tomus1/buxbaum_nova_plantarum_genera_fig1.png"/>
+        </figure>
+
+        <head>II. Potamopitys.</head>
+
+        <p>Planta hac palustris facie externa convenit cum I. Bauhini Equiseti facie Polygono femina, seu Limnopeuce Cordi, ob florem &amp; fructum vero longe diversa, uti patebit ex descriptione sequenti: Radix fibrosa. Caulis palmaris fere, interdum ramosus, (qualem nostra figura exhibet) rectus, rotundus, concavus, ex multis articulis pyxidatis conflatus. Ex his ipsis articulis egrediuntur folia radiatim posita, sex, septem vel octo, quae radici proxima &amp; inferiora, sunt angusta, mollia atque virentia, Galii foliorum aemula; superiora vero multo latiora, quatuor, tria vel interdum duo saltim conjuncta. Ex foliorum alis exeunt flores parvi, albicantes, ex petalis quatuor, angustis &amp; acutis, cruciatim positis, constantes, sessiles, calyce pariter quadrifido sustentati, in floris medio pistillum rotundum, quatuor staminibus cinctum. Fructus sequitur rotundus, quadricapsularis, seminibus gracilibus lunatis foetus. Character itaque huius plantae est: Folia stellata, flores tetrapetali &amp; fructus in quatuor loculamenta divisi. Pertinet juxta Rarium ad Herbas flore tetrapetalo anomales. Occurrit in palustribus Thraciae, non longe a Bosporo prope pagum Boiucteri, floret Maio. <ref type="figure" target="#fig2">Fig. II</ref>.</p>
+
+        <figure xml:id="fig2" corresp="#p243">
+          <head>Fig. 2</head>
+          <graphic url="images/tomus1/buxbaum_nova_plantarum_genera_fig2.png"/>
+        </figure>
+
+        <head>III. Ceratocarpus.</head>
+
+        <p>Huius notae sunt: Folia graminea. Flores apetali, calyce destituti, embryoni insidentes. Fructus triangulares depressi, capsulae Bursae pastoris fere similes, bicornes &amp; bivalves, semine foeti unico, singularis figurae, longum enim est, gracile &amp; teres, cuius extremitates instar arcus inflexae &amp; sibi invicem adductae intermedia conjunguntur membrana. Descriptio vero est sequens: Radix parva, fibrosa, ut mihi videtur, annua, ex qua cauliculus unicus, lignosus &amp; angulosus, ab exortu statim ramosus. Folia angusta, graminea, unum vel duo, singulo ramo nec non singulae capsulae aut flori ex caule emergenti singulum apposita, rigida, in medio carinata. Ex alis foliorum aut ramulorum nascuntur flosculi staminei, exigui, lutei, nullo obvoluti calyce, sed fructum stipantes tenerum, qui deinde abit in capsulam bicornem supra descriptam. Crescit in locis squalidis, salsis &amp; arenosis, circa mare Caspium, in regione Tagestan, nec non circa Astrakan. Auctumno caulis a radice a ventis divellitur &amp; vagatur per campos, more Eryngii aut Echinophorae. Ob duos capsulae aculeos seu cornua sic appellare placuit. Describitur a Tournefortio in Corollario novum genus, Ceratoides, a fructu cornuto. Diu haesi dubius, anne Ceratocarpus noster sit eius Ceratoides folio Piylli. Sed fructum dicit bicapsularem a flore remotum. Suspectus tamen mihi est, quod nullam Ceratoidis dederit figuram. Forsitan vidit plantam immaturo adhuc fructu &amp; deceptus est. <ref type="figure" target="#fig3">Fig. III</ref>.</p>
+
+        <figure xml:id="fig3" corresp="#p244">
+          <head>Fig. 3</head>
+          <graphic url="images/tomus1/buxbaum_nova_plantarum_genera_fig3.png"/>
+        </figure>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="la">Experimentum circa Nervum Opticum</title>
+        <title xml:lang="ru">Эксперимент относительно зрительного нерва</title>
+        <author>
+          <persName>
+            <forename>Daniel</forename>
+            <surname>Bernoullius</surname>
+            <addName type="latin" xml:lang="la">Daniel Bernoulli Ioh. F.</addName>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <forename>Борис</forename>
+            <surname>Орехов</surname>
+            <addName type="latin" xml:lang="la">Boris Nuceus</addName>
+            <addName type="english" xml:lang="en">Boris Orekhov</addName>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Борис Орехов (Boris Nuceus / Boris Orekhov)</publisher>
+        <affiliation xml:lang="ru">Институт русской литературы (Пушкинский Дом) Российской академии наук</affiliation>
+        <affiliation xml:lang="la">Institutum Litterarum Russicarum (Domus Puskiniana) Academiae Scientiarum Russicae</affiliation>
+        <address>
+          <email>nevmenandr@gmail.com</email>
+        </address>
+        <ptr target="https://github.com/nevmenandr/commentarii"/>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Commentarii Academiae Scientiarum Imperialis Petropolitanae</title>
+          <biblScope unit="volume">Tomus I</biblScope>
+          <biblScope unit="page">314-317</biblScope>
+          <pubPlace>Petropoli</pubPlace>
+          <publisher>Typis Academiae</publisher>
+          <date when="1728">CIƆ IƆ C C X X V I I I</date>
+          <ptr target="https://archive.org/download/commentariiacade01impe/commentariiacade01impe_bw.pdf"/>
+          <note>Экземпляр из библиотеки Британского музея (Natural History), Лондон.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Электронное научное издание «Commentarii Academiae Scientiarum Imperialis Petropolitanae: Editio Digitalis».</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Текст приведён в исправленном после OCR виде. В оригинале используется долгая s (ſ, U+017F); в настоящем издании она передана как обычная s.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="la">Latin</language>
+        <language ident="ru">Russian</language>
+      </langUsage>
+      <textClass>
+        <classCode scheme="internal">physica</classCode>
+        <keywords>
+          <term type="added">optics</term>
+          <term type="added">optic nerve</term>
+          <term type="added">vision</term>
+          <term type="added">Mariotte's blind spot</term>
+          <term type="added">18th century physiology</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="article">
+        <head>EXPERIMENTUM CIRCA NERVUM OPTICUM.</head>
+
+        <p>Extat in Act. Lips. A. 1683. pag. 68. experimentum, quo demonstratur, spatiolum esse in media choroidea (sive, ut alii volunt, retina) ad imaginem obiectorum percipiendam plane ineptum, eoque D. Mariotte usus est contra D. Pecquet in examinando primario visus organo. Disceptatum autem fuit a viris clarissimis, an perforationi choroideae a nervo optico, an vero plexui vascolorum sanguiferorum in retina conspicuo tribuendum sit, quod experimento monstratur. vid. Hist. Reg. Sc. Acad. Paris. conscriptam a D. Du Hamel. Ego autem putavi, id diiudicandum esse ex figura, situ &amp; magnitudine loci illius extra radiorum actionem positi; possunt enim haec omnia exactissime determinari sequentem in modum.</p>
+
+        <p>In pavimento (cuius parti aliquot pedes longae ad meliorem experimenti successum pannus niger inferni potest) ponatur moneta argentea O: ducaturque recta OA; Dein accipiatur pendulum, cuius altera extremitas oculo dextro admoveatur, altera ad pavimentum non omnino pertingat. Tandem clauso oculo sinistro directaque constanter dextri acie in imam penduli partem, ita paulatim corpus versus sinistram promoveatur, ut penduli extremitas continuo sit in recta OA, quae dum fiunt, exacte observetur locus, ubi obiectum O visu perdi incipit. Sit ille in C; posteaque continuando motum, accurate quoque notetur punctum A, in quo obiectum O iterum percipitur: Bifecta linea AC in D, ductaque perpendiculari BH, fiat in BH, quod ante in linea OA, id est, diligenter observentur puncta B &amp; H tanquam limites intra quos cum existit penduli extremitas, obiectum O visui se surripit: linea BH denuo bifecetur in F linea perpendiculari GE, &amp; in hac pari conditione quaerantur puncta E &amp; G; idem fiat in aliis lineis LP, MN &amp;c. Atque per omnia ista puncta ducatur linea curva HEBGH, quae erit huius indolis, ut quamdiu oculus correspondet puncto intra curvam, obiectum O nullo modo appareat, si extra curvam cadit axis visionis, idem mox percipiatur. Dicam nunc, quae ipse experiundo observavi reductis singulis quantitatibus ad longitudinem penduli, quam voco 100. Inveni ergo OC=23, AC=10, BD=3, DH=13, &amp; EG=14: Ex quibus liquet, curvam accedere ad ellipsin. Cuius centrum est in F, &amp; cuius axis maior est ad axem minorem ut 8 ad 7.</p>
+
+        <figure xml:id="fig5" corresp="#p316">
+          <head>Fig. 5</head>
+          <graphic url="images/tomus1/bernoulli_experimentum_circa_neruum_fig5.png"/>
+        </figure>
+
+        <p>Restat nunc indagandum, quomodo ex observatis his determinari possint situs, figura &amp; magnitudo spatii illius ad visum inutilis. Id vero nullo negotio obtinetur; cognitis enim lineis AC, EG, LP, MN, HB &amp;c. determinantur lineae analogae in oculo. Quamvis autem BH maior sit quam EG, fient tamen ipsarum analogae in oculo aequales, adeo ut figura elliptica in circularem mutetur: &amp; erit diameter circelli illius aequalis septimae parti diametri totius bulbi. Centrum eius distabit septem vigesimis quintis partibus diametri bulbi a puncto pupillae opposito, eritque simul supra medium oculi paululum elevatum. Haec omnia exacte cum nervo optico in oculo humano conveniunt adeo, ut iam sententia D. Mariotte sit hac in parte extra omne dubium posita.</p>
+
+        <p>Quod si ergo insertio nervi optici fit causa phaenomeni illius a D. Mariotte observati, planum est, non debuisse nervum hunc directe e regione pupillae in bulbum inferi: ita enim omnia obiecta in medio perforata nobis apparerent, illudque, in quod oculos defixos nunc habere solemus, non videremus: dum vero nervus opticus lateraliter bulbo insertus fuit, efficitur, ut illa tantum obiecta perdamus, quae sub certo angulo ad latus sunt posita. Neque unquam unum idemque obiectum amborum oculorum sensui se surripere potest, si nervi optici a latere sint oculo implantati; id vero semper fieret, si essent pupillae e diametro oppositi.</p>
+
+        <p>Alterum Corollarium, quod deduco ex eodem experimento, tale est. Non potuit nervus opticus aliter quam ad perpendiculum oculo inferi. Nam cum locus insertionis sit ad visum inutilis, natura in id intenta esse debuit, ut fieret inter omnes possibiles minimus: hocque obtinetur, dum perpendiculariter bulbum nervus ingreditur.</p>
+
+        <p>Quod si nervi recta ab originibus suis, scil. cruribus medullae oblongatae ad oculos tetendissent, necessario contra alterutrum praemissorum lemmatum peccatum fuisset; cum enim principium nervi optici sit fere e regione oculi constitutum, uti hic in A, manifestum est, esse nervum AB (quem perpendicularem pono ad sphaeram seu bulbum oculi) e regione pupillae positum. Sed si nervus lateraliter in C fuisset oculo insertus, eo ipso obliquus evasisset.</p>
+
+        <figure xml:id="fig9" corresp="#p317">
+          <head>Fig. 9</head>
+          <graphic url="images/tomus1/bernoulli_experimentum_circa_neruum_fig9.png"/>
+        </figure>
+
+        <p>Dum vero nervi non recta tendunt ad oculum, fed prius coniunguntur, utrique postulato ex affe satisfit, uti id ex sola inspectione figurae nonae apparet.</p>
+
+        <p>Si quis exinde rationem coniunctionis nervorum opticorum deducere volet, ei facile suffragabor.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -51,8 +51,7 @@
         <p>Электронное научное издание «Commentarii Academiae Scientiarum Imperialis Petropolitanae: Editio Digitalis».</p>
       </projectDesc>
       <editorialDecl>
-        <p>Текст приведён в исправленном после OCR виде; оригинальные лигатуры раскрыты. В оригинале XVIII века буква <hi rend="italic">f</hi> часто обозначает долгую <hi rend="italic">s</hi> (ſ); в настоящем издании все такие случаи раскрыты как <hi rend="italic">s</hi>.</p>
-        <p>Математические формулы переданы в нотации TeX внутри элемента <gi>formula</gi>.</p>
+        <p>Текст приведён в исправленном после OCR виде; оригинальные лигатуры раскрыты. В оригинале используется долгая s (ſ, U+017F); в настоящем издании она передана как обычная s.</p>
       </editorialDecl>
     </encodingDesc>
     <profileDesc>

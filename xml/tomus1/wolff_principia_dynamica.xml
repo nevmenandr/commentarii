@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="la">Principia Dynamica</title>
+        <title xml:lang="ru">Начала динамики</title>
+        <author>
+          <persName>
+            <forename>Christianus</forename>
+            <surname>Wolfius</surname>
+            <addName type="latin" xml:lang="la">Christianus Wolfius</addName>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <forename>Борис</forename>
+            <surname>Орехов</surname>
+            <addName type="latin" xml:lang="la">Boris Nuceus</addName>
+            <addName type="english" xml:lang="en">Boris Orekhov</addName>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Борис Орехов (Boris Nuceus / Boris Orekhov)</publisher>
+        <affiliation xml:lang="ru">Институт русской литературы (Пушкинский Дом) Российской академии наук</affiliation>
+        <affiliation xml:lang="la">Institutum Litterarum Russicarum (Domus Puskiniana) Academiae Scientiarum Russicae</affiliation>
+        <address>
+          <email>nevmenandr@gmail.com</email>
+        </address>
+        <ptr target="https://github.com/nevmenandr/commentarii"/>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Commentarii Academiae Scientiarum Imperialis Petropolitanae</title>
+          <biblScope unit="volume">Tomus I</biblScope>
+          <biblScope unit="page">217-232</biblScope>
+          <pubPlace>Petropoli</pubPlace>
+          <publisher>Typis Academiae</publisher>
+          <date when="1728">CIƆ IƆ C C X X V I I I</date>
+          <ptr target="https://archive.org/download/commentariiacade01impe/commentariiacade01impe_bw.pdf"/>
+          <note>Экземпляр из библиотеки Британского музея (Natural History), Лондон.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Электронное научное издание «Commentarii Academiae Scientiarum Imperialis Petropolitanae: Editio Digitalis».</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Текст приведён в исправленном после OCR виде; оригинальные лигатуры раскрыты. В оригинале используется долгая s (ſ, U+017F); в настоящем издании она передана как обычная s.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="la">Latin</language>
+        <language ident="ru">Russian</language>
+      </langUsage>
+      <textClass>
+        <classCode scheme="internal">mathesis</classCode>
+        <keywords>
+          <term type="added">dynamics</term>
+          <term type="added">vis viva</term>
+          <term type="added">vis mortua</term>
+          <term type="added">action</term>
+          <term type="added">Leibniz</term>
+          <term type="added">measure of forces</term>
+          <term type="added">18th century physics</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="article">
+        <head>PRINCIPIA DYNAMICA, Autore Christiano Wolfio.</head>
+        <p>M. Dec. 1726.</p>
+
+        <p>Non ignotum est, Illustrem Leibnitium mensuram virium demonstravisse per motum gravium ascendentium: quam eius demonstrationem una cum alia Cel. Johannis Bernoulli in Elementis Mechanicae exhibui.</p>
+
+        <p>Monuit quoque Leibnitius in Actis Eruditorum A. 1695. p. 154, se ad eandem virium aestimationem ex simplicissima consideratione spatii, temporis &amp; actionis pervenisse: id quod mihi ansam dedit iam A. 1710 mensuram virium ex motu aequabili eruendi. Repereram autem in motu aequabili vires aestimari posse per impetus ad spatia applicatos, seu in hypothesi mobilium aequalium per celeritates ad spatia applicatas. Hinc enim eandem, quam Leibnitius dedit, prodire virium mensuram evidens est. Omnis vero cardo rei in eo vertitur, ut ostendatur, quod impetus ad spatia applicare liceat. Ut igitur id appareat, Principia Dynamica, quae hactenus desiderantur, summa, qua fieri potest, perspicuitate demonstrare constitui. Quoniam vero secunda virium definitio latet, unde earundem mensuram eruere licet, eius loco axiomata quaedam sumo: Et cum ex intentione Leibnitii in Dynamicis, ea, quae vires &amp; actiones corporum spectant, independenter a phaenomenis, abstrahendo quam maxime ab omni re sensibili, ex solis notionibus derivemus, ne cui in demonstrationibus theorematum fundamentalium noster arguendi modus videatur parum evidens, notandum est, nos data, per quae quaesitum determinantur, sumere tanquam unitatem, &amp; quaesitum tanquam unitatem alteram, atque toties ponendo data, quoties ponitur quaesitum, rationem quaesitorum determinare per rationem datorum; cum sic in casu rationali ea prodeat relatio, quae est numeri ad unitatem, in irrationali ea, quae est rectae ad rectam quandam datam. Sicut enim data simul sumta, per quae determinantur quaesitum, arithmetice considerantur ut unitas; ita geometrice ut linea quaedam data. Unitas cum sit indivisibilis, data omnia in replicatione simul sumenda, prout ponuntur</p>
+
+        <p>2. Vim corporis, quae in motu locali sefe exerit, a massa &amp; celeritate pendere, ita ut pro massa vel celeritate maiore maior sit, nemo in dubium vocat. Quodsi ergo mobilia fuerint aequalia, hoc est, si eadem fuerit utriusque massa; virium quantitas a sola celeritate pendet. Quamobrem, si eadem fuerit celeritas, eadem quoque esse debet virium quantitas, sive vires sint in ratione simplici, sive in quacunque multiplicata vel submultiplicata celeritatum.</p>
+
+        <head>Axioma 2.</head>
+        <p>3. Eadem vi eodem tempore eadem absolvitur actio.</p>
+
+        <head>Scholion.</head>
+        <p>Eadem vi longiori tempore maiorem absolvi actionem quam breviori, &amp; contra eodem tempore vi maiore actionem maiorem absolvi quam minori, nemo dubitat. Quantitas adeo actionis pendet a quantitate virium &amp; temporis. Quamobrem, si vires fuerint aequales &amp; tempus idem, actio quoque eadem esse debet.</p>
+
+        <head>Definitio 1.</head>
+        <p>4. Vim vivam cum Leibnitio, vel etiam simpliciter vim appello, quae motui locali adhaeret.</p>
+
+        <head>Definitio 2.</head>
+        <p>5. Vim vero mortuam cum eodem dico, quae in solo conatu ad motum consistit. Unde etiam Conatum appellare soleo.</p>
+
+        <head>Definitio 3.</head>
+        <p>6. Vis pura est, cui in agendo contraria nulla resistit.</p>
+
+        <head>Corollarium.</head>
+        <p>7. Vis igitur pura toto actionis tempore invariata manet.</p>
+
+        <head>Scholion.</head>
+        <p>8. Istiusmodi vis in motu aequabili sefe exerit, si concipiatur fieri in medio non resistente. Quantocunque enim intervallo mobile promoveatur, eadem tamen semper subsistit celeritas, consequenter vis motrix eadem. Effectus adeo, quem producit, eam minime absorbet. Secus sefe res habet in motu gravium, ubi vis in ascensum tota impenditur.</p>
+
+        <head>Definitio 4.</head>
+        <p>9. Actio pura dicitur, quae exercetur vi motrice pura.</p>
+
+        <head>Scholion.</head>
+        <p>10. Talis est actio mobilis motu aequabili lati in medio non resistente (§. 8)</p>
+
+        <head>Definitio 5.</head>
+        <p>11. Actio uniformis est, quae duplo tempore dupla, triplo tripla &amp; ita porro, seu in genere, quae est ut tempus.</p>
+
+        <head>Scholion.</head>
+        <p>12. Istiusmodi actio in motu aequabili locum habet, ubi mobile continuo eadem celeritate moveri pergit, si nempe motus fieri concipitur in medio non resistente.</p>
+
+        <head>Definitio 6.</head>
+        <p>13. Effectus vis motricis extra conflictum est translatio mobilis per spatium.</p>
+
+        <head>Scholion.</head>
+        <p>14. Papinus negat dari aliquem effectum vis motricis, ubi nulla resistentia superanda, neque enim admittit eius effectum alium, nisi qui in superanda resistentia sefe exerit. Vid. Acta Eruditorum A. 1691. p. 7. Ex definitione effectus in genere, quae metaphysica est, erroris redarguitur. Ipso etiam usu loquendi refellitur. Quilibet fateri debet, idem fuisse effectum, sive mobile vi impressa a termino A usque ad terminum B progrediatur, sive ab homine ex loco A in locum B transferatur. Ecquis vero dixerit, hominem nihil egisse, dum corpus quoddam ex loco A in locum B transtulit. Enim vero non opus est, ut ea de re disputemus. Utemur descriptione praesente tanquam nominali, quae adeo arbitraria est. Si quis igitur translationem mobilis per spatium effectum vis motricis appellare renuit, is non invitis nostris demonstrationibus aliud quodcunque nomen voci huic substituat.</p>
+
+        <head>Scholion 2.</head>
+        <p>15. Si motus sit in medio non resistente, effectus purus est, qualem nos in sequentibus constanter supponimus. Si vero in medio resistente, idem mixtus est, cum pars virium continuo resistentiae medii impendatur, donec tandem vis omnis prorsus consumatur.</p>
+
+        <p>16. Effectus nocuus est, qui vim motricem absorbet: innocuus, qui eam intemeratam relinquit.</p>
+
+        <p>17. Effectus innocuus est in motu aequabili: nocuus in ascensu gravium, &amp; in superanda resistentia.</p>
+
+        <head>Axioma 3.</head>
+        <p>18. Si idem mobile per idem spatium transfertur, effectus idem est.</p>
+
+        <head>Scholion.</head>
+        <p>19. Supponimus nempe motum fieri in medio non resistente, aut saltem abstrahimus ab actione, quae impenditur in superandam resistentiam medii: id quod licet, quamdiu temporis nulla habetur ratio, quo effectus producitur.</p>
+
+        <head>Theorema 1.</head>
+        <p>20. Si corpora inaequalia eadem celeritate moventur, vires sunt ut massae.</p>
+
+        <p>Sit corporis m celeritate c imoti vis v. Ergo corporis alterius aequalis m eadem celeritate c moti vis etiam v est (§. 1.) consequenter corporis bis m celeritate c lati vis est bis v. Eodem modo patet, fore corporis ter m celeritate c moti vim ter v, &amp; in genere corporis nm (=M) celeritate c moti nv (=V.) Est igitur V:v = M:m hoc est, corporum inaequalium eadem celeritate motorum vires sunt ut massae. Q. E. D.</p>
+
+        <head>Theorema 2.</head>
+        <p>21. Actiones uniformes eodem tempore absolutae sunt inter se ut vires.</p>
+
+        <head>Demonstratio.</head>
+        <p>Absolvatur vi v actio v tempore t. Ergo eadem vel aequali vi v eodem tempore t absolvetur alia actio a priori aequalis (§. 3.) consequenter vi bis v absolvetur eodem tempore t actio bis a. Similiter patet, vi ter v eodem tempore t absolvi debere actionem ter a &amp;c. Immo in genere, vi ut nv (=V) absolvi debere actionem</p>
+
+        <head>Corollarium 1.</head>
+        <p>22. Si corpora inaequalia eadem celeritate moventur, vires sunt ut massae (§. 20.) Actiones igitur corporum, quae eadem celeritate moventur, eodem tempore absolutae sunt in ratione massarum (§. 21.)</p>
+
+        <head>Corollarium 2.</head>
+        <p>23. Si A=a, erit V=v, hoc est, si actiones eodem tempore absolutae fuerint aequales, vires aequales sunt.</p>
+
+        <head>Theorema 3.</head>
+        <p>24. Actiones uniformes viribus aequalibus absolutae sunt inter se ut tempora, quibus absolvuntur.</p>
+
+        <head>Demonstratio.</head>
+        <p>Absolvatur vi v tempore t actio a. Ergo eadem vi v eodem vel aequali tempore t absolvetur actio alia a eidem aequalis (§. 3.) consequenter vi eadem v tempore bis t actio bis a. Eodem modo patet, vi eadem vel aequali v tempore ter t absolvi debere actionem ter a &amp;c quadruplo tempore t actionem quadruplam a, immo in genere tempore quocunque nt (=T) actionem na (=A). Et igitur A:a = T:t, hoc est, actiones viribus aequalibus absolutae sunt ut tempora, quibus absolvuntur. Q. E. D.</p>
+
+        <head>Theorema 4.</head>
+        <p>25. Actiones uniformes sunt in ratione composita temporum &amp; virium.</p>
+
+        <head>Demonstratio.</head>
+        <p>Actiones uniformes A &amp; a eadem vi V productae sunt inter se ut tempora T &amp; t, quibus producuntur (§. 24.) Producatur iam actio alia a eodem tempore t, quo a producitur, vi quacunque V. Erit a:a = V:v (§. 21.) Ergo A:a = TV:tv, hoc est, actiones uniformes sunt in ratione composita temporum &amp; virium Q. E. D.</p>
+
+        <head>Corollarium.</head>
+        <p>26. Si corpora inaequalia eadem celeritate ferantur, vires sunt ut massae (§. 20.) Actiones igitur uniformes in hypothesi mobilium inaequalium eadem celeritate latorum sunt in ratione composita massarum atque temporum.</p>
+
+        <head>Theorema 5.</head>
+        <p>27. Vires inaequales eandem actionem absolvunt temporibus sibi reciproce proportionalibus.</p>
+
+        <head>Demonstratio.</head>
+        <p>Actiones uniformes A &amp; a sunt in ratione composita temporum T &amp; t atque virium V &amp; v (§. 25.) quare cum sit A = a per hypothesin; erit TV = tv consequenter V:v = T:t, hoc est, vires sunt ut tempora reciproce. Q. E. D.</p>
+
+        <head>Corollarium.</head>
+        <p>28. Quodsi mobilia eadem celeritate moventur, vires sunt ut massae (§. 20.) adeoque actionem eandem absolvunt temporibus eorum massis reciproce proportionalibus (§. 27.)</p>
+
+        <head>Theorema 6.</head>
+        <p>29. Si duo mobilia aequalia per spatia inaequalia transferuntur, effectus sunt ut spatia.</p>
+
+        <head>Demonstratio.</head>
+        <p>Transferatur mobile m per spatium f &amp; denotet e effectum. Ergo si idem vel aequale mobile m per idem vel aequale spatium S transfertur, erit effectus etiam ut e (§. 18.), consequenter si mobile m transfertur per spatium bis f, erit effectus bis e. Et eodem modo patet in genere, si mobile m transfertur per spatium quodcunque nf (=S), fore quoque effectum ut ne (=E). Quare, si mobilia fuerint aequalia, erit E:e = S:f, hoc est, effectus sunt ut spatia. Q. E. D.</p>
+
+        <head>Theorema 7.</head>
+        <p>30. Si duo quaecunque mobilia per idem spatium transferuntur, effectus sunt inter se ut massae eorundem.</p>
+
+        <head>Demonstratio.</head>
+        <p>Transferatur mobile m per spatium f &amp; denotet e effectum. Ergo, si idem vel aequale mobile m per idem vel aequale spatium f transfertur, erit denuo effectus e (§. 18). Si igitur mobile fuerit ut bis m, quod cum simplici m per idem spatium f transfertur, effectus erit ut bis e. Quare cum eodem modo pateat, esse in genere effectum ut ne(=E), si mobile, cum alio m per idem spatium f translatum, fuerit ut nm(=M); evidens est, quod sit in hac hypothesi E:e = M:m, hoc est, effectus sint ut massae mobilium per idem spatium translatorum. Q.E.D.</p>
+
+        <head>Corollarium.</head>
+        <p>31. Quando corpora inaequalia eadem celeritate moventur, vires sunt ut massae (§. 20). Quodsi ergo per eadem spatia transferuntur, effectus sunt ut vires (§. 30.)</p>
+
+        <head>Theorema 8.</head>
+        <p>32. Si duo quaecunque mobilia per spatia quaecunque transferuntur, effectus sunt in ratione composita massarum atque spatiorum.</p>
+
+        <head>Demonstratio.</head>
+        <p>Si duo mobilia aequalia, quorum massae sunt ut M, transferuntur per spatia quaecunque S &amp; f, erunt effectus E &amp; e uti spatia S &amp; f (§. 29.) Transferatur iam mobile, cuius massa ut m, per idem spatium f cum altero M; erunt effectus e &amp; e ut massae M &amp; m (§. 30.) Quare E:e=MS:mf, hoc est, effectus quicunque sunt in ratione composita massarum &amp; spatiorum, per quae mobilia transferuntur. Q. E. D.</p>
+
+        <head>Corollarium.</head>
+        <p>33. Si E=e erit MS=mf, adeoque M:m=f:S, hoc est, si effectus fuerit idem, spatia sunt massis reciproce proportionales</p>
+
+        <head>Theorema 9.</head>
+        <p>34. In motu aequabili effectus sunt in ratione composita massarum, celeritatum atque temporum.</p>
+
+        <head>Demonstratio.</head>
+        <p>In omni motu, adeoque &amp; in aequabili, effectus E &amp; e sunt in ratione composita massarum M &amp; m atque spatiorum S &amp; f (§. 32) Sunt vero spatia S &amp; f in motu aequabili in ratione composita celeritatum C &amp; c atque temporum T &amp; t. Quare effectus E &amp; e sunt in ratione composita massarum M &amp; m, celeritatum C &amp; c atque temporum T &amp; t. Q. E. D.</p>
+
+        <head>Corollarium 1.</head>
+        <p>35. Quodsi fuerit T=t, erit E:e=MC:mc, hoc est effectus innocui eodem tempore producti sunt in ratione composita massarum M &amp; m atque celeritatum C &amp; c.</p>
+
+        <head>Corollarium 2.</head>
+        <p>36. Cum impetus I &amp; i sint in ratione composita mas-</p>
+
+        <p>37. Effectus adeo innocui eodem tempore producti sunt ut impetus.</p>
+
+        <p>38. Si C=c, erit E:e=MT:mt, hoc est, si duo mobilia eadem celeritate moventur, effectus sunt in ratione composita massarum atque temporum.</p>
+
+        <p>39. Quodsi ergo mobilia M &amp; m fuerint aequalia, effectus sunt ut tempora.</p>
+
+        <p>40. Si mobilia aequalia eadem celeritate moventur, erunt effectus innocui ut tempora.</p>
+
+        <p>41. Actiones uniformes viribus aequalibus absolutae sunt ut tempora.</p>
+
+        <p>42. Si M=m, erit E:e=CT:ct, hoc est, si duo mobilia aequalia sunt, effectus sunt in ratione composita celeritatum atque temporum.</p>
+
+        <p>43. Si E=e, erit MCT=mct, consequenter</p>
+
+        <p>44. Eodem modo patet, esse C:c=mt:MT, hoc est, effectu existente eodem, celeritates C &amp; c esse in ratione composita reciproca massarum m &amp; M atque temporum t &amp; T.</p>
+
+        <head>Corollarium 11.</head>
+        <p>45. Quodsi igitur ulterius m=M, erit C:c=t:T, hoc est, si duo mobilia fuerint aequalia, effectus idem producitur temporibus, quae celeritatibus reciproce proportionales sunt.</p>
+
+        <head>Corollarium 12.</head>
+        <p>46. Si vero fuerit T=t, erit C:c=m:M, hoc est, si idem effectus innocuus eodem tempore producitur, celeritates C &amp; c sunt reciproce ut massae m &amp; M.</p>
+
+        <head>Theorema 10.</head>
+        <p>47. Actiones, quibus idem effectus producitur, sunt ut celeritates.</p>
+
+        <head>Demonstratio.</head>
+        <p>Si duobus mobilibus M &amp; m diversa celeritate C &amp; c latis idem producitur effectus, tum is aut eodem tempore producitur, aut tempore diverso.</p>
+
+        <p>I. Quod si mobilia fuerint aequalia &amp; effectus idem diverso tempore producatur, celeritates erunt ut tempora reciproce, quibus is producitur (§. 45), hoc est, corpus, quod tempore 1/2 T effectum producit, movetur celeritate 2C, cum alterum, quod effectum tempore T producit, moveatur simplici celeritate C, &amp; ita porro. Iam evidens est, actionem uniformem esse duplam, quae dimidio tempore effectum producit; triplam, quae subtriplo, &amp; ita porro; hoc est, actiones in eadem ratione crescere, in qua decrescit tempus, quod effectui ab eodem mobili impenditur consequenter A:a=t:T. Quare cum sit C:c=t:T per demonstrata; si ab eodem mobili existente idem effectus producitur diverso tempore, actiones sunt ut celeritates. Quod erat unum.</p>
+
+        <p>II. Si idem effectus producitur eodem tempore, mobili existente diverso; celeritates C &amp; c sunt reciproce ut massae M &amp; m (§. 46.) scilicet si m=1/2 M, erit c=2C, seu corpus dimidium movetur celeritate dupla. Quoniam hic eadem ratio massarum, quae in casu priori erat temporum, ratio vero celeritatum eodem modo sefe habet; perinde est, sive massae sint eadem &amp; tempus diversum, sive massae diversae &amp; tempus idem. Sed in casu priori actiones A &amp; a sunt reciproce ut tempora, directe ut celeritates, per modo demonstrata. Ergo &amp; in hoc posteriori eadem actiones A &amp; a erunt reciproce ut massae, vel directe ut celeritates. Quod erat secundum.</p>
+
+        <p>III. Denique si idem effectus diverso tempore producatur, mobilibus M &amp; m existentibus diversis; ponamus effectum eundem e eodem tempore T produci actionibus A &amp; a; erit A:a=m:M per cas. 2. Producatur idem effectus e tempore t actione a, mobili existente m, qui tempore T actione a producebatur: erit a:a=t:T, per cas. I. Est igitur A:a=tm:TM. Sed effectu existente eodem, C:c=tm:TM (§. 44). Ergo A:a=C:c, hoc est, actiones, quibus idem effectus producitur, sunt ut celeritates. Quod erat tertium.</p>
+
+        <head>Corollarium.</head>
+        <p>48. Actiones eodem tempore sunt ut vires (§. 21.) Ergo, si idem effectus innocuus eodem tempore producitur, vires sunt ut celeritates (§. 47.)</p>
+
+        <head>Theorema 11.</head>
+        <p>49. Si duo mobilia eadem celeritate feruntur, actiones sunt ut effectus innocui.</p>
+
+        <head>Demonstratio.</head>
+        <p>Producatur actione a effectus e celeritate c. Ergo eadem celeritate actione bis a producitur effectus bis e; actione ter a effectus ter e &amp; ita porro, consequenter actione na(=A) effectus ne(=E.) Sunt igitur actiones A &amp; a ut effectus innocui E &amp; e. Q. E. D.</p>
+
+        <head>Theorema 12.</head>
+        <p>50. Actiones uniformes sunt in ratione composita effectuum &amp; celeritatum.</p>
+
+        <head>Demonstratio.</head>
+        <p>Effectus E &amp; e eadem celeritate C producti sunt ut actiones A &amp; a, quibus producuntur (§. 49.) Producatur iam actione a idem effectus E celeritate c, qui actione a celeritate C producitur: erunt actiones a &amp; a ut celeritates C &amp; c (§. 47.) Ergo actiones uniformes A &amp; a sunt in ratione composita effectuum innocuorum E &amp; e atque celeritatum C &amp; c. Q. E. D.</p>
+
+        <head>Corollarium.</head>
+        <p>51. Quoniam EaC = eAc (§. 50.) erit E:e = Ac:aC; hoc est, effectus innocui sunt in ratione composita ex directa actionum &amp; reciproca celeritatum.</p>
+
+        <head>Theorema 13.</head>
+        <p>52. Actiones uniformes sunt ut impetus ad spatia applicati, quae motu aequabili describuntur.</p>
+
+        <head>Demonstratio.</head>
+        <p>Actiones A &amp; a sunt in ratione composita effectuum E &amp; e atque celeritatum C &amp; c (§. 50.) Sed effectus E &amp; e sunt in ratione composita massarum M &amp; m atque spatiorum S &amp; f (§. 32.) Ergo actiones sunt in ratione composita massarum M &amp; m, celeritatum C &amp; c atque spatiorum S &amp; f. Quamobrem, cum in motu aequabili impetus I &amp; i sunt in ratione composita massarum M &amp; m atque celeritatum C &amp; c; erunt actiones A &amp; a in ratione composita impetuum I &amp; i atque spatiorum S &amp; f, seu ut impetus ad spatia applicati. Q. E. D.</p>
+
+        <head>Corollarium.</head>
+        <p>53. In motu aequabili spatia S &amp; f eodem tempore absoluta sunt ut celeritates C &amp; c, &amp; impetus in ratione composita massarum &amp; celeritatum seu ut MC &amp; mc. Actiones igitur eodem tempore absolutae sunt in ratione composita ex simplici massarum M &amp; m atque celeritatum duplicata C² &amp; c², hoc est, A:a = MC²:mc².</p>
+
+        <head>Theorema 14.</head>
+        <p>54. In motu aequabili vires sunt in ratione composita ex simplici massarum &amp; duplicata celeritatum.</p>
+
+        <head>Demonstratio.</head>
+        <p>Actiones uniformes eodem tempore absolutae A &amp; a sunt in ratione composita ex simplici massarum M &amp; m atque duplicata celeritatum C² &amp; c² (§. 53.) Sed eaedem sunt ut vires V &amp; v (§. 21). Ergo etiam vires V &amp; v sunt in ratione composita ex simplici massarum M &amp; m atque</p>
+
+        <head>Corollarium 1.</head>
+        <p>55. Mobili igitur existente eodem, vires sunt in ratione duplicata celeritatum.</p>
+
+        <head>Corollarium 2.</head>
+        <p>56. In motu quomodocunque accelerato in fine cuiuscunque temporis vires sunt in ratione composita ex simplici massarum &amp; duplicata celeritatum in fine istius temporis acquisitarum.</p>
+
+        <head>Corollarium 3.</head>
+        <p>57. Quoniam gravia per altitudinem quamcunque cadendo eam celeritatem acquirunt, qua ad eandem ascendere possunt; igitur vires projectorum, quibus ascensus inchoatur, sunt in ratione composita ex simplici massarum &amp; duplicata celeritatum, quas per altitudines, ad quas ascendunt, cadendo acquirere valent.</p>
+
+        <head>Scholion.</head>
+        <p>58. Atque haec est illa demonstratio, quam in hypothesi mobilium aequalium &amp; rationis duplae celeritatum A. 1710. cum Illustrissimo Comite ab Herberstein, illustri Leibnitio, atque aliis communicavi, aestimans actionem motricem per impetus ad spatia applicatos, quamque Leibnitius in suam cum viris celeberrimis Johanne Bernoulli atque Iacobo Hermanno aliisque communicatam, recidere scripsit d. 12. Ian. A. 1711. datis litteris dicto fidem his verbis faciens: „ Calculum virium purarum „ feu actionum talem instituo. Sit spatium f, tempus t, „ velocitas v, corpus c, effectus e, potentia p, actio a. „ In motu aequabili erit tv ut f, e ut cs, tp ut a. Atque „ haec quidem sine demonstratione assumi possunt. Accedit, quod demonstrandum, ev ut a. Hinc porro plurima theoremata demonstrari possunt, e. gr. p ut cv². Nam tp ut ev: sed e ut cs, &amp; f ut tv. Ergo fit tp ut ctv², seu p ut cv². In motu inaequabili res etiam procedit; sed ordinatim invicem ducenda sunt, quorum rationes componuntur, &amp; in elementaribus, unde deinde summa dat aestimationem totalem. Atque in his continetur pars meorum dynamicorum, abstracta maxime a rebus sensibilibus, etsi deinde per experimenta verificetur. „ Nullus itaque dubito, me hic principia Dynamicae menti Leibnitii conformia proposuisse, quibus via ad ulteriora sternitur.</p>
+
+        <head>Theorema 15.</head>
+        <p>59. In motu gravium seu aequabiliter accelerato vires sunt in ratione composita spatiorum, per quae gravia descendunt, atque massarum.</p>
+
+        <head>Demonstratio.</head>
+        <p>In tempusculo infinite parvo, quo grave per spatiolum infinite parvum descendit, motus supponitur aequabilis, adeoque duorum mobilium M &amp; m, quae per inaequales altitudines descenderunt, actiones motrices A &amp; a sunt in ratione composita tempusculorum dT &amp; dt atque virium V &amp; v integro descensu acquisitarum (§. 25). Eaedem vero etiam sunt ut impetus MC &amp; mc ad spatiola dS &amp; df applicati, quae ulterius descendendo tempusculis dT &amp; dt celeritatibus temporibus T &amp; t per spatia S &amp; f acquisitis C &amp; c describerent (§. 52.) Habemus itaque VdT:vdt = MCds:mcd f, consequenter VCdT:vcdt = MC²dS:mc²df. Est vero in motu gravium ex hypothesi Galileana, seu aequabiliter accelerato, C²:c²=dS:df &amp; C:c=dT:dt. Ergo VdT²:vdt²=MdS²:mdf², consequenter dTVV:dTVv =dSVM:dfVm. Quoniam itaque in tempusculo infinite parvo vires V &amp; v perinde ac massae M &amp; m constantes sunt; erit TVV:tVv =SVM:fVm, consequenter T²V:t²v =S²M:f²m: &amp;, ob T²:t² =S:f =C²:c² ex natura motus aequabiliter accelerati, VC²:vc² =MSC²:mfc². Est igitur V:v =MS:mf, hoc est, vires sunt in ratione composita spatiorum, per quae gravia descendunt, atque massarum. Q. E. D.</p>
+
+        <head>Corollarium 1.</head>
+        <p>60. Quoniam grave vi cadendo acquisita ad eam altitudinem ascendit, unde decidit: Vires gravium ascendentium sunt in ratione composita massarum &amp; altitudinum, ad quas ascendunt.</p>
+
+        <head>Scholion 1.</head>
+        <p>61. Atque hoc est illud principium, quod in virium aestimatione a Leibnitio suppositum constanter negaverunt Papinus, aliique antagonistae.</p>
+
+        <head>Corollarium 2.</head>
+        <p>62. Quoniam ascensus gravis ascendentis est effectus nocuus (§. 16), est autem ut massa ducta in altitudinem, per quam ascenditur (§. 32); vires sunt ut effectus nocui in ascensu gravium ex hypothesi Galileana. (§. 60.)</p>
+
+        <head>Scholion 2.</head>
+        <p>63. Perperam igitur omnis effectus statuitur causae proportionalis.</p>
+
+        <head>Theorema 16.</head>
+        <p>64. Effectus innocui fiunt in ratione composita, ex simplici temporum &amp; subduplicatis virium atque massarum.</p>
+
+        <head>Demonstratio.</head>
+        <p>Effectus innocui E &amp; e sunt in ratione composita massarum M &amp; m, celeritatum C &amp; c atque temporum T &amp; t (§. 34.). Sed vires V &amp; v sunt in ratione composita massarum M &amp; m simplici atque celeritatum duplicata C² &amp; c² (§. 54), adeoque celeritates C &amp; c in ratione composita ex subduplicata massarum reciproca &amp; subduplicata virium directa, nempe ut 1 ad 1 Quamobrem effectus E &amp; e sunt in ratione composita temporum T &amp; t directa, atque virium &amp; massarum subduplicatis VVM &amp; Vvm. Q. E. D.</p>
+
+        <head>Corollarium 1.</head>
+        <p>65. Si T=t, erit E:e=VVM:Vvm, hoc est, effectus innocui eodem tempore producti sunt in ratione composita ex subduplicatis virium atque massarum.</p>
+
+        <head>Corollarium 2.</head>
+        <p>66. Si praeter T=t etiam M=m, erit E:e=VV:Vv, hoc est, effectus eodem tempore, mobilibus existentibus aequalibus, producti sunt in ratione subduplicata virium.</p>
+
+        <head>Theorema 17.</head>
+        <p>67. Vires sunt in ratione composita effectuum eodem tempore productorum &amp; celeritatum.</p>
+
+        <head>Demonstratio.</head>
+        <p>Sunt enim ut actiones eodem tempore absolutae (§. 21). Sed eaedem actiones sunt in ratione composita effectuum eodem tempore productorum atque celeritatum (§. 50). Ergo vires sunt in ratione composita effectuum eodem tempore productorum atque celeritatum Q. E. D.</p>
+
+        <head>Corollarium.</head>
+        <p>68. Effectus E &amp; e sunt in ratione composita massarum M &amp; m atque spatiorum S &amp; f (§. 32). Ergo vires V &amp; v sunt ut MSC ad mfc, hoc est, ut impetus MC &amp; mc ad spatia S &amp; f applicati.</p>
+
+        <head>Theorema 18.</head>
+        <p>69. Conatus seu vires mortuae sunt in ratione composita massarum &amp; celeritatum.</p>
+
+        <head>Demonstratio.</head>
+        <p>Per legem continuitatis Leibnitianam conatus considerari potest instar vis vivae moventis corpus per spatiolum infinite parvum, hoc est, revera nullum. Quare, cum conatui sic considerato applicari possit theorema de viribus vivis puris attenta differentia, quae inter casum hunc ultimum &amp; ceteros intercedit, vires purae autem sint ut MSC ad mfc (§. 57), evanescentibus spatiis S &amp; f, in praesenti casu revera nullis, erunt conatus ut MC ad mc. Q. E. D.</p>
+
+        <p>70. Obtinet hoc in vecte ceterisque potentiis mechanicis. Leibnitius in Actis Erudit. 1. c. p. 150. paulo aliter rationem reddit, cur conatus sint celeritatibus proportionales: putat enim, in ipso initio motus descensus seu ipsas quantitates spatiorum descensu percursorum, nempe adhuc infinite parvas seu elementares, esse conatibus descendendi proportionales. Enimvero quoniam nostra principia cum suis concordare agnovit (§. 58), imo agnoscere debuit, cum nullum dederimus theorema, quod non cum mensura virium Leibnitiana consentiat, nondum videtur illo tempore Dynamica ex primis suis principiis constituisse. Sane nec vires vivae in omni hypothesi gravium sunt spatiis proportionales: neque enim solum ex demonstratione superiori (§. 59) patet, id tantum convenire hypothesi Galilaeanae; verum, si demonstrationem generaliter concipias, patebit ulterius, fore vires in ratione composita ex simplici massarum, duplicata spatiorum directa, &amp; duplicata temporum reciproca. Quoniam igitur in hypothesi Galilaeana spatia sunt in ratione temporum duplicata; singulari hic ratione contingit, ut vires spatiis proportionales evadant.</p>
+
+        <head>Corollarium 1.</head>
+        <p>71. Si vectis ponderibus in A &amp; B onustus moveatur circa centrum motus C, translatio ponderum per spatia AD &amp; BE fit eodem tempore. Sunt adeo effectus E &amp; e, seu M x AD &amp; m x EB, hoc</p>
+
+        <figure xml:id="fig_vectis" corresp="#p231">
+          <head>Vectis</head>
+          <graphic url="images/tomus1/wolff_principia_dynamica_vectis.png"/>
+        </figure>
+
+        <head>Scholion.</head>
+        <p>73. En igitur demonstrationem theorematis mechanici &amp; fundamentalis ex principiis Dynamicis deductam. Mittimus alia, quae inde derivari poterunt. Neque enim in praesenti nobis propositum fuit, quam principia Dynamicae constituere.</p>
+
+        <figure xml:id="fig_finis" corresp="#p232">
+          <head>Ornamentum</head>
+          <graphic url="images/tomus1/wolff_principia_dynamica_finis.png"/>
+        </figure>
+      </div>
+    </body>
+  </text>
+</TEI>

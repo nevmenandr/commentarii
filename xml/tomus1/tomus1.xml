@@ -55,6 +55,11 @@
   <xi:include href="goldbach_methodus_integrandi.xml"/>
   <xi:include href="hermann_de_epicycloidibus.xml"/>
   <xi:include href="wolff_principia_dynamica.xml"/>
+
+  <!-- Титульный лист раздела: Classis Secunda continens Physica -->
+  <xi:include href="tomus1_classis2_titulus.xml"/>
+
+  <!-- Статьи раздела Physica -->
   <xi:include href="buxbaum_nova_plantarum_genera.xml"/>
   <xi:include href="bulfinger_de_directione_corporum.xml"/>
   <xi:include href="duvernoi_descriptio_vasorum.xml"/>

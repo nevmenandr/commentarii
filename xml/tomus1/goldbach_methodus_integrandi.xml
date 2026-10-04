@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="la">Methodus integrandi Aequationem differentialem ay dx + bx^n dx + cx^{n-1} dx + ex^{n-2} dx + etc. = dy, ubi n sit numerus integer positivus</title>
+        <title xml:lang="ru">Метод интегрирования дифференциального уравнения ay dx + bx^n dx + cx^{n-1} dx + ex^{n-2} dx + etc. = dy, где n — целое положительное число</title>
+        <author>
+          <persName>
+            <forename>Christianus</forename>
+            <surname>Goldbachius</surname>
+            <addName type="latin" xml:lang="la">Christianus Goldbach</addName>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <forename>Борис</forename>
+            <surname>Орехов</surname>
+            <addName type="latin" xml:lang="la">Boris Nuceus</addName>
+            <addName type="english" xml:lang="en">Boris Orekhov</addName>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Борис Орехов (Boris Nuceus / Boris Orekhov)</publisher>
+        <affiliation xml:lang="ru">Институт русской литературы (Пушкинский Дом) Российской академии наук</affiliation>
+        <affiliation xml:lang="la">Institutum Litterarum Russicarum (Domus Puskiniana) Academiae Scientiarum Russicae</affiliation>
+        <address>
+          <email>nevmenandr@gmail.com</email>
+        </address>
+        <ptr target="https://github.com/nevmenandr/commentarii"/>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Commentarii Academiae Scientiarum Imperialis Petropolitanae</title>
+          <biblScope unit="volume">Tomus I</biblScope>
+          <biblScope unit="page">207-209</biblScope>
+          <pubPlace>Petropoli</pubPlace>
+          <publisher>Typis Academiae</publisher>
+          <date when="1728">CIƆ IƆ C C X X V I I I</date>
+          <ptr target="https://archive.org/download/commentariiacade01impe/commentariiacade01impe_bw.pdf"/>
+          <note>Экземпляр из библиотеки Британского музея (Natural History), Лондон.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Электронное научное издание «Commentarii Academiae Scientiarum Imperialis Petropolitanae: Editio Digitalis».</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Текст приведён в исправленном после OCR виде; оригинальные лигатуры раскрыты. В оригинале используется долгая s (ſ, U+017F); в настоящем издании она передана как обычная s.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="la">Latin</language>
+        <language ident="ru">Russian</language>
+      </langUsage>
+      <textClass>
+        <classCode scheme="internal">mathesis</classCode>
+        <keywords>
+          <term type="added">integral calculus</term>
+          <term type="added">differential equations</term>
+          <term type="added">integrability</term>
+          <term type="added">substitution methods</term>
+          <term type="added">Johann Bernoulli</term>
+          <term type="added">18th century mathematics</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="article">
+        <head>C. G. METHODUS INTEGRANDI AEQUATIONEM DIFFERENTIALEM ay dx + bx^n dx + cx^{n-1} dx + ex^{n-2} dx + etc. = dy, ubi n sit NUMERUS INTEGER POSITIVUS.</head>
+        <p>20. Sept. 1726.</p>
+
+        <p>Postquam Cel. Joh. Bernoullius demonstravit, aequationem quamcunque differentialem, in cuius terminis licet x &amp; y permixtae sint, si modo in quocunque termino eadem reperiatur exponentium summa, esse integrabilem, patet hoc ipsum theorema ad innumeras alias aequationes, in quibus summa exponentium non est constans per idoneas substitutiones extendi posse, nam si v. gr. sit aequatio</p>
+        <p><formula notation="TeX">(a+bxy+cx^2y^2+ex^3y^3+\&amp;c.)dx + (lx^2+mx^3y+nx^4y^2+\&amp;c.)dy=0</formula></p>
+        <p>vel <formula notation="TeX">(ay+bxy^2+cx^2y^3+\&amp;c.)dx + (lx+mx^2y+nx^3y^2+\&amp;c.)dy=0</formula></p>
+        <p>in quarum utravis parte summa exponentium continuo crescit, sola substitutione y=z^{-1} ad eandem exponentium summam revocari possunt; &amp; generatim, data aequatione</p>
+        <p><formula notation="TeX">(ax^n+bz^nx^{n-1}+\&amp;c.)dx + (mx^nz^{n-1}+nx^{n-1}z^{2n-1}+px^{n-2}z^{3n-1}+\&amp;c.)dz=0</formula></p>
+        <p>ad aequalem exponentium summam reducitur si fiat z=y^{-1}. Praeterea licet huiusmodi substitutione quae omnium facillima est non obtineatur reductio quaesita ad aequalem summam exponentium, non illico existimandum est reductionem nullam succedere, fieri enim potest ut natura terminorum substitutiones magis complicatas postulet, sic v. gr.</p>
+        <p><formula notation="TeX">adx+bdy+cxdx+exdy+fydx+gydy=0</formula></p>
+        <p>indiget his substitutionibus <formula notation="TeX">x=z+\frac{bf-ag}{eg-ef}</formula> <formula notation="TeX">y=u+\frac{ae-be}{eg-ef}</formula> ut redigatur ad formam <formula notation="TeX">(cz+fu)dz+(ez+gu)du=0</formula>. Aequatio <formula notation="TeX">axdx-ecxdz\sqrt{1-bcz}\sqrt{1-2exz}\sqrt{1-bz^2}\sqrt{1-c^2z}\sqrt{1-3cz^2}\sqrt{1-2z^3}</formula> indiget substitutione <formula notation="TeX">\frac{2}{\sqrt{2}}</formula> ut redigatur ad formam <formula notation="TeX">axdx+bydx+exdy+ydy=0</formula>.</p>
+
+        <p>Theorema vero, quod iam proponimus in hoc cum Bernoulliano convenit, quod nullo terminorum numero, nulla coefficientium determinatione limitetur, fed eo differt, quod non requirat constantem summam exponentium in uno quovis termino, neque ad eandem reduci possit.</p>
+
+        <p>Ut ostendamus aequationem nostram in quocunque casu non solum separabilem esse, sed etiam integrabilem, a facilioribus exemplis incipiemus.</p>
+
+        <p>Sit <formula notation="TeX">ay dx+bx dx+c dx=dy</formula>. Invenietur <formula notation="TeX">y=\frac{-b}{a}x-\frac{(b+ac)}{a}</formula></p>
+
+        <p>Sit <formula notation="TeX">ay dx+bx^2 dx+cx dx+e dx=dy</formula>.</p>
+        <p>erit <formula notation="TeX">y=\frac{-b}{a}x-\frac{(2b+ac)}{aa}x-\frac{(2b+ac+a^2)}{aa}e</formula></p>
+
+        <p>Sit <formula notation="TeX">ay dx+bx^3 dx+cx^2 dx+e dx+f dx=dy</formula>.</p>
+        <p>erit <formula notation="TeX">y=\frac{-b}{a}x-\frac{(3b+ac)}{2}x-\frac{(5b+2ac+a^2)}{a}e^{\frac{1}{3}}x-\frac{(5b+2ac+a^2)}{a}e\left(\frac{1}{3}x\right)</formula></p>
+
+        <p>Ex quarum coefficientium progressione facile eruitur integralis nostra aequationis, dato pro n numero quocunque integro positivo</p>
+
+        <p><formula notation="TeX">y=\frac{-b}{a}x^n+\frac{n \cdot d}{a}x^{n-1}+\frac{(n-1) \cdot B}{a}x^{n-2}+\frac{(n-2) \cdot C}{a}x^{n-3}+\text{ \&amp;c.}</formula></p>
+
+        <p>ubi litterae maiores A, B, C, &amp;c. indicant coefficientes terminorum proxime antecedentium.</p>
+
+        <p>D d</p>
+      </div>
+    </body>
+  </text>
+</TEI>

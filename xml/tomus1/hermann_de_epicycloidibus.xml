@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="la">De Epicycloidibus in Superficie Sphaerica descriptis</title>
+        <title xml:lang="ru">Об эпициклоидах, описанных на сферической поверхности</title>
+        <author>
+          <persName>
+            <forename>Iacobus</forename>
+            <surname>Hermannus</surname>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <forename>Борис</forename>
+            <surname>Орехов</surname>
+            <addName type="latin" xml:lang="la">Boris Nuceus</addName>
+            <addName type="english" xml:lang="en">Boris Orekhov</addName>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Борис Орехов (Boris Nuceus / Boris Orekhov)</publisher>
+        <affiliation xml:lang="ru">Институт русской литературы (Пушкинский Дом) Российской академии наук</affiliation>
+        <affiliation xml:lang="la">Institutum Litterarum Russicarum (Domus Puskiniana) Academiae Scientiarum Russicae</affiliation>
+        <address>
+          <email>nevmenandr@gmail.com</email>
+        </address>
+        <ptr target="https://github.com/nevmenandr/commentarii"/>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Commentarii Academiae Scientiarum Imperialis Petropolitanae</title>
+          <biblScope unit="volume">Tomus I</biblScope>
+          <biblScope unit="page">210-217</biblScope>
+          <pubPlace>Petropoli</pubPlace>
+          <publisher>Typis Academiae</publisher>
+          <date when="1728">CIƆ IƆ C C X X V I I I</date>
+          <ptr target="https://archive.org/download/commentariiacade01impe/commentariiacade01impe_bw.pdf"/>
+          <note>Экземпляр из библиотеки Британского музея (Natural History), Лондон.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Электронное научное издание «Commentarii Academiae Scientiarum Imperialis Petropolitanae: Editio Digitalis».</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Текст приведён в исправленном после OCR виде; оригинальные лигатуры раскрыты. В оригинале используется долгая s (ſ, U+017F); в настоящем издании она передана как обычная s.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="la">Latin</language>
+        <language ident="ru">Russian</language>
+      </langUsage>
+      <textClass>
+        <classCode scheme="internal">mathesis</classCode>
+        <keywords>
+          <term type="added">spherical geometry</term>
+          <term type="added">epicycloid</term>
+          <term type="added">curves on sphere</term>
+          <term type="added">quadrature</term>
+          <term type="added">rectification</term>
+          <term type="added">Viviani</term>
+          <term type="added">Leibniz</term>
+          <term type="added">18th century mathematics</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="article">
+        <head>DE EPICYCLOIDIBUS IN SUPERFICIE SPHAERICA DESCRIPTIS.</head>
+        <p>Auctore Iacobo Hermanno.</p>
+        <p>M. Nov. 1726.</p>
+
+        <p>Triginta quatuor iam effluxere anni, ex quo aenigma geometricum de miro opificio testudinis quadrabilis Hemisphaericae Autore D. Pio Lisi Posillo Geometra Florentiae exiit in publicum. Sub hoc nomine, quod per anagramma significat Postremo Galilei Discipulo, Vincentius Vivianus Magni Ducis Hetruriae Mathematicus latere voluit. Is enim impresso programmate aenigma suum peritioribus Analystis examinandum commendavit his verbis: Cuius (aenigmatis) divinatio a secretis artibus illustrium Analystarum vigentis aevi expectatur, quod in Geometriae pura historia versatus, ad tam recondita videatur invalidus.</p>
+
+        <p>Ipsum vero aenigma ita habebat: Inter venerabilia olim Graeciae monumenta exstat adhuc, perpetuo quidem duraturum, Templum augustissimum ichnographia circulari ALMAE GEOMETRIAE dicatum, quod testudine intus perfecte hemisphaerica operitur: Sed in hac fenestrarum quatuor aequales areae (circum ac supra basin hemisphaerae ipsius dispositarum) tali configuratione amplitudine, tantaque industria, ac ingenii acumine sunt extructae, ut his detractis, superstes curva testudinis superficies, pretioso opere musivo ornata, Tetragonismi vere geometrici sit capax.</p>
+
+        <p>Praesentis aenigmatis enodatio (quod spectat ad huius admirabilis fornicis tum constructionem expeditissimam, tum quadraturam, Sereniss. FERDINANDO Magno Principi Etruriae, Scientiarum &amp; Nobiliorum Artium Cultori ac Patrono Generosissimo, ab eodem aenigmatista oblata iam est; qui quidem simul non dubitat, quin hoc ipsum aenigma a singulis litterario in orbe degentibus hodie praeclarissimis Analystis sit statim divinandum, proprias quadrationes impertiendo singularis testudinis huius tetragonismicae ab hemisphaerica disfectae, &amp; ipsorum peracutas indagines, multiplicesque industrias ad hoc unum idemque collimantes impatienter expectat, ut hinc, qui temere contumelias in Geometriam iacere audent, silere discant, vel potius maxima cum voce exclamant: ob! unica verorum scibilium scientia a Divina in hominum mente infusa, ut haec imperviis, mutabilibus, fallacibusque contemptis, aeterna ista, quae semper &amp; unicuique sunt eadem, tantum appetat, nihilque aliud unquam magis innocuum scire perquirat. Hucusque Vivianus.</p>
+
+        <p>Ex hoc proponendi modo, &amp; ex eo, quod ad celeberrimos aevi sui Geometras programma suum mitti curavit, facile quis in opinionem venerit, hoc aenigma arduum &amp; difficile solutu Autori suo visum fuisse; verumtamen cum non dubitarit, quin recentioribus analystis statim sit solvendum, forte non tam a difficultate quam elegantia problema hoc suum tanti fecit, &amp; credibile quoque est, hoc aenigma Praeclarissimo Viro in veterum geometria innutrito &amp; magna diligentia cuncta excutere solito plus negotii dedisse quam aliis Analystis, qui methodos infinitesimales magis in promtu habebant. Illustris enim Leibnitius eodem die, quo notitiam problematis nactus est, eius solutionem invenit, quam peculiari scheda descriptam &amp; Magno Etruriae Principi inscriptam proximo cursore Florentiam miserat, &amp; paulo post totidem verbis in Acta Eruditorum 1692. transtulit; occurrunt quoque quinque solutiones diversae, quas Iac. Bernoulli in eodem Actorum Anno Mens. Augusto exhibuit. Dedit quoque Wallisus aliquot solutiones in Cap. 192. suae Algebrae. Sed omnium fere elegantissimae videntur esse constructiones, quas Vivianus ipse in peculiari opusculo Italico sermone Anno 1692. Florentiae edito, sed sine demonstrationibus, publico impertivit, vid. Act. Erudit. 1694. pag. 207. Demonstrationes a Viviano suppressas ex propria penu depromptas deinceps &amp; dedit P. Abbas Guido Grandus in singulari opere, quod problemata Vivanea inscripsit. Totius aenigmatis solutio eo redit, ut testudo iis fenestris aperiatur, quibus de superficie tota hemisphaerii detractis ut residua maneat superficies geometrice quadrabilis, quod infinitis diversis modis fieri potest. Iam olim Pappus Alexandrinus Collectionum Libr. 4. Prop. 32. ostendit, portionem sphaericae superficiei quadam spirali interceptam, dati cuiusdam trianguli octuplam esse; &amp; facile fuit posteris alias in sphaerae superficie portiones invenire, quae datis planis rectilineis aequales essent. Sed difficilius videri poterat problema, si loco spatiorum in superficie sphaerica quadrabilium, quaererentur lineae geometrice rectificabiles. Ita saltem sensit Carol. Ernestus Offenburgius, qui in Actis Erudit. 1718. pag. 175. hoc problema proposuit: Testudinem Hemisphaericam fenestris ovalibus perforare, quarum unaquaeque peripheriam absolute rectificabilem habeat. Utrum hic Autor problema suum solverit nec ne, de eo mihi nihil constat, hoc saltim novi, problema non esse tantae difficultatis, quantae illud esse Autori videtur; solutio enim facilis manat a consideratione Epicycloidum Sphaericarum. Quid vero per has Epicycloides intellectum velim, explicatur in definitione sequenti.</p>
+
+        <head>Definitio.</head>
+        <p>Epicyclois Sphaerica est curva in superficie sphaerica descripta a puncto in peripheria basis alicuius coni recti assumto, dum coni huius perimeter basis volvitur in circumferentia alicuius circuli immoti, vertice coni in centro sphaerae (cuius radius aequat latus coni) immoto manente.</p>
+
+        <p>Basis coni dicatur itidem Circulus generator, &amp; circulus, super quo circulus generator volvitur, ita ut singulae partes peripheriae generatoris singulis partibus peripheriae huius successive applicentur, dicatur Circulus immobilis. Hoc motu planum circuli generatoris constanter dato angulo ad planum circuli immobilis inclinatum est.</p>
+
+        <p>Si conus rectus ABC, cuius basis est circulus HI revolvatur circa verticem suum C, ut circumferentia basis BIAH moveatur in circumferentia BDM alterius circuli BM centro C &amp; radio CB descripti, erit circulus HI generator, &amp; circulus DM is, qui immobilis vocatur, &amp; punctum L in perimetro circuli generatoris revolutione huius circuli super peripheria LDE, describet in superficie sphaerica curvam LFE, quam Epicycloidem Sphaericam appello.</p>
+
+        <figure xml:id="fig1" corresp="#p210">
+          <head>Fig. 1</head>
+          <graphic url="images/tomus1/hermann_de_epicycloidibus_fig1.png"/>
+        </figure>
+
+        <p>Radius Sphaerae in cuius superficie Epicyclois Sphaerica describitur, est ubique aequalis lateri coni CB.</p>
+
+        <p>Non autem necesse est ut circulus immobilis sit circulus in sphaera maximus ut fig. 1. Potest etiam esse circulus minor, ut fig. 2. circulus ex diametro BS, nam si in circumferentia huius circuli, circulus ex diametro AB qui est basis coni recti BAC dicto modo volvatur, ut singulae partes huius singulis partibus peripheriae circuli immobilis successive applicentur, punctum describens etiamnunc incedet in Epicycloide in superficie Sphaerae BAS descripta, sive circulus generator, extet supra planum circuli immobilis BS, sive subter idem planum depressus sit.</p>
+
+        <figure xml:id="fig2" corresp="#p210">
+          <head>Fig. 2</head>
+          <graphic url="images/tomus1/hermann_de_epicycloidibus_fig2.png"/>
+        </figure>
+
+        <p>In omni casu planum circuli generatoris ad planum circuli immobilis dato angulo inclinatum est, in fig. 1. angulo ABC, in secunda vero angulo ABR, si circulus AB sit super plano BS, vel supplemento anguli ABR si sit subter plano BR.</p>
+
+        <p>In omni ex hisce casibus longitudo Epicycloidis est ad diametrum circuli generatoris in ratione data. Ad id ostendendum sequentibus lemmatis opus habemus.</p>
+
+        <head>Lemma 1.</head>
+        <p>Datis lateribus trianguli obliquanguli beβ, nempe βe &amp; be, &amp; angulo intercepto beβ, invenire tertium latus bβ.</p>
+
+        <p>Dicantur eβ=p, eb=q, sinus anguli beβ=g, sinus complementi =b, ad radium =1, eritque latus quaesitum <formula notation="TeX">b\beta=\sqrt{pp-2bpq+qq}</formula>.</p>
+
+        <head>Lemma 2.</head>
+        <p>Si arcus BOL semicirculi BLA, in sua elementa Lm distributus intelligatur, erit summa omnium BL.Lm, quam summam iam usitato more, per ∫BL.Lm designabo, erit inquam ∫BL.Lm=AB.BP, facta nempe AP=AL.</p>
+
+        <figure xml:id="fig4" corresp="#p210">
+          <head>Fig. 4</head>
+          <graphic url="images/tomus1/hermann_de_epicycloidibus_fig4.png"/>
+        </figure>
+
+        <p>Nam triangula similia ABL &amp; mLn praebent AB:BL :: Lm:Ln; ergo BL.Lm=AB.Ln, ergo ∫BL.Lm=∫AB.Ln; atqui ∫AB.Ln=AB in omnes Ln, omnes vero Ln sunt =AB-AL (constr. =AB-AP)=BP, ergo ∫BL.Lm=AB.BP, Quod erat &amp;c.</p>
+
+        <head>Theorema.</head>
+        <p>Pars Epicycloidis Sphaericae EL descripta a puncto describente L provolutione circuli generatoris HL super immobili EB ex E ad B, est ad 2BP, facta AP=AL, ut <formula notation="TeX">\sqrt{aa-2bab+bb}</formula> ad a, si nempe radius circuli BE, hoc est BC sit =a, radius BG circuli HL =b, ac cosinus inclinationis circuli huius ad circulum immobilem =b, ad radium =1.</p>
+
+        <p>Per B ducatur tangens BV circuli immobilis BE, &amp; haec tanget etiam circ. generatorem HL in eodem puncto B. Intelligantur in circ. generatore &amp; in circulo immobili duo arculi indefinite parvi &amp; aequales Bβ &amp; Bb, ductaque ex b in BV normali be, jungatur βe, eritque angulus βeb mensura inclinationis plani HL ad planum BEC circuli immobilis. His positis</p>
+
+        <p>Si circulus generator HL promoveatur, lineola Bβ rotabitur circa punctum B usque dum cadat super Bb, interea vero describet BL sector LB/ similem sectori Bβb, in quo sectore arculus L/ est elementum Epicycloidis hoc motu genitum, habemus ideo BL:LI :: Bβ:bβ; vel LI.Bβ=BL.bβ.</p>
+
+        <p>Iam dicendo radium circuli immobilis BE, qui est BC=a, radium circuli generatoris BG=b, arculum Bb=Be=Bβ=ds: erunt eb=ds², eβ=ds² &amp; cosinus anguli βeb=b; surrogatis ergo in lemm. I. ds², ds² pro p &amp; q, invenietur <formula notation="TeX">b\beta=ds^2\sqrt{aa-2bab+bb}</formula>, &amp; aequatio LI.Bβ=BL.bβ mutabitur in ab.LI=ds.BL in <formula notation="TeX">\sqrt{aa-2bab+bb}</formula>, hoc est =BL.Lm<formula notation="TeX">\sqrt{aa-2bab+bb}</formula>, ergo ab∫LI hoc est ab.EL=<formula notation="TeX">\sqrt{aa-2bab+bb}</formula> in ∫BL.Lm (id est per lemm. 2.) = =AB.BP<formula notation="TeX">\sqrt{aa-2bab+bb}</formula> = <formula notation="TeX">b.2BP\sqrt{aa-2bab+bb}</formula> &amp; dividendo per b, habetur a.EL=<formula notation="TeX">2BP\sqrt{aa-2bab+bb}</formula>. Quare EL:2BP:<formula notation="TeX">\sqrt{aa-2bab+bb}</formula>:a. Q. E. D.</p>
+
+        <head>Coroll. 1.</head>
+        <p>Ergo tota epicyclois est ad duplam diametrum AB circuli generatoris ut <formula notation="TeX">\sqrt{aa-2bab+bb}</formula> ad a.</p>
+
+        <head>Coroll. 2.</head>
+        <p>Si b=1 seu sinui toti, quod contingit, cum ambo plana circuli generatoris &amp; immobilis coincidunt, tunc erit Epicyclois ad duplum diametri generatoris, ut a-b ad a, id est ut differentia radiorum circuli immobilis &amp; generatoris, ad radium immobilis.</p>
+
+        <head>Problema.</head>
+        <p>Invenire in plano Sphaerae ichnographico quotcunque puncta ichnographica Epicycloidis. Vid. Fig. 6.</p>
+
+        <figure xml:id="fig6" corresp="#p210">
+          <head>Fig. 6</head>
+          <graphic url="images/tomus1/hermann_de_epicycloidibus_fig6.png"/>
+        </figure>
+
+        <p>Sit ALB circulus generator seorsim descriptus, ad terminum A diametri AB erecta normaliter indefinita AQ, capiantur in eadem partes AO, AQ, quae sint ad diametrum AB ut sinus rectus &amp; sinus complementi ad radium, &amp; ducantur OB, QB. Postea accepto quolibet arcu BL ductoque eius sinu LZ protendatur hic sinus usque ad occursum X cum recta BQ. Quibus factis in plano sphaerae ichnographico ad radium CE fiat angulus ECB qui sit ad angulum BGL ut radius GB ad CE, capiatur in radio BC portio Bt=XZ, &amp; perpendicularis tu=LZ ad radium BC, dico punctum u, esse punctum optatum ichnographiae epicycloidis: id est erecta in u ad planum CBE perpendicularis per punctum epicycloidis transibit; distantia vero huius puncti a puncto u, aequat ubique respectivam TZ. Hoc pacto tot puncta ichnographiae Epicycloidis invenientur, quot quis voluerit: &amp; Offenburgi problema in tota sua latitudine solvitur, describendo supra &amp; infra circulum immobilem RS (fig. 2.) epicycloides, nam binae oppositae formabunt fenestram ovalem; &amp; constructio geometrica fiet, si in fig. 6. BG ad BC fuerit ut numerus ad numerum. Q. E. F.</p>
+
+        <head>PRINCIPIA DYNAMICA, Autore Christiano Wolfio.</head>
+        <p>M. Dec. 1726.</p>
+
+        <p>Non ignotum est, Illustrem Leibnitium mensuram virium demonstravisse per motum gravium ascendentium: quam eius demonstrationem una cum alia Cel. Johannis Bernoulli in Elementis Mechanicae exhibui.</p>
+
+        <p>Monuit quoque Leibnitius in Actis Eruditorum A. 1695. p. 154.</p>
+      </div>
+    </body>
+  </text>
+</TEI>
