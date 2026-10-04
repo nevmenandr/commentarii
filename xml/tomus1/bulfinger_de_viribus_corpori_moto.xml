@@ -1,0 +1,342 @@
+```xml
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="la">De Viribus corpori moto insitis et illarum Mensura, Demonstrationes Mechanicae</title>
+        <title xml:lang="ru">О силах, присущих движущемуся телу, и их мере: механические доказательства</title>
+        <author>
+          <persName>
+            <forename>Georgius Bernhardus</forename>
+            <surname>Bülffingerus</surname>
+            <addName type="latin" xml:lang="la">Georgius Bernhardus Bülffingerus</addName>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <forename>Борис</forename>
+            <surname>Орехов</surname>
+            <addName type="latin" xml:lang="la">Boris Nuceus</addName>
+            <addName type="english" xml:lang="en">Boris Orekhov</addName>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Борис Орехов (Boris Nuceus / Boris Orekhov)</publisher>
+        <affiliation xml:lang="ru">Институт русской литературы (Пушкинский Дом) Российской академии наук</affiliation>
+        <affiliation xml:lang="la">Institutum Litterarum Russicarum (Domus Puskiniana) Academiae Scientiarum Russicae</affiliation>
+        <address>
+          <email>nevmenandr@gmail.com</email>
+        </address>
+        <ptr target="https://github.com/nevmenandr/commentarii"/>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Commentarii Academiae Scientiarum Imperialis Petropolitanae</title>
+          <biblScope unit="volume">Tomus I</biblScope>
+          <biblScope unit="page">43-105</biblScope>
+          <pubPlace>Petropoli</pubPlace>
+          <publisher>Typis Academiae</publisher>
+          <date when="1728">CIƆ IƆ C C X X V I I I</date>
+          <ptr target="https://archive.org/download/commentariiacade01impe/commentariiacade01impe_bw.pdf"/>
+          <note>Экземпляр из библиотеки Британского музея (Natural History), Лондон.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Электронное научное издание «Commentarii Academiae Scientiarum Imperialis Petropolitanae: Editio Digitalis».</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Текст приведён в исправленном после OCR виде; оригинальные лигатуры раскрыты.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="la">Latin</language>
+        <language ident="ru">Russian</language>
+      </langUsage>
+      <textClass>
+        <classCode scheme="internal">mathesis</classCode>
+        <keywords>
+          <term type="added">mechanics</term>
+          <term type="added">measure of forces</term>
+          <term type="added">vis viva</term>
+          <term type="added">Leibniz</term>
+          <term type="added">compound motion</term>
+          <term type="added">elastic collision</term>
+          <term type="added">18th century physics</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="article">
+        <head>DE VIRIBUS CORPORI MOTO INSITIS &amp; Illarum Mensura, Demonstrationes Mechanicae</head>
+        <p>Auctore Georgio Bernhardo Bülffingero.</p>
+        <p>MM. Sept. et Octob. 1725.</p>
+
+        <p>In primis Academiae Scientiarum Conventibus facta est de Mensura Virium motricium, &amp; natis inde controversiis mentio. Visum est, non id sine usu fore, si qui Sociorum suam de isthoc argumento sententiam ex instituto dicant: atque inter illas placuit &amp; meam audiri. Non multa promitto, neque eximia: sed nova tamen aliqua, hoc est, publice, quod sciam, nondum vulgata.</p>
+
+        <p>Nolo vero recensum hic instituere vel virorum vel scriptorum, quibus agitata est de viribus corporum vivis disceptatio: occurrent aliqua in principio sectionis secundae. Lubet suffragari Leibnitio, qui vires corporum insitas ex facto massae in quadratum celeritatis aestimat. Argumenta in hanc rem plura praesto sunt, &amp; diversi generis, inventa variis Auctoribus. Plerique axiomatis loco requirunt, ut vires totae censeantur effectibus integris proportionales. Tum vero effectus metiuntur vel cum Leibnitio ex ascensu gravium retardato; vel cum Jo. Bernoulli ex elastris, quae tendi a corpore moto possunt; vel cum Hermanno nostro ex percussiionibus successivis ejusdem corporis elastici ad diversa alia; vel cum Jo. Polenio (&amp; s'Gravesandio) ex foraminibus, quae corpora gravia lapsu suo imprimunt corporibus mollibus.</p>
+
+        <p>Alia ex virium genesi sumuntur: qualia sint illud Hermanni oriundum ex descensu gravium; &amp; nata per replicatas gravitatis sollicitationes vis viva: (atque alterum s'Gravesandii, quo numerum elastrorum motus acceleratos generantium attendit, &amp; in summam colligit.)</p>
+
+        <p>Prior classis pertinet proxime ad vires, quas infra mixtas vocabimus. Itaque non indignum publica luce visum est, si de viribus quoque puris demonstratio prodiret immediata: maxime cum ea duplici modo instrui possit, quorum altero effectus ad causam refertur; altero autem, sine istius axiomatis intervenu, aequatio inter vires unas &amp; alteras instituitur, atque ex ea ipsa derivatur virium mensura.</p>
+
+        <p>Talem Sectio prima demonstrationem exhibebit, quae se mihi obtulit, cum metaphysicis distringerer cogitationibus; indicatam breviter in Dilucidationibus meis Philosophicis de Deo, Anima &amp; Mundo, Tubingae editis, Sect. II. Cap. 3. §. 174. p. 173.</p>
+
+        <p>Posterior argumentorum classis ad motus gravium acceleratos semper attendit, neglectis motu horizontali, &amp; doctrina de percussione, quam huic negotio minus aptam judicari contigit. Eratque illa, ut verum fatear, non nihil ab hoc negotio remotior: non erat autem aliena. Cum examinarem difficultates, sententiae Leibnitianae ex percussiionum doctrina objectas, non potui non in novam ejus demonstrationem, etsi aliud agens, incidere. Ipsa virium vivarum in corpore elastico per impulsum facta genesis docuit me mensuram, quam in sectione secunda prolixiori inter plures alias hujus argumenti dilucidationes exhibebo.</p>
+
+        <p>Quoniam fieri non potest, ut difficultatum Leibnitio propositarum solutiones sine memorabili commentationis hujus defectu plane absint: itaque illas non possum non intertexere dicendis. Sed non ideo me falli nescium, aut egregiis utique viris superiorem puto. Non me illis judicem obtrudo; sed collocutorem adjungo.</p>
+
+        <head>DE MENSURA VIRIUM CORPORI MOTO INSITARUM DEMONSTRATIONES.</head>
+
+        <head>Definitiones.</head>
+
+        <p>I. Vis corpori moto insita dicitur principium illud, per quod corpus aliquod naturale actu movetur: Cujusmodi est in corpore libere cadente, vel violenter projecto. Vocatur etiam vis viva. Mortua vero, quae ad motum producendum tendit quidem, sed propter impedimenta sibi objecta illum nondum producit: qualis est gravitas in corpore suspenso. Vis insita sive viva, prout in motu suo libera persistit, vel impedimentis debilitatur: dicitur vel pura vel mixta. Mixta, si producendo effectum suum consumitur, uti est in corpore gravi ascendente; viva pura, si in motu perseverat, non per illum consumitur, qualis est corporis in vacuo moti.</p>
+
+        <p>Schol. Appellationem &amp; Definitiones sumsi a Leibnitio in Actis Er. 1695. p. 149. &amp; Christian. Wolfio in El. Mech. §. 9. 10.</p>
+
+        <p>II. Directionem motus voco viam illam, in qua centrum gravitatis corporis incedit, si motus est actualis, vel incederet, si motus sequeretur: sive viam illam, secundum quam nituntur &amp; impellunt Vires. Si via haec concipitur ut in linea, voco directionem simplicem, vel unius dimensionis: Si in plano posita, &amp; ex directionibus simplicibus composita, voco directionem duarum dimensionum: si in solido, orta ex directionibus plurium planorum, voco directionem trium dimensionum.</p>
+
+        <p>III. Vim insitam secundum AB, vel secundum AC illam dico, cujus directio &amp; celeritas exponitur per lineam AB, AC.</p>
+
+        <p>IV. Si corpus A concipiatur simul habere vim secundum AB, &amp; vim secundum AC, sic, ut eodem tempore transferatur &amp; secundum directionem AB celeritate ut AB, &amp; secundum directionem AC celeritate ut AC: tum ego vim illam ex utriusque hujus concursu resultantem, dico resultantem ex prioribus, vel &amp; vim compositam; vocabulo circa motus jam recepto.</p>
+
+        <p>Coroll: Patet igitur, vim compositam nihil aliud esse, quam vim, quae sola idem perfecte phaenomenon praestaret, quod nunc concipitur a pluribus invicem conjunctis proficisci.</p>
+
+        <p>V. Si Directiones illae virium secundum AB &amp; secundum AC sint ad se invicem perpendiculares, tum vires illas voco indifferentes, intellige ad se invicem; quia neutrius directio afficit directionem alterius.</p>
+
+        <p>VI. Si Directiones illae comprehendant angulum acutum, vires dico consentientes; &amp; si angulus fiat infinite acutus, adeoque directiones tandem coincidant, vires appello coincidentes.</p>
+
+        <p>VII. Si directiones memoratae faciant angulum obtusum, vires voco differentes; vel, si angulus fiat infinite obtusus, adeoque directiones tandem sint directe contrariae, vires nomino repugnantes.</p>
+
+        <p>Schol. Quando vim ex repugnantibus compositam dico, non id volo, inexistere illas corpori sic, ut id in contrarias simul moveatur plagas: sed intelligo illud, quod superest ex viribus, quae in plagas contrarias diriguntur, &amp; si divulsae essent, moverentur.</p>
+
+        <p>VIII. Si Directiones virium duarum plane se non intersecent, vires appello disjunctas vel parallelas. Tales sunt eae, quae in diversis ejusdem corporis in directum moti partibus inesse concipiuntur.</p>
+
+        <p>Schol. Observandum est, hunc casum plane non respondere ideae illi, quae habetur in motibus compositis; hoc enim casu directiones non exponi possunt per latera alicujus parallelogrammi, quod tamen in ceteris omnibus fit, eo scilicet ordine, qui in rebus naturalibus observatur, ut (Leibnitiano verbo) extrema recidant in idem; angulus e. g. infinite acutus in coincidentiam, infinite obtusus in repugnantiam.</p>
+
+        <p>IX. Functionem alicujus lineae voco quantitatem quamcunque ex linea illa sola vel cum quantitatibus aliis constantibus utcunque compositam.</p>
+
+        <p>X. Functiones duarum linearum similes voco quantitates, quae componuntur ex constantibus utrinque iisdem, &amp; lineis ipsis eodem plane modo adhibitis: vel clarius: si in functione lineae AB relinquas constantes &amp; signa omnia, &amp; solum pro linea AB substituas lineam AC, quantitates illas compositas voco functiones similes.</p>
+
+        <p>XI. Actionem alicujus vis dico ipsum ejus exercitium, quo sefe dato tempore ad motum producendum applicat, una cum modo applicandi: si duae pluresve vires ad eundem motum producendum concurrunt, actionem ex illis actionibus simplicibus resultantem voco actionem compositam.</p>
+
+        <p>Coroll. 1. Adeoque in viribus vivis puris simplicibus actionem cum Leibnitio metior per factum virium illarum in tempus; Tanto enim major actio est, quanto longiori tempore durat uniformiter, &amp; tanto major, quanto vires sunt majores; Neque in puris simplicibus differt modus applicandi unus ab altero. Igitur in symbolis, exposita actione per A, vi viva pura per V, &amp; tempore per T, est A=VT.</p>
+
+        <p>2. Consequenter, si duae vires vivae purae sefe agendo non afficiant, juvent vel impediant, agant autem per tempora aequalia, actiones earum sunt ut ipsae vires; hac enim vires spectari possunt, ut simplices.</p>
+
+        <p>3. Si autem duae vires sic applicentur, ut una agat in alteram, tum in aestimatione actionum ex datis viribus, vel virium ex datis actionibus, attendi simul debet, an modus applicandi inferat differentiam? qualem? &amp; quantam?</p>
+
+        <p>Schol. In viribus mortuis, sive pressionibus, actio idem est, quod alias momentum vocatur, adeoque mensuratur ex intensitate potentiae agentis in viam, quam dato tempore percurrit, vel ex magnitudine obstaculi in viam, per quam cedit. Patet enim, hisce positis adesse mensuram eorum omnium, quae in definitione actionis involvuntur; adest nimirum cum vi ipsa modus etiam applicandi. Ceterum, quae de actione virium hic dicuntur, pertinent praecipue ad sectionem secundam, ubi plenius intelligentur.</p>
+
+        <head>Axiomata.</head>
+
+        <p>I. Corpus, quod vi simplici movetur, habet celeritatem &amp; directionem constantem, si abstrahas ab impedimentis externis.</p>
+
+        <p>II. Si vis una ceteris omnibus paribus majorem producit motum absolutum, quam altera, vis prima major est, quam secunda: si ceteris paribus eundem motum absolutum minori tempore producit, etiam major est.</p>
+
+        <p>III. Si vires corporis A secundum AB aestimentur ex functione quacunque lineae AB, celeritatem &amp; directionem virium exprimentis: etiam vires corporis A ejusdem vel aequalis secundum AC aestimantur, ex functione simili lineae AC, exponentis celeritatem &amp; directionem huius vis secundae.</p>
+
+        <p>Schol. Pendet hoc axioma ex principio metaphysico, quod Leibnitius in Novellis Baelianis exposuit: ordinatis scilicet datis ordinata esse quaesita; adeoque datis similibus quaesita esse similia. Et hoc ipsum ex generaliori altero oritur, quod scil. nulla sit differentia, ubi nulla est ratio differentiae. Potest igitur demonstrari hoc axioma, si quis postulet.</p>
+
+        <head>Lemmata.</head>
+
+        <p>I. Corpus viribus conjunctis diagonalem parallelogrammi eodem tempore describit, quo latera separatis.</p>
+
+        <p>II. Et hinc patet compositio vis directae secundum AD ex viribus quibusvis obliquis secundum AB &amp; BD; &amp; vicissim resolutio vis cujusvis directae secundum AD in obliquas quascunque secundum AB &amp; BD.</p>
+
+        <p>Schol. Enunciavi haec verbis II. Newtoni Princ. p. 13. Intelligo autem illa secundum definit. tertiam, vi cujus per lineas AB, AC, AD exprimitur motus, qui in dato tempore a vi data uniformiter sequeretur; adeoque &amp; celeritas a viribus secundum AB vel AC agentibus oriundi. Ex motu enim ipso sumitur demonstratio Newtoni &amp; aliorum omnium: Motus autem secundum AB, AC, AD, non est sine vi secundum AB, AC, AD.</p>
+
+        <p>III. In motu aequabili spatia eodem tempore percursa sunt ut celeritates. Constat id ex mechanicis.</p>
+
+        <p>IV. Nullae dantur functiones similes laterum AC &amp; CD, quae simul sumtae, sint in omni Triangulo Rectangulo aequales functioni simili hypotenusae AD, praeter quadrata.</p>
+
+        <head>Demonstratio.</head>
+
+        <p>Ut hoc intelligatur, assumo formulam universalem, functiones alicujus lineae possibiles omnes complexam: &amp;, quid ex supposita possibilitate functionum aliarum similium sequatur, inquiro. Deprehendo vero, quamprimum a quadratis discessero, emergere talia, quae ostendant, functionem compositam negotio nostro nullam congruere.</p>
+
+        <p>Sit jam secundo loco functio non composita, sed uno constans termino: erit</p>
+        <p>mA<sup>a</sup> + mB<sup>a</sup> = mV(A<sup>2</sup> + B<sup>2</sup>)<sup>a</sup></p>
+        <p>sive A<sup>a</sup> + B<sup>a</sup> = (A<sup>2</sup> + B<sup>2</sup>)<sup>a/2</sup></p>
+        <p>unde (A<sup>a</sup> + B<sup>a</sup>)<sup>1/a</sup> = (A<sup>2</sup> + B<sup>2</sup>)<sup>1/2</sup>; ubi oculis patet, quando a=2, haberi aequalitatem.</p>
+
+        <p>Ut vero intelligatur, nullam dari potestatem aliam; notandum est, in extractione radicum ex aggregato duorum terminorum, post extractionem ex singulis terminis factam, requiri adhuc subtractionem alicujus quantitatis tertiae, quae pro diversitate radicum necessario major aut minor est, uti id constat ex genesi potestatum.</p>
+
+        <p>Potest itaque (A<sup>a</sup>+B<sup>a</sup>)<sup>1/a</sup> repraesentari per A—x+—B. &amp; (A<sup>2</sup>+B<sup>2</sup>)<sup>1/2</sup> per A—y+—B. ut nunc habeamus (A<sup>a</sup>+B<sup>a</sup>)<sup>1/a</sup>=A—x+—B—A—y+—B=(A<sup>2</sup>+B<sup>2</sup>)<sup>1/2</sup> sed haec aequalitas non subsistit, nisi x=y. Et x non est aequale y, nisi exponentes radicum sint eaedem per modo dicta: Igitur ob aequalitatem inventam exponentes debent esse eaedem: sive a non potest esse nisi 2. Q.E.D.</p>
+
+        <head>Hypotheses.</head>
+
+        <p>1. Facilitatis gratia supponantur in universa hac sectione massae mobilium aequales; nisi contrarium expresse dixero.</p>
+
+        <p>2. Supponatur motus aequabilis, donec differt moneam, me loqui de accelerato aut retardato.</p>
+
+        <head>Propositiones.</head>
+
+        <head>Theorema I.</head>
+        <p>Vires vivae purae, quae easdem massas movent, possunt mensurari per functionem aliquam celeritatis, quam producunt.</p>
+
+        <head>Demonstratio.</head>
+        <p>Quoniam motus a viribus vivis puris procedens perseverat in infinitum, ex Def. I. &amp; Axiom. I. ideo quantitas illarum virium non potest aestimari sive ex spatio, sive ex tempore absolutis. Potest igitur solum ex massis, &amp; ex relatione spatii ad spatium eodem tempore, vel temporis ad tempus pro eodem spatio; aliud enim nihil datur in hoc motu. Quia vero massas supponimus aequales per hyp. 1. Igitur in nostris casibus aut nulla est inaequalitas, &amp; aestimatio virium nulla; aut illa pendet ex relationibus memoratis. Est vero inaequalitas per ax. 2. ergo &amp; aestimatio ejus, eademque petenda ex relationibus allegatis. Hae autem comprehenduntur in idea celeritatis per definitionem celeritatis receptam. Igitur ex celeritate sumi potest mensura: cumque per dicta aliud nihil accedat, sumi potest ex functione aliqua celeritatis, quae a viribus illis producitur. Q.E.D.</p>
+
+        <p>Coroll. 1. Consequenter duae pluresve vires vivae purae, sefe invicem non afficientes, vel seorsim consideratae, aestimari possunt, &amp; per ax. 3. debent, per functiones similes celeritatum, quas producunt.</p>
+
+        <p>Coroll. 2. Etsi igitur vires purae non obtineant effectus ita totales, ut iisdem absorbeantur: possunt tamen invicem conferri &amp; mensurari ex effectibus dato tempore productis; effectus enim illi pro diversis celeritatibus sunt diversi.</p>
+
+        <p>Schol. Attendendum tamen est, cum dico, vires puras mensurari posse ex effectibus suis, &amp; effectus variare pro celeritatibus variis: me non ideo statim asserere, vires, effectus &amp; celeritates esse proportionales. Multae adhuc difficultates involvuntur mensura effectuum variorum, de quibus hoc loco dicere nihil attinet.</p>
+
+        <head>Theorema II.</head>
+        <p>Si duae vires vivae purae eidem corpori A inexistentes ita agant, &amp; ad producendum aliquem motum absolutum concurrant, ut neutrius motus motum alterius in sua directione &amp; celeritate augeat vel minuat: tum actio composita ex actionibus virium illarum resultans est aequalis aggregato actionum singularum.</p>
+
+        <head>Demonstratio.</head>
+        <p>Actio composita aut aequalis est aggregato singularum, aut major, aut minor. Non major: quia neutra alteram auget, dum ita concurrunt, ut neutrius motus per motum alterius in sua directione &amp; celeritate promoveatur. Non minor: quia neutra alteram in concursu suo impedit, aut motum ejus imminuit. Igitur est aequalis. Q.E.D.</p>
+
+        <p>Coroll. Quoniam in viribus vivis puris actiones eodem tempore durantes sunt uti vires, per Cor. 2. def. XI. Igitur &amp; vis composita, ex duabus ejusmodi viribus resultans, est aequalis aggregato singularum.</p>
+
+        <p>Schol. Duplex huius Theorematis applicatio esse potest, utraque legitima, sed altera tantum in sequentibus attendenda. Si massam corporis A concipias divisam in duas partes, tum habebis duas vires vivas in eodem corpore, sed ex illarum genere, quas def. 8. parallelas vel disjunctas vocavimus; atque eo in casu per praesens theorema intelligitur, positis diversorum corporum celeritatibus iisdem vires esse ut massas. Sin eandem massam corporis A, atque adeo unumquodque ejus punctum censeas urgeri duabus viribus, quarum tamen neutra alteram in exercitio suo impediat vel adjuvet, sic, ut corpus non magis aut minus promoveatur in directione singularum, sive illae simul agant, sive sola agant: habebimus alterum huius propositionis casum, qui respondet Def. 5. &amp; theoremati seq.</p>
+
+        <head>Theorema III.</head>
+        <p>In omni parallelogrammo rectangulo actio &amp; vis viva pura secundum diagonalem AD est aequalis aggregato actionum &amp; virium vivarum purarum secundum latera AB, AC.</p>
+
+        <head>Demonstratio 1.</head>
+        <p>Vires secundum latera AB &amp; AC ad communem motum concurrentes sic agunt singulae, ut neutrius motus motum alterius in sua directione &amp; celeritate augeat vel minuat: corpus enim A per concursum illarum nec magis nec minus promovetur secundum directionem AB, quam si haec vis sola ageret; similiterque secundum directionem AC. Earum igitur aggregatum est aequale vi compositae resultanti ex earum concursu per Cor. Theor. 2. Sed vis haec composita est vis secundum diagonalem per Coroll. def. 4. &amp; Lemma 1. Ergo in omni parallelogrammo rectangulo vis secundum diagonalem est aequalis aggregato virium secundum latera AB &amp; AC. Idemque valet de actionibus; actiones enim hoc in casu per Cor. 2. Def. XI. sunt ut vires. Q.E.D.</p>
+
+        <p>Schol. Observetur, inter motus vere compositos (v. Schol. def. 8.) in solo rectangulo duas vires laterales sic agere, ut neutra vis alterius motum in sua directione augeat vel minuat. Si enim angulus sit acutus, &amp; ad singulas directiones AB vel AC ducatur linea perpendicularis ab, ac; quo mensurari possit, quantum a vi utraque in singulis directionibus corpus A promoveatur: manifestum erit, illud motu in linea AD facto magis recedere a linea ab in directione AB, vel a linea ac in directione AC per motum utrumque conjunctum, quam per unum simplicem: Et vice versa, si angulus fuerit obtusus, illud minus promoveri in suis directionibus. Nostra igitur demonstratio ad solum pertinet casum anguli directionum recti: id quod vel ideo statim monendum duxi, ne quis haec ad omnes motuum compositorum casus ita transferre aggrediatur, ut putet, in parallelogrammis etiam obliquangulis vim secundum AD esse aequalem aggregato virium singularium secundum AB &amp; AC. Recte Newtonus l. c. monuit, per motum secundum AC corpus A non accedere ad lineam BD. Recedit autem a linea ba, &amp; accedit ad lineam Dd. Itaque augetur motus in directione ABd. Excluditurque hic casus a Theor. 2. una cum illis omnibus, ubi directio vis unius potest resolvi in duas perpendiculares, quarum altera coincidit vel repugnat directioni vis alterius.</p>
+
+        <head>Demonstratio 2.</head>
+        <p>Sit corpus A elasticum quiescens, &amp; in illud incurrat aliud corpus F priori aequale, elasticum, &amp; in directione FA cum celeritate ut FA latum: per receptas percussiionum leges, post ictum corpus F quiescet, &amp; corpus A movebitur in directione &amp; cum celeritate AD=FA. Vis igitur omnis corporis F transiit in corpus A, &amp; vis, quam habet corpus A, est aequalis vi, quam habuit corpus F, sibi aequale. Sint porro duo corpora E &amp; G prioribus aequalia; quiescat denuo A, &amp; in idem incurrant eodem momento corpora E &amp; G: Per easdem regulas quiescent post ictum corpora E &amp; G: &amp; corpus A movebitur in directione ac celeritate AD=FA. Consequenter utrumque corpus E &amp; G amittet vim suam, quae transibit utraque in corpus A. Vis autem, quam habebit corpus A, erit eadem, quae ante fuerat. Cum igitur vis corporis F, &amp; aggregatum virium in corporibus G &amp; E aequentur vi eidem tertiae, a corpore A acceptae; aequantur etiam inter se: Hoc est, in parall. rectangulo vis viva pura corporis F, secundum diagonadem moti, est aequalis aggregato virium, quibus duo corpora aequalia moventur in lateribus FE &amp; FG. Q.E.D.</p>
+
+        <p>Schol. 2. Facile patet, hanc secundam demonstrationem non posse transferri ad angulos obliquos; quoniam ibi differunt casus percussiionum, qui sunt vel ab uno corpore, secundum diagonalem moto, vel a duobus, motis secundum latera, quando celeritates ubique lineis praedictis sunt proportionales. Rationem diversitatis horum casuum ex suis fontibus eruemus in sectione secunda; qua simul ostendemus, neque a viribus mortuis, neque ab ipso motu composito defumi instantiam posse adversus nostram hanc inferendi rationem.</p>
+
+        <head>Theorema IV.</head>
+        <p>In motu actuali aequabili vires motrices non sunt ut spatia, quae eodem tempore describuntur, neque adeo ut celeritates motuum.</p>
+
+        <head>Demonstratio.</head>
+        <p>Vires Motrices in motu aequabili sunt vires vivae purae, per Def. 1. Jam in parallelogrammo rectangulo aggregatum virium purarum secundum latera AB &amp; AC est aequale vi secundum diagonalem AD per Theor. 3. Aggregatum laterum non est aequale diagonali. Ergo vires non sunt ut latera &amp; diagonalis. Spatia eodem tempore percursa, &amp; celeritates per Lemma 4. sunt ut latera &amp; diagonalis. Igitur vires vivae non sunt ut spatia eodem tempore percursa, neque ut celeritates. Q.E.D.</p>
+
+        <p>Coroll. Humani igitur aliquid patiuntur, qui generaliter vires omnes motrices, atque adeo etiam vivas puras ex facto massae in celeritatem aestimant.</p>
+
+        <head>Theorema V.</head>
+        <p>In motu aequabili vires simplices sunt ut quadrata spatiorum eodem tempore percursorum; sive ut quadrata celeritatum, quas producunt.</p>
+
+        <head>Demonstr.</head>
+        <p>In parallelogrammo rectangulo diagonalis repraesentat spatium a vi secundum diagonalem, latera repraesentant spatia a viribus singulis secundum sua latera eodem tempore percursa, per Lemma 1. &amp; spatia illa repraesentant celeritates per Lemma 4. Vires autem possunt mensurari ex functione celeritatis, per Theor. I. &amp; vires complures ex functionibus similibus, per Coroll. 1. Theor. I. Igitur vires secundum diagonalem, &amp; latera possunt mensurari ex functionibus harum linearum. Debent autem in rectangulo sic mensurari, ut aggregatum singularum lateralium sit aequale tertiae diagonali per Theor. III. Sed in rectangulo nullae dantur functiones similes huic conditioni satisfacientes, praeter quadrata laterum, per Lemma 5. Igitur vires singulae aestimandae sunt per quadrata linearum, spatia &amp; celeritates suas exprimentium: Hoc est, in motu aequabili vires simplices sunt ut quadrata spatiorum &amp;c. Q.E.D.</p>
+
+        <p>Coroll. Recte igitur aestimationem antea receptam correxit Leibnitius, substituendo illi, pro mensura virium vivarum purarum, factum ex massa in quadratum celeritatis.</p>
+
+        <p>Schol. Velim attendatur, hoc loco penitus cessare exceptiones virorum celebrium adversus argumentum Leibnitii allegatas, &amp; a diverso tempore motuum sumtas: est enim ubique idem tempus; est etiam celeritas uniformis. Feci igitur, quod non ita pridem Illustris sententiae Leibnitianae adversarius postulavit; reduxi quaestionem ad motus uniformes, hoc est, ipsius sententia, ad debitos argumento huicce terminos, &amp; ad identitatem temporis. Ostendam vero inferius, quomodo vires in motibus etiam acceleratis aestimentur ex praesentibus; &amp; quibus casibus ad temporum diversitates attendi debeat, vel non debeat, indicabo in sectione secunda.</p>
+
+        <head>Theorema VI.</head>
+        <p>In parallelogrammis non rectangulis vis secundum diagonalem non est aequalis aggregato virium secundum latera singularium.</p>
+
+        <head>Demonstr.</head>
+        <p>Vires vivae simplices mensurantur ex quadratis celeritatum suarum, per Theor. V. Celeritates sunt ut lineae respectivae in parallelogrammo, ex Def. III. Aggregatum igitur virium secundum latera repraesentatur aggregato quadratorum ex lateribus AB²+AC²; &amp; vis secundum diagonalem repraesentatur quadrato diagonalis AD². Hoc aggregatum non est aequale quadrato diagonalis, nisi in rectangulo, per Elem. Geom. Ergo nec aggregatum virium secundum latera est aequale vi secundum diagonalem in parallelogrammis non rectangulis.</p>
+
+        <p>Coroll. Ergo neque vis ex duabus lateralibus, eidem corpori A insitis, composita, hoc in casu est aequalis earum aggregato. Vis enim composita est vis secundum diagonalem, per Coroll. Def. IV.</p>
+
+        <head>Theorema VII.</head>
+        <p>Vis composita ex duabus viribus lateralibus, quarum directiones angulum acutum faciunt, est aequalis summae quadratorum spatiorum, quae seorsim ab illis eodem tempore percurrerentur, una cum duplo facto spatii unius CD in lineam EC, interceptam inter punctum C &amp; perpendicularem AE, ex angulo parallelogrammi acuto demissam.</p>
+
+        <head>Demonstratio.</head>
+        <p>Vis ex lateralibus secundum AB &amp; AC composita est vis secundum diagonalem AD per Coroll. def. IV. Vis secundum diagonalem AD=AD² per Theor. V. sed ob angulum AED rectum, est AD²=AE²+ED² =AE²+EC²+2ECxCD+CD²= (quia AE²+EC²=AC²) AC²+CD²+2ECxCD= quadrato spatii AC+ quadrato spatii CD, una cum duplo facto ex CD in lineam EC. Q.E.D.</p>
+
+        <p>Coroll. 1. Patet, hunc casum postliminio recidere in casum theorematis tertii; si angulus fiat infinite parum acutus, sive rectus; tunc enim EC fit=0.</p>
+
+        <p>Coroll. 2. Patet etiam, si in corpore A supponatur inesse vis insita secundum AB, &amp; simul alia secundum AC, radium quemcunque quadrantis FCG; vim ex utraque compositam semper esse majorem, quo angulus BAC est magis acutus; Erit enim linea EC semper major, donec evanescente angulo fiat aequalis radio AF=AC.</p>
+
+        <p>Coroll. 3. Ex quo etiam hoc sequitur, si corpori A jam in motu secundum AB posito, nondum insita concipiatur vis quoque altera, sed illi demum debeat percussione corporis alterius externa ingenerari vis secundum AC radium quemcunque: quod vis externa percutiens, corpori jam moto directionem &amp; celeritatem AC de novo ingeneratura, debeat esse major, quando est angulus BAC acutior.</p>
+
+        <head>Theorema VIII.</head>
+        <p>Vis composita ex duabus viribus eidem corpori A jamjam insitis, &amp; directione sua coincidentibus, est aequalis quadrato summae spatiorum, quae a singulis percurrerentur dato tempore, sive quadrato summae celeritatum, quas singulae seorsim producerent.</p>
+
+        <head>Demonstratio.</head>
+        <p>Hoc varie demonstrari potest. Maneamus in tramite hactenus calcato. In casu theorematis VII. diagonalis AD, exprimens directionem &amp; celeritatem motus compositi, ob angulum infinite acutum, fit aequalis AB+BD. Ergo &amp; vis composita, hoc est, vis secundum diagonalem, quae est=DA², fit=(AB+BD)².</p>
+
+        <p>Similiter, EC fit=AC, &amp; AE fit=0. Adeoque formula illius Theorematis AE²+EC²+2ECxCD+CD² transit in hanc AC²+2ACxCD+CD², =(AC+CD)²=(AC+AB)². Q.E.D.</p>
+
+        <p>Coroll. 1. Idem valet de tribus, pluribusque in uno corpore coincidentibus, estque vis ex pluribus talibus composita aequalis quadrato summae celeritatum, non summae quadratorum celeritatum.</p>
+
+        <p>Coroll. 2. Adeoque vis composita ex coincidentibus non est aggregatum ex singulis simplicibus tantum: sed aequatur aggregato huic una cum productis radicum ex singulis quadratarum in radices reliquarum bis sumtis. Patet hoc ex dignitate secunda multinomiorum.</p>
+
+        <p>Coroll. 3. Ergo summa productorum modo memoratorum facit differentiam inter vim compositam ex duabus eidem corpori insitis, sed directione indifferenti, aut coincidenti agentibus.</p>
+
+        <p>Coroll. 4. Quodsi igitur vires simplices in eodem corpore coincidentes sint seorsim aequales, vis ex illis composita proportionalis est quadrato numeri componentium. Ita vis A, composita ex tribus a, a, a, quarum celeritates sint 1, 1, 1, habebit celeritatem, ut 3, &amp; erit=9.</p>
+
+        <p>Coroll. 5. Patet quoque, si ex hac velocitate composita dematur velocitas ut 1. vim compositam ex omnibus non solum imminui vi ut 1, sed simul auferri duplum factum ex hac ablata in omnes simplices adhuc remanentes.</p>
+
+        <p>Schol. 1. Non caret haec propositio paradoxi specie. Itaque varia hic notari debent. 1. Non potest illa evitari, nisi vel Leibnitiana virium aestimatione negetur, vel recepta motuum compositio. Si enim ex duobus motibus consentientibus vel coincidentibus fit motus in diagonali, &amp; vis aestimatur per quadratum celeritatis: erit utique vis composita proportionalis quadrato diagonalis. Hoc igitur in illorum gratiam, qui Leibnitio accedunt, dictum esto. 2. Adversariis commendo verum propositionis sensum; eo enim neglecto possent ex hoc theoremate absurditatis arguere aestimationem Leibnitii. Loquor de viribus eidem corpori insitis; non de imprimendis. Scio, si simul impingant in corpus A duo corpora a &amp; a sigillatim illi aequalia, &amp; quorum singula seorsim ipsi imprimerent celeritatem AB, &amp; AC, non ideo corpori A imprimi celeritatem ut AD, cum angulus BAC obliquus est. Scio, si corpus duplum (=a+a) impingat cum celeritate ut AB, in corpus A quiescens, non illi communicatum iri celeritatem=2AB; etsi a corpore a solo accepisset celeritatem AB, &amp; a corpore a solo accepisset eandem. Non pertinent ad nostrum institutum hi casus. Dico enim: Si eidem corpori A censeantur jamjam insitae duae vires M &amp; N, quarum alterae corpus A transferrent dato tempore ex A in B, &amp; alterae ex A in C tempore eodem: Tum vis ex illis composita transferet corpus A tempore eodem ex A in D, &amp; erit proportionalis quadrato lineae AD. 3. Quae sit huius differentiae causa prolixius dicam sequenti sectione. Hoc loco illud moneo: vulgares percussiionum leges &amp; considerationes hic non sufficere. Si quae autem percussio fuerit ejusmodi, ut in corpus motum agat tanquam in quiescens, illius ope tales corpori vires inferi posse. Exempla mox repetam e doctrina gravitatis. Sed sublimius aliud, &amp; nobili controversiae implicitum, alteri loco &amp; tempori asservabo. 4. Denique, si minus tolerabile videatur ex duabus viribus coincidentibus exsurgere vim majorem aggregato earundem: explicent mihi contrariae sententiae patroni, cur in ipsarum hypothesi per resolutionem oriantur vires parentibus suis majores. Si enim ex F moveatur corpus directione &amp; celeritate FA, vis motrix erit=FxFA: Sed postquam id in corpus A quiescens &amp; aequale impegit, movebitur A secundum AC cum celeritate AC, &amp; F secundum AB cum celeritate AB: eruntque adeo vires motrices=FxAB+A×AC. Quale hoc augmentum est? &amp; unde ortum?</p>
+
+        <p>Schol. 2. Illud forsitas non abs re erit, ut solutionem speciosae difficultatis hic insererem; quoniam aliquo sensu sumi ex hoc theoremate debet. Est vir genere &amp; scientia illustris, cujus haec objectio publice legitur. „Sit corpus C sphaericum, et gravitatis expers, libere natans in aere. Sint corpora duo A et B priori aequalia et similia, eademque celeritatibus AC=BC, sub directionibus aequaliter ad horizontem inclinatis irruant, in corpus C. Resolvantur directiones AC et BC in suas laterales, altera in AD, et DC, altera in BD et DC. Quoniam directiones horizontales AD et BD per hypothesin aequales sunt, et contrariae; ille mutuo sefe destruunt: Restantque solae verticales DC et DC, quae in corpus C quiescens agant. Urgebitur itaque corpus C verticaliter deorsum, cum summa directionum vel virium verticalium residuarum. Sit angulus ACB=120 gradibus, erit DC=1/2 BC, et corpus C urgebitur vi verticali, quae fit aequalis vi totali et absolutae, quam ante ictum habuit corpus A vel B, adeoque dato tempore deferibit lineam verticalem EC=AC=BC: habebitque celeritatem eandem, qua ferebantur corpora A et B ante percussiionem: atque, si in ipso ictus momento, quartum corpus E singulis prioribus aequale verticaliter sursum impingat cum data celeritate EC, certum est, corpus C permansurum in quiete, et siturum inter corpora utrinque agentia aequilibrium. Sed aequilibrium non afforet, si vires essentiendae essent per quadrata velocitatum: Corpus enim C urgebatur duabus viribus verticalibus, quarum singularum celeritates exprimuntur per DC=1/2 EC. Adeoque vires per DC²=1/4 EC²; unde, earum integra summa tantum est=1/2 EC²; cum tamen quartum corpus E, impingens in C, et idem reducens ad aequilibrium, habeat celeritatem ut EC, et consequenter vires, ex Leibnitii sententia aestimatas, ut EC². Quomodo hoc consentiunt?„ Est hic dignus vindice nodus: Dabimus operam, ut solvatur. Potest autem id fieri, si casuum varietates legitime distinxeris. 1. Si omnia tria corpora, A, B, &amp; E simul impingant in corpus medium C: erit aequilibrium, hoc sensu, ut corpus C permaneat in quiete, &amp; nullius corporis motum sequatur; vires autem, quibus illud sursum &amp; deorsum urgetur, non sunt aequales. Siquidem vis sursum agens est=E×EC²: &amp; vis deorsum agens est=(A+B)×DC². Notari autem meretur, ad quietem corporis inter duo impingentia medii nequaquam requiri virium aequalitatem; sed oportere, ut vires sunt reciproce massarum. Id in secunda sectione plenius apparebit. 2. Si confideres, quid in experimento aliquo secuturum sit ex impetu duorum tantum corporum A &amp; B in tertium C quiescens, &amp; de elasticis sermonem instituas: equidem directiones horizontales AD &amp; BD ita sibi repugnabunt, ut corpus C de neutra participet; sed directiones verticales DC &amp; DC non ita transibunt in corpus C, ut hoc moveatur cum celeritate CE, etsi illud in eadem hac directione CE feratur post ictum. Neque adeo hoc corpus C, per ictum istum semel in motu positum, ad aequilibrium reducetur per occurrens aliud aequale E, motum in directione, &amp; cum celeritate EC. Constat hoc per ordinarias de corporum percussione regulas: neque pugnat cum sententia priori, si rem solicite reputes. 3. Sin denique abstrahas a modo, quo corpori C impressae sint vires illae secundum DC &amp; DC, concipiasque, eidem corpori C insitas esse undecunque vires M &amp; N, agentes secundum latera parallelogrammi DC &amp; DC, angulum infinite acutum comprehendentia; erit utique celeritas corporis C exprimenda per diagonalem=2DC; &amp; opponendum huic corpori, pro restituendo aequilibrio, aliud aequale E, cum celeritate &amp; directione EC adveniens. Sed hoc in casu vis corporis C non erit summa singularium=2DC²=1/2 EC²; Sed addendum est huic summae duplum factum ex DC in DC: ut adeo per theorema praesens, vis composita corporis C emergat=Cx(DC+DC)²=Ex EC²; uti pro aequilibrio faciendo requiritur per regulam No. 1. huius scholii allegatam. 4. Similes hisce responsiones pertinent ad illos quoque casus, si loco trium eiusmodi corporum, aequales directionibus suis angulos comprehendentium, fingas: quinque, aut septem &amp;c. corpora impingere in aliquod medium C quiescens: illud unum memineris, quod in hisce casibus attendi etiam ad theor. seq. 10. oporteat; est enim Cx(2DC—2HC)²=E×EC², pro No. 3. huius scholii: pro No. autem 1. erit, (colligendo A &amp; F in corpus unum, itemque B &amp; G in alterum) A(DC—HC)²+B(DC—HC)²: E×EC²=E:A+B. Est enim DC-HC=1/2 EC; sive 2DC-2HC=EC: &amp; generaliter pro omni figura regulari laterum numero imparium, uti Goldbachius noster ex hoc ipso theoremate deduxit, cum id Geometrice nonnisi difficilius demonstrari posset, ducta diametro ad unum radiorum v. gr. EC perpendiculari, differentia omnium distantiarum superiorum Aa+Bb+&amp;c. &amp; omnium inferiorum Ff+Gg+&amp;c. est semper aequalis radio EC; id quod obiter indicatum pro novo exemplo esse potest instituti illius Varignoniani, quo usus mechanicae in geometria ostenditur.</p>
+
+        <head>Theorema IX.</head>
+        <p>Vis composita resultans ex duabus viribus, quarum directiones angulum obtusum comprehendunt, est aequalis summae quadratorum spatiorum, quae seorsim ab illis eodem tempore percurrerentur, demto duplo facto spatii unius CD in lineam CF interceptam a perpendiculari ex angulo obtuso demissa, &amp; puncto C.</p>
+
+        <head>Demonstratio.</head>
+        <p>Haec eadem est cum Demonstratione Theorematis VIII. nisi quod ibi prop 12. Element. II. allegatur, hic autem prop. 13. Est enim AD²=AC²+CD²—2CDxCF; Adeoque &amp; vis composita ex duabus &amp;c. Q.E.D.</p>
+
+        <p>Coroll. 1. Patet igitur, si directiones angulum obtusum comprehendant, vim compositam esse minorem aggregato singularum seorsim sumtarum.</p>
+
+        <p>Coroll. 2. Esse aequalem summae virium singularium, si CAB fiat infinite parum obtusus, hoc est rectus; adeoque rem denuo recidere in Theor. III.</p>
+
+        <p>Coroll. 3. Esse minimam, si angulus fiat infinite obtusus, hoc est, si directiones fiant plane contrariae; eo enim casu CF fit maximum.</p>
+
+        <head>Theorema X.</head>
+        <p>Vis composita resultans ex duabus, quarum directiones sunt omnino contrariae, est aequalis quadrato differentiae spatiorum, quae a singulis percurrerentur, sive quadrato differentiae celeritatum, quas singulae producerent.</p>
+
+        <head>Demonstratio.</head>
+        <p>Fiat angulus CAB infinite obtusus, ut habeamus vires directione sibi repugnantes: fiet CF=CA adeoque formula Theor. IX. CA²—2CDxCF+DC² erit=CA²—2CDxAC+CD². Est vero haec formula=1/2(CA—CD)², vel (CD—CA)²=quadrato differentiae laterum, quae exponunt spatia &amp; celeritates. Ergo vis ut AD², composita ex duabus, quarum directiones &amp;c. Q.E.D.</p>
+
+        <p>Potest idem, uti hactenus, deduci ex vi simplici secundum Diagonalem. Diagonalis enim hoc in casu est differentia laterum. Et vis composita est aequalis vi simplici secundum Diagonalem ex Def. IV. Ideoque per Theorem. V. vis haec composita est aequalis quadrato differentiae spatiorum vel celeritatum. Q.E.D.</p>
+
+        <head>Theorema XI.</head>
+        <p>Si vires duae insitae, directionibus suis indifferentes, ipsae exponantur per lineas AB &amp; AC, tum directio &amp; celeritas vis ex illis compositae obtinentur, si in parabola quacunque semiordinata DO pertinens ad abscissam AD (=AB+AC) sumatur pro sinu toto, &amp; semiordinatae BN, CM, pertinentes ad abscissas AB &amp; AC respective pro cosinibus BAD, CAD.</p>
+
+        <head>Demonstratio.</head>
+        <p>Sit AMNO linea parabolica, parametro m=1 descripta: Erit DO=√DA, &amp; BN=√BA, denique CM=√CA. Fiat jam Ab=BN, &amp; Ac=CM, &amp; Ad=DO. Expriment Ab, Ac, Ad, celeritates virium per AB, AC, &amp; AD expressarum, per Theor. V. eritque adeo Abdc parallelogrammum, in quo latera &amp; diagonalis repraesentant directiones &amp; celeritates virium indifferentium secundum Ab &amp; Ac, atque vis ex illis compositae secundum Ad. Quodsi igitur actu sumatur Ab &amp; Ac, habebitur Ad positione. Si in gradibus quaeratur, manifestum est, sumta Ad pro sinu toto, esse Ac sinum rectum, &amp; Ab sinum complementi Anguli BAD, &amp; vice versa, Ab rectum, &amp; Ac sinum complementi anguli CAD. Q.E.D.</p>
+
+        <p>Coroll. 1. Ex his patet, si latera, sibi invicem perpendiculariter insistentia, exprimant ipsas vires, &amp; compleatur rectangulum ACEB, directionem vis compositae nunquam fore in ejus Diagonali, nisi cum rectangulum transit in quadratum.</p>
+
+        <p>Coroll. 2. In ceteris casibus lineam AD, quae directionem &amp; quantitatem vis compositae exponat, cadere versus illud latus, quod minores exponit vires.</p>
+
+        <p>Coroll. 3. De aliis directionum componendarum angulis rem similiter posse expediri.</p>
+
+        <p>Schol. Brevior constructio fuisset, si ad alterutram lineam, v. g. AC pro unitate assumtam, &amp; ad alteram AB quaesivisses mediam proportionalem AF, &amp; ex hac AF, atque unitate AC complevisses parallelogrammum. Ita enim directiones &amp; celeritates fuissent uti latera AC, AF, AG, quia vero sic pro singulis casibus nova assumeretur unitas; ideoque praetuli constructionem alteram universaliorum. Semel enim descripta omnibus inservit casibus parabola. Utilitatem huius theorematis suo ostendam tempore. Nunc transeo ad motum acceleratum.</p>
+
+        <head>Theorema XII.</head>
+        <p>Si quod corpus A ex altitudine AB ita cadat motu a quiete incoato in A, ut percurrendo spatium AC in tempore primo adquirat celeritatem CF, &amp; percurrendo spatium CD in tempore secundo adquirat novam celeritatem LG=CF, habeatque adeo in D celeritates secundum eandem directionem duas aequales, scil. DL (=CF) &amp; LG: iterumque percurrendo spatium DE praeter priores DL+LG=BM+MN adquirat novam singulis prioribus aequalem NH, &amp; sic porro: Dico, vim corporis vivam, lapsu acquisitam, esse ut quadratum celeritatis finalis.</p>
+
+        <head>Demonstratio.</head>
+        <p>Supponatur, nova celeritatis incrementa cessare vel in C, vel D, vel E, vel B &amp;c. Certum est, corpus deinceps motum iri aequabiliter descendendo; &amp; vim ejus acquisitam fore majorem in B, quam in E, &amp; sic porro; quoniam major illis casibus est celeritas, &amp; quantitas virium mensurari potest ex functionibus celeritatum similium per Theor. I. &amp; Cor. ejus 1. Quaeritur igitur solum, quanta sit illa vis? Ostendimus Theor. 5. in motu uniformi vim esse ut quadrata celeritatum. Hic motus est uniformis in suppositione cessantium incrementorum, &amp; peragitur a vi per lapsum acquisita. Ergo vis per lapsum acquisita est ut quadratum celeritatis finalis.</p>
+
+        <p>Potest hoc, praemisso Theor. 5. omnino sufficere ad monstrandam rei veritatem: ut tamen intelligatur, quomodo haec etiam cum caeteris cohaereant, placet attendere ad Theorema 8. Vis lapsu a quiete incoato sic acquiritur, ut corpori A, cadendo per AC imprimatur vis celeritatis CF in directione verticali; eidemque cadenti per CD imprimatur vis celeritatis LG, &amp; cadenti per DE vis celeritatis NH in directione priori. Habemus igitur tres vires insitas coincidentes, quarum singularum celeritates sunt CF=LG=NH: adeoque per Theor. 8. vis ex illis tribus composita est aequalis (CF=LG=NH)²=EH², sive uti quadratum celeritatis finalis. Q.E.D.</p>
+
+        <p>Coroll. Quoniam in hypothesi theorematis praesentis per Galilaeanas demonstrationes altitudines lapsus sunt, ut quadrata celeritatum finalium, per altitudinem illam inde a quiete cadendo acquisitarum: igitur manifestum est, rectissime celeb. viros, Leibnitium, Hermannum &amp; Wolfium, mensuram virium vivarum fecisse altitudinem, per quam grave cadens a quiete in hypothesi gravitatis naturalis Galilaeana adquireret celeritatem datae aequalem; itemque, per quam ascendendo consumeret celeritatem initialem datae aequalem.</p>
+
+        <p>Schol. Habemus hoc loco factum naturae, quod casum exhibet Theorematis nostri VIII: Etsi illud fortassis prima fronte satis a consuetudine naturae alienum videri potuisset. Usus autem illius Theorematis spectari amplius in hoc negotio potest; siquidem facilis hic via aperitur solvendi difficultatem Leibnitio motam. Suspicatur enim Vir Clarissimus, pugnare secum duas Leibnitii sententias, dum altera gravitatem requirat uniformem, altera respuat: aequalibus enim temporibus aequales imprimi celeritates, gravitatem igitur esse uniformem, &amp; agere aequaliter; nec tamen aequales imprimi vires, gravitatem igitur non esse uniformem, nec agere aequaliter. Accipe verba, quae huc pertinent: „Supponatur tempus, quod cadendo insumitur, dividi in partes aequales. Quia gravitas uniformis est, et consequenter aequalibus temporis partibus aequaliter agit; necessum est, ut actione sua imprimat, et communicet corpori cadenti vires, celeritates et motus aequales temporibus aequalibus. Adeoque vis impulsiva, celeritas, et motus corporis cadentis augebuntur pro ratione temporis - - - - - - - - - - - - - - - - - - - - - Gravitas ponderis 4 librarum tantundem agit uno tempore, ac gravitas ponderis 1. librae quatuor temporibus - - - - - - - - - - - - - - - - - - - - Dominus Leibnitius agnoscit, quod gravitas temporibus aequalibus producat celeritates aequales in corpore descendente, quodque tollat aequales in ascendente; atque adeo sit uniformis. Agnoscit esse uniformem, (cum agitur de imprimenda celeritate, et facit tamen non uniformem) cum agitur de imprimenda vi impulsiva. Non igitur secum ipse convenit.„ Hactenus vir doctissimus. Solutionem difficultatis peto ex praemissis Theorematis 12 &amp; 8. Singulis scil. temporibus imprimitur nova celeritas priori aequalis; idque ob uniformitatem gravitatis, &amp; quoniam illa in corpus motum agit tanquam in quiescens. Dicam similiter, singulis temporibus imprimitur nova vis viva, quae, si sola esset in hoc corpore sine priori jam inexistente, vel si in alio corpore conciperetur, esset eidem aequalis, ob eandem rationem; etsi enim jam moveatur corpus, respectu tamen causae gravificae potest considerari ut quiescens. Perinde igitur est, respectu novarum causae gravificae impressionum, an concipias illam secundo momento agere in corpus prius jam aliqua vi affectum; an supponas, post primum momentum annihilari illud, &amp; substitui in ejus locum aliud quiescens aequale. Utroque enim casu gravitas tantundem aget in momento secundo. Quoad actionem igitur gravitatis ipsam nulla hic difformitas fingitur. Differentia omnis est in effectu composito. Celeritas enim ex duabus singulatim aequalibus composita facit summam; adeoque respondet temporum summae: Sed vis viva, composita ex duabus in eodem corpore coincidentibus, quarum secunda prioris celeritatem sua celeritate addita duplam facit, vis inquam, haec non facit summam duarum virium singularium per Theor. 8. adeoque non respondet tempori, sed quadratis temporum vel celeritatum, sive spatiis descensus per Theor. 12. Nihil hic pugnat. Gravitas est uniformis in producenda celeritate nova, &amp; vi nova: discrimen celeritatis compositae a vi composita aliunde pendet, quam a diversa aequalibus temporibus gravitatis actione. Ista de motibus acceleratis. Nunc de retardatis breviter.</p>
+
+        <head>Theorema XIII.</head>
+        <p>In motibus uniformiter retardatis vis initialis composita ex pluribus simplicibus coincidentibus per actionem gravitatis eodem modo resolvitur, quo composita est in acceleratis.</p>
+
+        <head>Demonstr.</head>
+        <p>Supponatur, corpus celeritate jam acquisita in B fig. 12. iterum sursum reflecti, &amp; ascendere: supponatur, illud primo tempusculo ascendere per Bb: &amp; supponatur spatiolum Bb tam parvum, ut motus per illud faciendus possit haberi pro aequabili. Certum est, illud corpus experturum resistentias gravitatis, quales &amp; quantas cadendo ex b in B acciperet impulsus: adeoque id perinde esse, ac si vi, cujus celeritas est BR, directe reniteretur vis, cujus celeritas est Rr. Vis igitur viva, quam corpus habet in b est aequalis quadrato differentiae celeritatum=bk² per Theor. 10. Cumque in motibus uniformiter acceleratis vel retardatis post spatia finita eaedem obtineant rationes, quae in spatiolis infinite parvis, vis residua in E similiter aequalis erit vi, quae emergit ex duabus sibi repugnantibus, quarum altera est vis in B, cujus celeritas est BR, &amp; alterius celeritas est QR. Sed vis ex hisce composita est=(BR—QR)²=BQ². Adeoque vis post primum tempus finitum residua est EH².</p>
+
+        <p>EH²=BQ². Et sic porro. Igitur in motibus uniformiter retardatis &amp;c. Q.E.D.</p>
+
+        <p>Idem breviter ex Cor. 6. Theorem. 8. sequitur: Tollatur enim singulis temporibus vis, cujus celeritas ut 1; vis composita non minuetur tantum vi ut 1, sed simul duplo facto ex vi ablata in vires residuas: Sunt adeo decrementa virium vivarum in retardatis, uti incrementa in acceleratis, inverso solum ordine initii, &amp; finis per Theor. 12. Resolvitur adeoque vis composita in retardatis, eodem modo, uti componitur in acceleratis. Q.E.D.</p>
+
+        <p>Coroll. Ex hisce consequitur, corpus, vi concepta sursum pergens, ascendere praecise ad altitudinem, ex qua cadendo acquisivisset celeritatem impressam; &amp; tempore eodem, quo illam cadendo accepisset: &amp; in singulis spatii punctis, itemque in singulis temporis momentis, aequaliter ab initio casus, &amp; a fine ascensus distantibus, habere celeritates easdem: &amp; in descriptis temporum momentis versari in iisdem spatii punctis, &amp; habere vires vivas aequales: &amp; in fine ascensus, quemadmodum &amp; in principio descensus, nullam habere vim vivam: hoc est, nostram virium theoriam consentire in omnibus cum recepta gravitatis.</p>
+
+        <p>Schol. Velim, attendant lectores mei discrimen virium vivarum per actionem gravitatis acceptarum, vel destructarum, &amp; gravitatis ipsius. Neglecto illo Vir insignis ex aestimatione virium Leibnitiana voluit deducere, ab initio temporis nullam esse gravitatem, adeoque corpus plane non descendere; &amp; in fine ascensus similiter nullam esse, adeoque corpus post ascensum non recidere in tellurem; sed manere suspensum. Enim vero recte probat, quod, si vis lapsu acquisita sit ut spatium, illa ab initio lapsus nulla sit. Sed ad nostram id sententiam non pertinet, quando eam conclusionem ad gravitatem transfert in applicatione. Gravitas enim, vis illa mortua sollicitans, non est ut spatium descensus: Sed vis viva, per actionem gravitatis infinito numero replicatam orta, est ut spatium. Per hanc non incipit descendere corpus: sed pergit tamen, per hanc non minus, quam per novas gravitatis sollicitationes. Similiterque, quamdiu illa durat in ascensu, tam diu corpus ascendit: cum definit, non ascendit amplius. Haereret igitur suspensum, si nihil aliud accederet. Sed vis eadem mortua, quae priorem vim vivam in hoc corpore successive peremit, nunc etiam continuatis impulsibus novam, &amp; priori illi directione sua contrariam successive imprimit. Manent igitur etiam hac in parte sententiae nostrae in concordia cum Theoria Gravitatis Galileana, si a Cartesio discesseris, universaliter approbata. vid. Recueil. des diverses Pieces par Mrs. Leibniz, Clarke, Newton. T. I. p. 178.</p>
+      </div>
+    </body>
+  </text>
+</TEI>
+```

@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="la">De Motu corporum ex percussione. Dissertatio</title>
+        <title xml:lang="ru">О движении тел от удара. Диссертация</title>
+        <author>
+          <persName>
+            <forename>Nicolaus</forename>
+            <surname>Bernoullius</surname>
+            <addName type="latin" xml:lang="la">Nicolaus Bernoullius, Joh. F.</addName>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <forename>Борис</forename>
+            <surname>Орехов</surname>
+            <addName type="latin" xml:lang="la">Boris Nuceus</addName>
+            <addName type="english" xml:lang="en">Boris Orekhov</addName>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Борис Орехов (Boris Nuceus / Boris Orekhov)</publisher>
+        <affiliation xml:lang="ru">Институт русской литературы (Пушкинский Дом) Российской академии наук</affiliation>
+        <affiliation xml:lang="la">Institutum Litterarum Russicarum (Domus Puskiniana) Academiae Scientiarum Russicae</affiliation>
+        <address>
+          <email>nevmenandr@gmail.com</email>
+        </address>
+        <ptr target="https://github.com/nevmenandr/commentarii"/>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Commentarii Academiae Scientiarum Imperialis Petropolitanae</title>
+          <biblScope unit="volume">Tomus I</biblScope>
+          <biblScope unit="page">121-126</biblScope>
+          <pubPlace>Petropoli</pubPlace>
+          <publisher>Typis Academiae</publisher>
+          <date when="1728">CIƆ IƆ C C X X V I I I</date>
+          <ptr target="https://archive.org/download/commentariiacade01impe/commentariiacade01impe_bw.pdf"/>
+          <note>Экземпляр из библиотеки Британского музея (Natural History), Лондон.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Электронное научное издание «Commentarii Academiae Scientiarum Imperialis Petropolitanae: Editio Digitalis».</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Текст приведён в исправленном после OCR виде; оригинальные лигатуры раскрыты. В оригинале XVIII века буква <hi rend="italic">f</hi> часто обозначает долгую <hi rend="italic">s</hi> (ſ); в настоящем издании все такие случаи раскрыты как <hi rend="italic">s</hi>.</p>
+        <p>Математические формулы переданы в нотации TeX внутри элемента <gi>formula</gi>.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="la">Latin</language>
+        <language ident="ru">Russian</language>
+      </langUsage>
+      <textClass>
+        <classCode scheme="internal">mathesis</classCode>
+        <keywords>
+          <term type="added">mechanics</term>
+          <term type="added">collision</term>
+          <term type="added">percussion</term>
+          <term type="added">elastic bodies</term>
+          <term type="added">conservation of vis viva</term>
+          <term type="added">Huygens</term>
+          <term type="added">18th century physics</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="article">
+        <head>DE MOTU CORPORUM EX PERCUSSIONE. DISSERTATIO,</head>
+        <p>Autore Nicolao Bernoullio, Joh. F.</p>
+        <p>M. Nov. 1725.</p>
+
+        <head>Hypotheses.</head>
+
+        <p>I. Corpora duo, E &amp; F, per altitudines EB, FC, ex quiete libere delapsa, si velocitatibus ultimo acquisitis directe ad se invicem impingant in M, eam post ictum velocitatem mutuam habebunt, ut cum sua singula ascendant, donec velocitate utriusque exha usta pervenerint in situm εΦ, eorum commune centrum gravitatis pristinam unde prius descenderat altitudinem acquirat, neque eam transcendatur.</p>
+        <p>Notissimum hoc est Hugenii axioma, quo passim ufus est, quodque adeo evidens reputabat, ut in pari occasione incidenter tantum id monuisse ipsi suffecerit, in tractatu suo posthumo de motu corporum ex percussione.</p>
+
+        <p>II. Duo corpora aequalia A &amp; C velocitatibus aequalibus eodem momento contra tertium quiescens B impellentia, aequali etiam post ictum, velocitate resiliunt. <ref type="figure" target="#fig2">Fig. 2</ref>.</p>
+
+        <p>III. Si duo corpora ad se invicem impingentia velocitatibus AB &amp; FL, post impulsum velocitatibus αε &amp; Φλ recedant, eadem vero corpora aliis etiam velocitatibus ED, MN sibi occurrentia resiliant velocitatibus εδ, μν. Ipsa quoque haec corpora se pellentia velocitatibus totalibus AB+FL &amp; ED+MN, totalibus αε+Φλ &amp; εδ+μν repellentur. Sequitur hinc quod duorum corporum velocitatibus a &amp; b post ictum se mutentibus in velocitates p &amp; q, etiam earum aeque multiplices na &amp; nb post conflictum producturae sint aeque multiplices np &amp; nq.</p>
+
+        <p>IV. Duorum corporum velocitatibus AB, CB, degenerantibus post ictum in alias αε, γε, erunt vicissim AB, CB velocitates post impulsum eorundem corporum quae ante hunc velocitatibus αε, γε sibi occurrerant. Pendet haec hypothesis ab axiomate generali, quo dicimus quod abeunte effectu in causam, vicissim causae in effectum mutetur. Hoc illustrant principia Catoptrices &amp; Dioptricae, quod radio AB reflectente aut refringente secundum BC, vicissim radius CB reflexus aut refractus viam lineae AB sit initurus.</p>
+
+        <head>Lemma</head>
+
+        <p>Sint duo corpora quaecunque sibi directe occurrentia in M velocitatibus BM, CM, quas cadendo per altitudines EB &amp; FC acquisiverant. Ponantur eadem corpora post impulsum velocitates acquisivisse quibus ad altitudines verticales εB, ΦC ascendant. Dico centrum commune gravitatis corporum tam in ε, Φ, quam in E, F constitutorum fore in S, intersectione linearum EF, εΦ.</p>
+
+        <p>Si enim essent in P &amp; O foret EO. OF :: eP. PΦ aut componendo EF. OF :: eΦ. PΦ &amp; alternando EF. eΦ :: OF. PΦ. Dein ob triangula similia ES e, FSΦ est ES. SF :: eS. SΦ, vel EF. SF :: eΦ. SΦ, vel EF. eΦ :: SF. SΦ, unde deducitur OF. FΦ :: SF. SΦ, vel OF. SF :: PΦ. SΦ. Q. E Abs.</p>
+
+        <head>Propositio I.</head>
+        <p>Existentibus duorum corporum velocitatibus quibuscunque, erit summa productorum cujusvis corporis in quadratum suae velocitatis eadem post ictum quae fuerat ante.</p>
+
+        <p>Positis enim quae prius manifestum est ob centrum gravitatis in S lineas FS &amp; E S fore ut corpora E &amp; F, aut e &amp; Φ, dum lineae EB, FC; eB, ΦC fiunt ut quadrata velocitatum ante &amp; post ictum. His positis erit ES. SF :: Ee. ΦF, adeoque ESxΦF=SFxEe, ac consequenter EBxSF+FCxSE=FBxSF+Ee×SF+CFxSE—ΦFxSE=EBxSF+ΦCxSE. Q.E.D.</p>
+
+        <p>Qui quantitatem virium in rerum natura constantem asserunt, huius propositionis veritatem tanquam corollarium ex theoremate Leibnitiano, quo quantitatem virium quadratis velocitatum proportionalem dicit, deducere possent.</p>
+
+        <head>Propositio II.</head>
+        <p>Binorum corporum D &amp; C velocitatibus oppositis &amp; massis quaeque suis reciproce proportionalibus praeditorum, eadem erit sigillatim velocitas post impulsum quae fuerat ante.</p>
+
+        <p>Sit corpus D=m, eius velocitas DB=p, corpus C=n, erit eius velocitas CB=mp/n. Concipiatur corpus maius D divisum in duo corpora a &amp; E, quorum prius a sit=n, ac proin E=m-n, &amp; disponantur ita ut eorum commune centrum gravitatis sit in D. Patet quod haec duo corpora a &amp; E virga eE rigida gravitatis experti atque velocitate DB se moventi adhaerentia, eundem plane effectum in corpus C sint exercitura, quem corpus D eadem sua velocitate motum produxisset, nec non, quod hic effectus constans sit permansurus quomodocunque se moveant corpora a &amp; E durante motu puncti D in linea DB, dummodo centrum commune gravitatis non recedat a puncto D.</p>
+
+        <p>Ponatur ergo moveri corpus E velocitate ED=BD=p, &amp; corpus a velocitate aD quae erit=<formula notation="TeX">\frac{mg-np}{n}</formula>; fingatur insuper circumrotari virga aE circa punctum D ut situm acquirat ADB, dum interea punctum D fertur velocitate DB, quo fiet ut corpus E positum in B (utpote duabus velocitatibus aequalibus &amp; directe oppositis gaudens) prorsus sit quieturum, &amp; a positum in A se moturum velocitate AD+DB=<formula notation="TeX">\frac{mp}{n}</formula>=CB. Corpus ergo C (per Coroll. Prop. 1.) post ictum revertetur eadem velocitate qua gaudebat ante impulsum.</p>
+
+        <p>Demonstrata propositionis veritate ratione corporis C, vera etiam erit per Prop. I. ratione corporis D. Q. E. D.</p>
+
+        <head>Problema.</head>
+        <p>Datis duorum corporum directe sibi occurrentium massis &amp; velocitatibus: invenire eorundem velocitates post ictum.</p>
+
+        <p>Sit massa corporis in A=m, eius velocitas AB=p; massa corporis C=n, eius velocitas CB=q. Mutentur velocitates AB &amp; BC post occursum in alteras α &amp; εγ, sitque α=x, εγ=y=(per propositionem I.) <formula notation="TeX">Vmp+nqq-mxx</formula>. Ponantur iam eadem corpora reverti ad secundum impulsum velocitatibus α &amp; ε, ita ut sit α. ε :: BA. BC, α. γ :: n. m, seu reciproce ut massa corporum in A &amp; C: reperietur <formula notation="TeX">\alpha=\frac{qnx-pny}{pm-qn}</formula>, &amp; <formula notation="TeX">\varepsilon=\frac{pmx-qny}{pm-qn}</formula>.</p>
+
+        <p>Q. 3</p>
+
+        <p>etiam inutilem, <formula notation="TeX">mmx+mrx+mmp-mnp-mnp-2mng=0</formula>, quae aequatio monstrat <formula notation="TeX">x=\frac{mnp+2mqq-mmp-np+2nq-mp}{m+n}</formula> = <formula notation="TeX">\frac{2np+2nq}{m+n}</formula> = <formula notation="TeX">\frac{np-mp-2np+2nq}{m+n}</formula> = p. Q. E. I.</p>
+
+        <head>EXAMEN PRINCIPIORUM MECHANICAE, ET DEMONSTRATIONES GEOMETRICAE DE COMPOSITIONE ET RESOLUTIONE VIRIUM,</head>
+        <p>Auct. Daniele Bernoulli, Joh. F.</p>
+        <p>M. Febr. 1726.</p>
+
+        <head>Sectio Prima.</head>
+
+        <p>I. Illam Mechanicae partem quae versatur circa aequilibrium potentiarum, totam ex sola compositione &amp; resolutione virium deduci posse, abunde monstravit Petrus Varignon; huic dein principio si addimus alterum, quod incrementa velocitatum proportionalia sint elementis temporum ductis in vires seu pressiones corpora ad motum solicitantes, obtinemus secundam mechanicae partem circa motum corporum occupatam. Posteriori principio Galileus primum, ni fallor, usus est pro determinando motu corporum uniformiter acceleratorum. Possunt quoque exinde deduci regulae communicationis motuum &amp; alia quam plurima, quae dein infinitis experimentis egregie fuerunt confirmata; experientia ergo potius, si recte judico, fundatum est principium Galileanum, quam ratione, atque proin annumerandum illis veritatibus, quae dicuntur vulgo contingenter verae, quibus opponuntur necessario verae. Potuisset enim natura efficere, ut incrementa velocitatum in corporibus motis proportionalia essent elementis temporum ductis in functionem quamcunque pressionum, ita ut dicto tempore t, pressione p &amp; velocitate v non amplius esset dv=pdt, sed verbi gratia dv=pdt vel dv=p³dt &amp;c, quarum aequationum singulae alias atque alias leges motuum subministrant.</p>
+
+        <p>II. Aliter vero se res habet cum principio compositionis virium, cui priorem mechanicae partem, vulgo staticam nominant, inniti dixi; illius enim demonstrationem inveni plane geometricam, cujus vi demum cognovi, theoremata statica non minus necessario vera esse, quam sunt geometrica. Hactenus a nemine demonstrata fuit compositio virium, quam ex compositione motus, quod demonstrandi genus tametsi receptum a viris summis, veluti Newtono, Varignonio, aliisque: minime tamen rigore geometrico munitum est, propositionemque non aliter quam contingenter veram reddit, uti inferius demonstrabo; nequaquam autem dubitandum, quin viri modo allegati ipsi defectum istum optime perspexerint, maluerint tamen aliqualem, eamque facilem &amp; brevem, quam nullam vel valde prolixam magnoque propositionum geometricarum apparatu intricatam demonstrationem addere; Haec ut monerem necesse duxi, ne quis credat me nil nisi actum agere, imo per longos circuitus rem per se obviam petere.</p>
+
+        <p>III. Propius iam examinanda res est; exponam primo demonstrationem ordinariam; dein ejusdem defectum indicabo; denique veram demonstrationem subjungam. Demonstrata hactenus fuit compositio virium ex compositione motus, hunc in modum. Sint potentiae duae concurrentes in puncto A sub directionibus AB &amp; AC, quaeque habeant ut AB &amp; AC. Si potentia AB sola ageret, moveret punctum A in linea AB, &amp; potentia AC, si sola ageret, moveret idem punctum A in linea AC. Erunt autem velocitates primae, uti ipsae potentiae; ergo si primo instanti punctum A sollicitatum a potentia AB pervenerit in b, necesse est, ut ab altera potentia sollicitatum perveniat eodem temporis momento in c, ita ut Ab. Ac :: AB, AC. Sed quaelibet potentia effectum suum exerit, ergo movebitur punctum A ab ambabus potentiis animatum primo temporis elemento per Ab &amp; per Ac. Notum autem est ex compositione motus iam antiquissimis temporibus demonstrata, punctum ita dupliciter motum eodem tempusculo absolvere elementum Ad quod est diagonalis parallelogrammi Abdc; est itaque effectus potentiarum AB, AC simul agentium post primum temporis momentum, idem ac si una sola adesset potentia, quae punctum A eodem momento per spatiolum Ad movere valeret: Et cum potentiae sint semper ut velocitates seu ut elementa iisdem tempusculi descripta, erit potentia illa ad potentiam AB vel AC, ut Ad ad Ab vel Ac; id quod indicat potentiam quaesitam AD esse diagonalem parallelogrammi sub lateribus AB, AC, pariter ac Ad est diagonalis parallelogrammi elementaris A b d c. Aequivalet itaque actio simplex potentiae AD actioni compositae potentiarum AB, AC. Hac solita illa demonstratio est compositionis virium, quam meis verbis concepi, ne aliena verba afferendo suspicionem alicuius refutationis in me concitarem: Non impugnabo Geometrae, sed Geometriae defectum. Caeterum confido me in allegata demonstratione nihil omisisse, quod eidem aliquid ponderis superaddere potuisset.</p>
+
+        <p>IV. Nihil in illa, ut falsum rejicio, sed quaedam ut obscura, quaedam ut non necessario vera. Praecipuum est, quod velocitates initiales ponantur potentiis proportionales, id quod nihil aliud est, quam ponere elementa velocitatum proportionalia pressionibus seu potentiis per aequalia tempuscula agentibus. Sed iam indicavi sub fine paragraphi I. potuisse eadem elementa aliae functioni pressionum esse proportionalia: Nemo enim necessitatem huius rationis identitatis demonstravit, nec unquam, ni fallor, demonstrare poterit. Quod si autem incrementa velocitatum iisdem tempusculis generata ponantur v. gr. radicibus pressionum seu potentiarum proportionalia, alia obtinebitur virium compositio a priori longe diversa nempe talis. Sint duae potentiae AB, AC abscindantur AN, AM radicibus AB, AC proportionales, Dein fiat parallelogrammum ANQM; producatur AQ donec AD fit quarta proportionalis ad AN², AQ² &amp; AB, &amp; erit AD potentia aequivalens potentiis AB &amp; AC simul agentibus. Sequitur autem haec constructio ex ratiocinio simili illi quod §. 3. expositum est.</p>
+
+        <p>V. Opposui hypothesi communi, qua ceteris paribus incrementa velocitatum proportionalia accipiuntur pressionibus, aliam quae certe attentionem prae reliquis meretur. Quid? an absurdum fuisset ante instituta experimenta suspicari, naturam hanc sibi proposuisse legem, ut incrementa vis vivae dato tempusculo genita proportionalia sint pressionibus; sed demonstrabo mox &amp; iam a viris Cel. Hermanno atque Bülffingero demonstratum est, incrementa vis vivae exprimenda esse, secundum Leibnitium per vdv; oriretur ergo ex ita hypothesis vdv=pdt, vel (posita p constanti) vv=2pt, &amp; denique dv=dt√p, id est, positis temporibus aequalibus fierent incrementa velocitatum proportionalia radicibus pressionum: non itaque sine fundamento haec a nobis ficta fuit hypothesis. Restat ut ostendam elementa vis vivae exprimenda esse per vdv, seu quod idem est, vim vivam corporis proportionalem esse quadratis velocitatum; mihi autem mensura virium vivarum est numerus elastrorum, quae corpus tendere potest priusquam motum suum perdat; hac definitione posita demonstrandum erit, corpus velocitate dupla posse quatuor elastra similia similiterque posita ad eundem gradum tendere, cum idem corpus velocitate simpla unicum tendit: Id primus Pater meus ostendit, sed per compositionem motus, qui scrupulum movere poterat; Ego vero idem demonstrabo directe, &amp; quidem ex hoc ipso principio a temporibus Galilei ab omnium nationum Geometris recepto, sed tamen, uti credo, contingenter tantum vero, quo nimirum ponitur dv=pdt. En demonstrationem. Sit elastrum, quod comprimi potest versus initium fixum L. Sit curva BEF talis, ut denotante abscissa LH longitudinem elastri compressi, indicet applicata HD potentiam requisitam ad elastrum in illo compressionis statu conservandum. Sint dein quatuor huiusmodi elastra o, o, o, o, &amp; erit applicata bd pro simili abscissa quadrupla applicatae in altera curva. Ponatur in figura tertia elastrum compressum in longitudinem LI, idque sui juris factum propellere globum A; inquiram ergo velocitatem globi A, cum elastrum acquisiverit statum LH. Sit LH=x, HD=p, velocitas globi pro illo momento=u, tempus quo elastri extremitas pervenit ex I in H=t, &amp; erit du=pdt=pdx, vel udv=pdx, vel uv=2∫pdx, &amp; u=√2∫pdx. Applicetur idem ratiocinium ad figuram quartam, retentis iisdem symbolis &amp; ponendo tantum 4p loco p, atque ita obtinebitur v=2√2∫pdx; unde liquet velocitates in punctis homologis H &amp; b semper esse ut 1 ad 2, ergo etiam in puncto B velocitas subdupla erit velocitatis in puncto b, &amp; si motus sit reciprocus, tendet globus A elastrum usque in I &amp; similis globus a velocitate initiali dupla quatuor elastra similiter tendet usque in i. Id itaque extra controversiam positum esse debet, posse corpus quatuor elastra similia similiter tendere cum duplici velocitate &amp; quicunque vires vivas hoc sensu negat (neminem autem esse puto) aut geometra non est, aut definitionem impugnat. Sed unum hic observandum est: nimirum, summam omnium pressionum momentanearum, quas corpus sustinuit dum tenderet quatuor elastra non quadruplam sed duplam fuisse, aestimando summam omnium pressionum momentanearum non solum ex ipsis pressionibus, sed &amp; ex temporibus quibus singulae applicatae fuerunt, id est, ex ∫pdt; nam tantum agit libra duobus minutis, quantum duae librae uno minuto, seu tanta est summa omnium pressionum momentanearum in priori casu, quanta in posteriori; est vero pdt=du, ergo ∫pdt=v; unde si quis vim corpori moto insitam definiat ex summa omnium pressionum momentanearum, quas corpus directe sustinere potest, priusquam motum suum perdat, hic jure illam proportionalem faciet velocitatibus simplicibus; Notandum quoque illam pressionum summam eandem esse semper pro iisdem corporibus iisdemque velocitatibus initialibus modo pressiones sumantur directe corporis motui oppositae; habeat enim corpus velocitatem initialem, qua ascendere possit per altitudinem verticalem DN; idem corpus eadem velocitate initiali ascendere poterit per curvam DO: dico autem in utroque ascensu corpus eandem pressionum directe oppositarum summam sustinuisse; ductis enim duabus horizontalibus infinite propinquis BM, CN, &amp; verticali BA; erit velocitas in B eadem quae in M: sit pressio in M=p, erit pressio in B=Bc/p; sit tempus ascensus per MN=dt, erit tempus ascensus per BC=Bc/A dt; ergo factum ex tempusculo in pressionem in utroque casu=pdt, &amp; aggregatum omnium huiusmodi factorum seu summa omnium pressionum in utroque ascensu eadem est: Et hoc theorema facile mutatur in Leibnitianum, quo asseritur corpus idem eadem velocitate initiali semper eundem numerum elastrulorum aequalium tendere, antequam motum suum perdat: Dici non potest, quantum principium hoc conservationis virium vivarum utilitatis afferat in rem physicam; Nullo enim negotio ejus ope solvuntur problemata physica, alias pro valde difficilibus vel forsan desperatis habenda. Caeterum has quoque veritates dynamicas non necessario veras esse patet ex eo, quod deducantur omnes ex principio aequationis dv=pdt.</p>
+
+        <p>VI. Pergo in examinandis hypothesibus demonstrationis pro compositione virium: Iam indicavi hypothesin, quae mihi vera quidem, sed tamen talis quae demonstrari nequeat videtur. Prouti autem ex unica propositione contingenter vera, non potest aliquid deduci, quod sit necessario verum, ita aliam similem hypothesin in demonstratione latere necesse est. Latet autem in eo quod ponatur, potentiam eundem velocitatis gradum communicare dato tempusculo, corpori moto &amp; corpori quiescenti; concedam potentias AB, AC seorsim agentes motus imprimere puncto A proportionales ipsis potentiis, scilicet Ab &amp; Ac; quid autem si id negem de potentiis simul agentibus: nonne fieri potuisset, ut potentia alium motum imprimeret corpori iam moto, quam corpori quiescenti? Certe non satis illustratur principium hoc ex eo, quod fingi possit corpus motum in tubo, dum tubus locum suum successive mutat. Fingatur enim tubus CE motus directione Cc non perpendiculari ad tubum, sintque latera tubi perfecte polita, certum est potentiam requiri applicandam in globum a, quae impediat ne globus locum in tubo mutet; ergo potentia tubo applicata non potest (saltem non debet) considerari independenter a potentia globo applicata. Si hisce diutius immorari vellem, possem exemplis demonstrare, hanc hypothesin contradictiones involvere, si loco dv=pdt ponatur v. gr. dv=ppdt: Sed ad alia properans haec relinquam; id adhuc monebo, naturam aequilibrii equidem sine errore explicari posse, per motum elementarem, id tamen obscure fieri: ubicunque enim est aequilibrium, nullus succedit motus. Sequitur iam pars altera, qua demonstrationes dabo Geometricas pro compositione &amp; resolutione virium.</p>
+
+        <head>Sect. II.</head>
+
+        <p>Definitiones. Per pot. AB intelligo potentiam expressam per AB: potentias sibi aequivalere dico, quando eadem vi &amp; per eandem directionem punctum trahunt.</p>
+
+        <p>Hyp. I. Potentiis quibuscunque possunt substitui earundem aequivalentes. II. Duae potentiae conspirantes aequivalent uni potentiae simplici, quae est aequalis summae illarum, &amp; duae potentiae directe oppositae aequivalent uni potentiae simplici, quae est aequalis earundem differentiae. Hae duae postremae hypotheses nil aliud asserunt, quam totum esse aequale partibus &amp; duas potentias aequales &amp; oppositas esse in aequilibrio, quia nulla ratio, cur una alteri praevaleat, quod axioma metaphysicum inter necessario vera est locandum. III. Potentia simplex, quae aequivalet duabus potentiis aequalibus, aequaliter versus utramque inclinat, id est, ipsius directio secat bifariam angulum comprehensum inter directiones duarum potentiarum, id quod ex eodem axioma te metaphysico sequitur.</p>
+
+        <head>Propositio I. Lemma.</head>
+        <p>Si tres potentiae DA, DB &amp; DC positae sint in aequilibrio, erunt quoque earum duplae vel quaeevis multiplae, Dm, Dn &amp; Dp in aequilibrio.</p>
+
+        <p>Demonstratio. Si enim substituimus loco potentiarum Dm, Dn, Dp has alias DA+DA, DB+DB, DC+DC, in quibus manifestum est aequilibrium, ilico patet propositionis veritas, atque non solum de potentiis duplis, sed &amp; triplis, quadruplis &amp;c. imo quamcunque rationem habentibus cum assumtis DA, DB, DC. Q.E.D.</p>
+
+        <head>Prop. 2. Problema</head>
+        <p>Quaeritur pot. DB aequivalens duabus potentiis DA, DC aequalibus sibique ad perpendicularium insistentibus.</p>
+
+        <p>Solutio. Cum potentiae DA, DC sint aequales, nullum est dubium circa directionem tertiae potentiae; secabit utique bifariam angulum ADC; quaeritur ergo tantum magnitudo potentiae DB; vocetur itaque pot. DB, x, nominata pot. DA seu DC, a, atque fiat DE= tertiae continue proportionali ad DB, &amp; DA sumanturque DG &amp; DH aequales ipsi lineae DE. Ergo (per Prop. 1.) pot. DA aequivalent duabus potentiis DE, DH, atque DC duabus aliis DG, DH. Substitiendo itaque loco potentiarum DA, DC, has alias DE, DH, DG, DH, oportet ut hae quatuor potentiae simul agentes aequivaleant potentiae DB; sed potentiae DE, DG se destruunt, restant adeoque pot. DH, DH seu simplex pot. 2DH=DB; seu x=ax=a√2.</p>
+
+        <p>Coroll. Ergo pot. DB exprimitur per diagonalem quadrati, cujus latera repraesentant potentias DA, DC.</p>
+
+        <head>Prop. 3. Probl.</head>
+        <p>Quaeritur potentia DB aequivalens duabus potentiis DA, DC ad se invicem perpendicularibus sed quomodocunque inaequalibus.</p>
+
+        <p>Solutio. Sit DA=a, DC=b; DB=x; ducatur per punctum D recta EG perpendicularis ad DB; sumatur DR=aa/x id est, = tertiae continue proportionali ad DB &amp; DA; &amp; DE fiat=ab/x = quartae proportionali ad DB, DC &amp; DA. His ita positis patet potentiam DA aequivalere potentiis DR, DE; quia DR, DA, DE per constructionem proportionales sunt ipsis DA, DB, DC; sunt praeterea similiter positae tres priores cum tribus posterioribus ob ang. EDA=ang.CDB. Substitui ergo potentiae DA possunt duae aequivalentes DE, DR: Idem etiam fiat ab altera parte substituendo potentiae DC duas alias aequivalentes DN, DG tales, ut DC, DB, DA sint proportionales ipsis DN, DC, DG; &amp; sic quatuor potentiae DE, DR, DN, DG aequivalebunt potentiae DB; est autem DN=bb/x, &amp; DG=ab/x; ergo pot. DG &amp; DE se destruentibus restant potentiae DR, DN aequandae cum potentia DB; unde aa/x+bb/x=x=√(aa+bb).</p>
+
+        <p>Coroll. 1. Est ergo potentia DB aequalis illi, quae repraesentaretur per diagonalem rectanguli, cujus latera exprimunt potentias propositas.</p>
+
+        <p>Coroll. 2. Constat adeoque de valore seu quantitate potentiae DB, verum nihil adhucdum constat de ipsius directione; quod si vero demonstrari insuper posset, non posse potentiam DB aequivalere potentiis lateralibus seu illas agendo in oppositam partem in aequilibrio continere, nisi agat secundum diagonalem rectanguli modo definiti, facillimum demonstratu esset, potentias quascunque DA, DC quomodocunque ad se inclinatas esse aequipollentes cum potentia simplici DS, quae est diagonalis parallelogrammi DASC. Si enim substituas potentiae DA duas DP, DF ad se invicem perpendiculares, habebis loco potentiarum DA, DC tres alias DP, DF, DC feu (facta SL perpendiculari ad DC productam) duas potentias DP, DL equivalentes potentiae DS; est autem DS etiam diagonalis in parallelogrammo obliquangulo DASC; ergo potentia equivalentes potentiis DA, DC repraesentatur per diagonalem DS.</p>
+
+        <head>Propositio 4. Probl.</head>
+        <p>Posito potentias BA, BC inter se aequales aequivalere potentiae BE angulum ABC secanti bifariam; invenire duas alias potentias inter se aequales BD, BF eidem potentiae BE aequivalentes, &amp; quarum directiones angulos ABE, CBE bifecent.</p>
+
+        <p>Sol. Sit pot. BA feu BC=α, pot. BE=b, pot. BD vel BF=x; fiat, ut BE (b). BD vel BF (x) :: BD vel BF (x). BQ vel BR=xx/b. Sumatur BS=BQ: Erunt potentiae BD &amp; BF equivalentes cum potentiis BQ, BS &amp; BR, BS, feu potentiis BQ, BR, &amp; 2BS. Praeterea, si faciamus BT talem, ut sit = quartae proportionali ad BA, BE, &amp; BQ, erunt potentiae BQ, BR aequipollentes potentiae BT=xx/a. Ergo posita pro potentiis BQ, BR alia BT, habebitur tandem BT+2BS=BE feu xx/a+2xx/b=bx·x=b√(2a+b) Q. E. I.</p>
+
+        <head>Prop. 5. Theorema.</head>
+        <p>Si in triangulo ABC rectangulo atque isosceles ducatur BR perpendicularis ad AC, posteaque anguli ABR, CBR bifecentur lineis BD, BF ut &amp; anguli DBR, FBR lineis Bd, Bf &amp; sic in infinitum bifecando semper angulos circa diagonalem. Dico, duas potentias simul agentes BD, BF, vel Bd, Bf &amp;c. aequaliter ad BR inclinatas semper aequivalere potentiae simplici 2BR.</p>
+
+        <p>Demonstratio: Potentiae BA, BC aequipollent potentiae 2BR (per Coroll. prop. 2); quaerendo nunc per praecedentem propositionem potentias BD, BF eidem potentiae 2BR aequipollentes, reperietur (nominando BA, a) BD feu BF=√2+√2; si autem geometrice quaeratur valor ipsius BD, invenitur BD=√2+√2; unde sequitur, lineas BD &amp; BF repraesentare potentias aequipollentes potentiae 2BR. Faciendo nunc BD=√2+√2=b iterumque inquirendo in potentias Bd, Bf aequivalentes potentiae 2BR=a√2, invenitur Bd feu Bf (prop.4.) =√2b+a√2, quae quantitas si ponatur=c invenitur ulterius progrediendo pot. Bb=EΦ=√2c+a√2, &amp; sic deinceps; sed si Bd, Bd &amp;c. seu Bf, BΦ &amp;c. geometrice quaerantur, non aliter illae exprimentur, quod probat, singula paria potentiarum BD, BF, seu Bd, Bf seu Bd, BΦ &amp;c. aequipollentia pot. 2BR repraesentari per ipsas lineas BD, Bd, Bd &amp;c. &amp; BF, Bf, BΦ &amp;c. terminatas nimirum a linea recta AC. Q. E. D.</p>
+
+        <p>Aliter. Quicumque fuerit angulus ABR sive CBR, si potentiae BA, BC aequivaleant potentiae 2BR, fluit ex praecedenti propositione, potentias alias applicatas ad angulos dimidios prioribusque aequipollentes repraesentari per lineas BD, BF. Considerando itaque rursus loco anguli ABR feu CBR angulum DBR feu FBR iterum manifestum fit, potentias Bd, Bf aequivalere prioribus BD, BF, &amp; sic de reliquis; ergo cum potentiae BA, BC aequivaleant pot. 2BR, si sint ad se invicem perpendiculares (per prop. 2.), eidem quoque aequivalebunt omnes reliquae BD, BF, &amp; Bd, Bf, &amp; Bd BΦ &amp;c Q. E. D.</p>
+
+        <p>Coroll. Demonstrata ergo fuit compositio virium in omnibus casibus, ubi potentiae repraesentantur per latera rhombi, cujus angulus aequalis uni ex hac serie geometrica 1R, 1/2 R, 1/4 R, 1/8 R, &amp;c. per R intelligo angulum rectum.</p>
+
+        <head>Prop. 6. Theorema</head>
+        <p>Si duae potentiae aequales BA, BC aequipolleant potentiae BF, quam pono bifecari in puncto L a linea AC; sique per punctum B ducatur perpendicularis DE, cui quoque perpendiculariter insistent AD, CE, dico potentiam BA aequivalere potentiis BL, BD, atque pot. BC potentiis BL, BE.</p>
+
+        <p>Demonstratio. Si neges potentiam BA aequivalere potentiis BL, BD; fac illam aequivalere duabus aliis, veluti Bl, Bd; ergo pari ratione pot. BC aequivaleret potentiis Bl, Be=Bd; ergo potentiae Bd, Bl, Be, Bl aequivalerent pot. BF, feu pot. 2BL. quod est absurdum. Ergo alterutra potentiarum, in quas resolvi debet potentia BA, necessario exprimi debet per BL, quo demonstrato, immediate fluit ex prop. 3. alteram potentiam sumendam esse aequalem potentiae BD, quia nimirum BA=√(BL²+BD²): eodem modo sit demonstratio ab altera parte. Q.E.D.</p>
+
+        <p>Corol. Notae nunc quoque sunt directiones potentiarum compositarum in infinitis rectangulis, nimirum in omnibus illis, quae sunt circumscripta lineis BA, BD &amp;c. &amp; quorum alterum latus est BR.</p>
+
+        <head>Prop. 7. Probl.</head>
+        <p>Si BA, BE atque BC, BD sint latera qualiumcunque rhomborum supra definitorum, invenire potentiam in diagonali, quae aequivaleat potentiis BF, BG; ponendo lineas BF, BG bifecare angulos ABC, EBD.</p>
+
+        <p>Solutio. Producantur lineae BC, BD donec fiant aequales ipsis BA, BE; junctisque punctis M &amp; N, producatur BL in S. Ergo potentia BM, BN aequipollet potentiae 2BS (per prop. 1.) &amp; si quatuor potentiae BA, BE, BM, BN, simul agere concipiantur, omnes simul aequipollere manifestum est potentiae 2BL, 2BS. Nunc videamus, quid singulatim valeant, potentiae BA, BM inquirendo nimirum potentiam BU illis aequivalentem; quia vero BA=BM bifecabit BU angulum ABM, adeo ut BU congruat cum BF: Refolvatur potentia BA in potentias BP &amp; BL (per coroll. prop. 6) atque potentia BM in potentias BO, BS &amp; sic habebimus quatuor potentias BP, BO, BL, BS, ergo (per prop. 3.) BU=√(BP+BO)²+(BL+BS)²; eodem modo reperitur ab altera parte BW=√(BR+BQ)²+(BL+BS)². Cum vero potentiae BU, BW aequipolleant potentiis BA, BM &amp; BE, BN feu potentiis 2BL+2BS, manifestum est, nihil superesse pro plenaria problematis solutione, nisi ut fiat sequens analogia ut BU feu BW ad 2BL+2BS ita BF feu BG ad potentiam quaesitam in diagonali aequivalentem potentiis BF, BC. Haec nunc, ut effectui demus, sit BA=BE=a; BC=BD=b; AC=ED=c; erit CL=DL=(aa-bb-cc)/2c; MS=BO=(a³-abb-acc)/2bc; BP=AL=(aa-bb+cc)/2c; BL=√(2bbcc+2aabb+2aacc-a⁴-b⁴-c⁴)/2c; BS=a√(2bbcc+2aabb+2aacc-a⁴-b⁴-c⁴)/c; ergo BU=BW=(2bc)/√(BP+BO)²+(BL+BS)² = radici sequentis quantitatis</p>
+
+        <p>aa+2ab+bb/4bbcc ×(2bbcc+2aabb+2aacc-a⁴-b⁴-c⁴) + (aab-b³+bcc-a³-abb-acc/2bc)²; est autem radix totius huius quantitatis √(a⁴/b⁴+ab+2aabb-abcc). Inventa BU exprimenda restat ipsa BF, ut quarta proportionalis ad 1U, 2BL+2BS &amp; BF haberi possit. Illa vero commode obtinetur faciendo angulum BFZ=ang. BAF; ita enim fit triangulum BAF simile triangulo BFZ, nec non triang. BFC simile triang. FZC, ex quorum triangulorum similitudinibus statim provenit BF=√(a⁴/b⁴+ab+2aabb-abcc)/(a+b). Est itaque quarta proportionalis ad BU, 2BL+2BS &amp; BF, haec quantitas √(2bbcc+2aabb+2aacc-a⁴-b⁴-c⁴) = 2BL. Q. E. I.</p>
+
+        <p>Coroll. Quia potentiae BF, BG aequivalent potentiae 2BL, patet illas aequivalentes esse cum potentiis lateralibus BA, BE vel BC, BD.</p>
+
+        <head>Propositio 8. Theorema.</head>
+        <p>Si duae vires sint aequales, veluti BA, BC erit illarum actio semper aequalis potentiae expressae per diagonalem rhombi sive potentiae 2BR.</p>
+
+        <p>Demonst. Si BD, BE sint latera quadrati, erunt potentiae BD, BE aequipollentes potentiae 2BR (per prop. 2.) &amp; si BS, BΓ bifecent angulos DBR, EBR, pariter potentiae BS, BΓ aequivalebunt pot. 2BR (per prop. 4.) &amp; bifectis rursus singulis angulis, erunt iterum potentiae expressae per novas lineas secantes terminatas a linea DE, sumtae binae aequipollentes potentiae 2BR (per coroll. prop. 7.) Ergo cum detur progressio in infinitum lquet, non posse duas potentias exhiberi aequales intra terminos BD, BE concurrentes in B atque terminatas a linea DE, quae non aequivaleant potentiae 2BR. Duplicatis vero angulis inter BR &amp; quamcunque BS feu BT, propositio quoque manifesta fit de illis potentiis, quae transgrediuntur terminos BD, BE. Sicque tota demonstratio absoluta est.</p>
+
+        <p>Schol. Demonstrata compositione virium pro omnibus rhombis, valebit eadem pro omnibus rectangulis (per prop. 6.) atque pro omnibus parallelogrammis, per coroll. 2. prop. 3.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,35 +1,35 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
 cff-version: 1.2.0
-message: "If you use this digital edition, please cite it as below."
-type: book
-title: "Commentarii Academiae Scientiarum Imperialis Petropolitanae: Editio Digitalis"
-abstract: >-
-  A digital edition of the Commentarii Academiae Scientiarum Imperialis
-  Petropolitanae, the proceedings of the Imperial St. Petersburg Academy
-  of Sciences, originally published in the 18th century. The edition
-  includes all volumes of the journal, with scholarly articles in Latin,
-  and metadata encoded in TEI P5.
+title: >-
+  Commentarii Academiae Scientiarum Imperialis
+  Petropolitanae: Editio Digitalis
+message: 'If you use this digital edition, please cite it as below.'
+type: dataset
 authors:
-  - family-names: "Орехов"
-    given-names: "Борис"
-    alias: "Boris Nuceus"
-    orcid: "https://orcid.org/0000-0002-9099-0436"
-    affiliation: "Институт русской литературы (Пушкинский Дом) Российской академии наук"
-    email: "nevmenandr@gmail.com"
-editors:
-  - family-names: "Орехов"
-    given-names: "Борис"
-    alias: "Boris Nuceus"
-    orcid: "https://orcid.org/0000-0002-9099-0436"
-    affiliation: "Институт русской литературы (Пушкинский Дом) Российской академии наук"
-    email: "nevmenandr@gmail.com"
-version: "1.0"
-date-released: "2026"
-license: "CC-BY-4.0"
-repository-code: "https://github.com/nevmenandr/commentarii"
+  - given-names: Boris
+    family-names: Orekhov
+    email: nevmenandr@gmail.com
+    orcid: 'https://orcid.org/0000-0002-9099-0436'
+    affiliation: >-
+      Институт русской литературы (Пушкинский Дом)
+      Российской академии наук
+repository-code: 'https://github.com/nevmenandr/commentarii'
+abstract: >-
+  A digital edition of the Commentarii Academiae Scientiarum
+  Imperialis Petropolitanae, the proceedings of the Imperial
+  St. Petersburg Academy of Sciences, originally published
+  in the 18th century. The edition includes all volumes of
+  the journal, with scholarly articles in Latin, and
+  metadata encoded in TEI P5.
 keywords:
-  - "Neo-Latin"
-  - "18th century"
-  - "history of science"
-  - "Russian Academy of Sciences"
-  - "digital edition"
-language: "lat"
+  - Neo-Latin
+  - 18th century
+  - history of science
+  - Russian Academy of Sciences
+  - digital edition
+license: CC-BY-4.0
+version: '1.0'
+date-released: '2026-10-04'
+
