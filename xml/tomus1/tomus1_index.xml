@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="la">Index Commentariorum Tomi I</title>
+        <title xml:lang="ru">Оглавление Тома I</title>
+        <author>
+          <orgName xml:lang="la">Academia Scientiarum Imperialis Petropolitanae</orgName>
+          <orgName xml:lang="ru">Императорская Санкт-Петербургская академия наук</orgName>
+        </author>
+        <editor>
+          <persName>
+            <forename>Борис</forename>
+            <surname>Орехов</surname>
+            <addName type="latin" xml:lang="la">Boris Nuceus</addName>
+            <addName type="english" xml:lang="en">Boris Orekhov</addName>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Борис Орехов (Boris Nuceus / Boris Orekhov)</publisher>
+        <affiliation xml:lang="ru">Институт русской литературы (Пушкинский Дом) Российской академии наук</affiliation>
+        <affiliation xml:lang="la">Institutum Litterarum Russicarum (Domus Puskiniana) Academiae Scientiarum Russicae</affiliation>
+        <address>
+          <email>nevmenandr@gmail.com</email>
+        </address>
+        <ptr target="https://github.com/nevmenandr/commentarii"/>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Commentarii Academiae Scientiarum Imperialis Petropolitanae</title>
+          <biblScope unit="volume">Tomus I</biblScope>
+          <pubPlace>Petropoli</pubPlace>
+          <publisher>Typis Academiae</publisher>
+          <date when="1728">CIƆ IƆ C C X X V I I I</date>
+          <ptr target="https://archive.org/download/commentariiacade01impe/commentariiacade01impe_bw.pdf"/>
+          <note>Экземпляр из библиотеки Британского музея (Natural History), Лондон.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Электронное научное издание «Commentarii Academiae Scientiarum Imperialis Petropolitanae: Editio Digitalis».</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Текст приведён в исправленном после OCR виде; оригинальные лигатуры раскрыты.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="la">Latin</language>
+        <language ident="ru">Russian</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="index">
+        <head>INDEX COMMENTARIORUM</head>
+
+        <list>
+          <item>
+            <persName>
+              <forename>Iacobus</forename>
+              <surname>Hermannus</surname>
+            </persName>,
+            <title xml:lang="la">De Mensura virium Corporum</title>.
+            <biblScope unit="page">1</biblScope>
+          </item>
+          <item>
+            <persName>
+              <forename>Georgius Bernhardus</forename>
+              <surname>Bülffingerus</surname>
+            </persName>,
+            <title xml:lang="la">De Viribus corpori moto insitis, et illarum Mensura</title>.
+            <biblScope unit="page">43</biblScope>
+          </item>
+          <item>
+            <persName>
+              <forename>Nicolaus</forename>
+              <surname>Bernoullius</surname>
+            </persName>,
+            <title xml:lang="la">De Motu corporum ex percussione</title>.
+            <biblScope unit="page">121</biblScope>
+          </item>
+          <item>
+            <persName>
+              <forename>Daniel</forename>
+              <surname>Bernoullius</surname>
+            </persName>,
+            <title xml:lang="la">Examen Principiorum Mechanicae</title>.
+            <biblScope unit="page">126</biblScope>
+          </item>
+          <item>
+            <persName>
+              <forename>Iacobus</forename>
+              <surname>Hermannus</surname>
+            </persName>,
+            <title xml:lang="la">De Problemate Kepleriano</title>.
+            <biblScope unit="page">142</biblScope>
+          </item>
+          <item>
+            <persName>
+              <forename>Iacobus</forename>
+              <surname>Hermannus</surname>
+            </persName>,
+            <title xml:lang="la">De Calculo integrali</title>.
+            <biblScope unit="page">149</biblScope>
+          </item>
+          <item>
+            <persName>
+              <forename>Ioannes</forename>
+              <surname>Bernoullius</surname>
+            </persName>,
+            <title xml:lang="la">De Integrationibus Aequationum differentialium</title>.
+            <biblScope unit="page">167</biblScope>
+          </item>
+          <item>
+            <persName>
+              <forename>Christianus</forename>
+              <surname>Goldbachius</surname>
+            </persName>,
+            <title xml:lang="la">De Casibus quibusdam integrabilibus</title>.
+            <biblScope unit="page">185</biblScope>
+          </item>
+          <item>
+            <persName>
+              <forename>Nicolaus</forename>
+              <surname>Bernoullius</surname>
+            </persName>,
+            <title xml:lang="la">Analysis Aequationum quarundam differentialium</title>.
+            <biblScope unit="page">198</biblScope>
+          </item>
+          <item>
+            <persName>
+              <forename>Christianus</forename>
+              <surname>Goldbachius</surname>
+            </persName>,
+            <title xml:lang="la">Methodus integrandi Aequationem differentialem</title>.
+            <biblScope unit="page">207</biblScope>
+          </item>
+          <item>
+            <persName>
+              <forename>Iacobus</forename>
+              <surname>Hermannus</surname>
+            </persName>,
+            <title xml:lang="la">De Epicycloidibus Sphaericis</title>.
+            <biblScope unit="page">210</biblScope>
+          </item>
+          <item>
+            <persName>
+              <forename>Christianus</forename>
+              <surname>Wolfius</surname>
+            </persName>,
+            <title xml:lang="la">Principia Dynamica</title>.
+            <biblScope unit="page">217</biblScope>
+          </item>
+          <item>
+            <persName>
+              <forename>Ioannes Christianus</forename>
+              <surname>Buxbaumius</surname>
+            </persName>,
+            <title xml:lang="la">Nova Plantarum genera</title>.
+            <biblScope unit="page">241</biblScope>
+          </item>
+          <item>
+            <persName>
+              <forename>Georgius Bernhardus</forename>
+              <surname>Bülffingerus</surname>
+            </persName>,
+            <title xml:lang="la">De directione Corporum gravium in vortice Sphaerico</title>.
+            <biblScope unit="page">245</biblScope>
+          </item>
+          <item>
+            <persName>
+              <forename>Ioannes Georgius</forename>
+              <surname>Du Vernoi</surname>
+            </persName>,
+            <title xml:lang="la">Descriptio Vasorum Chyliferorum</title>.
+            <biblScope unit="page">262</biblScope>
+          </item>
+          <item>
+            <persName>
+              <forename>Daniel</forename>
+              <surname>Bernoullius</surname>
+            </persName>,
+            <title xml:lang="la">Tentamen novae de motu Musculorum Theoriae</title>.
+            <biblScope unit="page">297</biblScope>
+          </item>
+          <item>
+            <persName>
+              <forename>Daniel</forename>
+              <surname>Bernoullius</surname>
+            </persName>,
+            <title xml:lang="la">Experimentum circa nervum opticum</title>.
+            <biblScope unit="page">314</biblScope>
+          </item>
+          <item>
+            <persName>
+              <forename>Georgius Bernhardus</forename>
+              <surname>Bülffingerus</surname>
+            </persName>,
+            <title xml:lang="la">De variis Barometris sensibili oribus et eorum nova specie ac usibus</title>.
+            <biblScope unit="page">317</biblScope>
+          </item>
+          <item>
+            <persName>
+              <forename>Ioannes Georgius</forename>
+              <surname>Du Vernoi</surname>
+            </persName>,
+            <title xml:lang="la">De Cisterna et ductu Thoracico Catopardi, Phocae et Elephanti</title>.
+            <biblScope unit="page">342</biblScope>
+          </item>
+          <item>
+            <persName>
+              <forename>Fridericus Christophorus</forename>
+              <surname>Meyerus</surname>
+            </persName>,
+            <title xml:lang="la">De Luce Boreali</title>.
+            <biblScope unit="page">351</biblScope>
+          </item>
+          <item>
+            <persName>
+              <forename>Petrus Antonius</forename>
+              <surname>Michelottus</surname>
+            </persName>,
+            <title xml:lang="la">Rari ac prope inauditi ex utero morbi historia</title>.
+            <biblScope unit="page">368</biblScope>
+          </item>
+          <item>
+            <title xml:lang="la">Observationes Anatomicae</title>.
+            <biblScope unit="page">379</biblScope>
+          </item>
+        </list>
+
+        <head>IN CLASSE HISTORICA</head>
+
+        <list>
+          <item>
+            <persName>
+              <forename>Theophilus Sigefridus</forename>
+              <surname>Bayerus</surname>
+            </persName>,
+            <title xml:lang="la">De origine et priscis sedibus Scytharum</title>.
+            <biblScope unit="page">387</biblScope>
+          </item>
+          <item>
+            <persName>
+              <forename>Theophilus Sigefridus</forename>
+              <surname>Bayerus</surname>
+            </persName>,
+            <title xml:lang="la">De situ Scythiae sub aetatem Herodoti</title>.
+            <biblScope unit="page">400</biblScope>
+          </item>
+          <item>
+            <persName>
+              <forename>Theophilus Sigefridus</forename>
+              <surname>Bayerus</surname>
+            </persName>,
+            <title xml:lang="la">De Muro Caucaseo</title>.
+            <biblScope unit="page">425</biblScope>
+          </item>
+          <item>
+            <persName>
+              <forename>Iosephus Nicolaus</forename>
+              <surname>De l'Isle</surname>
+            </persName>
+            et
+            <persName>
+              <forename>Ludovicus</forename>
+              <surname>De l'Isle de la Croyere</surname>
+            </persName>,
+            <title xml:lang="la">Observationes Astronomicae</title>.
+            <biblScope unit="page">465</biblScope>
+          </item>
+        </list>
+      </div>
+    </body>
+  </text>
+</TEI>

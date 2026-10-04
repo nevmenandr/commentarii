@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="la">Praefatio</title>
+        <title xml:lang="ru">Предисловие</title>
+        <author>
+          <persName>
+            <forename>Christianus</forename>
+            <surname>Goldbach</surname>
+          </persName>
+          <roleName>Academicorum nomine scripsit</roleName>
+        </author>
+        <editor>
+          <persName>
+            <forename>Борис</forename>
+            <surname>Орехов</surname>
+            <addName type="latin" xml:lang="la">Boris Nuceus</addName>
+            <addName type="english" xml:lang="en">Boris Orekhov</addName>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Борис Орехов (Boris Nuceus / Boris Orekhov)</publisher>
+        <affiliation xml:lang="ru">Институт русской литературы (Пушкинский Дом) Российской академии наук</affiliation>
+        <affiliation xml:lang="la">Institutum Litterarum Russicarum (Domus Puskiniana) Academiae Scientiarum Russicae</affiliation>
+        <address>
+          <email>nevmenandr@gmail.com</email>
+        </address>
+        <ptr target="https://github.com/nevmenandr/commentarii"/>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Commentarii Academiae Scientiarum Imperialis Petropolitanae</title>
+          <biblScope unit="volume">Tomus I</biblScope>
+          <pubPlace>Petropoli</pubPlace>
+          <publisher>Typis Academiae</publisher>
+          <date when="1728">CIƆ IƆ C C X X V I I I</date>
+          <ptr target="https://archive.org/download/commentariiacade01impe/commentariiacade01impe_bw.pdf"/>
+          <note>Экземпляр из библиотеки Британского музея (Natural History), Лондон.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Электронное научное издание «Commentarii Academiae Scientiarum Imperialis Petropolitanae: Editio Digitalis».</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Текст приведён в исправленном после OCR виде; оригинальные лигатуры раскрыты.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="la">Latin</language>
+        <language ident="ru">Russian</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term type="added">history of science</term>
+          <term type="added">Russian Academy of Sciences</term>
+          <term type="added">scientific journal</term>
+          <term type="added">18th century</term>
+          <term type="added">Petropolis</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="preface">
+        <p>NON dubito, quin Societatis nostrae Commentarii, cum ad exteras nationes pervenerint, desiderium in illis excitaturi sint, penitius cognoscendae huius ipsius Congregationis, et sane interest eruditorum, praesertim qui communia nobiscum studia colunt, ut non solum sciant, quid apud alias gentes novi inventum sit, et quae incrementa ipsae artes ceperint, sed etiam intelligant, quo numero et loco sint illi, qui has artes profitentur atque exercent, nobis vero favorem ac beneficia Augustorum, quibus convocati, et in hunc diem excepti nutritique sumus, silere, nisi ingratis, non licet.</p>
+
+        <p>PETRUS I. Russorum Imperator cum per varias Europae regiones iret, in quibusdam vero etiam subsisteret diutius, ita ubique versatus est, ut quidquid usquam optimum esset, id animo comprehenderet atque in civium suorum usum conservaret, consilio laudabili, successu admirando. In Britannia et Belgio, non modo quae ad instruendam classem, bellumque navale administrandum pertinerent, solicite perspexit ac tenuit, sed prima rei nauticae rudimenta artemque naves et gubernandi et extruendi didicit, sed didicit ea solertia eaque laboris patientia, quae fidem apud posteros superabit. In Germania haud dubie complura ad usum belli et emendationem disciplinae militaris utilia observavit, quae in Russiam transferret. In Gallia copia rerum et ingenio atque humanitate incolarum mirum in modum delectatus est, occurrentibus veluti eruditis atque invicem certantibus, ut bonarum artium studia Hospiti commendarent: Academiam vero Parisinam, perspecta eiusdem utilitate meritisque Academicorum, ita dilexit, ut insolito quidem sed memorabili exemplo isti Societati nomen daret. Non enim a Maiestate sua alienum putavit, in eorum collegium adoptari, quorum opera atque vigiliis, pacis bellique artes ab ignorantia pristinorum saeculorum vindicantur, et naturae scientia, qua nihil pulchrius, nihil excellentius humanum ingenium novit, his nostris temporibus incredibiliter aucta atque perfecta est.</p>
+
+        <p>Cum ad suos rediisset Petrus M. epistola ad Academicos Parisinos data (quae publice extat) se etiam ad diligentis Academici laudem contendere affirmabat, et praeter descriptionem Caspii maris plura communicaturum non indigna iudicio et industria Academicorum pollicebatur. Postea vero quam bellum difficile et pertinax memorabili ac gloriosa pace composuerat, ad nutriendas excolendasque in regnis suis artes praecipue curam intendit, et consilium condendae Petropoli Academiae, quod iamdiu presserat, exequendum duxit. Fuit ille quidem ita de salute ac fama gentis suae solicitus, ut nihil domi omitteret, quod, sive ad extruendam urbem suo nomine dignam, sive ad classem navium amplissimam et cum instructissimis quibusque comparandam requireretur, sed multo magis armis requiescentibus imitandam putavit illustrem Gallorum, quam paullo ante diximus, Academiam, et cum minime ignoraret, quantis difficultatibus obnoxium esset negotium, tantum abest, ut a proposito desisteret, ut potius, quae erant obstacula mirabili benignitate expugnaret. Iam litterae ad exteros cum mandato Imperatoris mittebantur, iam responsa adventabant, cum inopinata morte Petrus terris eripitur. Huius fati nuncio quamvis valde perturbarentur, qui se itineri paraverant, CATHARINAE AUGUSTAE auctoritate mox confirmati sunt, acceptisque amplissimis privilegiis Petropolin confessi plerique eorum, quorum nomina in titulis speciminum exstant, praeter Ioannem Simonem Beckensteinium, Ioannem Georgium Leutmannum et Michaelem Burgerum, qui postremi advenerunt. Nicolaus Bernoullius et Michael Burgerus, vertente adhuc anno, diem suum obierunt, de quorum vitis et meritis alias dicemus.</p>
+
+        <p>Praeter hos viri quidam celeberrimi in exteris terris degentes ad Societatem nostram accesserunt, quos honoris causa nominamus, eo ordine, quo in Academiam cooptati sunt,</p>
+
+        <p>Christianus Wolfius, Marpurgi,<br/>
+        Ioannes Bernoullius, Basileae,<br/>
+        Marchio Ioannes Polenius, Patavii<br/>
+        et Petrus Antonius Michelottus, Venetiis.</p>
+
+        <p>Industria eorum, qui in hanc Societatem convenerunt, tripartita est, aliis Mathesin, aliis Physicam, aliis denique Humanitatis studia colentibus, eo ordine atque lege, ut quilibet in se receperit, non solum quotidie una hora eam artem, quam callet, publice docere atque in eadem duos iuvenes sibi commissos instituere privatim, verum etiam eiusdem artis suae epitomen, quae discentium studiis inserviat, aut aliquod insigne opusculum conscribere, suoque ingenio et solertia scientiae fines promovere. Idcirco pauci Academicorum, qui iam sub aestatem anni CIƆ IƆ CC XXV accesserunt, privatos conventus inchoarunt, in quibus, quae domi quisque elaboraverat, praelegit, ut collegarum sententias exploraret, quae consultationes aucto deinde Academicorum numero bis in hebdomade continuatae, in hoc, quod nunc publicamus, et alterum, cuius impressio maturabitur, volumen succreverunt.</p>
+
+        <p>Cum vero haec Societas ab aliis, quae in Europa florent, eo differat, quod in istis indigenae plerique, in hac nostra exteri fere omnes reperiantur, illos saepe privata industria in Societatem coeuntes Regis auctoritas confirmaverit, has sola Imperatoris Maiestas sustineat, aequum erat providere, ne quid iis, ad commoditatem vitae deesset. Igitur et stipendia et subsidia studiorum, de quibus pacti erant Academici, liberaliter exhibita fuerunt. Accessit PETRI I. edictum, quo Academiae reditus perpetuo confirmantur.</p>
+
+        <p>Qua de causa speramus fore, ut Academici, processu temporis et maiora et utiliora Russicae genti producant, si Imperator, qua coepit clementia, bonas artes tueatur, Avique destinata perficiat. Verum quando ipse maioribus curis distinetur, dum tanti imperii gubernacula capessit, ut tam diversas et per maximam partem Europae Asiaeque diffusas nationes sive in officio contineat, sive a vicinorum iniuriis defendat, rogamus atque obtestamur, virum immortalibus in Russiam meritis illustrem, Imperii Russici Procancellarium Baronem HENRICUM de OSTERMANN, ut ad tam multa, quibus Academicos sibi obligavit, beneficia hoc maximum addat, et quemadmodum AUGUSTO praecipue affectum atque amorem erga eruditos viros excitavit, eundem pro sua summa prudentia et gratia apud Imperatorem conservare atque augere velit.</p>
+
+        <p>Christianus Goldbach.</p>
+      </div>
+    </body>
+  </text>
+</TEI>
