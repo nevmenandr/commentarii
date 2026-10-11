@@ -54,7 +54,7 @@ REPO_ROOT = Path(__file__).resolve().parent.parent   # .../commentarii
 OUTPUT_DIR = REPO_ROOT / "docs" / "articles"          # docs/articles/
 
 # Пути внутри HTML-файлов (относительно docs/articles/*.html)
-XML_RELATIVE_PATH = "../../xml/tomus1"   # → commentarii/xml/tomus1/
+XML_RELATIVE_PATH = "../xml/tomus1"   # → commentarii/xml/tomus1/
 CSS_RELATIVE_PATH = "../style.css"       # → docs/style.css
 JS_RELATIVE_PATH = "../CETEI.js"         # → docs/CETEI.js
 
