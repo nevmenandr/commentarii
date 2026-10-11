@@ -85,6 +85,9 @@
 
 Последующие тома добавляются по мере обработки.
 
+Вот обновлённая структура репозитория с учётом `docs/`, `src/` и генератора:
+
+
 ## Структура репозитория
 
 ```
@@ -92,19 +95,44 @@ commentarii/
 ├── README.md
 ├── LICENSE
 ├── CITATION.cff
-├── xml/
-│   ├── commentarii.xml          # Контейнер всего издания
-│   ├── tomus1/
-│   │   ├── tomus1.xml           # Контейнер Тома I
-│   │   ├── tomus1_titulus.xml   # Титульный лист
-│   │   ├── tomus1_dedicatio.xml # Посвящение
-│   │   ├── tomus1_praefatio.xml # Предисловие
-│   │   └── ...                  # Статьи Тома I
-│   └── ...
-├── images/
-│   └── tomus1/                  # Изображения со страниц
-└── docs/                        # GitHub Pages
+│
+├── xml/                              # TEI-файлы издания
+│   ├── commentarii.xml               # Контейнер всего издания
+│   └── tomus1/
+│       ├── tomus1.xml                # Контейнер Тома I
+│       ├── tomus1_titulus.xml        # Титульный лист
+│       ├── tomus1_dedicatio.xml      # Посвящение
+│       ├── tomus1_praefatio.xml      # Предисловие
+│       ├── tomus1_index.xml          # Оглавление тома
+│       ├── tomus1_classis1_titulus.xml  # Титул раздела Mathematica
+│       ├── tomus1_classis2_titulus.xml  # Титул раздела Physica
+│       └── ...                       # Статьи Тома I
+│
+├── images/                           # Изображения
+│   └── tomus1/                       # Иллюстрации и рисунки Тома I
+│
+├── src/                              # Служебные скрипты
+│   ├── generate_article_pages.py     # Генератор HTML-обёрток для статей
+│   ├── validate_tei.py               # Валидация TEI-файлов по схеме (RelaxNG/XSD)
+│   ├── check_refs.py                 # Проверка ссылок <ref target="#..."> на xml:id
+│   ├── check_wellformed.py           # Быстрая проверка well-formedness XML
+│   └── stats.py                      # Статистика по TEI-файлам издания
+│
+└── docs/                             # GitHub Pages
+    ├── index.html                    # Главная страница издания
+    ├── catalogue.html                # Оглавление Тома I
+    ├── style.css                     # Оформление сайта и TEI-элементов
+    ├── CETEI.js                      # Библиотека CETEIcean
+    └── articles/                     # HTML-обёртки для статей
+        ├── tomus1_titulus.html
+        ├── tomus1_dedicatio.html
+        ├── tomus1_praefatio.html
+        ├── tomus1_index.html
+        ├── hermann_de_mensura_virium.html
+        ├── bulfinger_de_viribus_corpori_moto.html
+        └── ...                       # По одному HTML на каждую статью
 ```
+
 
 ## Участие и обратная связь
 

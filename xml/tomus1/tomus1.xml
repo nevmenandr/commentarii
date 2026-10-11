@@ -72,6 +72,10 @@
   <xi:include href="observationes_anatomicae.xml"/>
 
   <!-- IN CLASSE HISTORICA -->
+  <!-- Титульный лист раздела: Classis Tertia continens Historica et Critica -->
+  <xi:include href="tomus1_classis3_titulus.xml"/>
+  
+  <!-- Статьи раздела Historica et Critica -->
   <xi:include href="bayer_de_origine_scytharum.xml"/>
   <xi:include href="bayer_de_situ_scythiae.xml"/>
   <xi:include href="bayer_de_muro_caucaseo.xml"/>

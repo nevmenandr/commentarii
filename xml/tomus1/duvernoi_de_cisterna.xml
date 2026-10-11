@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="la">Catopardi, Phocae et Elephanti Cisterna et Canalis Thoracicus, primum detectus</title>
+        <title xml:lang="ru">Грудной проток и цистерна катопарда, тюленя и слона, впервые обнаруженные</title>
+        <author>
+          <persName>
+            <forename>Ioannes Georgius</forename>
+            <surname>Du Vernoi</surname>
+            <addName type="latin" xml:lang="la">Io. Georgius Du Vernoi</addName>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <forename>Борис</forename>
+            <surname>Орехов</surname>
+            <addName type="latin" xml:lang="la">Boris Nuceus</addName>
+            <addName type="english" xml:lang="en">Boris Orekhov</addName>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Борис Орехов (Boris Nuceus / Boris Orekhov)</publisher>
+        <affiliation xml:lang="ru">Институт русской литературы (Пушкинский Дом) Российской академии наук</affiliation>
+        <affiliation xml:lang="la">Institutum Litterarum Russicarum (Domus Puskiniana) Academiae Scientiarum Russicae</affiliation>
+        <address>
+          <email>nevmenandr@gmail.com</email>
+        </address>
+        <ptr target="https://github.com/nevmenandr/commentarii"/>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Commentarii Academiae Scientiarum Imperialis Petropolitanae</title>
+          <biblScope unit="volume">Tomus I</biblScope>
+          <biblScope unit="page">342-350</biblScope>
+          <pubPlace>Petropoli</pubPlace>
+          <publisher>Typis Academiae</publisher>
+          <date when="1728">CIƆ IƆ C C X X V I I I</date>
+          <ptr target="https://archive.org/download/commentariiacade01impe/commentariiacade01impe_bw.pdf"/>
+          <note>Экземпляр из библиотеки Британского музея (Natural History), Лондон.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Электронное научное издание «Commentarii Academiae Scientiarum Imperialis Petropolitanae: Editio Digitalis».</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Текст приведён в исправленном после OCR виде. В оригинале используется долгая s (ſ, U+017F); в настоящем издании она передана как обычная s.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="la">Latin</language>
+        <language ident="ru">Russian</language>
+      </langUsage>
+      <textClass>
+        <classCode scheme="internal">physica</classCode>
+        <keywords>
+          <term type="added">anatomy</term>
+          <term type="added">comparative anatomy</term>
+          <term type="added">thoracic duct</term>
+          <term type="added">cisterna chyli</term>
+          <term type="added">elephant</term>
+          <term type="added">seal</term>
+          <term type="added">18th century medicine</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="article">
+        <head>CATOPARDI, PHOCAE &amp; ELEPHANTI CISTERNA &amp; CANALIS THORACICUS, primum detectus a Io. Georgio Du Vernoi.</head>
+
+        <p>Canis, equus, lupus, leo, lynx, felis odorata &amp; non odorata, cuniculus, porcus, erinaceus, vitulus adeoque undecim solummodo animantium genera eo cum successu incisa sunt, ut viarum chyliferarum conspectus in iis aliquando oblatus sit. Ex hisce vero non omnes, sed paucae solummodo delineatae; aliae neglectae uti ex historia animalium abunde patet. Propterea differentiae viarum chyliferarum in variis animantium speciebus notitiam perexiguam nos tenere fatendum est. Nemo interea scire potest, in quibusnam speciebus canalis thoracicus latus dextrum potius quam sinistrum vel utrumque simul occupet? Num eius insertio contraria sit? Num chylus alia via quam per thoracem in sanguinem perveniat, &amp; quae forte aliae sunt innumerae proprietates circa huncce chyli transitum observandae oculove minus indifferenti considerandae. Itaque quum in Elephanto chylus haud diversa ratione quam in pennatorum genere sine ope ductus thoracici ad massam sanguineam contendit; quum in Phoca canalis thoracicus sub forma arcus offertur; quum denique singularem in Catopardo huius * conformationem deprehendimus: magna sane suspicio est, in caeteris quoque animantibus magnum circa vias chyliferas discrimen a conditore animantium constitutum esse.</p>
+
+        <p>* Anno 1727. demum instituta fuit Anatome Elephantis, cuius ductus thoracicus aptiorem hic locum obtinere visus est.</p>
+
+        <p>Quaelibet animantia, quae tantum non subtilitate sua visus aciem effugiunt, quocunque morbo ac tempore defuncta ad hancce disquisitionem adhiberi licet, sicuti tribus hisce exemplis comprobavimus.</p>
+
+        <p>Prima dissectio fuit cuiusdam fere in vivario SUAE IMP. MAI. defunctae, a Parisiensibus Chatpard. vocatae; vid. Memoires pour servir a l'histoire des Animaux. Raio Catuspardus seu Catus montanus Americanor. Synops. animal. quadrup. pag. 169. In hacce dissectione praeter vias chyliferas quaedam sponte oblata sunt, quae ad perficiendam magis ornandamve huius quadrupedis historiam, adeoque pro supplemento ad laudatam Parisiensium descriptionem conferre visa sunt.</p>
+
+        <p>Effigiem felinam aut lyncam, caput rotundum, rostrum breve, auriculas felinas, duos praelongos dentes caninos in utraque mandibula, sex incisores qui in superiore maxilla crassiores sunt, totidem molares in inferiore &amp; octo in superiore, quorum duo utrinque positi vix apparent, digitos denique in singulis pedibus quaternos unguibus cinereo aduncis instructos obtinet, magnitudine lync em aut vulpeculam aequans. Quem mensi sunt Parisienses, uno pollice altitudinis &amp; dimidio pede longitudinis nostro cedit. Cauda felinae similis est, cum unius pedis longitudine &amp; trium pollicum peripheria. Pellis maculosa est &amp; tricolor ex pilis flavescentibus nigris &amp; albis, non asperis neque longis, picturam mixturamve macularum admirabilem efficientibus. Dorfi maculae nigrae &amp; flavescentes, ad ventris latera albae &amp; flavae, in ventre partim flavae &amp; nigrescentes, quales etiam in pedibus conspicuae sunt. Figura macularum veluti in Tigride oblonga seu virgata, quo charactere haec fera aeque ac Tigris a Pantheris differt. In medio dorfi macula una prae aliis notabilior est instar fasciae in longum protensa, quaedam minus longae sunt uti in ventris lateribus aliae minores &amp; breviores, figurae ovalis, maculis prioribus inclusae, quatuor in cervice, quarum duae mediae serpentum instar flexuosae prope occiput ad invicem inclinatae mox in duo cornua figurae V terminantur duae aliae exteriores pariter flexuosae, posterius ad radicem auricularum terminantur: eo loco quo definunt, duae tenues fasciolae inter duas auriculas usque ad palpebrae superioris medium protendunt relicto vacuo seu area in vertice plurimis punctis nigricantibus seu maculis conspersa. Prope angulum oculi exteriorem, duae utrinque fasciolae incipiunt, per medium genae oblique sub auribus descendentes invicemque coeuntes. Cauda maculosa ex annulis imperfectis exteriore seu superiore parte flavis nigrisve, inferiore vero canis nigrisve pilis ornata. Denique notandum est, non solum mystaci sed etiam superciliis genisve infixas esse setas partim albas partim nigras easque valde rigidas, pellemque fortem exspirare odorem.</p>
+
+        <p>Non licuit in nostro similem imperfectionem seu defectum deprehendere, qui in Catopardo Parisiensibus sotto conspicuus erat, quique variis praebuit ansam ratiociniis puta utriusque testiculi &amp; valorum praeparantium deferentiumve defectum absque ullo apparente castrationis signo. Excepto thymo, qui in utroque deficere visus est, nec non veiculis spermaticis glandulisque sublingualibus, omnium partium apparatu bene instructus erat. Praeter penem vagina sua inclusum sed admodum gracilem, testiculos duos bursa continebat avellanam aequantes, una cum aparastatis, ductibus deferentibus in prostatae corpus definentibus arteriisque &amp; venis spermaticis, quae propter suam exilitatem aegre inveniri possunt. Quod reliquas partes attinet, nimirum ossa, musculos, caput, pectus cum inclusis visceribus, ea fere eadem sunt cum iis, quae partim in laudata descriptione, partim in descriptionibus hyaenae odoriferae seu catizybethici * iam tradita sunt. De exquisito huius animalis odoratu suspicionem facit, ampla turbinatorum ossium ossisque cribrosi superficies, item sinuum frontalium numerus auctus. De acie visus, punctum nigricans in fundo choroidis, quod in lyncce pariter observatum est, nec non undecim musculi oculum moventes, una cum magnitudine glandulae lachrymalis. De voracitate &amp; cita dissolutione ciborum testantur dentes, lingua valde aspera &amp; quasi spinosa, aculeis versus gulam inclinatis, glandula magna salivalis musculo oculi deprimenti adeoque orbitae adhaerens, cum ductu excretorio iuxta ultimum dentem molarem hiantem, item duae aliae glandulae conglomeratae in coelo palati conspicuae, quae glandularum sublingualium officio defunguntur, ventriculi pinguedo, crassities nec non foramina varia magnitudinis, quorum nonnulla granum hordei facile, alia vix setam admittunt, qualia in principio duodeni simul conspeximus. Denique pancreatis amplitudo hepatisque seu potius valorum biliariorum singularis fabrica silentio minus praetermittenda est: Nam praeter superficiem hepatis plurimis punctis seu maculis albicantibus respersam, id notatu dignum visum est, quod singuli ductus hepatici in unum ductum haud confluunt, sed distinctis orificiis ductui cystico inoculantur, specie ductuum hepatico-cysticorum. Ductus pancreatici &amp; cholidochi ingressus communis in duodeni cavitatem quatuor digitis infra pylorum, in quo loco tunica intestini in tumorem oblongo-rotundum elevata est, sub qua species receptaculi in conspectum venit, in quo bilis &amp; succus pancreaticus invicem permiseri videntur, antequam in cavum intestini effluant. Vesicula ipsa biliaria sic conformata est, ut duobus septimentis horizontalibus, certa distantia remotis ac in medio foramine pertusis, in duas veluti cameras distincta sit. Postremo Lienis 8. transverso digito longi situs admodum curiosus visus est: Nam in medio ventris sub umbilico quasi fluctuat, sicuti omento ablato, quo instar panni omnia intestina obvolvuntur, luculenter conspeximus.</p>
+
+        <p>* item Leonis, cuius dissectio his sub praelo sidantibus administratur.</p>
+
+        <p>Hisce praemissis Pecquetiani receptaculi &amp; canalis thoracici, prout in hac rarissima fera hae viae nobis oblatae sunt, descriptio accurata suppeditanda est. Tum vasa lymphatica ex imo ventre utrinque ascendentia aa, tum tria 4ve vasa lactea mesenterii bb in fasciculum collecta, ex Asellii pancreate sub arteria mesenterii superiore incedentia, primo in conspectum veniunt iisque cisterna continuata est. Cisterna ipsa c veficula simplex, parva, oblonga, transparens, digiti minimi apicem vix admittens, cuius situs ordinarius est, factoque 9. linearum itinere ductus thoracici formam assumens: Pulchrior ac ornatior tum fabrica tum situ tum insertione minus ordinaria canalis thoracicus ddd visus est. Triquetram laternam referens ex tribus tubulis in medio distantibus ac denuo infra &amp; supra coeuntibus constat, haecque conformatio tribus in locis eee perspicue apparet. Duo hinc efformantur canales ff diversae capacitatis distantia aliquot linearum separati, qui non super dorfi spinam iuxta venam sine pari, sed iuxta latus sinistrum aortae super radices costarum usque ad cordis basin incedunt. Eodem tempore arteriae intercostales modo sub illis modo super illos decurrere observantur. Porro duo praedicti canales tandem coeunt, sicque unus efficitur ductus straminis crassitie, prope arcum aortae incipiens, &amp; iugulum versus sub carotide sinistra ad venam iugularem contendens g. Equidem quum in animantibus hactenus notis canalis thoracicus haud supra altitudinem vasorum axillarium aut subclaviorum ascendat, Catopardo paucisque aliis id proprium est ut ultra memorata vasa subclavia notabiliter excurrat, (huicce vero animantium generi claviculae concessae sunt) maioremque adeo longitudinem acquirat, quippe ad medium fere cervicis perveniens, facta levi inclinatione in venam iugularem internam sinistram definit.</p>
+
+        <head>Phoca.</head>
+
+        <p>Phoca incola est Maris Balthici &amp; Newae fluminis isque in omnibus piscinis Petropolitani ad curiositatem alligatus venalis prost at. Exemplo itaque Eruditorum maris Balthici Academiaeque Parisinae in hac quoque urbe Imperiali vitulus marinus nuper dissectus est. Instituti autem ratio postulat, ut de viis chyliferis a nobis primum detectis solummodo idque quam brevissime agamus, quumque primum amphibium sit in quo receptaculi ductusque Pecqueti demonstratio facta est, nihil obstare videtur, quo minus in aliis huius speciei animantibus tam minoribus quam maioribus, uti sunt equus marinus, rana, lutra, castor &amp;c. easdem vias existere dicamus. 1. Observari meretur inferiorum partium lymphatica ad cisternam contendentia vix ultra pelvim ascendere, quia situs cisternae talis est, ut proxime ad pelvis confinia ortum suum habeat. 2. Cisterna a omni artificio vacua est, ampullam valde amplam oblongamve simulque pellucidam seu hydatiformem referens. 3. Non dispar habitudo canalis huic continuati bbb, siquidem magna simplicitate, unaque bifurcatione in principio, altera prope extremitatem, cum duplici ramo ad venam axillarem contendente praeditus est. Eius porro notabilis amplitudo excedens proportionem corporis; Arcus denique quem efformat, cuiusmodi exemplum antea nunquam visum est, singulari attentione digna sunt.</p>
+
+        <head>Elephantus.</head>
+
+        <p>Inter omnia Animantia terrestria Elephantus ob summum eius pretium molemque corporis maximam cultro anatomico dignissimum aptissimumque censendum est. Quis vero non putet sibi facile esse, absque cognitione inventorum Asellii &amp; Pecqueti, clausis fere oculis, vias chyliferas in tam vasto corpore invenire? nisi dissectiones trium quatuorve Elephantorum a Pecqueti temporibus institutae contrarium edocerent. Causa nulla alia esse potest quam I. quia ad canalis thoracici praeparationem necessaria est talis resolutio, ut Professor non manibus solummodo, sed pedibus &amp; toto suo corpore intra ipsum corpus Elephanti sefe demittat in eoque ceu carcere aut ventre balaenae per aliquot horarum spatium perduret. Atqui sub talibus conditionibus vias chyliferas videre nemo cupit. Altera causa est quod Profectores Elephantorum, eos viis praedictis penitus destitutos esse fortasse credant; Equidem aliquam rationem seu fundamentum huicce opinioni inesse fatendum est: Nam distinguere inter vias Asellianas &amp; Pecquetianas omnino necesse nobis videtur: Etsi incredibile &amp; conceptu arduum sit Animantia dari ductum habentia thoracicum sed vasis lacteis destituta, id tamen certo certissime affirmare possumus quacunque arte diligentia &amp; praeparatione adhibita, ea per integrum octiduum frustra quaesita fuisse. Si quis de nostra diligentia potius quam de naturae defectu dubitet obiiciens, vasa lactea non tam defuisse quam latuisse, is consideret nihil fuisse quod eorum conspectum difficilem nobis reddere posset: Non earum parvitas, siquidem in Cuniculis &amp; Erinaceis Elephanto millies magnitudine inferioribus ea conspicua sunt: Non pinguedo neque conciidentia: Talia enim obstacula non amplius hodie curamus. Verum enimvero, ut minor hallucinationis suspicio supersit, illud etiam probe attendendum est, in toto mesenterio quod admodum amplum &amp; vastum erat, non solum vasa lactea sed etiam glandulas mesaraicas, laetorum perpetuas in aliis animantibus comites ita defuisse, ut ne vestigium earum appareret.</p>
+
+        <p>Unius hac vice canalis thoracici eique appensorum lymphae ductuum carotidem hominis fere aequantium exsistentiam certo statuere possumus: Nam quod receptaculum attinet, ambiguum est quid proprie hocce nomine appellari debeat, si quidem eo in loco ubi ordinario cisterna adesse solet, nihil praeter quatuor canales aaaa ductui thoracico appensos invenire &amp; observare licet. Praedictis ductibus canalis thoracicus bbbb simplex sed magnitudine sua Elephanto respondens continuatus est. Is ductu simplici absque divisione &amp; bifurcationibus magnamque rectitudinem observans, super spinam dorsalem vena sine pari &amp; aorta stipatus incedit. Postquam ad 3. dorfi vertebram pervenit, notabilem dilatationem c duos pollices longam in eo observavimus, cuius causa proinde seu naturalis sive praeternaturalis incerta est. Canalis porro in eo loco paulisper a spina dorfi recedens obliquo incessu summum thoracis iugulumve petit, tandemque in latere colli sinistro duos in ramos d1 breves dispescitur, qui ad venae jugularis cum axillari confluxum definere visi sunt. Tractus itaque seu longitudo canalis thoracici fere 4. ped. diameter 4. lin. aequat. Postremo haud praetermittendum est in toto eius tractu nullas nobis valvulas oblatas fuisse, etsi amplitudo canalis tanta fuerit, ut digitum minorem facile admitteret. Vice versa substantia ductus post detractam pinguedinem eam crassitiem obtinebat, quae ordinario in vena jugulari hominis observari solet.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

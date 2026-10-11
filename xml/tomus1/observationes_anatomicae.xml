@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="la">Observationes Anatomicae</title>
+        <title xml:lang="ru">Анатомические наблюдения</title>
+        <editor>
+          <persName>
+            <forename>Борис</forename>
+            <surname>Орехов</surname>
+            <addName type="latin" xml:lang="la">Boris Nuceus</addName>
+            <addName type="english" xml:lang="en">Boris Orekhov</addName>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Борис Орехов (Boris Nuceus / Boris Orekhov)</publisher>
+        <affiliation xml:lang="ru">Институт русской литературы (Пушкинский Дом) Российской академии наук</affiliation>
+        <affiliation xml:lang="la">Institutum Litterarum Russicarum (Domus Puskiniana) Academiae Scientiarum Russicae</affiliation>
+        <address>
+          <email>nevmenandr@gmail.com</email>
+        </address>
+        <ptr target="https://github.com/nevmenandr/commentarii"/>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Commentarii Academiae Scientiarum Imperialis Petropolitanae</title>
+          <biblScope unit="volume">Tomus I</biblScope>
+          <biblScope unit="page">379-386</biblScope>
+          <pubPlace>Petropoli</pubPlace>
+          <publisher>Typis Academiae</publisher>
+          <date when="1728">CIƆ IƆ C C X X V I I I</date>
+          <ptr target="https://archive.org/download/commentariiacade01impe/commentariiacade01impe_bw.pdf"/>
+          <note>Экземпляр из библиотеки Британского музея (Natural History), Лондон.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Электронное научное издание «Commentarii Academiae Scientiarum Imperialis Petropolitanae: Editio Digitalis».</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Текст приведён в исправленном после OCR виде. В оригинале используется долгая s (ſ, U+017F); в настоящем издании она передана как обычная s.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="la">Latin</language>
+        <language ident="ru">Russian</language>
+      </langUsage>
+      <textClass>
+        <classCode scheme="internal">physica</classCode>
+        <keywords>
+          <term type="added">anatomy</term>
+          <term type="added">pathology</term>
+          <term type="added">hydatids</term>
+          <term type="added">splenectomy</term>
+          <term type="added">hemorrhage</term>
+          <term type="added">18th century medicine</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="article">
+        <head>OBSERVATIONES ANATOMICAE.</head>
+
+        <head>I.</head>
+
+        <p>Globuli cavi, pellucidi, qui unionum forma visceribus appensi sunt, quoad eorum producendi modum a Viris eruditis excogitatum, nova hodie difficultate laborare videntur: Nam Tumores vesiculosi. hydatides hodie ostenduntur, quae non in superficie solummodo sed in profundo partium generatae sunt, uti autopsia testatum facit. Hae in cavitate quadam cuiuslibet visceris aggregatae, serum continentes purum, pedunculis modo annexae modo liberae jacent. vid. Ruyschius. Courtial. Journ. des Sc. An. 1697. fol. 442. 457. Histor. Reg. Acad. Paris. fol. 454. Mem. de l'Acad. Roi. des Sc. A. 1704. Jam manifestum est in hacce specie notionem glandularum ac lymphaeductum paulo infelicius applicari, sicuti rationes tum ex partium structura tum ex obstructionibus artificialibus desumtae demonstrant. Omnium vero gravissima difficultas illa est, quae in certa specie hydatidum nobis oblata est, cuius nullum exemplum forte exstat. Hae magno numero &amp; sub varia magnitudine amplo sacco inclusae sunt, omni nexu solutae &amp; liberae, nullo pediculo praeditae nec sibi invicem cohaerentes, &amp; (quod attentione dignissimum est) in sua cavitate alias vesiculas minores, quae similiter cavae aliisque vesiculis exiguis foetae sunt, continentes. De hisce seqq. historia legi meretur.</p>
+
+        <p>Exeunte Anno 1726. in hepate viri sumo carbonum exstincti, cuius reliqua viscera nullo sensibili vitio corrupta erant, prope fundum vesiculae fellae magnus eminebat tumor globosus, cuius alterum hemisphaerium substantiae hepatis firmiter incorporatum erat. Post eius separationem, antequam incideretur, lanci impositus est, isque unam libram &amp; quatuor drachmas pendebat, ex cuius proinde mollitie &amp; albo colore magnam humoris quantitatem in eo collectam esse visum est. Incisione facta rem secus se habere humoribusque vacuum tumorem esse admirati sumus. Tota eius cavitas ab imo usque ad summum incredibili numero vesicularum compressarum &amp; pelliculas uvarum vacuas mentientium infarcta erat, hancque vesicularum congeriem unus saccus globosus cute admodum dura &amp; crassa eaque exterius laevi &amp; polita, interius vero aspera constans, septemque drachmas pendens continebat. Eo aperto odore omni vacuum deprehendimus, etsi vesiculae colorem viridescentem obtinerent. Quamquam earum prodigiosa quantitas esset, sui omnes juris hoc est liberae &amp; solutae absque ulla sive cum sacco sive inter se invicem connexione, mutuo tantum sefe exosculantes &amp; comprimentes jacebant, verbo, exactissime pelliculas uvarum vacuas tum figura tum colore herbaceo seu viridescente aemulabantur. Substantia pellicularum minime fibrosa seu organica, sed concretum quoddam gelatinosum esse videbatur. Quoad magnitudinem, sub triplici differentia oblatae sint nempe maiorum, minorum &amp; minutissimarum, quae invicem permixtae acervo eodem comprehendebantur: Ovum nonnullae columbinum, aliae fabam, aliae denique pisum aequabant.</p>
+
+        <p>Exteriore harum vesicularum dispositione sic perlustrata ad interioris quoque cavitatis contemplationem devenire necesse fuit, successu minime poenitendo, siquidem in phaenomeni extraordinarii &amp; forte inauditi cognitionem praeter spem incidimus. Postquam vesicularum nonnullarum expansio seu insufflatio immisso aere facta est lucique hae exponerentur, aliquid in earum cavo quod flatu sefe movebat, includi nobis visum est: Vesiculis igitur apertis, nihil aliud quam minores vesiculae ab omni nexu liberae, inaequalis magnitudinis, minime inter se cohaerentes, in vacuo fluitantes, numero ternario quaternarive, magna cum laetitia spectatorium oblatae sunt. Caeterum tum colore, tum figura, tum substantia, a continente vesicula quae ovarii vices tenebat, haud absimiles erant. Postremo ne quicquam intactum relinqueretur, cupido incessit eas omnes vesiculas toto acervo comprehensas enumerandi earumque summam extrahendi. Itaque sine respectu magnitudinis, portio harum vesicularum permixtarum usque ad unius drachmae pondus lanci imposita est. Quae numeratae praeter minores earum cavo contentas septuagenarium numerum cum uno aut altero completum, efficiebant: Ex quo vesicularum summa, quae quidem ultra 9000. ascendit, facile colligi potest.</p>
+
+        <p>Hoc certe phaenomenum etsi solutu difficile, ex bullis humorum vitiosorum magis quam fragmentis organicarum partium originem suam trahere verosimile est.</p>
+
+        <head>II.</head>
+
+        <p>Eousque quorundam hominum stultitia excedit, ut <hi rend="italic">Ruprrio Expleini</hi>, hoc est, sine liene vivere pro summo bono aliquando teneant. Lienis. Idcirco in generis humani perniciem quaedam operatio, transfusoria funestior inventa est quam Excisionem lienis vocant. Culter ligneus super hypochondrium applicatur, quem una manu suspensum tenet artifex, deinde malleum altera manu prehendit, ac cultrum magna vi, unaque cum ipso lienem, uti fabulatur, percutit. Quo facinore perpetrato, non solum disruptionem lienis ab ictu factam esse impudenter affirmat, sed talia etiam exhibet remedia quae vim habent totam massam lienis dissolvendi eamque sic comminutam modo per vomitum modo per alvum vel quacunque via alia expellendi. De hacce invisibili excisione lienis vid. Ioann. des Savans 1672. Quum in hocce negotio non de are solummodo, sed de vita hominum certo certius agitur, periculum saltem indicandum est: Etsi enim tales impostores disruptionem lienis neque intendant neque forte possibilem aut noxiam esse putent, lienum tamen ex levi causa fractorum mortemque inferentium exempla contrarium demonstrant, laterisque percussiones periculo plenas evidenter significant. In hunc modum Vir juvenis, pugnis cum altero sefe exercens in hac urbe subito mortuus est: Vix enim cultro incisis abdominis tegumentis quae vehementer distenta erant, tanta copia cruoris exiit, ut pelves omnes praesentes vix sufficerent, unde venter statim detumuit; Lienem in medio ruptum, ea parte qua stomacho obversus est, hocque proinde vulnere haemorrhagiam excitatam fuisse perspicue observavimus.</p>
+
+        <head>III.</head>
+
+        <p>Sub eodem tempore, percussionis Abdominis infelicem exitum alia dissectio foeminae a milite percussae &amp; subito mortuae nobis exposuit. Postquam enim totum abdomen sanguine effuso oppletum esset, ex omenti haemorrhagia hanc occubuisse ex hoc uno constabat, quia inter folia omenti parvi grumuli intercepti &amp; inclusi erant. Caeterum in rarissima hacce laesione, illud forte in considerationem trahendum est, quod praeter naturae institutum, omentum fundo uteri connatum esset. vid. Ruysch. Obs. Anat. Chirurg. LXIII. &amp; LXXXIII.</p>
+
+        <head>IV.</head>
+
+        <p>Inter mortes subitas hominum insoles exemplum Haemorrhagia occulta Stomachi se sistit, non ea de causa lethalis, quia sanguis extra nimium in modum stomachi. prorumpit; sed quia stomachus citius sanguinis copia opprimitur &amp; suffocatur quam eius sive per os sive per intestina effluxus excretiove fieri potest. Eo autem modo homo sexagenarius enecatus est improviso absque ulla suspicione causae in stomacho latentis, hoc est, sine vomitu, sine dejectionibus cruentis. Tota cavitas ventriculi uno praegrandi &amp; formam eius referente grumo eum in modum obsessa &amp; oppleta erat, ut spatium nullum vacuum inter pylorum &amp; sinistrum orificium relinqueretur. Caeterum praedictam massam nihil aliud esse quam purum sanguinis grumum absque alterius substantiae permixtione tum visu tum experimento cognovimus. In stomacho mirum dictu! perfectae integritatis: In Liene e contra putredinis notae deprehensae sunt.</p>
+
+        <head>V.</head>
+
+        <p>Notas seu impressiones fulministam externas quam internas in variis regionibus annotatas, forte non omnino contemnere licet, ut natura huius stupendi phaenomeni paulo clarius elucescat: Abdominis &amp; membri genitalis inflatio: Cutis lateris sinistri in durum corium igne torrefactum commutata, in reliquis partibus purpurea, in collo rubra: Sanguinis ex aure dextra stillicidium: In summo vertice vulnus lacerum absque cranii laesione, non penetrans, 2. lineas longum &amp; 1 1/2 latum, externe conspectui oblata sunt. Interne praeter copiam sanguinis insolita in cranii apertione erumpentem, sanguis in durae matris sinubus instar aquae fluidus, item in ventriculis &amp; basi cerebri, inque vertebrarum theca seri magna copia inclusa apparuit. Pectore aperto uterque Pulmo mediocriter collapsus nigricansque; Cordis ventriculi, auriculae, vasaque communia sanguine vacua. Separatis denique abdominis tegumentis intestina una cum stomacho prae inflatione magno impetu proiecta sunt. Hepar, Lien ac Renes vitio carebant: Sed vesica tum fellea tum urinaria vacuae &amp; collapsae, cum ureteribus retentione urinae valde distentis.</p>
+
+        <p>Haecce in viro super fluvium navigante fulmineque perempto observata fuere.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

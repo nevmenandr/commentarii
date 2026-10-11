@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="la">De Variis Barometris Sensibilioribus, et eorum Nova Specie, ac Usibus</title>
+        <title xml:lang="ru">О различных более чувствительных барометрах, их новом виде и применениях</title>
+        <author>
+          <persName>
+            <forename>Georgius Bernhardus</forename>
+            <surname>Bülffingerus</surname>
+            <addName type="latin" xml:lang="la">G. B. Bülffingerus</addName>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <forename>Борис</forename>
+            <surname>Орехов</surname>
+            <addName type="latin" xml:lang="la">Boris Nuceus</addName>
+            <addName type="english" xml:lang="en">Boris Orekhov</addName>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Борис Орехов (Boris Nuceus / Boris Orekhov)</publisher>
+        <affiliation xml:lang="ru">Институт русской литературы (Пушкинский Дом) Российской академии наук</affiliation>
+        <affiliation xml:lang="la">Institutum Litterarum Russicarum (Domus Puskiniana) Academiae Scientiarum Russicae</affiliation>
+        <address>
+          <email>nevmenandr@gmail.com</email>
+        </address>
+        <ptr target="https://github.com/nevmenandr/commentarii"/>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Commentarii Academiae Scientiarum Imperialis Petropolitanae</title>
+          <biblScope unit="volume">Tomus I</biblScope>
+          <biblScope unit="page">317-341</biblScope>
+          <pubPlace>Petropoli</pubPlace>
+          <publisher>Typis Academiae</publisher>
+          <date when="1728">CIƆ IƆ C C X X V I I I</date>
+          <ptr target="https://archive.org/download/commentariiacade01impe/commentariiacade01impe_bw.pdf"/>
+          <note>Экземпляр из библиотеки Британского музея (Natural History), Лондон.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Электронное научное издание «Commentarii Academiae Scientiarum Imperialis Petropolitanae: Editio Digitalis».</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Текст приведён в исправленном после OCR виде. В оригинале используется долгая s (ſ, U+017F); в настоящем издании она передана как обычная s.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="la">Latin</language>
+        <language ident="ru">Russian</language>
+      </langUsage>
+      <textClass>
+        <classCode scheme="internal">physica</classCode>
+        <keywords>
+          <term type="added">barometer</term>
+          <term type="added">meteorology</term>
+          <term type="added">atmospheric pressure</term>
+          <term type="added">thermometry</term>
+          <term type="added">18th century physics</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="article">
+        <head>DE VARIIS BAROMETRIS SENSIBILIORIBUS, ET EORUM NOVA SPECIE, AC USIBUS: Auctore G. B. Bülffingero.</head>
+        <p>M. Aug. 1726.</p>
+
+        <head>Recensio Barometrorum.</head>
+
+        <p>I. Originem Barometrorum &amp; species exposuit Dalencéus singulari libello. Pauca ex illo tempore nova accesserunt, sed aliqua tamen, eaque digna Eruditorum attentione. Praecipua Virorum cura fuit, ut variationes altitudinum fiant sensibiles; huic enim operae incubuerunt Cartesius, Hookius, Hugenius, Amontonius, la Hirius, &amp; Io. Bernoullius. Alterum Amontonii prae reliquis studium fuit, ut ab effectu gravitatis discerneret, quae calori debentur, &amp; liquorum expansioni. Neque exciderunt conatibus viri solertes; praesto sunt varia illorum artificia, alia tamen aliis meliora. Succurrit &amp; mihi aliquod; videamus, utrum id calculum mereatur intelligentium?</p>
+
+        <p>II. Primo dicam de alienis. Refero autem ad duas potissimum classes, quicquid mihi innotuit. Alii sola machinae forma variationes reddere sensibiles laborarunt, alii adhibitis diversae gravitatis specificae liquoribus.</p>
+
+        <p>III. Si pro Mercurio adhiberetur aqua, &amp; tubi fierent triginta tres pedes alti, quales in Collegio Cur. I. C. Sturmi * videntur: esset variationes utique sensibiles multo, quam in Barometris esse solent mercurialibus simplicibus. Verum quis toleranter feret incommodum altitudinis? quis aere aquam purgabit, ut nihil eius ad summitatem avolet? &amp; quis in ordinem rediget extensiones aquae calori debitas? conglaciationem impedire aliquando possumus.</p>
+
+        <p>IV. Qui cum Cartesio tubum ea in parte, qua Mercurius ascendendo &amp; descendendo ludit, ampliorem faciunt, eidemque aquam vel oleum innatare volunt, variationes in strictiori tubo indicatura; non facile effugiunt incommoda aeris suprema occupantis, patiunturque tum ab illo aere, tum ab ipso liquore variationes a calore oriundas, observationemque gravitatis turbaturas. Ostendit utique Io. Poleni, ** repetitis tubi inversionibus, posse praecipuam aeris, ex aqua evolantis, portionem expelli: an universus ita excludi aer possit, nec dixero asseverate, nec negavero. Illud certum est, hoc remedium esse magni faciendum, si quis uti Cartesiano velit Barometro: Eo enim adhibito praeter caloris influxum vix puto superesse alias difficultates sensibiles: irregularitates nimirum a diversa fluidi supra Mercurium altitudine pendentes facile licet ad regulam revocare, &amp; in ipsa graduum scala simul attendere: ut adeo laudem omnino mereatur illa Io. Poleni emendatio.</p>
+
+        <p>V. Evitavit priorum aliquot incommoda duplicando tubos Christianus Hugenius *. Admonuit vero la Hirius ** quae supersint in Hugeniana constructione imperfectiones. Ipse la Hirius eodem duplicationis tuborum artificio, in eum, quem &amp; Hookius *** adhibuerat, modum inflexo, evitavit aut imminuit pleraque superiorum incommoda; mediis ingeniose excogitatis, non tamen ab omni difficultate liberis. Conf. cum ipsius Viri eruditi commentatione allegata Hermannus quoque in Phoron. §. 324. &amp; infra §. 12.</p>
+
+        <p>VI. Duplicavit alio quidem consilio tubos Amontonius, sed ea ipsa methodo sensibiles fecit variationes quoque, &amp; nonnulla priorum incommoda penitus evitavit. Legimus artificium construendi Barometrum, cuius altitudo sit 14 vel 7 tantum pollicum, in ephemeridibus Gallorum *, impletoque intermedio tubo duobus, si placet, liquoribus possumus variationes multo sensibiles reddere, ac in simplici Barometro. Curavi aliqua fieri ab egregio Societatis huius artifice, Luca de Coffa; Neque fefellit spem nostram successus: Sed fatendum est, in ipsa huius Barometri structura expertos nos esse difficultates, quas non facile omnes superabunt; ut adeo non mirer, idem, etsi curiosum &amp; elegans, repetitumque magnis encomiis &amp; peculiari libello ab anonymo Gallo **, passim tamen non innotescere; nec describi in compendiis vulgaribus.</p>
+
+        <p>VII. Ista pertinent ad classem unam. Ex sola Barometrorum figura auxilium alii quaesiverunt, &amp; duplici quidem methodo; alteri maiores Mercurio variationes inducere studuerunt; alteri ordinarias observare saltim accuratius. Illud fecerunt, qui superiorem tubi partem inclinarunt a perpendiculo ad horizontem. Antiquum est artificium, cuius primum inventorem nescio; Invenitur autem propositum ab Anonymo in Transact. Anglic. n. 236. *** describiturque passim ab aliis. Quoniam facile est paratu, &amp; augendo inclinationem potest reddi subinde sensibilius, itaque commendari meretur. Supremam tamen exactitudinem variis intercedentibus impedimentis non assequitur. Inter illa sunt frictiones vitri auctae; cohaesio Mercurii, quae diffluxum eius in tubis angustioribus impedit, in amplioribus irregularem praestat; incommoda caloris per inclinationem sensibiliora &amp;c.</p>
+
+        <p>VIII. Optimum in hoc genere sine dubio illud est, quod Iob. Bernoullio debemus, expositum in Phoronomia Iac. Hermanni §. 324. Constat superne, ubi variationes fiunt altitudinis, vasculum ad libitum ampliore, inferne tubus incurvatur, ut horizonti parallelus excurrat; vel, quod in praxi commodius est, super plano horizontali ad arbitrium reflectitur. Monuerunt Academici Parisini, Ioh. Dom. Cassinum ante complures annos talia molitum esse, sed neglexisse deinceps hanc methodum, quoniam sese aer Mercurio miscuerit in tubo horizontali nonnihil ampliore. vid. Phoron. l. c. p. 180.</p>
+
+        <p>IX. Feci periculum rei, &amp; deprehendi, illam succedere, quando tubi horizontalis diameter lineam non excederet. Metui ab initio frictionum incommoda ob tubi angustiam, sollicitus, ne illae minores variationes sufflaminarent: sed experimento didici, in Barometro probe parato tanta non esse. Quando enim Barometro antea quiescente Mercurii altitudinem visurus ex la Hirii praecepto * illud paululum percusseram, observavi aut nihil aut parum differre loca, in quibus haereat Mercurius ante &amp; post succussionem. Scala variationum in eo, quod primum fieri curavi, est septies maior ordinaria. Artificium meum construendi haec Barometra, quia plurimum differt ab iis, quae proponuntur ab aliis, Iob. Bernoullio apud Hermannum l. c. &amp; Chr. Wolfio in Experimentis Tom. II. §. 33. p. 63. quia simul facile &amp; exactum est, in notis * dabo.</p>
+
+        <p>* Assumatur portio tubi, amplioris 3. digitos longa, &amp; ex uno latere claudatur hermatice, ex altero mediante lampade affigatur tubo cuidam graciliori longitudinis 28. pollicum. Meum quidem instrumentum ex utraque cylindri amplioris parte habet tubum graciliorem. Superiorem vero non esse necessarium facile intelligas. Tubus ita paratus &amp; inversus impleatur Mercurio usque ad altitudinem unius vel duorum pollicum, cautelis iisdem respectu aeris, quae vulgo attendi solent. Hoc facto sumatur tubus novus tantae longitudinis, ut nonnihil superet spatium, quod pro ratione diametri eius &amp; vasis superioris amplioris percurrent in variatione sua Mercurius. Sit autem diameter luminis tubi huius circiter unius lineae. Iungatur hic ope lampadis ad tubum priorem, loco, quo is a Mercurio vacuus est. Ex medio tubi amplioris mensuretur media Mercurii altitudo, v. g. 27. pollicum; atque in hac distantia mediante lampade inflectatur tubus ita, ut pars una sit ad alteram perpendicularis. Inflexa haec pars, quae instrumento debite erecto futura est horizontalis, ne nimium occupet spatium, aut a linea horizontali facile sursum aut deorsum deflectat, in varias iterum inclinari partes potest; quas ope tabulae alicuius plane facile est examinare, &amp;, si quae a plano deflectant, ignis ope reducere. Inverso instrumento Mercurius e tubo ampliori descendens implebit non solum id, quod in tubo verticali supererat, sed partem etiam tubi horizontalis, in quo deinceps ultro citroque movebitur. Illud probe notandum, in iungendis atque inflectendis tubis gracilioribus cavendum esse a nodis &amp; angulis acutioribus, ne augeantur frictionum impedimenta, uti in eiusmodi casu factum memini. Ceterum ex datis tubi amplioris, &amp; graciliorum diametris facile est determinare punctum inflexionis tuborum, &amp; longitudinem tubi horizontalis, ut metus nullus sit, ne Mercurius vel extra horizontalem sursum propellatur ab aere graviori, aut ob leviorem extra tubum horizontalem profluat. Cautionis tamen loco sursum reflexi extremitatem tubi horizontalis ad altitudinem unius pollicis, &amp; contra periculum pulveris supremum apicem denuo deorsum converti.</p>
+
+        <p>X. Exactiores facere observationes, variationum licet in Mercurio aut liquore adhibito non maiorum, studuerunt Rob. Hookius, Hauksbeius, Steph. Gray, &amp; fortasse alii. Illi adhibuerunt pondera, filo circa axem ducto appensa, quorum alterutrum Mercurio incumberet, alterum libere penderet. Axi indiculum affixerunt, qui gradus circuli, vel minores quascunque divisiones in tabula circulari designaret *. Admonuit vero ipse Hookius ** non respondere spei successum, quoniam per saltus indicentur variationes.</p>
+
+        <p>XI. Grayi artificium elegans est, &amp; accuratum, si solerti manu fabreiant machinae *; potest etiam adhiberi, ubicunque observari altitudo Mercurii in aliquo tubo exacte debet: neque aliis premitur incommodis, quam illis, quae in Barometro simplici occurrunt; eo autem ipso abest a perfectione sensibilitatis, quae quaeritur. Quid si minoribus aeris variationibus non obsequatur Barometrum simplex, uti passim eruditi consentiunt? Eo certe in casu destituet spectatores suos machina, alioquin peringeniosa.</p>
+
+        <p>XII. Diximus, quae hactenus eruditi artificia proposuerint, ut, si minus nostra placeant, placeat tamen aliquid ex memoratis. Illud prius admoneri debet, in quo pleraeque omnia conveniant. 1. Omnia hoc habent, ut Mercurii summitas variet; itaque nisi tubus sit perfecte aequabilis (quis autem hoc speret) irregularitates oriuntur a frictione; &amp;, nisi sit perfecte eiusdem amplitudinis, accedunt aliae ob rationem tubi capillaris: Notum enim est, Mercurium non ascendere ad libellam in tubis paulo angustioribus, idque pro ratione diametrorum. Queritur de hoc incommodo non praeter rationem Iurinius **. 2. Omnia patiuntur difficultatem a diversitate ascensus &amp; descensus Mercurii, qui eo casu convexam, hoc concavam induit superficiem; adeoque etsi in lateribus vitri eandem attingat altitudinem, gravitatem Atmospharae eandem tamen non indicat. Miror, id nondum esse compositis exprobratum Barometris. 3. Omnium variationes turbantur a calore &amp; frigore, ob diversas &amp; irregulares liquorum expansiones, atque condensationes. 4. Composita omnia urgentur difficultate cognoscendi diametros tuborum, idque per totam variationis longitudinem. 5. Necessaria succussio * generat oscillationes in compositis minimum aeque incommodas, quam in ipsis simplicibus. Denique 6. difficultates parandi a prioribus omnibus sunt paene inseparabiles.</p>
+
+        <p>XIII. Non soleo difficultates imputare aliorum inventis, nisi methodus mihi succurrat, qua tolli illas vel imminui posse autumo. Ut intelligam, quam prope ad veritatem accedam, aut ab ea absim, accipe scopum, &amp; structuram novi cuiusdam Barometri, quod non ita pridem animo succurrit.</p>
+
+        <head>Scopus et Structura novi Barometri.</head>
+
+        <p>XIV. Mens est, habere Barometrum, quod variationes gravitatis etiam minores indicet; nihil autem inaequalitate incommodi patiatur; nihil a diversitate ascensus &amp; descensus Mercurii; quod expansiones &amp; condensationes a calore &amp; frigore oriundas discernat ab effectu gravitatis; quod non indigeat mensura diametrorum in tubis; in quo oscillationes minimum impedimenti faciant; quod ab exhalatione, putredine, congelatione &amp;c. nihil patiatur; quod paratu non sit difficile; quod denique examen suae exactitudinis secum vehat.</p>
+
+        <p>XV. Pro hoc fine affirmatur Barometrum vulgare simplex recurvum; annotetur in illo locus supremae altitudinis, idque vel ex observatione, si iam tum per aliquot annos facta est; vel ex mensura actuali altitudinis tubi. Attendatur autem, ut non plus Mercurii sit in tubo &amp; vasculum, quam ut ille in parte recurva attingat d. locum tribus minimum lineis inferiorem vasculum b, quando ad summam possibilem altitudinem a ascendit; Potest autem loco altitudinis a assumi quacunque nonnihil maior illa, quam Mercurius ad summum attingit, sic ut altitudo da sit maior paulo omni hactenus observata.</p>
+
+        <p>XVI. Affigatur hic tubus tabulae aeneae, ABCD latitudinis non multo maioris quam est ipse tubus. Dividatur illa incipiendo a linea horizontali cd in pollices &amp; gradus, ductis scil. lineis ad cd parallelis. Excavetur etiam haec tabula, ut tubus eidem quasi immitti possit, non omnino tamen, sed pro sui dimidio, sic ut tubus ubique stringat divisiones ex utroque sui latere in tabula factas.</p>
+
+        <p>XVII. Immergatur tabula cum tubo v. gr. in aquam, donec Mercurius attingat locum a. &amp; notetur, ad quam profunditatem tubus sub aqua mersus sit. Dico, si fiat: uti gravitas Mercurii ad gravitatem aquae, ita altitudo aquae supra lineam cd ad profunditatem Mercurii sub linea a; hanc quartam proportionalem a tota altitudine ac sublatam, relinquere veram Mercurii altitudinem, ad quam dato tempore per Atmosphaerae gravitatem suspensus haeret.</p>
+
+        <p>XVIII. Demonstratio facilis est; elevatur enim Mercurius a pondere Atmosphaerae &amp; aquae incumbentis: detracta igitur altitudine, quae pressioni aquae debetur, residuum aequipollet pressioni aeris. Ne calculis opus sit, dabo facile remedium §. 39.</p>
+
+        <p>XIX. Patet autem, hoc Barometrum esse tanto sensibilius simplici, quanto liquor, cui tubus immergitur, est Mercurio levior specifice. Igitur, etsi non possit in infinitum augeri sensibilitas, potest tamen eousque, ut sufficiat scopo observationum.</p>
+
+        <p>XX. Potest etiam sine alio medio indagari ipsa liquoris specifica ad Mercurium gravitas; quod si enim attenderis, quanta requiratur submersionis profunditas, donec Mercurius elevetur ad altitudinem unius digiti, ratio gravitatum specificarum erit inversa altitudinum memoratarum.</p>
+
+        <p>XXI. Atque ut hoc exacte observari possit, adhibere vitrum licebit convexum, simplex aut duplicatum, cum aut sine filis, affixum tabulae, sic tamen, ut sursum, deorsumque moveri sibi parallelas possit; ita enim fiet, ut videri exactius possit terminus Mercurii in tubo, &amp; illius cum linea tabulae appositae, ad quam examinatur, congruentia. Atque hic usui esse potest artificium Steph. Grayi, superius §. 11. memoratum. Facilior tamen est simplex alicuius lentis convexae usus.</p>
+
+        <p>XXII. Difficile est, cum tabula mergitur in liquore, impedire omnino oscillationes &amp; Mercurii &amp; ipsius liquoris. Duo tamen hic adminiculo esse possunt. Primo optarem, ut tota haec tabula suspenderetur in tubo vitreo satis longo &amp; nonnihil amplo; ut deinceps ope fili, quod circa axem in supremitate tubi positum circumvolvitur, mediante manubrio rotatili &amp; cochlea sine fine, tubus leniter, &amp; sine violentia concussione, aquae immergi successive, aut ex eadem attolli. Ita enim fieret, ut oscillationes essent breviores. Secundo, si periculum in mora non est, licebit exspectare, dum finitae sint; finientur autem citius, quam in Barometris vulgaribus simplicibus, ob resistentiam liquoris in altero crure. Si in mora periculum est, attendantur oscillationes duae pluresve, se invicem insequentes, &amp; pro altitudine vera assumatur medium excursuum. Ita vel nihil vel minimum errabitur, praecipue in aestimanda, &amp; ad Mercurium transferenda altitudine liquoris, e. g. aquae; fac enim in aestimatione altitudinis aquae aberrare te integra linea a vero, reductione absoluta hoc ne duodecimam quidem lineae partem faciet in aestimatione altitudinis Mercurii.</p>
+
+        <p>XXIII. Si cui difficile est, nancisci tubos vitreos, satis &amp; longos &amp; amplos, potest ille ex quacunque materia vas oblongum parare, idemque in anteriori facie tabulis vitreis claudere, ut observari immersiones tubi Mercurialis valeant. Vasculum, vel tubus amplior superne infundibulo, inferne epistomio instrui potest, ut substituere liquorem unum alteri liceat, cum volupe fuerit. Pars autem liquoris tubulo in d b innatans potest siphonis ope extrahi quoties libuerit liquores immutare: Dantur enim siphones, etiam sponte fluentes, quos non ingreditur Mercurius, quibus omnem aquam licet extrahere. Si &amp; hoc difficile est parare vas eiusmodi, potest Barometrum mergi in vase quocunque aqua pleno; &amp; observari submersionis profunditas. Observandum vero ist hoc in casu summitatem a sic assumendam esse, ne mergi illam in experimento profundius sub aquam contingat.</p>
+
+        <p>XXIV. Ex dictis autem concluditur, nullum hic incommodum adesse oriundum a tubi inaequalitate, semper enim elevatur Mercurius ad locum praecise eundem; nullum a diversitate concavitatis &amp; convexitatis supremae superficiei, in descensu &amp; ascensu Mercurii, semper enim ascendit &amp; superficiem acquirit convexam; nullum ab exhalatione liquoris, semper enim adest, quantum sufficit; nullum a putredine, potest enim liquor antiquus commutari novo; nullum a congelatione, potest enim liquor quicunque assumi, &amp; illius gravitas specifica ad Mercurium explorari; nullum a mensura diametrorum, quae in compositis multum difficultatis parit, non quidem quoad calculos abstractos, sed quoad executionem in praxi.</p>
+
+        <p>XXV. Fateor enim, mensuras actuales sumi circino non posse satis exacte: Si liquoribus ipsis sumantur ita, ut observes, quantum ascensus vel descensus Mercurii, in tubo ampliore per unum pollicem factus, spatii percurrere faciat in graciliori; pro toto illo spatio obtinebis exactitudinem, qualem supra §. 20. in examine gravitatis liquorum ostendimus; sed pro singulis tuborum partibus idem nondum obtines, nisi supposito, tubos per illud spatium esse aequabiles exacte. Sin per singulas altitudinum Mercurii lineas examinare loca liquoris in tubo graciliori velis, laboriosa &amp; multiplex opera erit, &amp; non semper in potestate posita; neque enim altitudines omnes obtinere pro lubitu possimus, nisi maiores per tubi inclinationem, sed quae in ampliori vasculo plurimis obnoxia est difficultatibus.</p>
+
+        <p>XXVI. Superest unum, sed caeteris omnibus difficilius, momentum. Quomodo differuntur effectus caloris ab effectibus gravitatis Atmosphaerae? alii generose negligunt hanc difficultatem, &amp; incommoda dissimulant: alii palliant naevum superficiariis excusandi rationibus; solus, quem sciam, Amontonius ex instituto rem persequitur. Liceat mihi hic esse prolixiori.</p>
+
+        <p>XXVII. Quibus Amontoniana Barometrorum simplicium correctio placet, * eandem facile ad nostrum applicare poterunt. Curent, ut linea cd incidat in medium vasculi amplioris ad recurvam tubi partem affixi; &amp; habebunt Barometrum simplex ordinarium, cui omnia convenient, quae ordinariis competunt. Neque impediet felicem successum aqua vel alterius liquoris adhibiti expansio. Ex §. enim 20. semper erui potest relatio eius ad Mercurium praesentem, adeoque praesens eius altitudo vera inveniri, non secus, imo melius &amp; exactius, quam si illa simplici Barometro investigata esset. Obtenta autem altitudine Mercurii in hac tempestate, per Amontonianam deinde tabulam reduci potest ad altitudinem Mercurii calidioris aut frigidioris, tempore constructionis adhibiti.</p>
+
+        <p>XXVIII. Visum est aliquando, rem omnem facilius &amp; brevius sic inveniri posse. Assumatur ex definitione Amontoniana, ** Mercurium transeundo a summo frigore ad calorem summum augeri parte T^T3 sui voluminis. Patet, illum, si frigidissimus occupet spatium acd, Tab. 15. calidissimum non posse eodem illo contineri, sed posita eius summitate in a ascensurum tribus minimum lineis supra d. Potest igitur expansio eius a calore veniens subinde agnosci per altitudinem ed supra d assurgentem: eandemque ad totum spatium aede comparari; idque vel simpliciter pro longitudine horum spatiorum ed &amp; aede, si tubulum supponas sensibiliter, &amp; quoad hos respectus aequabilem; vel si hasce etiam minutias respicere velis, operosiori examine. Ita igitur ratio densitatis Mercurii ab uno tempore ad aliud innotesceret: Consequenter praecisa gravitatis Atmosphaerae mensura omni tempore definita foret. Haberentur enim pro omni tempore altitudines Mercurii &amp; densitates.</p>
+
+        <p>XXIX. Favet huic methodo sententia Amontonii, qui monet, * se experimento didicisse, quod tubi Barometrorum ordinarii nullam a frigore constrictionem, aut a calore ampliationem sensibilem patiantur. Hoc enim pharmaco prioribus addito, nihil amplius ad attingendum scopum nostrum desiderari posse video. Solum enim hoc anxios nos habere posset, quod &amp; vitrum a frigore contrahatur, &amp; a calore expandatur, atque adeo incrementum voluminis Mercurii semper maius fit in calore, quam est soliditas cava tubuli ed memorata. Optandum itaque foret, ut &amp; altera haec Viri egregii sententia modo indicata, &amp; prior expansionis mensura §. 28. essent exploratae.</p>
+
+        <p>XXX. Fateor autem invitus, me nondum omni dubio liberatum esse, per experimenta II. cc. proposita. Persuafum mihi est per experimenta thermometrorum, * quod a calore amplietur cavitas phialae; ut id vulgo infertur ex descensu subitaneo fluidi, cum thermometrum aquae calidae immergitur. Itaque ratum etiam erit, in experimento Amontoniano ** spatiolum illud, per quod Mercurius subsidit, non explere totam Mercurii contractionem; constrictus enim &amp; tubus fuit a frigore. Maior itaque est expansio &amp; contractio Mercurii &amp; spiritus vini, quam loco mox memorato definitur. Similiter itaque metuas, ne in experimento altero, quo aucta vasis vitrei capacitas inquirebatur, expansio liquoris contenti simul facta eandem exhibuerit iusto minorem. Nolim vero id pertinaciter contendere, quoniam tota experimenti illius ratio descripta non est.</p>
+
+        <p>XXXI. Illud facile judices, cum tanta huius sententiae Amontonianae pro meo scopo utilitas esset, me nihil intentatum reliquisse, sed omnino praeoptasse, ut eandem, si fieri posset, confirmarem. Neque enim omnis statim spes decollabat. Differunt phialae pro thermometris adhibitae a tubis Barometrorum, soliditate laterum, &amp; capacitate interna plurimum. Non igitur impossibilem judicabam Amontoniani huius experimenti cum thermometricis conciliationem.</p>
+
+        <p>XXXII. Pro hoc autem fine sumsi tubulos aliquot graciliores, sed longiores, eosdemque inflexi, uti Fig. 7. Tab. 14. videtur; eo saltem fine, ut longior tubus in breviori spatio contineretur: extremitatem unam infundibulo ab instruxi, alteram diduxi in tubulum capillarem cd. Infundibulo sufficientem Mercurii quantitatem simul infudi; ut, cum semel inciperet fluere, nullus se aer immiscere posset. Quoniam cedere aer per tubuli capillaris orificium poterat, momento temporis implebatur tubulus, &amp; effuebat ex tubulo capillari; donec in crure altiore be esset ad libellam: Tum vero ope lampadis obsignabatur hermetice tubus capillaris, sic, ut non plus aeris remaneret, quam ut id acutissimo visu vix agnosci posset. Instrumentum ita paratum alternis vicibus aquae fervidae &amp; glaciali coram Societate nostra immersi, sed nullum in frigida ascensum subitaneum, aut in fervida descensum Mercurii licuit distinguere. Examinavi vero tubulum, an ullibi bullula aeris aut particula solum eius intercepta sese dilataret in fervida; neque id observare potui. Si cui desit facultas acquirendi sibi aut efficiendi tubulum cum infundibulo; itemque hermetice, &amp; satis caute obsignandi tubulum capillarem: potest is glutine adhibito satis exacte tubum claudere, postquam eum suctione (quod semper facile, &amp; in tubis amplioribus fere necessarium est) implevit.</p>
+
+        <p>XXXIII. Patet igitur, adhiberi methodum posse, quam §. 28. descripsimus, non sine fructu. Non tamen haec sola est. Suppetit &amp; alia, quam eo fine describam, ut conferri invicem utraque, &amp;, quaenam melior sit, ex praxi ipsa possit definiri. Duo autem sunt, quae hic requiro; Primo necessum est, ut dato quocunque tempore queas definire altitudinem Mercurii supra libellam. Id ope liquoris fieri exacte sic potest.</p>
+
+        <p>XXXIV. Merge Barometrum, donec Mercurius attingat lineam a &amp; nota altitudinem liquoris supra lineam cd in scala divisionum apposita. §. 17. Si hoc in casu Mercurius supra lineam cd elevatus est, merge amplius; si depressus infra cd extrahe tubum, donec Mercurius perfecte respondeat lineae cd. Examina, quid singulae hae altitudines (pro gravitate liquoris specifica, per §. 20. definita) faciant reductae ad altitudines Mercurii. Tum vero, pro obtinenda vera ad hoc tempus altitudine Mercurii supra libellam in altero tubo deme in priori casu, in posteriori adde altitudinem ultimam ad primam. Negligo hic altitudinem liquoris ed ut contemnibilem: si nolis, facile est illam simul considerare; sufficit enim sumi illam, cum ad liquorem pertinet, simplici oculorum judicio.</p>
+
+        <p>XXXV. Ita primum obtinemus. Secundum postulat, ut densitatem quoque Mercurii praesentem pernoscas. Perge igitur hoc ordine: Si aqua vel liquor adhibitus quicunque eandem semper densitatem servaret, posset ope §. 20. inquiri densitas Mercurii praesens ad praeteritam. Cum id de nullo adhuc liquore cognitum sit, methodo illa §. 20. hoc solum intelligitur, quae sit unoquoque tempore Mercurii &amp; liquoris mutua densitas. Pro scopo autem praesenti requiritur adhuc aliquid amplius. Quodnam illud? dicis; nimirum hoc, ut densitas alterutrius sub diversis temporibus spectati possit invicem conferri. Ita enim, si densitatem Mercurii calidi possis cum densitate aquae eiusdem temporis calidae; densitatem aquae calidae cum densitate frigidae; densitatem aquae frigidae cum Mercurio eiusdem temporis frigido exacte comparare: poteris quoque densitatem Mercurii uno tempore calidi cum densitate eiusdem alio tempore frigidi conferre eadem exactitudine.</p>
+
+        <p>XXXVI. Primum &amp; tertium possimus ope §. 20. Quaeritur adhuc secundum. Atque ita reducitur omnis tandem difficultas ad hoc, ut densitatem aquae diversis temporibus variam possis invicem conferre. Hoc diu &amp; a pluribus &amp; diversimode solutum est problema. Placet ex illis hanc seligere methodum, qua corpus solidum, v. g. metallicum, in utraque aqua sollicite ponderatur, &amp; ex amisso pondere judicatur fluidi densitas. Pondus illud ne &amp; ipsum contrahi frigore, &amp; calore expandi obiicias, potest assumi in statu medio, quo calorem v. g. manus ordinarium neque multum excedit, neque ab illo multum deficit.</p>
+
+        <p>XXXVII. Atque ita tandem effectum puto, ut problema in sese difficillimum, adhibitis operationibus quidem pluribus, (tribus scil.) sed facilibus, reduxerim ad problema ab omnibus facile semper habitum. Postulo etiam hac de causa, ut, si Areometra dari concedunt Physici, concedant quoque hanc meam machinam, separato a gravitate caloris effectu, esse non Baroscopium modo, sed Barometrum, quo non discernere solum variationes gravitatis in Atmosphaera liceat, sed etiam metiri.</p>
+
+        <p>XXXVIII. Unicum illud addo, si quis non summam quaerat exactitudinem, posse illi sufficere dicta §. 28. vel etiam, adhibito pro liquore altero, oleo Tartari per deliquium, cuius non magna dicitur esse rarefactio *, posse negligi operationem §. 35. Error enim a calore oriundus, uti facile calculus docet, praemissa solum operatione §. 20. parum erit sensibilis. Quin imo, si liquor fuerit valde obnoxius expansioni, ut v. g. Spiritus vini, tum etiam neglecta cautela §. 20. adhibita sola operatione §. 34. error a calore &amp; frigore minor erit, quam in Barometris simplicibus. Prout igitur ad maiorem spectat observator exactitudinem, ita pluribus cautelis adhibitis ad eandem potest pertingere.</p>
+
+        <p>XXXIX. Quotidianus vero Barometri usus potest etiam hoc artificiolo reddi commodior; si ex altero latere quidem a linea horizontali cd numerentur lineae &amp; digiti incipiendo ab unitate. Ex altero autem ita, ut adscribantur pollices altitudinis Mercurii ab Atmosphaera suspensi ad ea loca, in quibus aqua supra tubum consistet, atque intermedium spatium deinceps in 12. partes maiores dividatur, quarum singulae lineis Mercurii respondeant, iterumque in 12. partes divisae duodecimas linearum indicent. Sufficient haec, ubi ad calorem attendere non oportet; cum autem hoc fieri utile est, non gravaberis diligentiam adhibere maiorem, sequendo §§. 33. 34. 35.</p>
+
+        <p>XL. Non succurrunt nunc animo difficultates aliae, ad quas in superioribus nondum attenderim, nisi haec una, an hoc Barometrum sit etiam portatile? Est vero, si velis. Non solent obambulare Barometra quotidie; igitur Barometrum portatile dicitur, quod data occasione possit ex loco uno in alium deferri sine detrimento. Simplicia habentur pro portatilibus, praecipue, si recurva sunt. Extrahe nostrum ex liquore suo, &amp; inverte, habebis Barometrum simplex recurvum. Si metuas, ne aqua, qua in vasculo ampliori stagna verat, in alteram tubi partem intret (etsi hic metus praecaveri possit, si tubus sit angustior, &amp; Mercurii ea copia, ut nequeat omnis intrare in crus longius) potes per §. 23. aquam prius extrahere ope siphonis recurvi capillaris.</p>
+
+        <p>XLI. Commodius hoc est: relinque tubum Mercurialem cum tabula sua in altero ampliori, si vasculum inferius sit ita amplum, ut Mercurius a succussione lateris oscillans in descensu non effluat, &amp; tubus a vasculo ad inflexionem ita longus, ut, si Mercurius ad summitatem ascendat, non tamen recedat ad usque inflexionem tubi. Hoc modo potes erectum transportare Barometrum.</p>
+
+        <p>XLII. Si inversum aut inclinatum transferre ideo malis, ne a succussionibus Mercurii ascendentis frangatur tubi summitas; cura, ut tubus inferne bis inflexus sit, &amp; Mercurius, cum ad summitatem ascendit, non ultra crus primum recedat. Fieri haec omnia facile possunt.</p>
+
+        <p>XLIII. Illud pro difficultate non reputo, si quaeras, quomodo suspendi debeat tabula, ut crus Barometri longius sit perpendiculare? Cura, ut linea suspensionis transeat per centrum gravitatis tabulae &amp; tubi communei illud, quod obtinet cum tabulae est ad dimidium sui mersa. Differentias enim illius centri, ob inaequalitatem laterum tubi, pro maiori aut minori eius immersione variantis facile negliges sine incommodo. Sin omnem velis scrupulum evitare, affige pendulum tabulae, atque sic ad parietem firma machinam, ut id designet lineam axi Mercurialis tubuli parallelogram; talem enim antea describes. Atque ista hucusque de structura novi nostri Barometri dicta sunto: quibus unum illud epimetri loco subiungam.</p>
+
+        <p>XLIV. Si non requiras, ut calorem a gravitate discernat Barometrum, sed tamen vulgari &amp; simplici sensibilius evadat, careatque nonnullis Barometri simplicis defectibus, (vid. §. 12. n. 1. 2.) &amp; structura sit non difficilis: potest ita satis fieri petito Tuo. Sint duae tabulae ad angulum rectum iunctae, sic tamen, ut altera maneat fixa, altera circa axem rotari, &amp; rotando radere priorem possit. Tabulae rotatili affigatur Barometrum simplex, sed ordinario longe maius, superne si placet sphaerula instructum, sed tubi tamen strictioris. In eo tubo assimetur punctum aliquod v. g. in altitudine quatuor pedum ab inferiore bullula Mercurio plena: in maiore, aut minore, prout Barometrum sensibilius desideratur aut minus sensibile. Tum vero inclinetur tabula mobilis cum affixo sibi Barometro, donec Mercurius attingat punctum memoratum; &amp; observetur magnitudo anguli comprehensi inter situm tubi inclinatum &amp; horizontem. Si enim hic maior est, Atmosphaerae maior gravitas est pro ratione sinuum anguli inclinationis. Non igitur difficile erit, construere scalam super tabula immobili, quae exhibeat altitudinem Mercurii in mensuris usitatis. Ita novam obtinemus Barometri structuram, quam tamen superiori postponendam esse putamus.</p>
+
+        <head>Usus Barometrorum sensibiliorum.</head>
+
+        <p>XLV. Sufficiant illa tandem: Dicamus nunc, cui usui? Facilis subinde quaestio, nec aeque facilis semper responsio! Hoc loco attendimus vel ad usus Barometrorum omnium sensibiliorum vel ad nostrum singulariter. Certum est, plures de machinis solicitos fuisse, quam de usibus earum. Igitur non ineptum puto, id problematis loco proponere Eruditis, ut indicent, quibus potissimum utilitatibus Physicis, adhiberi exactior variationum gravitatis cognitio possit?</p>
+
+        <p>XLVI. Mea, salvis melioribus, haec fere sententia est: etsi Barometra proprie dicant solum, non praedicant; huc usque tamen ad praedicendas tempestates adhiberi praecipue consueverant. Cum saepe fallerent divinationes, accusari contigit machinas; non secus atque sensus accusari solent, cum praecipitata fallunt de sensibus judicia. Igitur emendationes quaesitae sunt; atqui non dantur aliae, nisi ut sensibiles fiant mutationes, &amp; ab irregularitate caloris atque frigoris liberentur. Id quidem bene se habet, sed ad praecognoscendas tempestates nihil confert. Observamus, ne quidem ad illas Mercurii variationes, quae in simplici Barometro facile discernuntur, consequi semper sensibiles tempestatum differentias; igitur neque ex minoribus adhuc variationibus praedici illae probabiliter possunt. Ad hunc igitur finem immediate nondum adhiberi posse Barometra illa sensibiliora existimo.</p>
+
+        <p>XLVII. Fortassis tamen id mediate fieri aliquando posset, si quis detegeret artificium ex variatione gravitatis eruendi ventorum successiones, ab hisce enim plurima pendet tempestatum varietas. Sed vero ventorum ortus &amp; effectus magis sunt compositi, quam ut ex sola Atmosphaerae gravitate hauriri earum cognitio possit. Dubium etiam est, an ex cognito per complura instrumenta, reliquas aeris proprietates indicantia, statu Atmosphaerae nostro, probabilis de vento aut statu Atmosphaerae futuro coniectura fieri possit?</p>
+
+        <p>XLVIII. Hactenus igitur illum placet usum assignare, ut ope sensibilioris Barometri accuratior scala variationis pro maiori minorive montis, &amp; metalli fodine altitudine &amp; profunditate habeatur, eo consilio, ut inquiratur, an fortasse assumtis hisce differentiis, observatione cognitis, tanquam elementis alicuius loci geometrici possit regula aliqua inveniri pro altitudinibus quoque maioribus, quam per experimenta possunt indagari? Pro hoc fine necessariae sunt observationes eorum, quibus non deest commoditas locorum, iuga montium &amp; fodinarum profunda. Curandum vero; ut altitudines &amp; profunditates illae explerentur mensura actuali per partes, non calculo ex angulis (praeter unam stationem mensuratam) solis facto: Videndum quoque, ne in circulum incidamus vitiosum. Cum enim ob fallacias visus in iudicandis altitudinibus, oriundas ex radiorum refractionibus, aliquando Barometra ad metiendas montium altitudines adhibeantur, manifestum est, altitudines hoc modo cognitas nostro scopo minime conducere.</p>
+
+        <p>XLIX. Possit etiam suspicio moveri, annon radii luminis per Atmosphaeram transeuntes maiorem minoremve refractionem patiantur, sub diverso gravitatis statu? Gravior enim est aer, vel ob auctam altitudinem vel densitatem; utraque variat refractionum quantitates, altera ob refracti radii longiorem viam, altera ob maiorem refractionis angulum. Quaeritur itaque: an illa, si qua est, refractionis variatio a diversa Atmosphaerae gravitate veniens, observationibus &amp; experimentis solicite institutis sit sensibilis? &amp; alicuius in Astronomia momenti?</p>
+
+        <p>L. Ad cognoscendam naturae consuetudinem in transitu ab uno gradu gravitatis ad alium; ad observandas varietates gravitatis a vento pendentes; quin etiam a nube una vel pluribus ad horizontem vel verticem positis, usurpari utiliter &amp; cum fructu posset novi generis Baroscopium Caswellianum, * caeteris omnibus sensibilius &amp; praestantius, si in illo liceret caloris atque frigoris effectus vel evitare, vel discernere. Id igitur si quis possit, rem praestiterit omni laude dignissimam.</p>
+
+        <p>LI. De nostra Barometri correctione illud speciatim dicere licet, posse illud inservire pro cognoscendis eodem tempore diversorum liquorum gravitatibus specificis; pro indaganda veritate sententiae Amontonianae §. 29. memoratae; pro definienda contractionis tuborum, si qua est, mensura, ut, quamnam illa proportionem sequatur, intelligas &amp;c. de quibus, si quid utile cognovero, suo tempore dicendi locus non deerit.</p>
+
+        <figure xml:id="fig1" corresp="#p323">
+          <head>Fig. 1</head>
+          <graphic url="images/tomus1/bulfinger_de_variis_barometris_fig1.png"/>
+        </figure>
+
+        <figure xml:id="fig3" corresp="#p325">
+          <head>Fig. 3</head>
+          <graphic url="images/tomus1/bulfinger_de_variis_barometris_fig3.png"/>
+        </figure>
+
+        <figure xml:id="fig7" corresp="#p333">
+          <head>Fig. 7</head>
+          <graphic url="images/tomus1/bulfinger_de_variis_barometris_fig7.png"/>
+        </figure>
+      </div>
+    </body>
+  </text>
+</TEI>

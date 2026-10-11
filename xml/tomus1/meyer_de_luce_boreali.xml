@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="la">De Luce Boreali</title>
+        <title xml:lang="ru">О северном сиянии</title>
+        <author>
+          <persName>
+            <forename>Fridericus Christophorus</forename>
+            <surname>Maierus</surname>
+            <addName type="latin" xml:lang="la">Fr. Chr. Maierus</addName>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <forename>Борис</forename>
+            <surname>Орехов</surname>
+            <addName type="latin" xml:lang="la">Boris Nuceus</addName>
+            <addName type="english" xml:lang="en">Boris Orekhov</addName>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Борис Орехов (Boris Nuceus / Boris Orekhov)</publisher>
+        <affiliation xml:lang="ru">Институт русской литературы (Пушкинский Дом) Российской академии наук</affiliation>
+        <affiliation xml:lang="la">Institutum Litterarum Russicarum (Domus Puskiniana) Academiae Scientiarum Russicae</affiliation>
+        <address>
+          <email>nevmenandr@gmail.com</email>
+        </address>
+        <ptr target="https://github.com/nevmenandr/commentarii"/>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Commentarii Academiae Scientiarum Imperialis Petropolitanae</title>
+          <biblScope unit="volume">Tomus I</biblScope>
+          <biblScope unit="page">351-367</biblScope>
+          <pubPlace>Petropoli</pubPlace>
+          <publisher>Typis Academiae</publisher>
+          <date when="1728">CIƆ IƆ C C X X V I I I</date>
+          <ptr target="https://archive.org/download/commentariiacade01impe/commentariiacade01impe_bw.pdf"/>
+          <note>Экземпляр из библиотеки Британского музея (Natural History), Лондон.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Электронное научное издание «Commentarii Academiae Scientiarum Imperialis Petropolitanae: Editio Digitalis».</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Текст приведён в исправленном после OCR виде. В оригинале используется долгая s (ſ, U+017F); в настоящем издании она передана как обычная s.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="la">Latin</language>
+        <language ident="ru">Russian</language>
+      </langUsage>
+      <textClass>
+        <classCode scheme="internal">physica</classCode>
+        <keywords>
+          <term type="added">aurora borealis</term>
+          <term type="added">meteorology</term>
+          <term type="added">optics</term>
+          <term type="added">atmospheric phenomena</term>
+          <term type="added">18th century physics</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="article">
+        <head>DE LUCE BOREALI. Autore Fr. Chr. Maiero.</head>
+
+        <p>Cum in borealibus nostris oris apparitio lucis huius tam frequens sit, ut &amp; vulgus eam non admiretur amplius, facile mihi fuit intra breve temporis spatium magnum observationum numerum colligere. Has in praesenti scripto communico, una cum meditationibus meis de origine lucis borealis, quas, cum novae sint, publico intelligentium judicio exponere decrevi, ut sic, quantum ex e valeant, ex aliis cognoscam.</p>
+
+        <p>II. Propositum mihi est rem ita pertractare, ut primo succinctam phaenomenorum omnium descriptionem adornem, ex observationibus meis hactenus habitis collectam. Deinde, ut conclusiones aliquot inde deducam, quarum ope, adhibitis in subsidium propositionibus ex scientia physica petitis, in arcana huius lucis penetrare annitar.</p>
+
+        <p>III. Ob duplicem lucis borealis apparentiam duae eius species constitui possunt. Prima vulgaris est &amp; in his terris crebrior, sub arcus forma septentrionem occupat, radios five virgas lucidas ad verticem mittit, &amp; lice quieta splendet. Altera quae rarior est, caelum versus omnes plagas occupat, in partes dissipata est, quibus brevissimae aut nullae ut plurimum adhaerent virgae, splendor eius ut plurimum undulare aut tremulare putatur. Ex dicendis postea palam fiet, has duas species reipsa non differre, soloque situ duplicem hanc apparentiam effici.</p>
+
+        <p>IV. Primae speciei phaenomena sequentia sunt:</p>
+
+        <p>1. Arcus lucidus versus boream ita disponitur, ut eius cavitas horizontem spectet, convexitas verticem.</p>
+
+        <p>2. Altissima arcus pars boream ad sensum semper exacte tenet.</p>
+
+        <p>3. Ut plurimum crura horizontem attingunt.</p>
+
+        <p>4. Quo altior est arcus, eo amplius expanduntur crura.</p>
+
+        <p>5. Altitudinem arcus nunquam ultra 40. gr. observavi, nec amplitudinem crurum ultra semicirculum.</p>
+
+        <p>6. Quo depressior est arcus, eo concinnior &amp; regularis eius rotunditas; ut plurimum quo altior est, eo magis vitiari solet ab intercedentibus fissuris, hiatibus, protuberantiis, flexuris, &amp;c. Interdum, altitudine nil mutata, inconcinnus arcus sensim in ordinem componitur, &amp; vicissim.</p>
+
+        <p>7. Accidit saepe, ut novi arcus generentur, qui priori aut altiores aut humiliores esse solent, semper tamen priori coalescunt; quo ipso fit, ut humilior aut altior evadere videatur.</p>
+
+        <p>8. Altior tamen &amp; humilior quandoque fit sine novis accedentibus arcubus observabilibus.</p>
+
+        <p>9. Spatium intra arcum &amp; horizontem conclusum semper est tenebricosum; stellarum tamen radios clarissime transmittit, nisi nubibus oppleatur atris.</p>
+
+        <p>10. Interior arcus margo obscurus est plerumque, exterior lucidus; confinium vero lucis &amp; obscuritatis non aeque distinctum.</p>
+
+        <p>11. Virgae, vel &amp; interdum latiores tractus lucidi in longum exporrecti, exteriori arcus margini insunt, &amp; paulo debilius lucent quam ipse arcus. Accidit autem saepissime, ut ea arcus pars ex qua virgae exeunt magis luceat quam reliquae.</p>
+
+        <p>12. Omnes recta ad verticem tendunt, quem attingunt saepe, imo trajicere quandoque videntur.</p>
+
+        <p>13. Eiusdem pene latitudinis est unaquaeque virga tam in fine quam in principio.</p>
+
+        <p>14. Aequabilis fere splendoris virga est quaelibet; nisi quod prope arcum lucidior interdum videri soleat quam prope verticem.</p>
+
+        <p>15. Duratio unius virgae brevis &amp; incerta est; decem circiter minutorum secundorum esse solet ordinarie.</p>
+
+        <p>16. Ortus earum &amp; interitus ut plurimum subitaneus est. Quandoque tamen apud arcum prius apparent quam in vertice, quandoque hic ordo inversus est: sic etiam mox hoc illove ordine intereunt.</p>
+
+        <p>17. Interdum, sed raro, integrae non sunt, &amp; in frusta quasi disjectae videntur.</p>
+
+        <p>18. Moventur plerumque, aut versus ortum, aut versus occasum; mox tardius, mox celerius; interdum una celerior est altera, ita ut sefe mutuo assequantur, vel cursu antevertant. Interea vero nec virgarum rectitudo nec directio ad verticem mutatur.</p>
+
+        <p>19. Rarae interdum adsunt aut nullae, lucido licet arcu existente; Interdum tam copiosae adsunt, ut arcus pectinis instar appareat.</p>
+
+        <p>20. Saepe accidit ut multae simul oriantur, &amp; evanescant iterum simul.</p>
+
+        <p>21. Stellae ubique transparent, excepto obscuro arcus margine interiore, qui stellas tegit, si adest.</p>
+
+        <p>22. Saepe accidit, ut nubes aliquae appareant, quae altiores sunt quam quas lux borea sub se reliquit. Quod quidem ex diversis coloribus &amp; motibus manifestum fit; impossibile enim est ut nubes in eodem caeli loco visae diversimode ferantur &amp; illuminentur, nisi ratione altitudinis a terra multum differant.</p>
+
+        <p>V. Secundae speciei phaenomena sequentia sunt:</p>
+
+        <p>1. Primo aspectu caelum flammis conflagrare videtur, Lux tremula &amp; corruscans apparet, eo fere modo, quo in acervo prunarum candentium lux tremula vagari solet: Haec vero corruscatio interdum magis, interdum minus, interdum vix sensibilis est.</p>
+
+        <p>2. Attentione adhibita diligentiori, lucidas nubeculas hinc inde dispersas notare licet. Interdum facilis est haec observatio, interdum difficilis; prout sc. nubeculae aut spissae sunt aut subtiles; item prout vel tarde, vel cito deflagrant.</p>
+
+        <p>3. Cum aliquando nubeculam talem in ipso vertice haerentem contemplarer, eaque mox accenderetur, mox extingueretur iterum, observavi, eam subinde obscuriorem evadere, sensimque nubem nigricantem sub se relinquere, qua obtegebatur tandem.</p>
+
+        <p>4. Idem postea in aliis nubeculis animadverti, deprehendi autem, quod interea, dum accenduntur &amp; extinguuntur, aliae nubeculae eiusdem generis in ipso circuitu accendantur &amp; extinguantur.</p>
+
+        <p>5. Dum accenduntur, tamdiu fere accensae manere solent ac virgae prioris speciei durant (§. 4. n. 15.)</p>
+
+        <p>6. Nubeculae quae a vertice remotae sunt projiciunt interdum virgas lucidas, sed breves &amp; graciles: eo breviores quidem quo propiores sunt vertici.</p>
+
+        <p>7. Ex relatione aliorum habeo, quod luculis talibus fulgura quandoque interfpergantur coerulea.</p>
+
+        <p>8. Hanc lucis borealis speciem raro observavi solam, socia fere semper adfuit prima species prius recensita; una alteram aut praecedit aut sequitur.</p>
+
+        <p>9. Lux nubecularum harum tanta est nunquam quanta arcus esse solet. (§. 4. n. 1.)</p>
+
+        <p>10. Lux haec versus horizontem saepe saturior est quam in vertice, ita ut interdum horizon undiquaque splendeat, eo fere modo ut arcus boreus ipse. (§. 4.)</p>
+
+        <p>VI. Utrique speciei communia phaenomena sunt sequentia.</p>
+
+        <p>1. Apparere solet utraque species ab aequinoctio autumnali ad aequin. vernale. Aestate enim vidi nunquam.</p>
+
+        <p>2. Ut plurimum luci succedere solent nubes ab initio squammatim dispositae, postea augentur &amp; coacervantur sensim sensimque.</p>
+
+        <p>3. Utraque species sereno aut semisereno caelo plerumque apparere amat; animadverti eam tamen quandoque per densas, &amp; caelum ubique tegentes nubes hinc inde dehiscentes.</p>
+
+        <p>4. Utriusque lucis splendor est pallidus, aut subalbidus.</p>
+
+        <p>5. Utraque lux levi vento interdum versus aliquam mundi plagam ferri solet, quae tamen semper contraria est plagae versus quam ventus in inferiore aeris regione spirat. Nullam huic phaenomeno contrarium exemplum expertus sum hucusque.</p>
+
+        <p>6. Non raro animadverti tepidam tempestatem antecedere solere aut &amp; comitari, gelidam sequi.</p>
+
+        <p>7. Si accidat ut continuis aliquot noctibus appareat, (quod saepe fit) sequentes luces subinde fiunt debiliores, ut tandem vix conspicuae sint.</p>
+
+        <p>8. Duratio utriusque lucis variabilis est valde, saepe pernoctes sunt, saepe &amp; paucarum horarum, prout nempe aer quiescit, aut agitatur.</p>
+
+        <p>VII. Ex consideratione enarratorum phaenomenorum concludo, quod hae duae species non nisi apparenter differant. Communes enim utrinque sunt proprietates plurimae (§. 1. 6.) &amp; quae cuilibet peculiares esse putantur, ex sola situs diversitate postmodum explicabo, quae quidem diversitas ipsa observatur (§. 3. 6. §. 4. n. 1. 2. 3. §. 5. n. 1.)</p>
+
+        <p>VIII. De virgis lucidis dico, quod generentur reflexione radiorum emissorum a materia lucida, quae ibi non exsistit, ubi virgas videmus. Quicquid videmus, id radiis videmus aut directis, aut refractis, aut reflexis: Si virgae viderentur radiis directis, necesse foret, ut materia earum lucida in longum extensa 1°. exsisteret in planis cuivis observatori verticalibus (ob §. 4. n. 12), haec autem plana in aliis locis spectantium inclinata sunt ad horizontem, sequeretur ergo quod materia ubique in verticalibus simul, simul 2°. Necesse foret ut materia haec, in partibus a spectatore remotis, esset latior, &amp; in propinquis proportionaliter gracilior, alias enim non possent apparere ubique aequaliter, (§. 4. n. 13.) atqui pro diversis spectatoribus deberet haec latitudinis varietas eodem tempore varia esse, (quod ex regulis opticis constat) &amp; materia disponeretur pro situ locorum, quos spectatores diversi occupant; hoc vero impossibile est, ergo &amp; visio directa virgarum impossibilis est. Si loco diversorum spectatorum aestimas aliquot phaenomenon ab eodem spectatore diversis temporibus observata, idem concludendum erit; nam nulla ratio est, cur omnes ignes eidem spectatori in directione constanti semper disponantur? Si visio refracta foret, deberet ultra vaporum refrangentium regionem materia lucida exsistere quae mox accenditur mox extinguitur (§. 5. n. 3. &amp; 4.) quae ventis agitatur. (§. 6. n. 5.) quae vapores crassos post se relinquit (§. 5. n. 3. 6. n. 2.) &amp; quae fulgurat (§. 5. n. 7.); Atqui hoc omnia isti regioni non convenire videntur. Addo, quod sol, luna, aut stellae lucidiores tales virgas etiam producere deberent quandoque per refractionem, quod tamen nunquam hoc modo fit, nec quomodo fieri possit per principia optica, aut per similes casus ostendi potest. Ita excluditur quoque visio refracta &amp; sola reflexa relinquitur: quod quidem probandum erat.</p>
+
+        <p>IX. De loco materiae lucidae dico, quod exsistat in ea aeris regione ubi nubes haerere solent. Nam inferior arcus margo obscurus, cui lucidus semper contiguus est, pro nube aut vapore censendus est. (§. 4. n. 10.) maxime ideo quia ventis agitatur (§. 6. n. 5.) cum praeterea ipsa lux in nubes abire soleat (§. 6. n. 2.) imo sub nubeculae aut vaporis lucidi forma appareat (§. 5. n. 2.) &amp; versus horizontem densior fiat (per §. 5. n. 10): patet hanc materiam nubium conditiones habere omnimodas, consequenter &amp; locum &amp; distantiam a terra.</p>
+
+        <p>X. Ut plures conclusiones formare liceat, introducam subsidiarias propositiones aliquot ex physicis petitas, quarum prima haec sit: Nubes in aere quieto ita pendent, ut inferior earum superficies plana sit &amp; a terrae centro ubique aequidistet. Quia enim gravitas aeris specifica in aequalibus a terra centro distantiis eadem est, nubes autem, quae constant ex eiusdem generis vaporibus, ibi subsistunt, ubi earum gravitas specifica coincidit cum gravitate aeris, patet, nubes subsistere in loco qui aequidistat ubique a centro terrae, adeoque in planitiem expandi terrae superficiei ad sensum parallelam, eoque exactiorem quo aer quietior est.</p>
+
+        <p>XI. Fidem huic propositioni facit experientia, qua constat, nubes, quo propiores fiunt horizonti, eo &amp; basim magis rectilineam habere, quae horizonti semper parallela est; Hoc ideo fit, quia planities nubium inferior eminus posita a latere spectatur atque ita tanquam linea apparet.</p>
+
+        <p>XII. Caeterum &amp; ratione &amp; experientia constat, quod nubes nubibus immincant; hoc est, quod planities unius nubis longius a terra distet quam planities alterius: Id quod &amp; eo tempore evidenter observatur quandoque, quo lux borea apparet (§. 4. n. 22).</p>
+
+        <p>XIII. Aliud lemma hoc est: Objecta quae in aere aeque alta fiunt, horizonti eo propria esse videntur, quo fiunt remotiora ab oculo spectatore; &amp; vicissim objecta aeque alta, quo horizonti apparent propria, eo quoque fiunt remotiora a spectatore oculo. Haec ex scientia optica desumta sunt, ubi rigide demonstrantur.</p>
+
+        <p>XIV. Ex priori lemmate intelligitur &amp; hoc: Si linea in aere perdula, eminus a vertice posita, secundum parallelam orbis terrestris extensa, &amp; a terra ubique distans sit; ea sub arcus forma apparebit, eo modo uti arcus lucis boreae (§. 4. n. 1. 2. 3. 4.) Et vicissim; si linea a terra aequealta sub arcus forma appareat, cuius summa altitudo sit exacte versus boream posita, illa erit secundum parallelam terrestrem in aere expansa. Haec ab iis qui opticam callent facile intelliguntur, quapropter a demonstratione nunc abstinere licet tuto.</p>
+
+        <p>XV. Hisce positis dico, quod materia lucis borealis secundum parallelam terrestrem fere in aere disposita sit. Nam haec materia in nubium regione versatur (§. 9.) ergo a terra ubique distat aequaliter (§. 10). Porro, sub arcus forma apparet, cuius summa altitudo est ad boream directa (§. 4. n. 1. 2. 3. 4.) inde per §. 14. sequitur quod occupet tractum in aere secundum parallelam terrestrem extensum. Dico autem fere, nam curvado arcus borealis non semper est exactissima (§. 4. n. 6.)</p>
+
+        <p>XVI. Ex opticis porro notum est, quod corpus figurae irregularis inconcinnae &amp; inaequalis, figuram magis regularem, concinnam &amp; aequabilem habere putetur, quo longius ab oculo removetur: Intelligitur inde cur arcus boreus eo exactior appareat, quo propior est horizonti (§. 4. n. 6.) Eo enim casu est remotior. (§. 13.)</p>
+
+        <p>XVII. Si corpora aliquot in aliqua planitie utcunque dispersa &amp; disjecta sint, apparebunt quoque oculo tanquam disjuncta, si quidem perpendiculariter ad illud planum positus sit; quo magis autem oculus hoc planum oblique intuetur, eo propius coire videbuntur objecta, imo continuum corpus tandem constituere videbuntur: Item, lux five color objectorum singulorum augebitur &amp; saturior evadet. Haec iterum tanquam certissima ex opticis suppono.</p>
+
+        <p>XVIII. Nubium planities circa verticem haerentes perpendiculariter aspiciuntur; sed quae ad horizontem vergunt eminus &amp; oblique aspiciuntur. Intelligitur hoc lemma ex §§. 10. &amp; 11.</p>
+
+        <p>XIX. Hisce superstruo sequentem de luce borea propositionem. Materia lucis huius in nubeculas lucidas est dispersa &amp; disjuncta; prior autem lucis species continua (§. 1.) &amp; clarior (§. 9.) apparet ideo, quod in hoc casu materia eminus &amp; oblique aspicitur. Quia enim haec materia in planitiem terrae parallelam diffusa est, (§. 9. 10.) apparet in vertice eo modo quo diffusa est, (per §. 18. 17.) apparet autem disjecta (§. 5. n. 2.) ergo &amp; disjecta est. Porro cum prior species a posteriori non nisi apparenter differat (§. 7.) necessario sequitur quod &amp; materia prioris speciei sit disjecta; Itaque utriusque speciei materia in nubeculas lucidas est dispersa. Prior autem species ad horizontem vergit semper (§. 4. n. 5.) adeoque oblique aspicitur (§. 18.) necesse est ergo ut tanquam continua &amp; clarior appareat. (§. 17.) Q.E.D.</p>
+
+        <p>XX. Ex dictis intelligitur quomodo explicanda fiant phaenomena quibus inter se differunt ambae species.</p>
+
+        <p>XXI. Nunc pro explicandis virgarum phaenomenis praemittam unam &amp; alteram propositionem. Prima est: Si punctum aliquod lucidum in planum horizontale crispum nonnihil, &amp; partibus politis constans, desuper irradiet, radiosque ad oculum spectatorem reflectat, tum oculo apparebit linea aut virga lucida quae a lucido puncto ad oculum recta extenditur. Ex regulis opticis demonstrari potest propositio; verum &amp; quotidiana experientia eam docet: Luna enim, aut stella lucida quaevis in superficiem aquae tranquillioris irradians, oculo repraesentat talem virgam qualem descripsi.</p>
+
+        <p>XXII. Huic alia innititur propositio; quod scilicet inferior nubium, aut vaporum, superficies lucida puncta sursum splendentia, sub virgae lucidae forma, iterum deorsum reflectat. Crispa enim est, plana, &amp; particulis aqueis aut glacialibus politis constat (§. 10.) planities nubium inferior. Sed praeterea experimento didici veritatem propositionis huius: Noctu enim aliquando, suborto incendio, duas vel tres verstas a domicilio, quod Petroburgi habeo, distante, excitatus rumore solito ad fenestram cum amico spectandi gratia accurri, mox sublatis in caelum oculis, virgam vidimus ambo candentem, a plaga incendii ad oculos nostros, five ad verticem caeli, extensam, reflexam a nubibus nivem parturientibus, crescentem mox, mox &amp; decrescentem, prout incendium augebatur quoque.</p>
+
+        <p>XXIII. Confirmatur haec propositio alio phaenomeno, quod Petroburgi ita rarum non est, uti in Germania aut Gallia esse solet. Accidit nimirum quandoque hyemali tempore, ut sol in ortu aut occasu constitutus lucidam &amp; candicantem caudam verticaliter sursum projicere putetur; describitur ea in Commentariis Academiae Scientiarum Gallicae (Anno 1703. pag. 78.) eique simillima fuit quam incendium supra memoratum formavit (§. 22.) Oritur autem haec cauda a radiis solaribus, in planities vaporum ex particulis glacialibus constantium ab horizonte sursum vibratis, &amp; ad oculos spectantium reflexis, eo prorsus modo quo virgae lucidae in superficiebus aquarum generantur. (§. 22.)</p>
+
+        <p>XXIV. Hisce praemissis dico: Quod virgae lucis borealis oriantur a reflexione lucis quae exsistit in nubeculis lucidis (§. 19.) dum nimirum hae nubeculae radios sursum projiciunt in planities vaporum superimminentium subtilissimorum, a quibus deinde reflectitur sub formis virgarum. Oriuntur virgae reflexione (§. 8.), ergo a nubeculis lucidis (§. 19.) oriuntur; nulla enim alia tum temporis lux in aere exsistit, &amp; virgarum splendor tamdiu durat quamdiu nubecularum corruscatio: (§. 4. n. 15. §. 5. n. 5.) Planities autem vaporum reflectens supra nubeculas exsistit, quod intelligitur ex phaenomenis allegatis §. 4. n. 9. 10. 11. 22. item §. 12. consequenter illa virgas eo modo format quo dictum est §§. 21. 22. 23. Hac propositione explicantur phaenomena adducta §. 4. n. 11. 12. 13. 14. §. 5. n. 6.</p>
+
+        <p>XXV. Quod si praeterea supponatur, quod planities tam imminentes, quam nubeculae lucidae, levi vento agitentur, in promptu erunt explicationes phaenomenorum §. 4. n. 16. 17. 18. 19. 20.</p>
+
+        <p>XXVI. Item quia materia lucida supra se vapores habet, quos illustrat, infra nullos, patet ratio phaenomeni §. 4. n. 9.</p>
+
+        <p>XXVII. Si liquor in vase aliquo contentus in superiori sua parte versus plagam aliquam agitetur, fiet ut inferior pars liquoris ad fundum, moveatur in plagam contrariam. Veritas huius e ratione &amp; experientia facile adstruitur. Caeterum ex eo pronum est concludere, quomodo producitur phaenomenon §. 6. n. 5. allegatum.</p>
+
+        <p>XXVIII. Quas dedi hucusque explicationes certitudinis gradum aliquem habere arbitror; restant autem alia phaenomena, quorum explicationes aeque certas non promitto: Quid de istis sentiam paucis declarabo; praemissis aliquot propositionibus subsidiariis.</p>
+
+        <p>XXIX. Aërem ubique inflammabilibus scatere spiritibus seu vaporibus subtilissimis, constare puto ex fulguribus; ex perpetuis exhalationibus telluris, sulphure, nitro, &amp; salibus ubique abundantis; ex capitibus mortuis, quae ex aere vitriola, salia &amp;c. fugunt.</p>
+
+        <p>XXX. Si tales inflammabiles spiritus copiosi in spatium nimis arctum congregentur, flammam concipiunt &amp; deflagrant ultro. Haec quoque propositio multis probatur experimentis physicis vulgo notis.</p>
+
+        <p>XXXI. Chymia quoque teste, subtiliores quivis spiritus a frigore in minus spatium colliguntur: quidam facilius quidam difficilius. Non loquor hic de ea spiritum collectione qua condensantur &amp; in fluidi formam rediguntur, sed qua solummodo propius ad se invicem cocunt.</p>
+
+        <p>XXXII. Dum sol ab aequatore versus meridiem recedit, regiones aeris boreales frigidae evadunt, idque eo magis quo sunt borealiores, &amp; quo longius sol recedit. Praeterea regiones aeris eiusdem paralleli five climatis eodem fere frigoris gradu afficiuntur. Dico fere, nam aliae quoque praeter solem sint causae huc concurrentes, solis tamen absentia sine dubio praecipua frigoris causa est. Manifesta est haec propositio, nec probatione ulteriori indiget.</p>
+
+        <p>XXXIII. Hisce subjungo propositionem, quam quidem pro certissima venditare non audeo; supponere tamen cogor in gratiam frequentium; ea haec est: Spiritus inflammabiles vaporibus aqueis, caloris ope, commiscentur &amp; implicantur, separantur postea iterum, accedente frigore dum aquei citius coeunt quam spiritus inflammabiles.</p>
+
+        <p>XXXIV. Nunc dico: Sole in regionibus borealibus versante, vel ventis calidis spirantibus, aer calefit, vapores aquei subtilissimi in aerem attolluntur, miscenturque spiritibus inflammabilibus (§. 33. &amp; 29.); recedente sole ad meridiem, frigus succedens, in eodem climate aequaliter distributum (§. 32.), Spiritus inflammabiles aqueis mixtos in nubeculas subtilissimas colligit (§. 31. &amp; §. 19.), ex quibus spiritus inflammabiles sensim sefe expediunt, &amp; supra illas congregantur (§. 33.), quorum sufficiens copia collecta flammam concipit &amp; deflagrat (§. 30.) qua consumta nova colligitur &amp; accenditur, &amp; fabula haec tamdiu luditur quam possibile est: Hisce convenire puto quae Celeberrimus Prof. Wolfius dixit, dum materiam lucis boreae immaturam fulguris materiam nominavit.</p>
+
+        <p>XXXV. Ex dictis facile intelligitur generatio materiae lucidae; (§. 19.) Eiusdem dispositio secundum tractum climatis alicuius (§. 15.) &amp; tam crebro repetita accensio extinctioque nubecularum lucidarum (§. 5. n. 3. &amp; 4.) Forsan etiam repetita fulgura in tempestatibus aestivis similem habent ortum.</p>
+
+        <p>XXXVI. Dum aquei vapores ab inflammabilibus successive destituuntur, graviores fiunt, subsidunt &amp; visibiles evadunt; quo posito adjectisque quae supra (§. 17.) dicta sunt, intelligitur ratio phaenomenorum §. 4. n. 10. §. 5. n. 3. 4. 5. 6. §. 6. n. 2.</p>
+
+        <p>XXXVII. Hoc pacto fere cuncta, quae luci boreali accidere solent, utcunque explicata dedi. Copiosior autem haec materia est, quam ut omnem exhaurire potuerim, coactus proinde fui multa concise dicere ut brevis fierem. Si occasio &amp; rei dignitas id tulerint, plura aliquando de distantia materiae lucidae a terra proferre licebit, eam enim determinare possum geometrice, datis altitudine arcus, crurumque amplitudine horizontali, &amp; concessa mea hypothesi, quam supra (§. 15.) attuli. Sit enim sinus elevationis poli =q. Sinus maximae arcus altitudinis =m. Sinus dimidiae amplitudinis crurum =g. Semidiameter terrae =a &amp; sinus anguli qui aequatur altitudini arcus maximae, &amp; aequatoris altitudini simul sumtis =b, sic fiet distantia materiae in vertice arcus exsistentis ab observatore = <formula notation="TeX">\frac{2amq^4g^8g}{...}</formula> Inventionem huius regulae, eiusdemque applicationem ad exempla dabo alio tempore.</p>
+
+        <p>XXXVIII. Sub finem annotare lubet, quod borealis lux antiquis temporibus aeque ac nostris nota fuerit, Erant qui eam in prodigiorum numerum retulerunt, erant &amp; qui meteoris accensuerunt, eiusque causam investigaverunt. In posteriorum numero Aristoteles est, qui in Meteorol. Lib. I. cap. 4. &amp; 5. eam clarissime describit: Lucem, quam ego verticalem voco, ille comparat flammae in area ab accensis stipulis ortae, flammasque tremulas vocat capras, alteram vero arcuatam speciem chasma nominat, vocabulo tum temporis usitato &amp; desumto ab interiore nigro arcus spatio, quod voraginem apte repraesentat; virgae nostrae illi trabes sunt quas ex chasmate ascendere dicit. Plurima quoque lucis borealis phaenomena describit Plinius in Hist. Nat. Lib. II. capitibus 26. &amp; 27. Qui meteorum hoc pro extraordinario &amp; mirabili phaenomeno habuerunt plures sunt. Duo addam antiquitatis testimonia a Bayero nostro mihi suppeditata. Primum extat in Chronico Edesseno f. 407. (quod habetur in Josephi Simonii Assemani Biblioth. Orient. Tom. I.) his verbis: „ Anno Seleucidarum 813. ignis multus visus est in boreali plaga, qui tota nocte arsit. „ Alterum est Roberti Monachi, qui in Libr. V. Historiarum Hierosolymitanarum ad A. C. 1097. ita fatur: „ Sub illa nocte Cometa inter alia caeli sidera rutilabat &amp; suae lucis radios producebat, &amp; inter Septentrionem &amp; Orientem igneus rubor in caelo corruscabat. „ Addo hisce Marcum Squarcialupum, qui in dissertatione de Cometis, figuram lucis satis bonam dedit, cum hac descriptione: „ Caelum Anno 1575. in Vindemia Mense Octobre per noctem integram arsit, vel ardere visum est. Res mihi nunquam prius visa, &amp; omnibus certe mortalibus tremenda. Lux magna, latitante luna, ad Slesiam &amp; Sarmatiam extitit, instar crepusculi matutini. Erat in horizonte plaga in arcum eminens &amp; oblonga: Atque ex lucido isto tractu a summa extremitate radii ingentes modo hic modo ibi rectissimi erumpebant. Qui radii vel diu immoti ac turbinati stabant, vel dissipabantur &amp; novi subinde prodibant. Et (quod cum stupore contemplabar) ex radiorum intervallis emicabant flammae ingentes, tremulae, quae mox in caeli verticem una post aliam cursu celerrimo ferebantur. In quo loco non pauci aliquamdiu manebant, mox aliquae evanescebant. Vidi ego nocte concubia ab utraque lucis extremitate radios ad medium spatium (ad Zenith) festinantes atque inter sefe adversos &amp; infensos tanquam duas acies inimicas acerrime concurrentes. Factus ibi conflictus &amp; radiorum confusio, sefe inclinantium, adversos prementium, mox refugientium, se attollentium &amp; contorquentium cum incredibili colorum, punicei, violacei, flavi, rubei varietate. In hac pugna &amp; caelesti certamine, inclinata orientis parte radii occidentes valentiores, fortiores &amp; victores apparuerunt. Qui facile sibi credunt, bellum horrendum iam iamque inter nos &amp; Mahometanos fore dicebant &amp;c. Huc referendas puto plurimas alias relationes antiquas &amp; recentes de exercitibus, de hastis, armis militaribus &amp;c. in caelo visis.</p>
+
+      </div>
+    </body>
+  </text>
+</TEI>
