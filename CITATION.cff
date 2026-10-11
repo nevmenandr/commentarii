@@ -15,6 +15,9 @@ authors:
     affiliation: >-
       Институт русской литературы (Пушкинский Дом)
       Российской академии наук
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.23290892
 repository-code: 'https://github.com/nevmenandr/commentarii'
 abstract: >-
   A digital edition of the Commentarii Academiae Scientiarum

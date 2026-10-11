@@ -1,4 +1,5 @@
-[![TEI P5](https://img.shields.io/badge/TEI-P5-blue.svg)](https://tei-c.org/) [![18th Century](https://img.shields.io/badge/18th-century-purple.svg)](https://en.wikipedia.org/wiki/18th_century) [![Language: Latin](https://img.shields.io/badge/Language-Latin-yellow.svg)](https://en.wikipedia.org/wiki/Latin) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![TEI P5](https://img.shields.io/badge/TEI-P5-blue.svg)](https://tei-c.org/) [![18th Century](https://img.shields.io/badge/18th-century-purple.svg)](https://en.wikipedia.org/wiki/18th_century) [![Language: Latin](https://img.shields.io/badge/Language-Latin-yellow.svg)](https://en.wikipedia.org/wiki/Latin) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23290892.svg)](https://doi.org/10.5281/zenodo.23290892)
+
 
 # Commentarii Academiae Scientiarum Imperialis Petropolitanae: Editio Digitalis
 
@@ -153,7 +154,7 @@ commentarii/
 Если вы используете это издание в научной работе, пожалуйста, ссылайтесь на него следующим образом:
 
 ```
-Орехов, Борис. Commentarii Academiae Scientiarum Imperialis Petropolitanae: Editio Digitalis. 2026. URL: https://github.com/nevmenandr/commentarii
+Орехов, Борис. Commentarii Academiae Scientiarum Imperialis Petropolitanae: Editio Digitalis. 2026. URL: https://github.com/nevmenandr/commentarii DOI: 10.5281/zenodo.23290892.
 ```
 
 Машиночитаемая информация для цитирования доступна в файле [`CITATION.cff`](CITATION.cff).
