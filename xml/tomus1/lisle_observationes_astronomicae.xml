@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="la">Observationes Astronomicae Petropoli factae</title>
+        <title xml:lang="ru">Астрономические наблюдения, произведённые в Петербурге</title>
+        <author>
+          <persName>
+            <forename>Iosephus Nicolaus</forename>
+            <surname>de L'Isle</surname>
+            <addName type="latin" xml:lang="la">Iosephus Nicolaus de L'Isle</addName>
+          </persName>
+          <persName>
+            <forename>Ludovicus</forename>
+            <surname>de L'Isle de la Croyere</surname>
+            <addName type="latin" xml:lang="la">Ludovicus de L'Isle de la Croyere</addName>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <forename>Борис</forename>
+            <surname>Орехов</surname>
+            <addName type="latin" xml:lang="la">Boris Nuceus</addName>
+            <addName type="english" xml:lang="en">Boris Orekhov</addName>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Борис Орехов (Boris Nuceus / Boris Orekhov)</publisher>
+        <affiliation xml:lang="ru">Институт русской литературы (Пушкинский Дом) Российской академии наук</affiliation>
+        <affiliation xml:lang="la">Institutum Litterarum Russicarum (Domus Puskiniana) Academiae Scientiarum Russicae</affiliation>
+        <address>
+          <email>nevmenandr@gmail.com</email>
+        </address>
+        <ptr target="https://github.com/nevmenandr/commentarii"/>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Commentarii Academiae Scientiarum Imperialis Petropolitanae</title>
+          <biblScope unit="volume">Tomus I</biblScope>
+          <biblScope unit="page">465-488</biblScope>
+          <pubPlace>Petropoli</pubPlace>
+          <publisher>Typis Academiae</publisher>
+          <date when="1728">CIƆ IƆ C C X X V I I I</date>
+          <ptr target="https://archive.org/download/commentariiacade01impe/commentariiacade01impe_bw.pdf"/>
+          <note>Экземпляр из библиотеки Британского музея (Natural History), Лондон.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Электронное научное издание «Commentarii Academiae Scientiarum Imperialis Petropolitanae: Editio Digitalis».</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Текст приведён в исправленном после OCR виде. В оригинале используется долгая s (ſ, U+017F); в настоящем издании она передана как обычная s.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="la">Latin</language>
+        <language ident="ru">Russian</language>
+      </langUsage>
+      <textClass>
+        <classCode scheme="internal">astronomia</classCode>
+        <keywords>
+          <term type="added">astronomy</term>
+          <term type="added">Jupiter's satellites</term>
+          <term type="added">meridian difference</term>
+          <term type="added">observations</term>
+          <term type="added">St. Petersburg</term>
+          <term type="added">18th century astronomy</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="article">
+        <head>OBSERVATIONES ASTRONOMICAE PETROPOLI FACTAE.</head>
+
+        <head>Monitum.</head>
+
+        <p>Ad calcem cuiusque Tomi horum Commentariorum Academicorum reservabitur Diarium Observationum Astronomicarum; idque potissimum hunc in finem, ut tempus suppetat recipiendis Exterarum Regionum Observationibus, respondentibus illis, quae quolibet anno fient Petropoli in Observatorio Imperiali, aut aliis in locis Imperii Russici. Inferentur igitur ex his Observationibus peregrinis illae, quae aut coincident cum nostris, aut quarum comparatio cum nostris utilitatis aliquid ad promovendam Astronomiam et Geographiam afferre videbitur.</p>
+
+        <p>Recensentur autem in primo hoc Tomo non nisi Observationes Satellitum Jovis, quarum ope stabilita fuit differentia Meridianorum Petropolitani et urbium totius Europae celeberrimarum, e quibus Observationes nostris congruas accepimus. Differuntur in proxime sequentem Tomum horum Commentariorum, illa, quae facient ad determinandas huius nostrae urbis Latitudinem et Refractiones.</p>
+
+        <head>ECLIPSES SATELLITUM JOVIS, OBSERVATAE PETROPOLI, Iosepho Nicolao de L'Isle &amp; Ludovico de L'Isle de la Croyere.</head>
+
+        <p>Ann. N.S. temp. vero. h. ' "</p>
+        <p>1726 Julio. 10 12 47 0</p>
+
+        <p>Immersio primi satellitis, observata per Tubum Campanianum 15. ped. nocuerunt autem eo tempore nimia crepusculi claritas, atque adhuc alia; unde ultra minuta prima in definiendo tempore non licuit assurgere.</p>
+
+        <p>Aug. 9 14 51 30</p>
+
+        <p>Immersio primi satell. per eundem Tub. 15. ped. aliumque 20 1/2 ped. observata. Ob eadem vero quae antea impedimenta, fides haberi assignato tempori non potest, nisi extra 1/4 minuti unius primi.</p>
+
+        <p>1726 Aug. 18 11 15 46, 11 15 52, 22 16 13, 20 28 8 47 8; Dec. 6 7 11 18, 10 30 31 10 30 38, 29 7 15 36, 7 15 48, 2 10 59 46; per 1 per 1 per 1 per 1 per 1 per 1 per 1 per 2 per 2 per 2 per 2 per 2 per 2 per 2 per</p>
+
+        <p>7 10 9 56, 10 10 4; Febr. 1 7 17 15; Aug. 5 11 52 23, 7 10 59 27, 8 13 37 9, 21 14 50 30</p>
+
+        <p>per Tub. 20 1/2 ped. puto autem hanc alteram observationem certiorem, &amp; exactam intra pauca minuta secunda. Quamvis enim caelum serenum videretur, non ita tamen distincte apparebat Jupiter uti alias solebat, transiens nempe subinde per vapores, qui ipsum deformabant, coloribusque inficiebant.</p>
+
+        <p>Emersio secundi per Tub. 20 1/2 ped.</p>
+
+        <p>per Tub. 15. ped.</p>
+
+        <p>Emersio secundi per Tub. 20 1/2 ped. exacta.</p>
+
+        <p>Immersio tertii per Tub. 22. ped. caelo sereno &amp; tranquillo; tardus autem huius satellitis motus impediebat certitudinem immersionis usque ad aliquot minuta secunda. Praeterierant iamjam 4 aut 5 minuta prima ab initio diminutionis.</p>
+
+        <p>Immersio primi per Tub. 22. ped. nocuit autem Jupiter horizonti proximus.</p>
+
+        <p>Immersio secundi, per Tub. 22. ped.</p>
+
+        <p>Immersio primi, per Tub. 22. ped.</p>
+
+        <p>1727 Aug. 30 11 15 18</p>
+
+        <p>Immersio primi per Tub. 22. ped. caelo sereno &amp; quieto.</p>
+
+        <p>Sept. 2 10 43 57</p>
+
+        <p>Immersio secundi. Tubo 22. ped. caelo sereno &amp; tranquillo.</p>
+
+        <p>6 13 11 24</p>
+
+        <p>Immersio primi per Tub. 22. ped. non detegebatur autem prius Jupiter, nisi imminuto iam Satellite.</p>
+
+        <p>9 13 21 35</p>
+
+        <p>Immersio secundi per Tub. 22. ped. caelo sereno.</p>
+
+        <p>10 9 34 30</p>
+
+        <p>Emersio tertii per Tub. 22. ped. caelum erat tranquillum, sed non ubique serenum.</p>
+
+        <p>15 9 36 32</p>
+
+        <p>Immersio primi per Tub 22. ped. caelo sereno &amp; tranquillo.</p>
+
+        <p>Oct. 31 10 8 48</p>
+
+        <p>Immersio primi, per Tub. 15. ped. Dubia nonnihil ob ventum, nubes &amp; viciniam Lunae.</p>
+
+        <p>Dec. 2 8 46 30</p>
+
+        <p>Emersio primi. per Tub. 22. ped. exacta, tempestate valde serena, nec obstante vicinia Satellitis &amp; Jovis.</p>
+
+        <p>12 14 6 0</p>
+
+        <p>Emersio tertii. per Tub. 22. ped. caelo tranquillo, sed non plane sereno.</p>
+
+        <p>1728 Ian. 8 12 14 44</p>
+
+        <p>Emersio secundi per Tub. 15. ped. certa non nisi intra aliquot min. secunda ob impetus venti.</p>
+
+        <p>12 33 34</p>
+
+        <p>Emersio primi per Tub. 13. ped. intra aliquot min. secunda ob eundem ventum.</p>
+
+        <p>1728 Ian. 10 5 58 7</p>
+
+        <p>Emersio tertii per Tub. 22. ped. aliquot min. secundis incerta, ob ventos vehementes.</p>
+
+        <p>7 0 12</p>
+
+        <p>Emersio primi, per Tub. 22. ped. nocebant venti.</p>
+
+        <p>17 7 56 31</p>
+
+        <p>Immersio tertii, per Tub. 13. ped.</p>
+
+        <p>8 53 4</p>
+
+        <p>Emersio primi, per Tub. 22. ped. exacta.</p>
+
+        <p>9 55 14</p>
+
+        <p>Emersio tertii, per Tub. 22. ped. bona.</p>
+
+        <p>Febr. 16 10 59 26</p>
+
+        <p>Emersio primi, Tub. 22. ped. intra pauca m. sec.</p>
+
+        <p>18 5 28 20</p>
+
+        <p>Emersio primi. Tub. 15. p. caelo sereno, sed claro adhuc crepusculo.</p>
+
+        <p>25 7 24 10</p>
+
+        <p>Emersio primi Tub. 22. p. caelo sereno.</p>
+
+        <p>27 6 40 5</p>
+
+        <p>Emersio secundi Tub. 22. p. caelo sereno &amp; tranquillo.</p>
+
+        <p>29 8 0 29</p>
+
+        <p>Immersio tertii per Tub. 22. ped. caelum serenum erat &amp; tranquillum, incerta tamen est haec observatio intra 10. aut 15. min. secunda, evanescente, &amp; redeunte Satellite aliquot vicibus.</p>
+
+        <p>Mart. 10 11 18 19</p>
+
+        <p>Emersio primi, per Tubos 13. &amp; 15. ped. caelo sereno &amp; tranquillo.</p>
+
+        <p>1728 Apr. 12 8 16 12</p>
+
+        <p>Immersio tertii per Tub. 15. ped. caelo sereno &amp; tranquillo.</p>
+
+        <p>10 30 40</p>
+
+        <p>Emersio tertii, per Tub. 15. ped. caelo sereno &amp; tranquillo; quamvis autem Jupiter non multum supra horizontem elevatus fuerit, observatio certa est intra paucula quaedam min. secunda.</p>
+
+        <head>Notae ad has Observationes.</head>
+
+        <p>Primae harum Observationum usque ad mensem Februarium, a Fratre meo de la Croyere &amp; a me. Frater meus saepissime adhibebat Telescopium Campanianum 15. ped. ego vero aliud 20 1/2 ped. cuius ope immersiones primi &amp; secundi satellitis sex aut septem min. secundis tardius observabam quam frater meus ope sui Tubi; Emersiones contra citius ego detegebam, plane ita, uti huius rei saepius experimentum cepimus in Gallia, utque etiam apparet ex his nostris Observationibus, Augusti 18. Sept. 10. Decembr. 6. 1726. nec non Januarii 7. 1727. Obtulit sefe interim quoque differentia 12. min. secundorum in Emersione primi Dec. 29. 1725. ut alias maiores adhuc taceam, nempe 21. min. secundorum in Immersione 3. Jan. 2. 1727, tribuenda vero est haec ultima differentia tarditati motus huius satellitis, circumstantiisque etiam temporis; quae in latere observationis notatae sunt.</p>
+
+        <p>Postquam deinde Frater meus mandato Imperiali hinc Archangelopolin profectus esset mense Aprili 1727. deportassetque secum Telescopium 20 1/2 ped. ego in reliquis Observationibus frequentissime usus sum Tubo 22. ped. cuius ope, ut multis vicibus Parisiis expertus sum, Immersiones primi &amp; secundi satellitis 5. aut 6 secundis tardius animadvertere mihi licuit, quam ope Tubi 20 1/2 ped.</p>
+
+        <p>Ins erviit mihi quoque aliquando in ultimis hisce Observationibus Telescopium Campanianum 15. ped. aliudque in Anglia elaboratum 13. ped. quod multa claritate obiecta exhibet. Quin etiam saepissime observationes habitae sunt per tres hosce diversos Tubos 13. 15. &amp; 22. ped. adiuvantibus me post abitum Fratris mei Dnis Krafftio &amp; Vignon; at vero cum non semper accideret ut momenta Observationum tanto praecise intervallo inter se distarent ac Tuborum longitudines illud requirebant: adscribendum id esse putavi diversae oculorum constitutioni; itaque consultius esse credidi ut recenseam ex omnibus his observatis ea, quae maximam partem ipse ego definivi ope Telescopii omnium nostrorum longissimi. Ab initio etiam cum meus adhuc frater mecum esset, hoc aliquoties premebamur incommodo, ut per quosdam dies, in hieme praesertim, Sol non conspicuus esset, quod etiam sufficiebat ad errorem aliquem tempori inducendum. Eiusmodi Observationes, quarum tempus verum incertum est ex hac ipsa causa quam allegavi, sunt maxime Octobr. 19. 28. 1727.</p>
+
+        <p>Sequentibus temporibus anni nempe 1727. &amp; 28. certior magis fui de tempore vero, exigendo saepius quam alias motum horologiorum ad Solem, favente nimirum occasione, ut ineunte vere anni 1727 lineam meridianam ducere potuerim, iuxta methodum a me designatam in Commentariis Acad. Reg. Scient. Paris. 1719. p. 54.</p>
+
+        <head>ECLIPSES SATELLITUM JOVIS NOSTRIS RESPONDENTES, OBSERVATAE IN OBSERVATORIO REGIO PARISINO A D.D. CASSINO ET MARALDO per Telescopia 17. &amp; 18. ped.</head>
+
+        <p>N.S. temp. vero</p>
+
+        <p>1726 Aug. 9 12 59 49</p>
+
+        <head>Prima Observatio.</head>
+
+        <p>Immersio primi observata Parisiis.</p>
+
+        <p>14 51 30</p>
+
+        <p>Eadem observata Petropoli, per Tub. 15 &amp; 20 1/2 ped.</p>
+
+        <p>1 51 41</p>
+
+        <p>Differentia meridianorum. Quoniam vero Petropolitanum tempus illa vice non exactum erat nisi intra quadrantem minuti primi, obstante nimirum nimio crepusculo aliisque impedimentis, quae Satellitem iusto citius e conspectu nostro removerunt, differentia meridianorum exinde paulo maior emergere debet. Supponam itaque illam vi huius observationis 1. 51. 50.</p>
+
+        <p>1726 Aug. 16 14 55 4</p>
+
+        <head>Secunda Observatio.</head>
+
+        <p>Immersio primi exacte Parisiis Observata.</p>
+
+        <p>Periodus huius Satell. per Tabulas.</p>
+
+        <p>Emersio I. veluti Parisiis apparere debebat.</p>
+
+        <p>Emersio observata Petropoli, capiendo tempus medium inter Telescopia 15 &amp; 20 1/2 ped.</p>
+
+        <p>Differentia meridianorum, quam verae valde propinquam credo, quamvis enim mihi heic loci Lunae viciniae nocuisset; idem etiam Parisiis accidit, adeoque differentia meridianorum exinde variari non potuit.</p>
+
+        <p>Sept. 8 15 12 5</p>
+
+        <head>Tertia Observatio.</head>
+
+        <p>Immersio primi observata Parisiis.</p>
+
+        <p>Periodus primi Satellitis iuxta tabulas.</p>
+
+        <p>10 9 41 15</p>
+
+        <p>Immersio, uti Parisiis observari debuit.</p>
+
+        <p>11 32 54</p>
+
+        <p>Observata Petropoli, capiendo medium inter tempora Tuborum 15 &amp; 20 1/2 ped.</p>
+
+        <p>1 51 39</p>
+
+        <p>Differentia meridianorum.</p>
+
+        <p>1726 Oct. 19 10 29 53</p>
+
+        <head>Quarta Observatio.</head>
+
+        <p>Emersio primi, observata Parisiis, dubia nonnihil.</p>
+
+        <p>12 21 46</p>
+
+        <p>Eadem observata Petropoli per. Tub. 15. ped.</p>
+
+        <p>1 51 39</p>
+
+        <p>Differentia meridianorum.</p>
+
+        <p>Dixi in notis antecedentibus ad meas observationes, quod non plane certus sim de vero tempore huius observationis. Eadem Parisiis habita, dubia nonnihil est, quia scilicet Satelles in utroque loco nimis vicinus Jovi erat, qui non nisi ante sex dies in oppositione Solis fuerat. Cum tamen differentia a me meridianorum exinde prodeat non nimis diversa a praecedentibus, observatio haec non adeo erronea credenda est; auferam tamen 3. secunda, cum breviori Tubo, Emersio haec Petropoli quam Parisiis observata fuerit, ut adeo differentia meridianorum sit vi huius observationis 1 51 50.</p>
+
+        <p>1726 Nov. 28 8 47 8</p>
+
+        <head>Quinta Observatio.</head>
+
+        <p>Emersio primi Parisiis.</p>
+
+        <p>Eadem Petropoli, per Tub. 15. ped. intra pauca secunda.</p>
+
+        <p>1 52 33</p>
+
+        <p>Differentia meridianorum, quae minui debet tribus secundis, ob diversam Tuborum longitudinem; aliisque adhuc quibusdam ob errorem qui in Petropolitanam irrepsit observationem, quique effecit vt serius iusto mihi apparuerit emersio; utcunque autem tractetur haec Observatio, differentiam tamen meridianorum producit, non minorem quam 1. 52. 20. quae multo maior est quam reliquae praecedentes, credo autem praecipuum errorem exinde esse, quod aliquot dies sine Sole hic exegimus circa hoc tempus, uti antea iam annotavi, quapropter non rationem huius observationis habendam censeo.</p>
+
+        <p>1726 Dec. 6 5 20 20</p>
+
+        <head>Sexta Observatio.</head>
+
+        <p>Emersio primi Parisiis. Eadem Petropoli, per Tub. 20 1/2 ped. dubia nonnihil.</p>
+
+        <p>7 11 18</p>
+
+        <p>Differentia Meridianorum, quae aucta 5. secundis veluti diversa Tuborum longitudo id requirit, efficit differentiam 1. 51. 3. reiiciendam rursus, quia dubia nonnihil fuit nostra observatio.</p>
+
+        <p>1727 Ian. 7 8 19 0</p>
+
+        <head>Septima Observatio.</head>
+
+        <p>Emersio secundi Parisiis inter nubeculas observata.</p>
+
+        <p>10 10 0</p>
+
+        <p>Eadem Petropoli, capiendo medium inter Tubos.</p>
+
+        <p>1 51 0</p>
+
+        <p>Differentia Meridianorum, quae ob nubes, Parisiensem observationem sine dubio retardantes, augeri aliquot secundis debet; cum autem quantitas huius retardationis aestimari nequeat, etiam haec observatio in computum finalem admitti non debet.</p>
+
+        <p>1727 Aug. 21 12 58 30</p>
+
+        <head>Octava Observatio.</head>
+
+        <p>Immersio I. Parisiis, ubi satellites dum intraret umbram amissus fuit vento Tubum agitante.</p>
+
+        <p>14 50 30</p>
+
+        <p>Eadem Petropoli, per Tubum 22. ped.</p>
+
+        <p>1 52 0</p>
+
+        <p>Differentia Meridianorum, quae minui debet 7 aut 8 secundis ob diversam longitudinem Tuborum, atque adhuc aliis quibusdam secundis ob agitationem venti quae Parisiensi Tubo nocuit, atque iusto citius Satellitem e conspectu removit. Poterit itaque supponi differentia a reliquis non multum diversa, 1. 51. 50.</p>
+
+        <p>1727 Aug. 30 11 15 18</p>
+
+        <head>Nona Observatio.</head>
+
+        <p>Immersio primi observata Petropoli per Tub. 22. ped. caelo sereno &amp; tranquillo.</p>
+
+        <p>1 18 29 5</p>
+
+        <p>Periodus huius Satellitis iuxta Tabulas.</p>
+
+        <p>28 16 46 13</p>
+
+        <p>Immersio uti Petropoli accidere debebat.</p>
+
+        <p>14 54 7</p>
+
+        <p>Immersio observata Parisiis, ubi Satelles ex oculis elapsus, Jove inter tenues nubeculas vertente.</p>
+
+        <p>1 52 6</p>
+
+        <p>Differentia Meridianorum, minuenda 7. aut 8. secundis uti praecedens ob diversam Tuborum longitudinem, atque adhuc quibusdam ob nubeculas Jovem Parisiis impedientem, unde satis tutum erit supponere vi huius observationis differentiam meridianorum 1. 51. 50.</p>
+
+        <head>Differentia Meridianorum Parisiensis &amp; Petropolitani, cum Longitudine Petropoleos a Primo Meridiano per Insulam Ferri transeuntem.</head>
+
+        <p>Quodsi iam a novem observationibus modo recensitis auferantur 5ta, 6ta &amp; 7ma. ob rationes ibi allatas, medium inter sex reliquas non multum abludens emerget 1. 51. 50. unde non dubito hanc differentiam Meridianorum Parisiensis &amp; Petropolitani pro vera assumere, in Tempore nimirum. Non exactior enim haberi potest, nisi per maiorum Observationum non interruptarum quantitatem utriusque loci, secus atque in paucis correspondentibus, quas attulimus, accidit. Per Observationes vero Rev. P. Feuillee in Insulis Canariis habitas Anno 1724. comparatasque cum Parisiensibus, Longitudo Parisiorum respectu, partis maxime Occidentalis in Insula Ferri, quae &amp; ipsa Canariarum maxime occidentalis est, inventa fuit praecise 20 graduum, plane sicuti Frater meus natu maior nomine Guilielmus amplius quam 20 annis antea praedixerat, uti videre est in Diario Eruditorum anni 1700 quam etiam determinationem semper adhibuit in construendis suis Mappis Geographicis, reclamantibus omnibus aliis Astronomis &amp; Geographis; Conversa igitur in Gradus differentia modo inventa Temporis Parisiensis &amp; Petropolitani, additisque 20 gradibus prodibit vera longitudo Petropoleos in gradibus a primo Meridiano 47. 57 30.</p>
+
+        <head>ECLIPSES SATELLITUM JOVIS PETROPOLITANIS RESPONDENTES, ET OBSERVATAE BONONIAE IN ITALIA, A DOM. EUSTACHIO MANFREDI.</head>
+
+        <p>N.S.</p>
+
+        <p>1726 Aug. 18 11 15 46</p>
+
+        <head>Prima Observatio.</head>
+
+        <p>Immersio primi observata Petropoli caelo sereno &amp; tranquillo, vicinis inter se Luna &amp; Jove.</p>
+
+        <p>1 18 28 53</p>
+
+        <p>Periodus huius Satellitis eo tempore.</p>
+
+        <p>16 16 46 53</p>
+
+        <p>Immersio primi, veluti Petropoli apparere debuit.</p>
+
+        <p>15 29 0</p>
+
+        <p>Eadem observata Bononiae per Tubum 11. ped. Bononiensium aut 13. ped. Paris. dubia</p>
+
+        <p>1 17 53</p>
+
+        <p>Differentia Meridianorum, quae minui debet 3 ob diversam longitudinem Tuborum, erit igitur eadem numeris rotundis 1. 17. 50. sed Bononiensis observatio dubia erat, unde etiam a Dno Manfredi non nisi minuta prima notata sunt.</p>
+
+        <p>1726 Dec. 6 7 11 18</p>
+
+        <head>Secunda Observatio.</head>
+
+        <p>Emersio primi Petropoli per Tub. 20 1/2 ped. dubia.</p>
+
+        <p>Periodus Satellitis eo tempore Emersio uti Petropoli apparere debuit.</p>
+
+        <p>Observata Bononia per Tub. 13. ped. dubia.</p>
+
+        <p>Differentia meridianorum, quae differentia augeri debet circiter 10, propter diversam tuborum longitudinem, prodibit ea igitur 1. 15. 34. sed dubia erat observatio Petropoli &amp; Bononiae.</p>
+
+        <p>1726 Dec. 29 8 40 26</p>
+
+        <head>Tertia Observatio.</head>
+
+        <p>Emersio primi observata Petropoli per tub. 15 pedum exacte.</p>
+
+        <p>Eadem observata Bononiae per Tub. 13. ped.</p>
+
+        <p>Differentia meridianorum, cui adiicienda sunt 3 ob diversam Tuborum longitudinem, emerget itaque differentia 1 16. 25. quae recte sefe habere videtur, cum Petropolitana observatio exacta fuerit, neque Bononiensem dubium aliquod turbaverit.</p>
+
+        <p>1727 Ian. 7 10 10 4</p>
+
+        <head>Quarta Observatio.</head>
+
+        <p>Emersio secundi observ. Petropoli per Tub. 15. ped.</p>
+
+        <p>8 54 12</p>
+
+        <p>Eadem Bononiae per Tub. 13. ped.</p>
+
+        <p>1 15 55</p>
+
+        <p>Differentia Meridianorum. Haec quoque observatio nulli dubio subiecta est, retinenda igitur pro iusta, aucta prius 3 pro diversa Tuborum longitudine, unde meridiani distabunt ex hac observatione 1. 15. 55.</p>
+
+        <p>1727 Aug. 21 14 50 30</p>
+
+        <head>Quinta Observatio.</head>
+
+        <p>Immersio primi observata Petropoli per Tub. 22. p.</p>
+
+        <p>1 13 34 39</p>
+
+        <p>Eadem observata Bononiae per Tub. 13. ped.</p>
+
+        <p>1 15 51</p>
+
+        <p>Differentia Meridianorum. Observatio haec, cum dubia non sit notata, retineri debet, abiectis tantum 12. sec. pro diversa Tuborum longitudine; erit adeoque differentia meridianorum per hanc observationem 1. 15. 39.</p>
+
+        <p>1727 Sept. 6 13 11 24</p>
+
+        <head>Sexta Observatio.</head>
+
+        <p>Immersio primi, Petropoli, per Tub. 22. ped. ubi Jupiter non prius apparuit, quam Satelles iamjam minui coeperit.</p>
+
+        <p>11 55 17</p>
+
+        <p>Eadem Bononiae per Tub. 13. ped.</p>
+
+        <p>1 16 7</p>
+
+        <p>Differentia meridianorum, minuenda ob diversos Tubos 12. ut prodeat eadem 1. 15. 55. quae pro legitima assumenda est. Quamvis enim hic Petropoli Jupiter non nisi minuto iam Satellite apparuerit, non tamen id me impediit quominus persequerer eum usque ad totalem immersionem.</p>
+
+        <p>1728 Febr. 16 10 59 26</p>
+
+        <head>Septima Observatio.</head>
+
+        <p>Emersio I.mi, Petropoli, per Tub. 22. ped. intra aliquot sec.</p>
+
+        <p>9 43 8</p>
+
+        <p>Eadem Bononiae per Tub. 13. ped.</p>
+
+        <p>Differentia meridianorum, 12. augenda ob diversos Tubos, ut adeo proveniat 1. 16. 30. intra aliquot secunda, ultra quam exactitudinem Petropolitana haec Observatio sefe non extendit.</p>
+
+        <head>Differentia Meridianorum Petropolitani &amp; Bononiensis in Italia.</head>
+
+        <p>Per septem Observationes paulo ante enumeratas inventa fuit haec differentia uti sequitur: nempe</p>
+        <p>per primam — 1 17 50</p>
+        <p>secundam — 1 15 34</p>
+        <p>tertiam — 1 16 25</p>
+        <p>quartam — 1 15 55</p>
+        <p>quintam — 1 15 39</p>
+        <p>sextam — 1 15 55</p>
+        <p>septimam — 1 16 30</p>
+
+        <p>E quibus si auferatur prima, tanquam nimis diversa a ceteris, capiturque medium inter sex reliquas, habebimus differentiam horum Meridianorum quam proxime 16 0 quae amplectenda tamdiu est, dum in utroque loco exactiores habeantur Observationes.</p>
+
+        <head>ECLIPSES PRIMI SATELLITIS JOVIS PETROPOLITANIS RESPONDENTES, OBSERVATAE ULYSSIPPONE A REV. P. CARBONE S. I. Per Tub. Campan. 30 palm. Rom. aut 20 1/2 ped. Regior.</head>
+
+        <p>1726 Aug. 9 14 51 30</p>
+
+        <head>Prima Observatio.</head>
+
+        <p>Immersio primi obs. Petropoli Tub. 20 1/2 ped. dubia 15 sec. ob crepusculum.</p>
+
+        <p>12 13 30</p>
+
+        <p>Eadem observata Ulyssippone.</p>
+
+        <p>2 38 0</p>
+
+        <p>Differentia Meridianorum, quae augeri potest aliquot secundis ob crepusculi claritatem, quae Petropoli S. tellitem sine dubio iusto citius e conspectu removit, supponam itaque vi huius observationis 2 38 0.</p>
+
+        <p>1726 Sept. 10 11 32 56</p>
+
+        <head>Secunda Observatio.</head>
+
+        <p>Immersio primi obs. Petropoli per Tub. 20 1/2 ped.</p>
+
+        <p>Eadem Ulyssippone.</p>
+
+        <p>Differentia meridianorum, verae sine dubio valde propinqua, cum nihil excipi possit, contra utramque observationem, ipsaque haec differentia cum praecedenti etiam fere consentiat.</p>
+
+        <p>1726 Oct. 28 8 47 8</p>
+
+        <head>Tertia Observatio.</head>
+
+        <p>Emersio primi, observata Petropoli per Tub. 15. ped. intra aliquot secunda.</p>
+
+        <p>Eadem Ulyssippone.</p>
+
+        <p>Differentia meridianorum minuenda 7. secundis pro diversa Tuborum longitudine erit igitur haec differentia correcta. 2 38 9.</p>
+
+        <p>Inventum est per Observ. 1 2 38 10 per 2 2 38 2 3 2 38 9</p>
+
+        <p>ubi medium est 2 38 7</p>
+
+        <head>Annotatio ad has Observationes, in qua deducitur, quantum tota fere Europa in Longitudinem sit extenta.</head>
+
+        <p>Observationes quas modo recensuimus factae Ulyssippone &amp; congruentes cum Petropolitanis, primae omnium forfitan sunt, quae in Europa unquam factae sunt cum aliqua exactitudine, tanta in distantia; cum igitur Ulyssippo urbs maxime occidentalis sit totius Europae; neque in Russia, parte Europae maxime Orientali, hucusque aliae observationes accurate factae sint, quam Petropoli; poterit praecedens Meridianorum Ulyssipponensis &amp; Petropolitani differentia haberi, pro maxima extensione totius Europae in Longitudinem, quantum hucusque accurate definiri potuit, per immediatas observationes. Supra dicta meridianorum differentia in partes circuli conversa sit. 39. 31. 45.</p>
+
+        <p>Accepi etiam quasdam observationes Satellitum Jovis, Berolini a D. Kirch, Norimberga a D. Rost, Madriti à P. Nicasio Grammatici, &amp; Pekini a P. Ignatio Kögler Soc. Jesu, tribunalis Astronomiae in Sinis praeside, habitas; cum vero paucae sint, necesse est ut in sequens volumen horum Commentariorum situm Petropoleos respectu harum celebrium totius Terrae Urbium, differam; ubi spero me interea temporis novas exinde Observationes accepturum esse, quarum ope securius stabilire possim has Longitudines.</p>
+
+        <p>FINIS.</p>
+
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="la">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>De directione Corporum gravium in vortice Sphaerico — Commentarii Academiae Scientiarum Imperialis Petropolitanae</title>
+  <link rel="stylesheet" href="../style.css" />
+  <script src="../CETEI.js"></script>
+</head>
+<body>
+
+<header>
+  <p class="breadcrumb">
+    <a href="../index.html">Главная</a> ·
+    <a href="../catalogue.html">Оглавление Тома I</a>
+  </p>
+  <h1>De directione Corporum gravium in vortice Sphaerico</h1>
+  <p class="subtitle">О направлении тяжёлых тел в сферическом вихре</p>
+  <p class="author">Георг Бернхард Бюльфингер</p>
+</header>
+
+<main>
+  <div id="TEI"></div>
+</main>
+
+<footer>
+  <p>
+    <a href="https://github.com/nevmenandr/commentarii">Репозиторий на GitHub</a> ·
+    CC BY 4.0
+  </p>
+</footer>
+
+<script>
+  (function () {
+    var CETEIcean = new CETEI();
+    CETEIcean.getHTML5("../../xml/tomus1/bulfinger_de_directione_corporum.xml", function (data) {
+      document.getElementById("TEI").appendChild(data);
+    });
+  })();
+</script>
+
+</body>
+</html>

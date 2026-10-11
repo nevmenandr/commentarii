@@ -79,5 +79,10 @@
   <xi:include href="bayer_de_origine_scytharum.xml"/>
   <xi:include href="bayer_de_situ_scythiae.xml"/>
   <xi:include href="bayer_de_muro_caucaseo.xml"/>
+
+  <!-- Титульный лист раздела: Observationes Astronomicae Petropoli factae -->
+  <xi:include href="tomus1_observationes_titulus.xml"/>
+
+  <!-- Статьи раздела Observationes Astronomicae -->
   <xi:include href="lisle_observationes_astronomicae.xml"/>
 </teiCorpus>

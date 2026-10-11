@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="la">De Origine et Priscis Sedibus Scytharum</title>
+        <title xml:lang="ru">О происхождении и древних местах обитания скифов</title>
+        <author>
+          <persName>
+            <forename>Theophilus Sigefridus</forename>
+            <surname>Bayerus</surname>
+            <addName type="latin" xml:lang="la">Theophilus Sigefridus Bayerus Regionontanus</addName>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <forename>Борис</forename>
+            <surname>Орехов</surname>
+            <addName type="latin" xml:lang="la">Boris Nuceus</addName>
+            <addName type="english" xml:lang="en">Boris Orekhov</addName>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Борис Орехов (Boris Nuceus / Boris Orekhov)</publisher>
+        <affiliation xml:lang="ru">Институт русской литературы (Пушкинский Дом) Российской академии наук</affiliation>
+        <affiliation xml:lang="la">Institutum Litterarum Russicarum (Domus Puskiniana) Academiae Scientiarum Russicae</affiliation>
+        <address>
+          <email>nevmenandr@gmail.com</email>
+        </address>
+        <ptr target="https://github.com/nevmenandr/commentarii"/>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</licence>
+        </availability>
+        <date when="2026">2026</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Commentarii Academiae Scientiarum Imperialis Petropolitanae</title>
+          <biblScope unit="volume">Tomus I</biblScope>
+          <biblScope unit="page">387-398</biblScope>
+          <pubPlace>Petropoli</pubPlace>
+          <publisher>Typis Academiae</publisher>
+          <date when="1728">CIƆ IƆ C C X X V I I I</date>
+          <ptr target="https://archive.org/download/commentariiacade01impe/commentariiacade01impe_bw.pdf"/>
+          <note>Экземпляр из библиотеки Британского музея (Natural History), Лондон.</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Электронное научное издание «Commentarii Academiae Scientiarum Imperialis Petropolitanae: Editio Digitalis».</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Текст приведён в исправленном после OCR виде. В оригинале используется долгая s (ſ, U+017F); в настоящем издании она передана как обычная s.</p>
+        <p>В тексте встречаются греческие, арабские и древнееврейские слова, которые переданы средствами Unicode.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="la">Latin</language>
+        <language ident="ru">Russian</language>
+        <language ident="grc">Ancient Greek</language>
+        <language ident="ar">Arabic</language>
+        <language ident="he">Hebrew</language>
+      </langUsage>
+      <textClass>
+        <classCode scheme="internal">historia</classCode>
+        <keywords>
+          <term type="added">Scythians</term>
+          <term type="added">ancient geography</term>
+          <term type="added">Herodotus</term>
+          <term type="added">ethnogenesis</term>
+          <term type="added">18th century historiography</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="article">
+        <head>DE ORIGINE ET PRISCIS SEDIBUS SCYTHARUM.</head>
+        <p>Auctore Theophilo Sigefrido Bayero Regionontano.</p>
+
+        <p>Ut omnes intelligant iam inde a principio, quae mea de Scythicis gentibus opinio sit, ita praedico, me nequaquam ex earum stirpe Sarmaticas, Russicas &amp; Sclavonicas gentes, aut Hunnos veteres nostrosque Hungaros, aut denique Tartaricos populos repetere, sed Lituanos &amp; veteres Prussiae incolas, (1) tum Curones, Livones, Aestios, Fennos, &amp; Lappones, &amp; paucos alios. Ista tam directa confessio obversabitur animis haec nostra legentium; donec in progressu id a nobis paullatim constitutum reperient. Cum Ruthenos non patior supposititiam Scytharum esse prolem, iam fructum eum refero, quod turbari stirpes &amp; inferri nobilissimam per se gentem alienis populis non sino. Simul et illud operae pretium facio, quod de ea regione, quae a Scythico nomine antiquitus nobilitata fuit, nunc accessio ingentis Ruthenorum imperii est, exquirendo veterem memoriam elicio &amp; quasi exprimo, quod aut verum sit, aut ad veritatem quam proxime accedat, ne dicam, illis me adiumento esse, qui in edisserendis Hungarorum, Polonorum, Tartarorum, Turcarum, aliorumque populorum originibus, ad Scythas veluti tempestate delati, tamquam ad saxum adhaerescent.</p>
+
+        <p>(1) Non tuli inique ea, quae eruditi viri in Memoriis Treuultinis in me iecerunt, cum nostram de Prussicis originibus sententiam attingerent: spero enim eos pro aequitate sua, plus mihi, cognita caussa, concessuros esse.</p>
+
+        <p>Nam, qui ante nos de Scythicis rebus commentati sint, uno insigni maxime errore implicati constrictique fuerunt, a quo nisi provideamus, oleum &amp; operam in restituenda veteri gentis illius memoria perdimus, multorumque aliorum populorum origines aut proxima originibus coinquinamus. Multos &amp; magnos viros citare possem, ni satius sit, eorum nomina, ex quibus quotidie in aliis proficimus, in hac aberratione silentio obtegere, quam quasi pompam hac praeterducere. Extendunt autem Scythicum nomen vastissimis terrarum spatiis ab Istri propemodum fontibus &amp; Vistula Balticoque mari, iuxta Oceanum septemtrionalem &amp; Pontum Euxinum Caspiumque mare, usque ad extremum orientem. Eo in errore vetusti quoque scriptores praeluserunt, nostrisque fuere offensioni. Primus eorum de quibus constat, Ephorus in quarto historiarum libro, orbem terrarum inter Scythas, Indos, Aethiopas &amp; Celtas divisit. Fragmentum eius loci Cosmas Indicopleustes in Topographia christiana conservavit. (2) Non sum nescius, quod a Diodoro Siculo (3) obiecta est Isocrateo illi Ephoro veri negligentia &amp; quidam quasi stupor: sed quam lenissime pronunciari velim, postquam historiae eius interciderunt, ut judicari non possit. Video igitur Ephorum, cum locorum positus per certa capita distribuere &amp; explicare constitueret, insigniorum nomina gentium vastioribus spatiis adhibuisse, nulla mala fraude, at successu infelici. Nam Ephoro quoquo modo dicta, pro exploratis habebant Graeci plerique &amp; Romani, ita gliscebat error posteritate. Igitur tot tamque diversae stirpis gentes non modo intra communem quandam regionem definitae, unum omnes Scytharum nomen his auctoribus subierunt, sed etiam ab illa regionis appellatione in eandem nationem sunt conflatae. Sic Cimmeriorum res cum Scythicis, Scytharum cum Sarmaticis, Russicis, Hunicis, Tartaricis commiscentur. Sunt qui deinceps non modo regiones, sed etiam tempora confundunt. Nam quaecumque regionum aut gentium illarum nomina apud omnis aevi scriptores reperiunt, ea ad describendam geographiam adhibent, tamquam aleatores tesseras, quibus temere in tabulam iactis, quaecumque sors exit, situm illarum definiat, γῆς 1, γῆς χυδοι, quae quidem secum, si verum spectant, commentata &amp; meditata habere debebant. Nobis adhibenda diligentia est, ne noster labor in easdem reprehensiones iure meritoque incurrat, neve quis nos debito testimonio privet, nihil nos ex vano haurire voluisse &amp; inexplorata non edidisse pro compertis.</p>
+
+        <p>(2) f. 148. (3) f. 26. ed. Steph. καὶ γὰρ τῆς Εὐρώπης ὁ Ἔφορος τὰ πολλὰ διαμαρτάνει, καὶ τῶν Εὐρωπαίων τὰ πλεῖστα ἀγνοεῖ. Apud Ephorum accurationem consummatam frustra quis quaesiverit, qui videat in multis eum parvi pendisse veritatem.</p>
+
+        <p>Scythas plerique a Magogo Japeti filio ortos referunt, quorum in numero Samuel Bochartus facile princeps est. In ea opinione nemo est antiquior Josepho, (4) qui quidem Scythas nomine vocat. Hausisse autem videtur ex Ezechiele (5) qui terram Magog ad septemtrionem Caucasii inter Tanaim &amp; Volgam ponit. At idem ille cum populum Scythicum Gog in terra Magog adpellat, satis perspicue ostendit, alium populum Magog ante Scytharum irruptionem illa loca incoluisset, quae adhuc priscum nomen apud gentes Asiaticas retinuerint. Tantum igitur abest, ut Ezechiele auctore Scythas a Magogo repeti conveniat, ut is etiam adversarius huic opinioni sit. Alii Turcas quoque &amp; Tartaros Magogicae stirpi adserunt, quos quasi ab aboriginibus suis Ezechiel Magog nuncuparit. Itaque de primis Scytharum parentibus &amp; auctoribus non liquere puto. Hoc tamen mihi visus sum ex argumentis minime vanis conjectura consequi, Scytharum maiores ex Armenia descendisse ad austrum atque tum orientem petiisse hibernum, donec ad septemtrionem Caspii maris, a tergo urgentibus aliis familiis, concesserunt. Ex eo tempore ad septemtrionem maris Caspii &amp; ad Volgam eos degisse reperio, iuxta Massagetas &amp; Issedonas. Scythae ipsi se mille ante Darii expeditionem annis ortos tradidere apud Herodotum. (6) Interferitur huic loco a Scythis fabula: Targitaum Scytharum patrem Jove &amp; Borysthenis fluminis filia natum, tres habuisse filios. Nomina eorum haec sunt: Leipoxais, Arpoxais &amp; minimus natu Colaxais. Colaxais imperium caelesti prodigio adeptus est, a quo inter Scythas nobilissima domus οἱ βασιλῆες οἱ καλβοντας βαβαλβας reges, qui dicuntur Paralatae: a Leipoxai Auxaβτας, ab Arpoxai, Καριβασοι καὶ Τρασπιες. Colaxais rursum in tres divisit filios gentem. Universi se Σκολοτοι, βασιλῆες, βασιλῆες adpellarunt, quod regum cognomentum est. Scythae sunt vocati tantummodo a Graecis, ut diserte monet Herodotus. Inde autem manavit vocabulum, quod, cum Graeci, qui inter eos in coloniis Ponticis degebant, admirabilem eorum in sagittando artem &amp; industriam cernerent, sagittariosque ab iis Scythas dici audirent, id nominis toti genti attribuerunt. Et manet adhuc vocabulum in Scythicae originis linguis. Hodie Lituanis Szauti iaculari &amp; iaculatorem significat, a quo est apud Constantinum Szyruidum Szaudu, arcu, sagittis iaculor &amp; Szaudikie sagitta, spiculum, Fennis &amp; Livonibus sagittarius est Skytla &amp; Kytla seu Kyt, sic Curonibus &amp; Aestiis &amp; Lapponibus. Veteribus denique Prutenis, ut Praetorius in orbe Gothico nos docet, fuit Szythi. Manavit etiam in aliorum &amp; diversae stirpis populorum linguas. Et apud Graecos Scytharum nomen per monumenta evasit celebrius, quam Scolotorum, verum quidem, sed obscurum nomen. Mansit tamen Scolotorum nomen apud Athenienses in ludibrio. Nam publici ministri &amp; vigiles Athenis dicti sunt Τοξόται, iidem &amp; Σκυθαί Τοξόται. Τοξόται a Scolotis depravatum. Scythae iidem, quod sagittarii essent &amp; in medio foro habitarent sub pellibus. Sic apud Romanos per contemptum a Phrygibus, Dacis, Syris, Getis, servi nomina habuere.</p>
+
+        <p>(4) Antiq. Jud. Lib. I. c. 7. (5) c. xxxviii. xxxix. (6) L. IV. c. 7. ed. Gron.</p>
+
+        <p>Quantum in hac Scytharum narratione apud Herodotum verum esse videatur, quaerendum nobis duco. Ego vero eiusmodi veteres gentium memorias contemnere non soleo. Forte, quod a Jove &amp; Borysthenitide Herodotus interpretatus est Targitaum prognatum fuisse, id eo factum, quod pater ei Pappaeus aliquis (Pappaeum autem summum deum dixere Scythae, Jovem summum Herodotus putavit) &amp; mater e Cimmeriis ad Borysthenem, regia domo oriunda esset. Sub Targitao Scythae in unum corpus &amp; rempublicam coaluere, divisi postea in tres eius filios totidemque tribus. Plerique populi a constituta primum republica aut insigni aliqua conversione originem repetierunt. Chaldaei Callistheni de vetustate eorum sciscitanti, mille nongentorum trium annorum summam edidere, teste Porphyrio apud Simplicium de caelo. Ex quo colligitur, Chaldaeos centum et quindecim annis diluvio posteriorem gentis suae originem posuisse, ab eo tempore cum reipublicae formam subiere. Ergo cum Scythae mille annis ante Darii expeditionem se ortos tradunt, initium reipublicae suae nobis aperiunt. Si expeditionem Darii ante annum periodi Julianae 4200 collocamus, historia Scythica caput tollit circiter annum 3200, sive annis 1514. ante epocham Dionysianam, extremo tempore servitutis Israelitarum in Aegypto.</p>
+
+        <p>De prisca autem Scytharum regione Herodotus (7) ita acceperat: Scythas, Nomadas fuisse, et in tuguriis passim circum opportuna pascui loca trans Araxem coluisse, inde pulsos a Massagetis bellum intulisse Cimmeriis super australi mari seu Ponto Euxino habitantibus. His veluti parum consonantia ex Arimaspeis Aristeae Proconnesii addit: Arimaspos pepulisse Issedonas, Issedonas a tergo ursisse Scythas, Scythas, non, nisi cedendo ab infesta Issedonum vicinitate se defendere potuisse, idcirco invasisse Cimmeriorum regiones. Hic vero Herodotus: (8) ὅδε περὶ τῆς γῆς τῆς ταύτης λέγεται ita nec Aristeae cum Scythis convenit in regione, quam primitus incoluerint, constituenda. In quo autem, Herodote, Aristeas Scythaeque dissentiunt? Scythae, se primitus ultra Araxem coluisse tradunt: at Aristeas iuxta Issedonas, hoc est, ad orientem Caspii maris. Ita videlicet est. Araxem quem Scythae dicerent, Herodotus ignoravit, putavitque, illum esse in Media καὶ Ματιανῶν, (9) quae ad meridiem vicina Armeniis provincia est. (10) Is autem Araxes longissime utique ab Issedonibus &amp; oriente distat. Sed non vidit Herodotus, Scythas ab hoc flumine non potuisse se in Cimmeriorum regiones infundere. Quae enim illa fuit discursatio, si Scythae per Medicas provincias patefacto itinere, traiectoque Araxe, in Cimmeriorum terras irrupissent, atque inde persequentes hostium agmen, fallentibus fugientium vestigiis, per errorem viam in Mediam, eadem qua ierant, reversi, ex inopinato incidissent. Hoc ne obiiceretur, timuisse videtur Herodotus. (11) Igitur regionem ab Istro ad Cercinitin vocat veterem Scythiam, tamquam ex ea regione Scytharum maiores per Bosporum Thraiccum in Asiam minorem superioremque &amp; Araxe traiecto per claustra Caucasica in Cimmeriorum terras concesserint. Sive ita scenam, seu quemcunque in modum instruxerit Herodotus, undique haeret &amp; tenetur.</p>
+
+        <p>(7) L. IV. c. 13. (8) L. IV. c. 99. (9) L. I. c. 202. seu potius Ματιανῶν ut Gronovius recte edidit. (10) L. V. c. 48 (11) L. IV. 99.</p>
+
+        <p>Dicam, sicuti sentio, neque tam Herodotum, quam eos, quorum testimonio est usus, producam quasi in forum ad tribunal, exquisitiusque tamquam in judicio testes admotis quaestionibus percunctabor. Dicebant Herodoto, Scythas trans Araxem iuxta Issedonas &amp; Massagetas coluisse: pulsis Scythis Massagetas ulteriora Araxis (1) sub oriente Caspii maris tenuisse e regione Issedonum, qua in latissimam planitiem terra se diffundit. (2) Eum Araxem dicebant cum Istro de magnitudine certare &amp; in ostiis multas amplecti insulas, Lesbo aequales magnitudine. Nihil horum ad Araxem Mediae convenit: non Massageta rum situs, non magnitudo fluminis, non tot et tantae in ostiis insulae. Omnia autem ad Volgam. Ad Orientem Massagetae veteres: longitudo fluminis Istrum tertia parte superat: ostia ad octoginta et amplius, (3) quae insulas ingentes circumdant. Quod ait Herodotus: Ἀράξης λέγεται καὶ μείζων καὶ ἐλάσσων ἄγειν τοῦ Ἴστρου. Araxes et maior et minor esse Istro dicitur, id quoque confirmat, de duobus fluviis eum inaudivisse, quorum alter, hic Volga maior Istro, alter, qui nunc quoque Rus, minor fuit. Et fuisse utique Volgae vetustis temporibus nomen Araxes sive Rus, Ros, &amp; Rbas, satis exploratum habeo. Onomacritus &amp; incertus auctor peripli Ponti Euxini Tanaim dicunt ex Araxe flumine in Maeotin exon erari. Aristoteles quoque in meteorologicis (4) auctores habet, ἐκ Παροπαμισοῦ (ex Paropamiso dicere se putat) maximo omnium ad orientem hibernum monte, Bactrium, Choaspen &amp; Araxem fluere τῆς δὲ ὁ Τάναις ἀποσχίζεται, πρὸς ὧν, εἰς τὴν Μαιῶτιν λίμνην, ab hoc Araxe Tanais divisus (pars enim eius est) in Maeotin paludem exoneratur. Ortus est error e Tanais &amp; Araxis vicinitate. Accedit Agathemerus (5) qui Iaxartem, Oxum, Rhymnum, Rbos (qui est Mediae Araxes) Cyrum (qui est Kur, cum hoc Araxe se miscens) &amp; denique Araxem Caspio mari infundi scribit. Quis non videt, eum ab oriente littora Caspia obire, donec ad septemtrionem definit in Volga? Claudius autem Ptolemaeus Volgam vocat Ῥᾶ Rha, quod nomen adhuc frequenter in ore habent Rutheni, ut ne ab aetate quidem et temporum populorumque miris conversionibus obliterari potuerit. Inter caetera sic loquitur Claudius: ἔστι καὶ ἕτερος Ῥᾶ ποταμὸς ἐκβολὴν ποιησάμενος τῇ τοῦ Τανάϊδος. Vossius ad Melam in eo emendat vocem ἐκβολὴν &amp; rescribit ἐπὶ τοῦ ἐκβολὴν. Sed relinquendus est suus Ptolemaeo error, qui Volgam &amp; Tanaim misceri atque orientalem quidem Volgae alveum in Caspium mare, occidentalem autem in Tanaim exonerari credidit. Duo quoque fluminis illius ostia Pomponius Mela habet (7) sed in Caspio tantum mari: multi, inquit, in Caspio sinu magni paruique amnes fluunt: sed, qui famam habet, ex Cerauiniis montibus uno alveo descendit, duobus exit in Caspium, Rha. Ammianus Marcellinus (8) huic Tanai Rha vicinus est, amnis, in cuius superciliis quaedam vegetabilis eiusdem nominis gignitur radix, propiciens ad usus multiplices medelarum. De Rha barbaro eum loqui intelligo. Videtur autem illud nomen Rhaos et Rhaesque alia similia ex antiqua mortalium communique lingua ad Scythas aliosque populos permanasse, quo fluvium dixere. Apud Arabas est Roba, apud Turcas et Persas est Rud, apud Ruthenos рѣка Reca. Quae fluminis adpellationes, et apud Graecos ῬΕΙΝ et fortasse Rhenus, Rhodanus, Rhaduna apud Gedanum, tum Eridanus seu Rhudon Ptolemaei et Marciani Heracleotae, (nunc Duna apud Rigam) et Russa in Prussia, non nisi reliquiae priscae linguae sunt. Est eodem referendus Ἴρις fluvius apud Lycophronem, (9) cum Cassandra canit Amazonas Ἴριν λιπούσας Τελαμῶνα &amp; Thermodontem reliquisse et invasisse Athenienses. Ubi Joannes Tzetzes Ἴρις Λαγμὸς Τελαμῶνος Θερμώδων, νοτῆμα ἔχων ῥεύσαν. Ex vicinitate Thermodontis Iris ille cognoscitur situs fuisse in Ponto. Xenophonti est Ἴρις (10) &amp; ex eo fortasse, etiam Plinio. In Mesopotamia duo flumina fuere, quae Arabes appellarunt Roba, hoc est nihil aliud quam fluvios. Alter apud Edessam quem Scirtum Macedones coloni dixere, alter eo inferior, qui a Ptolemaeo et nunc ab Arabibus Chaboras dicitur. Ex illo fecere Graeci Καλίρον, ut in historia Edessena ostendi, ex hoc ipse Xenophon (1) fecit Araxem, alium utique ab Araxe Mediae, quem Xenophon non attigit. Mansit etiam postea corruptum Araxis nomen. Nam geographus Arabs, quem Josephus Scaliger inspexit (2) Carcesiam urbem ait allui a flumine <foreign xml:lang="ar">التنون</foreign> Al Harias cognomento Al Chabor. Harias est ab Araxe Graecorum in Mesopotamia, Araxes, ab Roba. Graecarum autem aurium tam admirabile fuit fastidium, ut barbaros vocabulorum sonos non ferrent. Itaque seu nova nomina gentium locorum hominumque e lingua sua effingebant, seu barbara ita ori aurique Graecae aptabant, ut vix tenue remaneret vestigium, unde essent ducta. De ea consuetudine Plato in Cratylo disputat. Is quoque in Timaeo vocabula Atlantici sermonis retinere non audet, nisi Graece enuntiata. Sed vaga fuit enunciandi talia lubido, nullis definita praeceptis, ut in primis e Persicis et Medicis et Armenicis nominibus intelligi potest.</p>
+
+        <p>(1) L. I. 201. (2) L. I. 202. (3) Nicol. Witsenii Noord en Oost Tartarye f. 700. (4) L. I. c. 13. (5) p. 235 ed. Gron. (7) III. c. 9. (8) L. XXII. c. 16. (9) v. 1333. (10) ἐν Ἀναβάσει L. V. c. 6. (1) ib. L. I. c. 4. (2) De emendat. temp. f. 399.</p>
+
+        <p>Est igitur Volga, ille Araxes, cuius ad orientem prisci Scythae vicini Massagetis et Issedonibus degerunt. Massagetas enim non modo Herodotus, sed etiam omnis veterum turba ad borapelioten Caspii maris collocat. Laonicus Chalcocondylas ad septemtrionem Caspii maris ponit, (3) et praeterea adjicit, eos ante id tempus ad alteram Araxis ripam egisse, nunc autem traiecto flumine citeriorem partem tenere. Quis non videt Araxem illum esse Volgam? ni cui visum sit quoque, meridie non lucere. Hic fluvius cum latissime pateret et a multis gentibus accoleretur, mirum non est, si quosdam suo insigniuit nomine. Ut nunc Bulgari a Volga profecti, nomen a fluvio tractum conservant, ita Russos opinor ab eodem dictos et Roxalanos, quasi Alanos ad Russium fluvium. Ptolemaei Ῥωξολανοί, quasi ad Russium populi.</p>
+
+        <p>Hunc quoque illum esse Araxem judico, ad quem contra Massagetas male res gessit Cyrus. Herodotus, cum audivisset, Cyrum transmisso Araxe petiisse Massagetas et petiisse a Babylone, illum ipsum in Media Araxem dici putavit in Clio. Qui eum non satis intellexere, Araxem alium sibi quaesivere sub oriente, ut traiecto eo, petere Massagetas posset Cyrus. Isaacus Vossius Oxum sibi elegit, quem Christophorus Cellarius secutus est. Nihil tamen habent, quod pro ea sententia pugnet, et longius ab Oxo siti fuere Massagetae, quocirca veteres quidam, teste Plinio, (3) ultra Iaxartem posuere aras Cyri, veluti ille esset Araxes. Iaxartem autem Scythae, ut ait Plinius, (4) seu quicumque alii fluminis accolae, Silim vocarunt, aut forsitan Sibyn quod nomen adhuc permanet. Neque tamen etiam pro Iaxarte aliqua idonea verosimilitudo pugnat. Profectus autem est Cyrus in hanc expeditionem, ut nobis videtur, non contra solos Massagetas, sed in primis contra Scythas. Haesit enim semper Regum Persarum animis, quam impotenter Scythae devictis Medis in Asia superiori egissent. Atque illud tot bellorum initium est ab Herodoto indicatum, qui summa cura hoc egit, ut ostenderet, per quas caussas bella ex bellis seminata fuerint. Babylonem Cyrus cepit secundum Usserii rationes anno periodi Julianae 4176. Anno uno post et paullo amplius, si Xenophonti credimus, gentes a Syria usque ad mare Erythraeum sibi subjecit. Inde adhuc sint anni minimum septem usque ad extrema Cyri. Hoc omni tempore tum in Asia minori, tum ad Caucasum &amp; in Scythia res potuit gerere, donec apertis per arma regionibus, traiecto navibus et per pontem a se factum, Volga, Massagetas est adortus.</p>
+
+        <p>(3) f. 62. et 67. ed. Paris. (4) L. VI. c. 16.</p>
+
+        <p>Quo autem tempore Scythae Araxem traiecerint et Tanaim, ostendam postea. Nam id potius &amp; prius quaerendum est, quibus regionum spatiis Herodoti aetate coluerint.</p>
+      </div>
+    </body>
+  </text>
+</TEI>
