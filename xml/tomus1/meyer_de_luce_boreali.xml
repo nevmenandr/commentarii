@@ -72,6 +72,9 @@
       </textClass>
     </profileDesc>
   </teiHeader>
+  <facsimile>
+    <graphic url="../../pdf/tomus1/meyer_de_luce_boreali.pdf"/>
+  </facsimile>
   <text>
     <body>
       <div type="article">

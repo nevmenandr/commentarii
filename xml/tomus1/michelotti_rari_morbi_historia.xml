@@ -72,6 +72,9 @@
       </textClass>
     </profileDesc>
   </teiHeader>
+  <facsimile>
+    <graphic url="../../pdf/tomus1/michelotti_rari_morbi_historia.pdf"/>
+  </facsimile>
   <text>
     <body>
       <div type="article">

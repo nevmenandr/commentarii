@@ -76,6 +76,9 @@
       </textClass>
     </profileDesc>
   </teiHeader>
+  <facsimile>
+    <graphic url="../../pdf/tomus1/bulfinger_de_viribus_corpori_moto_sectio_secunda.pdf"/>
+  </facsimile>
   <text>
     <body>
       <div type="article">

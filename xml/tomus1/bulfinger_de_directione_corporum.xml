@@ -73,6 +73,9 @@
       </textClass>
     </profileDesc>
   </teiHeader>
+  <facsimile>
+    <graphic url="../../pdf/tomus1/bulfinger_de_directione_corporum.pdf"/>
+  </facsimile>
   <text>
     <body>
       <div type="article">

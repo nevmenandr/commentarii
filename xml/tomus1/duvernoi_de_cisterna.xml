@@ -74,6 +74,9 @@
       </textClass>
     </profileDesc>
   </teiHeader>
+  <facsimile>
+    <graphic url="../../pdf/tomus1/duvernoi_de_cisterna.pdf"/>
+  </facsimile>
   <text>
     <body>
       <div type="article">

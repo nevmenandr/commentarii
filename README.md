@@ -46,48 +46,48 @@
 
 **Начальные материалы:**
 
-- Титульный лист
-- Посвящение Петру II (Христиан Гольдбах)
-- Предисловие (Христиан Гольдбах)
-- Оглавление тома (*Index Commentariorum*)
+- [Титульный лист](https://nevmenandr.github.io/commentarii/articles/tomus1_titulus.html)
+- [Посвящение Петру II](https://nevmenandr.github.io/commentarii/articles/tomus1_dedicatio.html) (Христиан Гольдбах)
+- [Предисловие](https://nevmenandr.github.io/commentarii/articles/tomus1_praefatio.html) (Христиан Гольдбах)
+- [Оглавление тома](https://nevmenandr.github.io/commentarii/articles/tomus1_index.html) (*Index Commentariorum*)
 
 **Classis Prima continens Mathematica:**
 
-1. Якоб Герман. О мере сил тел (*De Mensura virium Corporum*) — с. 1–42
-2. Георг Бернхард Бюльфингер. О силах, присущих движущемуся телу, и их мере (*De Viribus corpori moto insitis et illarum Mensura*) — с. 43–120
-3. Николай Бернулли. О движении тел от удара (*De Motu corporum ex percussione*) — с. 121–126
-4. Даниил Бернулли. Исследование начал механики (*Examen Principiorum Mechanicae*) — с. 126–140
-5. Якоб Герман. О задаче Кеплера (*De Problemate Kepleriano*) — с. 142–149
-6. Якоб Герман. Об интегральном исчислении (*De Calculo Integrali*) — с. 149–166
-7. Иоганн Бернулли. Об интегрировании дифференциальных уравнений (*De Integrationibus Aequationum Differentialium*) — с. 167–184
-8. Христиан Гольдбах. О некоторых случаях интегрируемости (*De Casibus quibusdam integrabilibus*) — с. 185–197
-9. Николай Бернулли. Анализ некоторых дифференциальных уравнений (*Analysis Aequationum quarundam Differentialium*) — с. 198–207
-10. Христиан Гольдбах. Метод интегрирования дифференциального уравнения (*Methodus integrandi Aequationem differentialem*) — с. 207–209
-11. Якоб Герман. О сферических эпициклоидах (*De Epicycloidibus Sphaericis*) — с. 210–217
-12. Христиан Вольф. Начала динамики (*Principia Dynamica*) — с. 217–232
+1. Якоб Герман. [О мере сил тел](https://nevmenandr.github.io/commentarii/articles/hermann_de_mensura_virium.html) (*De Mensura virium Corporum*) — с. 1–42
+2. Георг Бернхард Бюльфингер. [О силах, присущих движущемуся телу, и их мере](https://nevmenandr.github.io/commentarii/articles/bulfinger_de_viribus_corpori_moto.html) (*De Viribus corpori moto insitis et illarum Mensura*) — с. 43–120
+3. Николай Бернулли. [О движении тел от удара](https://nevmenandr.github.io/commentarii/articles/bernoulli_de_motu_corporum_ex_percussione.html) (*De Motu corporum ex percussione*) — с. 121–126
+4. Даниил Бернулли. [Исследование начал механики](https://nevmenandr.github.io/commentarii/articles/bernoulli_examen_principiorum.html) (*Examen Principiorum Mechanicae*) — с. 126–140
+5. Якоб Герман. [О задаче Кеплера](https://nevmenandr.github.io/commentarii/articles/hermann_de_problemate_kepleriano.html) (*De Problemate Kepleriano*) — с. 142–149
+6. Якоб Герман. [Об интегральном исчислении](https://nevmenandr.github.io/commentarii/articles/hermann_de_calculo_integrali.html) (*De Calculo Integrali*) — с. 149–166
+7. Иоганн Бернулли. [Об интегрировании дифференциальных уравнений](https://nevmenandr.github.io/commentarii/articles/bernoulli_de_integrationibus.html) (*De Integrationibus Aequationum Differentialium*) — с. 167–184
+8. Христиан Гольдбах. [О некоторых случаях интегрируемости](https://nevmenandr.github.io/commentarii/articles/goldbach_de_casibus_integrabilibus.html) (*De Casibus quibusdam integrabilibus*) — с. 185–197
+9. Николай Бернулли. [Анализ некоторых дифференциальных уравнений](https://nevmenandr.github.io/commentarii/articles/bernoulli_analysis_aequationum.html) (*Analysis Aequationum quarundam Differentialium*) — с. 198–207
+10. Христиан Гольдбах. [Метод интегрирования дифференциального уравнения](https://nevmenandr.github.io/commentarii/articles/goldbach_methodus_integrandi.html) (*Methodus integrandi Aequationem differentialem*) — с. 207–209
+11. Якоб Герман. [О сферических эпициклоидах](https://nevmenandr.github.io/commentarii/articles/hermann_de_epicycloidibus.html) (*De Epicycloidibus Sphaericis*) — с. 210–217
+12. Христиан Вольф. [Начала динамики](https://nevmenandr.github.io/commentarii/articles/wolff_principia_dynamica.html) (*Principia Dynamica*) — с. 217–232
 
 **Classis Secunda continens Physica:**
 
-13. Иоганн Христиан Буксбаум. Новые роды растений (*Nova Plantarum genera*) — с. 241–245
-14. Георг Бернхард Бюльфингер. О направлении тяжёлых тел в сферическом вихре (*De directione Corporum gravium in vortice Sphaerico*) — с. 245–261
-15. Иоганн Георг Дю Вернуа. Описание млечных сосудов (*Descriptio Vasorum Chyliferorum*) — с. 262–296
-16. Даниил Бернулли. Опыт новой теории движения мышц (*Tentamen novae de motu Musculorum Theoriae*) — с. 297–312
-17. Даниил Бернулли. Эксперимент относительно зрительного нерва (*Experimentum circa nervum opticum*) — с. 314–317
-18. Георг Бернхард Бюльфингер. О различных более чувствительных барометрах (*De variis Barometris sensibilibus*) — с. 317–341
-19. Иоганн Георг Дю Вернуа. О грудном протоке кашалота, тюленя и слона (*De Cisterna et ductu Thoracico Catopardi, Phocae et Elephanti*) — с. 342–350
-20. Фридрих Христофор Мейер. О северном сиянии (*De Luce Boreali*) — с. 351–367
-21. Пётр Антоний Микелотти. История редкой и почти неслыханной болезни матки (*Rari ac prope inauditi ex utero morbi historia*) — с. 368–378
-22. Анатомические наблюдения (*Observationes Anatomicae*) — с. 379–386
+13. Иоганн Христиан Буксбаум. [Новые роды растений](https://nevmenandr.github.io/commentarii/articles/buxbaum_nova_plantarum_genera.html) (*Nova Plantarum genera*) — с. 241–245
+14. Георг Бернхард Бюльфингер. [О направлении тяжёлых тел в сферическом вихре](https://nevmenandr.github.io/commentarii/articles/bulfinger_de_directione_corporum.html) (*De directione Corporum gravium in vortice Sphaerico*) — с. 245–261
+15. Иоганн Георг Дю Вернуа. [Описание млечных сосудов](https://nevmenandr.github.io/commentarii/articles/duvernoi_descriptio_vasorum.html) (*Descriptio Vasorum Chyliferorum*) — с. 262–296
+16. Даниил Бернулли. [Опыт новой теории движения мышц](https://nevmenandr.github.io/commentarii/articles/bernoulli_tentamen_novae.html) (*Tentamen novae de motu Musculorum Theoriae*) — с. 297–312
+17. Даниил Бернулли. [Эксперимент относительно зрительного нерва](https://nevmenandr.github.io/commentarii/articles/bernoulli_experimentum_circa_neruum.html) (*Experimentum circa nervum opticum*) — с. 314–317
+18. Георг Бернхард Бюльфингер. [О различных более чувствительных барометрах](https://nevmenandr.github.io/commentarii/articles/bulfinger_de_variis_barometris.html) (*De variis Barometris sensibilibus*) — с. 317–341
+19. Иоганн Георг Дю Вернуа. [О грудном протоке кашалота, тюленя и слона](https://nevmenandr.github.io/commentarii/articles/duvernoi_de_cisterna.html) (*De Cisterna et ductu Thoracico Catopardi, Phocae et Elephanti*) — с. 342–350
+20. Фридрих Христофор Мейер. [О северном сиянии](https://nevmenandr.github.io/commentarii/articles/meyer_de_luce_boreali.html) (*De Luce Boreali*) — с. 351–367
+21. Пётр Антоний Микелотти. [История редкой и почти неслыханной болезни матки](https://nevmenandr.github.io/commentarii/articles/michelotti_rari_morbi_historia.html) (*Rari ac prope inauditi ex utero morbi historia*) — с. 368–378
+22. [Анатомические наблюдения](https://nevmenandr.github.io/commentarii/articles/observationes_anatomicae.html) (*Observationes Anatomicae*) — с. 379–386
 
 **Classis Tertia continens Historica et Critica:**
 
-23. Теофил Сигфрид Байер. О происхождении и древних местах обитания скифов (*De origine et priscis sedibus Scytharum*) — с. 387–399
-24. Теофил Сигфрид Байер. О положении Скифии во времена Геродота (*De situ Scythiae sub aetatem Herodoti*) — с. 400–424
-25. Теофил Сигфрид Байер. О Кавказской стене (*De Muro Caucaseo*) — с. 425–464
+23. Теофил Сигфрид Байер. [О происхождении и древних местах обитания скифов](https://nevmenandr.github.io/commentarii/articles/bayer_de_origine_scytharum.html) (*De origine et priscis sedibus Scytharum*) — с. 387–399
+24. Теофил Сигфрид Байер. [О положении Скифии во времена Геродота](https://nevmenandr.github.io/commentarii/articles/bayer_de_situ_scythiae.html) (*De situ Scythiae sub aetatem Herodoti*) — с. 400–424
+25. Теофил Сигфрид Байер. [О Кавказской стене](https://nevmenandr.github.io/commentarii/articles/bayer_de_muro_caucaseo.html) (*De Muro Caucaseo*) — с. 425–464
 
 **Observationes Astronomicae Petropoli factae:**
 
-26. Иосиф Николай Делиль и Людовик Делиль де ла Круайер. Астрономические наблюдения (*Observationes Astronomicae*) — с. 465–488
+26. Иосиф Николай Делиль и Людовик Делиль де ла Круайер. [Астрономические наблюдения](https://nevmenandr.github.io/commentarii/articles/lisle_observationes_astronomicae.html) (*Observationes Astronomicae*) — с. 465–488
 
 ---
 
@@ -117,6 +117,11 @@ commentarii/
 │
 ├── images/                           # Изображения
 │   └── tomus1/                       # Иллюстрации и рисунки Тома I
+│
+├── pdf/                              # Факсимиле издания
+│   └── tomus1/
+│       ├── tomus1_titulus.pdf        # Титульный лист
+│       └── ...                       # Статьи Тома I
 │
 ├── src/                              # Служебные скрипты
 │   ├── generate_article_pages.py     # Генератор HTML-обёрток для статей

@@ -61,6 +61,9 @@
       </langUsage>
     </profileDesc>
   </teiHeader>
+  <facsimile>
+    <graphic url="../../pdf/tomus1/tomus1_dedicatio.pdf"/>
+  </facsimile>
   <text>
     <body>
       <div type="dedication">

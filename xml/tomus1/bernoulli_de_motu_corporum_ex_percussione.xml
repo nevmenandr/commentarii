@@ -74,6 +74,9 @@
       </textClass>
     </profileDesc>
   </teiHeader>
+  <facsimile>
+    <graphic url="../../pdf/tomus1/bernoulli_de_motu_corporum_ex_percussione.pdf"/>
+  </facsimile>
   <text>
     <body>
       <div type="article">

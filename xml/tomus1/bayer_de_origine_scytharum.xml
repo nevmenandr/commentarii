@@ -76,6 +76,9 @@
       </textClass>
     </profileDesc>
   </teiHeader>
+  <facsimile>
+    <graphic url="../../pdf/tomus1/bayer_de_origine_scytharum.pdf"/>
+  </facsimile>
   <text>
     <body>
       <div type="article">

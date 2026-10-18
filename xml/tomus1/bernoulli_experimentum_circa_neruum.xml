@@ -72,6 +72,9 @@
       </textClass>
     </profileDesc>
   </teiHeader>
+  <facsimile>
+    <graphic url="../../pdf/tomus1/bernoulli_experimentum_circa_neruum.pdf"/>
+  </facsimile>
   <text>
     <body>
       <div type="article">
