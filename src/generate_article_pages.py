@@ -51,12 +51,12 @@ from string import Template
 # ---------------------------------------------------------------------------
 
 REPO_ROOT = Path(__file__).resolve().parent.parent   # .../commentarii
-OUTPUT_DIR = REPO_ROOT / "docs" / "articles"          # docs/articles/
+OUTPUT_DIR = REPO_ROOT / "docs" / "articles" / "tomus1"          # docs/articles/
 
 # Пути внутри HTML-файлов (относительно docs/articles/*.html)
-XML_RELATIVE_PATH = "../xml/tomus1"   # → commentarii/xml/tomus1/
-CSS_RELATIVE_PATH = "../style.css"       # → docs/style.css
-JS_RELATIVE_PATH = "../CETEI.js"         # → docs/CETEI.js
+XML_RELATIVE_PATH = "../../xml/tomus1"   # → commentarii/xml/tomus1/
+CSS_RELATIVE_PATH = "../../style.css"      # → docs/style.css
+JS_RELATIVE_PATH = "../../CETEI.js"         # → docs/CETEI.js
 
 
 # ---------------------------------------------------------------------------
@@ -341,8 +341,8 @@ HTML_TEMPLATE = Template("""\
 
 <header>
   <p class="breadcrumb">
-    <a href="../index.html">Главная</a> ·
-    <a href="../catalogue.html">Оглавление Тома I</a>
+    <a href="../../index.html">Главная</a> ·
+    <a href="../../catalogue.html">Оглавление Тома I</a>
   </p>
   <h1>$title_la</h1>
   <p class="subtitle">$title_ru</p>
