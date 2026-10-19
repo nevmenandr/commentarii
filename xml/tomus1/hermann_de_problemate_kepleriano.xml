@@ -83,6 +83,8 @@
 
         <p>Johannes Keplerus primus quod sciam docuit planetarum semitam ellipticam esse, &amp; hos planetas ipsos in sua quemque orbita ita circumferri, ut areas verrant tempori motionis proportionales. Pulchra haec reperta ex Tychonicis observationibus eruta calculum</p>
 
+        <graphic url="../../images/tomus1/tmparpcp-14.png"/>
+
         <p>Primus, quantum mihi constat, qui magni Apollonii laudem mereri conatus est, fuit Christophorus Wrenus, qui reapse viam directam inivit &amp; problema ope Cycloidis protractae construxit; Wallisus enim constructionem ejus ad calcem tractatus de Cycloide prodidit, an vero eam potissimum viam, qualem Keplerus sibi monstrari optavit, presserit, de eo valde dubito. Ipse enim Cel. Newtonus qui eandem fere constructionem Prob. 31. Lib. 1. Princip. Ph. Nat. repetiit, fassus est, propter difficilem curvae huius descriptionem, praestare solutionem adhibere vero proximam, qualem per seriem quandam angulorum convergentem exhibuit, nescio tamen, an satis expeditam. Illustrem Geometram, ut in aliis, ita &amp; hic imitati sunt David Gregorius &amp; Joh. Keill uterque enim problema Keplerianum per seriem infinitam solutum dedit, hic in Lectionibus Astronomicis, ille vero</p>
 
         <p>Supervacaneum forte videbitur, quod posteaquam hoc problema tot insignibus autoribus solutum est, id denuo in scenam producere audeam. Audebo tamen, nec hoc faciens actum agere existimo, cum diversi unum idemque problema solvendi modi utilitate sua non destituantur. Geminum habeo, alterum mere geometricum, alterum vero arithmeticum calculoque astronomico magis accommodum. Problema quod prae manibus habemus est ejusmodi.</p>
@@ -118,6 +120,9 @@
         <p>Exempl. Sit cum Keillio CE=0.01691, existente AC=1, quaeritur anomalia coaequata AEB, si anomalia media AM=30°. Quare angulus ACM=30°, &amp; in Δ MCE invenietur angulus MEA=NCA=29°31'.38"=arcui AN; quare NM=28'.22". In triangulo vero NCE, invenitur angulus NEA=29°.3'.7", &amp; haec est anomalia coaequata; nam angulus NEB non aequabit 4 minuta quinta, adeoque attendi non meretur.</p>
 
         <p>Tandem dicatur, ut sinus totus ad sinum anguli PCE (erecta nempe in E normali ad AD) ita tangens anguli inventi AEN vel AEB ad anomaliam coaequatam in Ellipsi. Cl. Keil per suam seriem invenit angulum AEN, qualem hoc loco absque ullo usu seriei per solam resolutionem binorum triangulorum MCE &amp; NCE, assecuti sumus, usus enim praecedentis seriei mihi tantum monstravit, quantus debeat esse angulus NEB addendus iam invento NEA? cum vero is subducto calculo ne quidem ad 4 minuta quinta accedere inveniatur, merito contemnitur.</p>
+
+        <graphic url="../../images/tomus1/tmparpcp-16.png"/>
+
       </div>
     </body>
   </text>

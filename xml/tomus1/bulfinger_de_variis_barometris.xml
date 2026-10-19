@@ -193,18 +193,14 @@
 
         <figure xml:id="fig1" corresp="#p323">
           <head>Fig. 1</head>
-          <graphic url="images/tomus1/bulfinger_de_variis_barometris_fig1.png"/>
+          <graphic url="../../images/tomus1/bulfinger_de_variis_barometris_fig1.png"/>
         </figure>
 
         <figure xml:id="fig3" corresp="#p325">
           <head>Fig. 3</head>
-          <graphic url="images/tomus1/bulfinger_de_variis_barometris_fig3.png"/>
+          <graphic url="../../images/tomus1/bulfinger_de_variis_barometris_fig3.png"/>
         </figure>
 
-        <figure xml:id="fig7" corresp="#p333">
-          <head>Fig. 7</head>
-          <graphic url="images/tomus1/bulfinger_de_variis_barometris_fig7.png"/>
-        </figure>
       </div>
     </body>
   </text>
