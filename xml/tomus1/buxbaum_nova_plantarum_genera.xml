@@ -81,7 +81,7 @@
     <body>
       <div type="article">
 
-        <graphic url="../../images/tomus1/tmparpcp-18.png"/>
+        <graphic url="../../images/tomus1/tmparpcp-18.jpg"/>
 
         <head>NOVA PLANTARUM GENERA, Auctore I. C. Buxbaum.</head>
 
@@ -91,7 +91,7 @@
 
         <figure xml:id="fig1" corresp="#p241">
           <head>Fig. 1</head>
-          <graphic url="../../images/tomus1/buxbaum_nova_plantarum_genera_fig1.png"/>
+          <graphic url="../../images/tomus1/buxbaum_nova_plantarum_genera_fig1.jpg"/>
         </figure>
 
         <head>II. Potamopitys.</head>
@@ -100,7 +100,7 @@
 
         <figure xml:id="fig2" corresp="#p243">
           <head>Fig. 2</head>
-          <graphic url="../../images/tomus1/buxbaum_nova_plantarum_genera_fig2.png"/>
+          <graphic url="../../images/tomus1/buxbaum_nova_plantarum_genera_fig2.jpg"/>
         </figure>
 
         <head>III. Ceratocarpus.</head>
@@ -109,7 +109,7 @@
 
         <figure xml:id="fig3" corresp="#p244">
           <head>Fig. 3</head>
-          <graphic url="../../images/tomus1/buxbaum_nova_plantarum_genera_fig3.png"/>
+          <graphic url="../../images/tomus1/buxbaum_nova_plantarum_genera_fig3.jpg"/>
         </figure>
       </div>
     </body>

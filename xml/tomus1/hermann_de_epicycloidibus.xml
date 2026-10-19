@@ -99,19 +99,11 @@
 
         <p>Si conus rectus ABC, cuius basis est circulus HI revolvatur circa verticem suum C, ut circumferentia basis BIAH moveatur in circumferentia BDM alterius circuli BM centro C &amp; radio CB descripti, erit circulus HI generator, &amp; circulus DM is, qui immobilis vocatur, &amp; punctum L in perimetro circuli generatoris revolutione huius circuli super peripheria LDE, describet in superficie sphaerica curvam LFE, quam Epicycloidem Sphaericam appello.</p>
 
-        <figure xml:id="fig1" corresp="#p210">
-          <head>Fig. 1</head>
-          <graphic url="images/tomus1/hermann_de_epicycloidibus_fig1.png"/>
-        </figure>
 
         <p>Radius Sphaerae in cuius superficie Epicyclois Sphaerica describitur, est ubique aequalis lateri coni CB.</p>
 
         <p>Non autem necesse est ut circulus immobilis sit circulus in sphaera maximus ut fig. 1. Potest etiam esse circulus minor, ut fig. 2. circulus ex diametro BS, nam si in circumferentia huius circuli, circulus ex diametro AB qui est basis coni recti BAC dicto modo volvatur, ut singulae partes huius singulis partibus peripheriae circuli immobilis successive applicentur, punctum describens etiamnunc incedet in Epicycloide in superficie Sphaerae BAS descripta, sive circulus generator, extet supra planum circuli immobilis BS, sive subter idem planum depressus sit.</p>
 
-        <figure xml:id="fig2" corresp="#p210">
-          <head>Fig. 2</head>
-          <graphic url="images/tomus1/hermann_de_epicycloidibus_fig2.png"/>
-        </figure>
 
         <p>In omni casu planum circuli generatoris ad planum circuli immobilis dato angulo inclinatum est, in fig. 1. angulo ABC, in secunda vero angulo ABR, si circulus AB sit super plano BS, vel supplemento anguli ABR si sit subter plano BR.</p>
 
@@ -125,10 +117,6 @@
         <head>Lemma 2.</head>
         <p>Si arcus BOL semicirculi BLA, in sua elementa Lm distributus intelligatur, erit summa omnium BL.Lm, quam summam iam usitato more, per ∫BL.Lm designabo, erit inquam ∫BL.Lm=AB.BP, facta nempe AP=AL.</p>
 
-        <figure xml:id="fig4" corresp="#p210">
-          <head>Fig. 4</head>
-          <graphic url="images/tomus1/hermann_de_epicycloidibus_fig4.png"/>
-        </figure>
 
         <p>Nam triangula similia ABL &amp; mLn praebent AB:BL :: Lm:Ln; ergo BL.Lm=AB.Ln, ergo ∫BL.Lm=∫AB.Ln; atqui ∫AB.Ln=AB in omnes Ln, omnes vero Ln sunt =AB-AL (constr. =AB-AP)=BP, ergo ∫BL.Lm=AB.BP, Quod erat &amp;c.</p>
 
@@ -152,10 +140,10 @@
 
         <figure xml:id="fig6" corresp="#p210">
           <head>Fig. 6</head>
-          <graphic url="../../images/tomus1/hermann_de_epicycloidibus_fig6.png"/>
+          <graphic url="../../images/tomus1/hermann_de_epicycloidibus_fig6.jpg"/>
         </figure>
 
-        <graphic url="../../images/tomus1/tmparpcp-17.png"/>
+        <graphic url="../../images/tomus1/tmparpcp-17.jpg"/>
 
         <p>Sit ALB circulus generator seorsim descriptus, ad terminum A diametri AB erecta normaliter indefinita AQ, capiantur in eadem partes AO, AQ, quae sint ad diametrum AB ut sinus rectus &amp; sinus complementi ad radium, &amp; ducantur OB, QB. Postea accepto quolibet arcu BL ductoque eius sinu LZ protendatur hic sinus usque ad occursum X cum recta BQ. Quibus factis in plano sphaerae ichnographico ad radium CE fiat angulus ECB qui sit ad angulum BGL ut radius GB ad CE, capiatur in radio BC portio Bt=XZ, &amp; perpendicularis tu=LZ ad radium BC, dico punctum u, esse punctum optatum ichnographiae epicycloidis: id est erecta in u ad planum CBE perpendicularis per punctum epicycloidis transibit; distantia vero huius puncti a puncto u, aequat ubique respectivam TZ. Hoc pacto tot puncta ichnographiae Epicycloidis invenientur, quot quis voluerit: &amp; Offenburgi problema in tota sua latitudine solvitur, describendo supra &amp; infra circulum immobilem RS (fig. 2.) epicycloides, nam binae oppositae formabunt fenestram ovalem; &amp; constructio geometrica fiet, si in fig. 6. BG ad BC fuerit ut numerus ad numerum. Q. E. F.</p>
 
