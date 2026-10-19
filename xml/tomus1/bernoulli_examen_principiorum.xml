@@ -76,6 +76,9 @@
       </textClass>
     </profileDesc>
   </teiHeader>
+  <facsimile>
+    <graphic url="../../pdf/tomus1/bernoulli_examen_principiorum.pdf"/>
+  </facsimile>
   <text>
     <body>
       <div type="article">

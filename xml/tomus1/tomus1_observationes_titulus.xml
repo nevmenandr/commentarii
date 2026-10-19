@@ -58,6 +58,9 @@
       </langUsage>
     </profileDesc>
   </teiHeader>
+  <facsimile>
+    <graphic url="../../pdf/tomus1/tomus1_observationes_titulus.pdf"/>
+  </facsimile>
   <text>
     <body>
       <div type="sectionTitlePage">

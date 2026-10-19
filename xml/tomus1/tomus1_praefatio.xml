@@ -70,6 +70,9 @@
       </textClass>
     </profileDesc>
   </teiHeader>
+  <facsimile>
+    <graphic url="../../pdf/tomus1/tomus1_praefatio.pdf"/>
+  </facsimile>
   <text>
     <body>
       <div type="preface">
